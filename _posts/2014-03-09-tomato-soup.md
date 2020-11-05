@@ -1,0 +1,29 @@
+---
+layout: post
+title: Tomato Soup
+date: 2014-03-09 11:26:56 -0500
+category: main
+tags: italian soup tomato
+---
+<strong>664 Cal (4x 166)</strong>
+  
+2 Tbsp. olive oil  
+1 red onion  
+2 carrots  
+2 cloves garlic  
+2½ lbs. tomatoes  
+1 tsp. sugar  
+1 Tbsp. tomato paste  
+3 Tbsp. basil leaves  
+2 cups chicken stock  
+2 tsp. salt  
+1¼ tsp. pepper  
+½ cup cream  
+<ul>
+	<li>Saute onion and carrots 10 minutes.</li>
+	<li>Add garlic and saute 1 minute.</li>
+	<li>Add tomatoes, sugar, tomato paste, basil, stock, salt and pepper.</li>
+	<li>Bring to a boil, then simmer uncovered 30-40 minutes until tomatoes are very tender.</li>
+	<li>Purée in food processor (or using immersion blender), and add cream.</li>
+</ul>
+http://www.foodnetwork.com/recipes/ina-garten/cream-of-fresh-tomato-soup-recipe.html  

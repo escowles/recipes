@@ -1,0 +1,26 @@
+---
+layout: post
+title: Peanut Butter Curry
+date: 2017-05-18 21:18:18 -0500
+category: main
+tags: chicken curry peanutbutter thai
+---
+2 Tbsp. oil  
+1½ lbs. chicken breast, cubed  
+2 Tbsp. yellow curry paste  
+½ onion, diced  
+1 bell pepper or 2 poblano peppers, diced  
+1 can coconut milk (13.5oz.)  
+6 Tbsp. peanut butter  
+2 Tbsp. soy sauce  
+1 Tbsp. brown sugar  
+½ cup chicken stock  
+1 tsp. salt, to taste  
+<ol>
+ 	<li>Heat oil in wok and stir fry chicken until browned</li>
+ 	<li>Add curry paste and cook for 5 minutes</li>
+ 	<li>Add vegetables and sauté until tender</li>
+ 	<li>Add peanut butter and mix thoroughly until peanut butter is melted into the meat and vegetables.</li>
+ 	<li>Add remaining ingredients and simmer for 15-20 minutes, until chicken is tender and the sauce is thickened.</li>
+</ol>
+Source: <a href="http://foodformyfamily.com/recipes/easy-thai-peanut-chicken-curry">http://foodformyfamily.com/recipes/easy-thai-peanut-chicken-curry</a>

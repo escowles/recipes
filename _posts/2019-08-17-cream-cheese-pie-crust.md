@@ -1,0 +1,20 @@
+---
+layout: post
+title: Cream Cheese Pie Crust
+date: 2019-08-17 23:02:21 -0500
+category: other
+tags: pastry pie
+---
+2½ plus 2 Tbsp. flour  
+¼ tsp. kosher salt  
+8 Tbsp. unsalted butter, cubed and frozen for 20 minutes  
+8 Tbsp. cream cheese, cubed and chilled for 20 minutes  
+½ cup cold water  
+<ul>
+ 	<li>Pulse flour, salt, butter, and cream cheese in food processor until fats are small pieces coated in flour (15x)</li>
+ 	<li>Add water all at once and process until it forms a ball</li>
+ 	<li>Shape into 6x4" slab, wrap with cling wrap, and chill at least 4 hours</li>
+ 	<li>Divide and roll out larger piece and press into a ¼ sheet pan</li>
+ 	<li>Roll out smaller piece and chill separately</li>
+</ul>
+Source: Pie Squared, p 287 (Beefy Empanada Slab Pie)  

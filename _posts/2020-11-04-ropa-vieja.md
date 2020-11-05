@@ -2,8 +2,8 @@
 layout: post
 title:  ropa vieja
 date:   2020-11-04 20:46:32 -0500
-categories: mains
-tags: cuban beef
+categories: main
+tags: cuban beef meat
 ---
 
 2 Tbsp. canola oil  
