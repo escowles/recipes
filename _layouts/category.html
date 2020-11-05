@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1>{{ page.category }}</h1>
+
+{% for category in site.categories %}
+  {% assign cat_name = category | first %}
+  {% if cat_name == page.category %}
+    <ul>
+    {% assign sorted_posts = category.last | sort_natural: "title" %}
+    {% for post in sorted_posts %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
+
