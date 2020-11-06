@@ -7,17 +7,15 @@ tags: vegetarian
 ---
 <b>2400 Cal (6x 400)</b>
 <p>Ingredients:</p><ul>
-<li>8 oz.	macaroni</li>
-<li>2 Tbsp.	butter</li>
-<li>2 Tbsp.	flour</li>
-<li>1 1/2 cups	milk</li>
-<li>12 oz.	grated cheese</li>
-<li>	e.g.:	8 oz. Cheddar and 4 oz. Asiago</li>
-<li>		4 oz. Cheddar, 4 oz. Romano and 4 oz. Mascarpone)</li>
-<li>1/4 tsp.	salt</li>
-<li>1/4 tsp.	black pepper</li>
-<li>1/8 tsp.	nutmeg</li>
-<li>1/8 tsp.	cayenne pepper</li>
+<li>8 oz. macaroni</li>
+<li>2 Tbsp. butter</li>
+<li>2 Tbsp. flour</li>
+<li>1 1/2 cups milk</li>
+<li>12 oz. grated cheese (e.g.: 8 oz. Cheddar and 4 oz. Asiago, or 4 oz. Cheddar, 4 oz. Romano and 4 oz. Mascarpone)</li>
+<li>1/4 tsp. salt</li>
+<li>1/4 tsp. black pepper</li>
+<li>1/8 tsp. nutmeg</li>
+<li>1/8 tsp. cayenne pepper</li>
 </ul>
 <p>Directions:</p>
 <ol>
