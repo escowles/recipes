@@ -11,7 +11,7 @@ pulled pork:
 juice from 1 lime and 1 lemon  
 1 tsp. oregano  
 2 anaheim peppers, sliced  
-1 cup <a href="http://tfsh.us/memory/1969/12/31/salsa-verde/">salsa verde</a>
+1 cup <a href="https://escowles.github.io/recipes/ingredients/1970/01/01/salsa-verde.html">salsa verde</a>
 <ul>
  	<li>Combine all ingredients in crockpot, and cook on low for 8 hours</li>
 </ul>
@@ -19,7 +19,7 @@ skillet tamales:
   
 pulled pork  
 1 cup salsa verde  
-<a href="http://tfsh.us/memory/2020/04/19/sweet-masa-cornbread/">cornbread batter</a> (reduce sugar by half)  
+<a href="https://escowles.github.io/recipes/sides/2020/04/19/sweet-masa-cornbread.html">cornbread batter</a> (reduce sugar by half)  
 <ul>
  	<li>Shred pork and remove pepper skins and any other detritus</li>
  	<li>Add to skillet with salsa verde, and simmer until thickened but not dry</li>

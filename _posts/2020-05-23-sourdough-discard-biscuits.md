@@ -8,7 +8,7 @@ tags: bread vegetarian
 1 cup flour  
 3/4 tsp. salt  
 8 Tbsp. butter (1 stick)  
-1 cup <a href="http://tfsh.us/memory/2020/05/23/poulish-non-sourdough-starter/">sourdough starter discard</a>
+1 cup <a href="https://escowles.github.io/recipes/ingredients/2020/05/23/poulish-non-sourdough-starter.html">sourdough starter discard</a>
 <ul>
  	<li>Mix flour and salt in a mixing bowl</li>
  	<li>Cube butter and blend into flour</li>

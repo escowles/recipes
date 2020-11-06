@@ -21,7 +21,7 @@ egg yolk
 1 cup chicken stock  
 1 Tbsp. powdered gelatin (¼ oz.)  
 <ul>
- 	<li>Fill a pan lined with <a href="http://tfsh.us/memory/2019/08/25/hot-water-crust/">Hot Water Crust</a>, then top pie and crimp edges.</li>
+ 	<li>Fill a pan lined with <a href="https://escowles.github.io/recipes/ingredients/2019/08/25/hot-water-crust.html">Hot Water Crust</a>, then top pie and crimp edges.</li>
  	<li>Brush crust with egg yolk, and pierce each pie portion.</li>
  	<li>Bake at 400°F for 50 minutes, until the crust is browned and the filling is bubbling.</li>
  	<li>Cool on a wire rack for 5 minutes.</li>

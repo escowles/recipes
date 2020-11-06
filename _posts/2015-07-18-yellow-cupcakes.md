@@ -28,7 +28,7 @@ tags: cupcakes
 	<li>Spoon batter into cupcake liners, filling halfway full.</li>
 	<li>Bake for 18-20 minutes, until tops of the cupcakes spring back when gently touched, and a toothpick inserted into the center comes out clean.</li>
 	<li>Allow to cool in the pan for 5 minutes, then transfer to a rack to cool completely.</li>
-	<li>Top with <a href="http://tfsh.us/memory/7232/milk-chocolate-frosting/">Milk Chocolate Frosting</a>.</li>
+	<li>Top with <a href="https://escowles.github.io/recipes/dessert/2015/07/18/milk-chocolate-frosting.html">Milk Chocolate Frosting</a>.</li>
 </ol>
 http://sallysbakingaddiction.com/2014/08/24/moist-yellow-cupcakes-with-milk-chocolate-frosting/  
   

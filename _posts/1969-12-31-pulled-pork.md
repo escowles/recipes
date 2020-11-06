@@ -23,4 +23,4 @@ tags: meat mexican pork
 </ul>
 Source: http://www.flotation9.net/sweetfineday/2008/08/25/my-favorite-pulled-pork/  
   
-See also <a title="Slow Cooker Carnitas" href="http://tfsh.us/memory/7109/slow-cooker-carnitas/">Slow Cooker Carnitas</a>.  
+See also <a title="Slow Cooker Carnitas" href="https://escowles.github.io/recipes/main/2014/09/02/slow-cooker-carnitas.html">Slow Cooker Carnitas</a>.  

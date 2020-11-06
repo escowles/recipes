@@ -11,5 +11,5 @@ Half package of rhubarb (5x 6" lengths), sliced
  	<li>Slice rhubarb and add to a mason jar</li>
  	<li>Cover with gin</li>
  	<li>Refrigerate and shake occasionally for 4 days</li>
- 	<li>Strain and use instead of <a href="http://tfsh.us/memory/2016/08/14/rhubarb-syrup/">Rhubarb Syrup</a></li>
+ 	<li>Strain and use instead of <a href="https://escowles.github.io/recipes/other/2016/08/15/rhubarb-syrup.html">Rhubarb Syrup</a></li>
 </ul>

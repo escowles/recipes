@@ -18,7 +18,7 @@ tags: italian vegetarian
 </ul>
 <span style="text-decoration: underline;">Tiramisu</span>
   
-7 oz. <a href="http://ticklefish.org/memory/7276/ladyfingers/">ladyfingers</a>
+7 oz. <a href="https://escowles.github.io/recipes/dessert/2016/05/21/ladyfingers.html">ladyfingers</a>
 ¾ cup strong coffee, cooled  
 7 oz. semisweet chocolate, grated  
 1 Tbsp. cocoa powder  

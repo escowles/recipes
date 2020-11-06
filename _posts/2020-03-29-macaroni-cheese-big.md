@@ -26,4 +26,4 @@ Directions:
  	<li>Combine macaroni and cheese sauce and add to a greased 9x12 (3-quart) casserole dish. Top with breadcrumbs or crumbled crackers, if desired.</li>
  	<li>Bake 20 minutes, until hot and bubbling.</li>
 </ol>
-See also <a href="https://tfsh.us/memory/1969/12/31/macaroni-cheese/">Macaroni and Cheese</a>.  
+See also <a href="https://escowles.github.io/recipes/main/1970/01/01/macaroni-cheese.html">Macaroni and Cheese</a>.  

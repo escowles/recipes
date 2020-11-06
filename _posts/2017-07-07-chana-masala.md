@@ -22,7 +22,7 @@ tags: chicken curry indian
 15 oz. chickpeas  
 1 lb. chicken, cubed  
 28 oz. tomato purée or finely diced tomatoes  
-1 tsp. <a href="http://tfsh.us/memory/2017/07/07/garam-masala/">garam masala</a>
+1 tsp. <a href="https://escowles.github.io/recipes/ingredients/2017/07/08/garam-masala.html">garam masala</a>
 1 Tbsp. sugar  
 2 Tbsp. lime juice  
 <ul>

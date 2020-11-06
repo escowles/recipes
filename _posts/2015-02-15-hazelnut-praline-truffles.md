@@ -9,7 +9,7 @@ tags: chocolate
   
 <span style="text-decoration: underline;">Filling:</span>
   
-4 oz. <a title="Hazelnut Praline" href="http://tfsh.us/memory/7199/hazelnut-praline/">hazelnut praline</a>
+4 oz. <a title="Hazelnut Praline" href="https://escowles.github.io/recipes/dessert/2015/02/06/hazelnut-praline.html">hazelnut praline</a>
 3 oz. milk chocolate  
 1 oz. semisweet chocolate  
 <ul>

@@ -14,7 +14,7 @@ tags: beef cuban
 1 cup dried fruit (raisins, dried apricots, etc.)  
 2 Tbsp. capers  
 16oz. tomato sauce  
-4 packages <a href="http://tfsh.us/memory/2019/11/16/sazon/">Sazon</a>
+4 packages <a href="https://escowles.github.io/recipes/ingredients/2019/11/16/sazon.html">Sazon</a>
 2 Tbsp. cumin  
 2 tsp. sugar  
 salt to taste  

@@ -23,4 +23,4 @@ juice from 2 limes
 	<li>Remove cilantro and pull pork chunks with fork or chopsticks</li>
 	<li>Fry on medium heat until nicely browned</li>
 </ul>
-See also <a title="Pulled Pork" href="http://tfsh.us/memory/6573/pulled-pork/">Pulled Pork</a>.  
+See also <a title="Pulled Pork" href="https://escowles.github.io/recipes/main/1970/01/01/pulled-pork.html">Pulled Pork</a>.

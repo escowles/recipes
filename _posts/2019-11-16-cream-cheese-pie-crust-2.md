@@ -15,7 +15,7 @@ tags: creamcheese pastry pie slab
  	<li>Add water all at once and process until dough forms a ball.</li>
  	<li>Shape into 6x4" rectangle, wrap in plastic, and refrigerate 4 hours.</li>
  	<li>Divide into 2 slightly unequal pieces, and roll out the larger piece until it is 11x15", and line a quarter sheet pan.</li>
- 	<li>Fill, e.g. with <a href="http://tfsh.us/memory/2019/11/16/picadillo/">Picadillo</a></li>
+ 	<li>Fill, e.g. with <a href="https://escowles.github.io/recipes/main/2019/11/16/picadillo.html">Picadillo</a></li>
  	<li>Roll out the smaller piece until it is 10x14" and top the pie.</li>
  	<li>Seal edges and brush with egg wash (1 yolk + 1 tsp. water), and bake at 425°F for 20 minutes, then reduce heat and bake at 350°F for 35-40 minutes, until the crust is toasty and the filling is bubbling.</li>
 </ul>

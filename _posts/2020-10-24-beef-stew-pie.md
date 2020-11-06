@@ -5,7 +5,7 @@ date: 2020-10-24 10:39:09 -0500
 category: main
 tags: beef gravy pie
 ---
-3 batches of <a href="http://tfsh.us/memory/1969/12/31/pie-crust/">pie crust</a> dough  
+3 batches of <a href="https://escowles.github.io/recipes/dessert/1970/01/01/pie-crust.html">pie crust</a> dough  
 <ul>
  	<li>Split in two, roll out larger half and line quarter sheet pan.</li>
  	<li>Roll out other half and leave on parchment.</li>

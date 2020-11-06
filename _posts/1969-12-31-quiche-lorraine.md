@@ -6,7 +6,7 @@ category: main
 tags: egg pork
 ---
 <ul>
- 	<li>8 slices bacon</li>
+	<li>8 slices bacon</li>
  	<li>1 cup shredded Emmental, Gruyere, or Cheddar cheese (3 oz.)</li>
  	<li>1/3 cup onion, finely chopped (1/8 large onion)</li>
  	<li>3/4 cup tomatoes, broccoli, zucchini, or other vegetables</li>
@@ -19,7 +19,7 @@ tags: egg pork
 </ul>
 Directions:  
 <ol>
- 	<li>Prepare standard <a href="http://tfsh.us/memory/1969/12/31/pie-crust/">pie crust</a>, and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.</li>
+ 	<li>Prepare standard <a href="https://escowles.github.io/recipes/dessert/1970/01/01/pie-crust.html">pie crust</a>, and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.</li>
  	<li>Bake or fry bacon until crisp. Drain and chop coarsely.</li>
  	<li>Sprinkle bacon, cheese, onion, and any other vegetables in pie shell.</li>
  	<li>Beat eggs and mix in cream, milk, and spices. Pour into pie shell (should be 1/2" below rim).</li>
