@@ -1,0 +1,35 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+
+        <h2 class="footer-heading"><a href="{{ site.url }}">{{ site.url }}</a></h2>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+        <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+          <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+        </a>
+        <br/>to the extent possible under law, <span property="dct:title">{{ site.author }}</span>
+        has waived all copyright and related or neighboring rights to these recipes. this work is
+        published from the <span property="vcard:Country" datatype="dct:ISO3166" content="US"
+        about="{{ site.url }}">united states</span>.</p>
+      </div>
+    </div>
+  </div>
+</footer>
