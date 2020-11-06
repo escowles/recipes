@@ -2,7 +2,7 @@
 layout: post
 title: Banana Bread
 date: 1969-12-31 19:00:00 -0500
-category: other
+category: sides
 tags: bread
 ---
 <b>2500 Cal (12x 210)</b>

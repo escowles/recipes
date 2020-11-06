@@ -2,7 +2,7 @@
 layout: post
 title: Sweet Masa Cornbread
 date: 2020-04-19 16:27:52 -0500
-category: other
+category: sides
 tags: bread corn southern
 ---
 1 cup all-purpose flour  

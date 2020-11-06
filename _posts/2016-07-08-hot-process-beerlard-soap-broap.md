@@ -3,7 +3,7 @@ layout: post
 title: Hot Process Beer/Lard Soap (Broap)
 date: 2016-07-08 07:43:39 -0500
 category: other
-tags: 
+tags: soap
 ---
 190g beer, completely flat  
 69.65g lye  

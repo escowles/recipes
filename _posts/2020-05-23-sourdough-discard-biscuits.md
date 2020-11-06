@@ -2,7 +2,7 @@
 layout: post
 title: Sourdough Discard Biscuits
 date: 2020-05-23 12:46:40 -0500
-category: other
+category: sides
 tags: bread vegetarian
 ---
 1 cup flour  

@@ -3,7 +3,7 @@ layout: post
 title: #26 Wild Fruit Beer
 date: 2016-12-05 01:42:25 -0500
 category: other
-tags: beer fruit wild
+tags: beer alchohol fruit wild
 ---
 5 gal. water  
 4 lbs. raspberry, blueberry, blackberry mix  

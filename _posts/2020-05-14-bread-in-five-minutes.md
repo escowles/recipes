@@ -2,7 +2,7 @@
 layout: post
 title: Bread in Five Minutes
 date: 2020-05-14 17:38:10 -0500
-category: other
+category: sides
 tags: bread vegetarian
 ---
 1½ cups lukewarm water (¾ lb.)  

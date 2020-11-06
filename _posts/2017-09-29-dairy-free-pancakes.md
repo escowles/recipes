@@ -2,7 +2,7 @@
 layout: post
 title: Dairy-Free Pancakes
 date: 2017-09-29 21:51:48 -0500
-category: other
+category: sides
 tags: bread breakfast dairyfree
 ---
 1 egg, beaten  

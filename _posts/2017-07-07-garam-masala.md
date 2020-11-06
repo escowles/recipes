@@ -2,7 +2,7 @@
 layout: post
 title: Garam Masala
 date: 2017-07-07 20:17:31 -0500
-category: other
+category: ingredients
 tags: indian spice
 ---
 2 dried red chilies  

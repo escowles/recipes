@@ -2,7 +2,7 @@
 layout: post
 title: Lydia's Dinner Rolls
 date: 2014-12-25 13:53:29 -0500
-category: other
+category: sides
 tags: bread rolls
 ---
 1 cup milk  

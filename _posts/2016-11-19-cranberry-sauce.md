@@ -2,7 +2,7 @@
 layout: post
 title: Cranberry Sauce
 date: 2016-11-19 13:57:49 -0500
-category: other
+category: sides
 tags: sauce thanksgiving
 ---
 12 oz. cranberries (fresh or frozen)  

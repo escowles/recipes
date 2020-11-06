@@ -2,7 +2,7 @@
 layout: post
 title: Vegan Cinnamon Rolls
 date: 2017-11-04 13:54:54 -0500
-category: other
+category: dessert
 tags: bread breakfast cinnamon sweets
 ---
 <div class="ERSIngredients">

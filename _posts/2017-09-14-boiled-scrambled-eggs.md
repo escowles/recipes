@@ -2,7 +2,7 @@
 layout: post
 title: Boiled Scrambled Eggs
 date: 2017-09-14 14:35:08 -0500
-category: other
+category: sides
 tags: breakfast eggs
 ---
 <ul>

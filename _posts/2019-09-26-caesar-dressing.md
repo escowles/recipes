@@ -2,7 +2,7 @@
 layout: post
 title: Caesar Dressing
 date: 2019-09-26 10:41:12 -0500
-category: other
+category: ingredients
 tags: saladdressing sauce
 ---
 <div class="ingredients">

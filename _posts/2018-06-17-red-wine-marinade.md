@@ -2,7 +2,7 @@
 layout: post
 title: Red Wine Marinade
 date: 2018-06-17 12:51:08 -0500
-category: other
+category: ingredients
 tags: marinade steak
 ---
 1 cup red wine  

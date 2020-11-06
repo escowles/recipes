@@ -2,7 +2,7 @@
 layout: post
 title: Guacamole
 date: 1969-12-31 19:00:00 -0500
-category: other
+category: sides
 tags: mexican sauce
 ---
 <b>1050 Cal (16x 66)</b>

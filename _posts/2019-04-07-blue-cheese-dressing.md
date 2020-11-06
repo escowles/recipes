@@ -2,7 +2,7 @@
 layout: post
 title: Blue Cheese Dressing
 date: 2019-04-07 19:58:42 -0500
-category: other
+category: ingredients
 tags: bluecheese saladdressing
 ---
 1/2 cup mayonnaise  

@@ -2,7 +2,7 @@
 layout: post
 title: brisket marinade
 date: 2015-08-22 09:50:57 -0500
-category: other
+category: ingredients
 tags: bbq brisket marinade sauce
 ---
 1 tbsp. salt  

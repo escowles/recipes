@@ -2,7 +2,7 @@
 layout: post
 title: Pumpkin Bread 2
 date: 2018-10-28 19:52:58 -0500
-category: other
+category: sides
 tags: bread pumpkin
 ---
 <span class="amount">1</span> <span class="name"><span class="toggleunits" data-alt="425-g">cup pumpkin puree  

@@ -2,7 +2,7 @@
 layout: post
 title: Blood Orange Marmalade
 date: 2019-02-10 15:22:26 -0500
-category: other
+category: ingredients
 tags: british jam marmalade orange
 ---
 9 blood oranges (Moro)  

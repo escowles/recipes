@@ -2,7 +2,7 @@
 layout: post
 title: Pumpkin Bread
 date: 2013-11-28 08:32:02 -0500
-category: other
+category: sides
 tags: bread thanksgiving
 ---
 1 cup pumpkin puree  

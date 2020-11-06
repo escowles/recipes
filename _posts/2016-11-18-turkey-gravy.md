@@ -2,7 +2,7 @@
 layout: post
 title: Turkey Gravy
 date: 2016-11-18 16:08:45 -0500
-category: other
+category: sides
 tags: sauce thanksgiving turkey
 ---
 turkey drippings  

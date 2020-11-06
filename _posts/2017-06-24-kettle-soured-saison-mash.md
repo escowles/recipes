@@ -3,7 +3,7 @@ layout: post
 title: Kettle-Soured Saison Mash
 date: 2017-06-24 17:37:29 -0500
 category: other
-tags: beer lactobacillus saison sour
+tags: beer lactobacillus saison sour alcohol
 ---
 Lactobacillus bacteria (Wyeast 5335 or White Labs WLP677)  
 7¼ gallons water  

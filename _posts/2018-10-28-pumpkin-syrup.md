@@ -3,7 +3,7 @@ layout: post
 title: Pumpkin Syrup
 date: 2018-10-28 19:03:05 -0500
 category: other
-tags: coffee fall ingredients pumpkin
+tags: coffee fall pumpkin
 ---
 1½ cups water  
 1¼ cups white sugar  

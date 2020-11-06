@@ -2,7 +2,7 @@
 layout: post
 title: Sourdough Bread
 date: 2020-05-19 22:48:55 -0500
-category: other
+category: sides
 tags: bread vegetarian
 ---
 520g flour  

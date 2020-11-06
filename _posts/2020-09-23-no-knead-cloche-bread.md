@@ -2,7 +2,7 @@
 layout: post
 title: No-Knead Cloche Bread
 date: 2020-09-23 18:35:32 -0500
-category: other
+category: sides
 tags: bread vegetarian
 ---
 430g flour  

@@ -2,8 +2,8 @@
 layout: post
 title: Poulish (Non-Sourdough Starter)
 date: 2020-05-23 10:48:02 -0500
-category: other
-tags: bread ingredients vegetarian
+category: ingredients
+tags: bread vegetarian
 ---
 1 cup flour  
 ½ cup lukewarm filtered water  

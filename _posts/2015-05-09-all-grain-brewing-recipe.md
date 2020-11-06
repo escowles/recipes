@@ -3,7 +3,7 @@ layout: post
 title: All-Grain Brewing Recipe
 date: 2015-05-09 15:59:29 -0500
 category: other
-tags: beer homebrew recipe
+tags: beer homebrew alcohol
 ---
 <div id="pageContainer1" class="page" data-loaded="true">
 <div class="textLayer">

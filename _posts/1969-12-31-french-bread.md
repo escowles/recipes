@@ -2,8 +2,8 @@
 layout: post
 title: French Bread
 date: 1969-12-31 19:00:00 -0500
-category: other
-tags: bread
+category: sides
+tags: bread french
 ---
 <b>1850 Cal (12x 154)</b>
 <p>Ingredients:</p><ul>

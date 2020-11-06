@@ -2,7 +2,7 @@
 layout: post
 title: Pannenkoeken
 date: 2017-04-22 11:56:54 -0500
-category: other
+category: sides
 tags: bread breakfast dutch
 ---
 250g (1½ cups) flour  

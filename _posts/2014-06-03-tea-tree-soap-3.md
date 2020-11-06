@@ -3,7 +3,7 @@ layout: post
 title: Tea Tree Soap
 date: 2014-06-03 13:11:44 -0500
 category: other
-tags: recipe soap teatree
+tags: soap teatree
 ---
 1 lb. glycerin soap base  
 2 drops food coloring (optional, but helps make soap visible if dropped in the bath)  

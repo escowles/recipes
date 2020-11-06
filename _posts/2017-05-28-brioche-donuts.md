@@ -2,8 +2,8 @@
 layout: post
 title: Brioche Donuts
 date: 2017-05-28 10:47:41 -0500
-category: other
-tags: bread donuts fried
+category: sides
+tags: bread donuts fried breakfast
 ---
 dough:  
   

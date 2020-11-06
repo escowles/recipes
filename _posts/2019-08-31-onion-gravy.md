@@ -2,7 +2,7 @@
 layout: post
 title: Onion Gravy
 date: 2019-08-31 16:41:44 -0500
-category: other
+category: ingredients
 tags: english gravy sauce
 ---
 1 onion  

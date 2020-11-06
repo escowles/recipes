@@ -2,7 +2,7 @@
 layout: post
 title: Enchilada Sauce (New Mexico)
 date: 2014-02-22 09:36:28 -0500
-category: other
+category: ingredients
 tags: mexican sauce
 ---
 4 New Mexico chiles, seeded and chopped  

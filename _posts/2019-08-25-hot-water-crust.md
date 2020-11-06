@@ -2,8 +2,8 @@
 layout: post
 title: Hot Water Crust
 date: 2019-08-25 11:06:23 -0500
-category: other
-tags: crust english pie
+category: ingredients
+tags: bread crust english pie
 ---
 2¼ cups flour  
 ½ cup bread flour  

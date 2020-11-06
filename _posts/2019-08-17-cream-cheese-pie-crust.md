@@ -2,8 +2,8 @@
 layout: post
 title: Cream Cheese Pie Crust
 date: 2019-08-17 23:02:21 -0500
-category: other
-tags: pastry pie
+category: ingredients
+tags: pastry bread pie
 ---
 2½ plus 2 Tbsp. flour  
 ¼ tsp. kosher salt  

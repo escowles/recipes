@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Chip Cookie Bake-Off
 date: 2018-12-02 12:22:56 -0500
-category: other
+category: dessert
 tags: chocolate cookies
 ---
 The recipes:  

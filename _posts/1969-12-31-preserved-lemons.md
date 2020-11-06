@@ -2,7 +2,7 @@
 layout: post
 title: Preserved Lemons
 date: 1969-12-31 19:00:00 -0500
-category: other
+category: ingredients
 tags: sauce
 ---
 <b>22 Cal</b>

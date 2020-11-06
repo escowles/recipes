@@ -2,7 +2,7 @@
 layout: post
 title: Green Bean Casserole
 date: 2016-11-19 14:12:30 -0500
-category: other
+category: sides
 tags: thanksgiving vegetable
 ---
 5 Tbsp. butter  

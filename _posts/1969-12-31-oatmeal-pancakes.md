@@ -2,8 +2,8 @@
 layout: post
 title: Oatmeal Pancakes
 date: 1969-12-31 19:00:00 -0500
-category: other
-tags: bread
+category: sides
+tags: bread breakfast
 ---
 <b>800 Cal (12x 67)</b>
 <p>Ingredients:</p><ul>

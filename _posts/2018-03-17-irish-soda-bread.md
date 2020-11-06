@@ -2,7 +2,7 @@
 layout: post
 title: Irish Soda Bread
 date: 2018-03-17 23:24:55 -0500
-category: other
+category: sides
 tags: bread dairyfree irish
 ---
 1 cup almond milk  

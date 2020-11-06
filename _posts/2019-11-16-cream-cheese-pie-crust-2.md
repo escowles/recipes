@@ -2,7 +2,7 @@
 layout: post
 title: Cream Cheese Pie Crust
 date: 2019-11-16 16:12:04 -0500
-category: other
+category: ingredients
 tags: creamcheese pastry pie slab
 ---
 2 5/8 cup flour  

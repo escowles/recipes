@@ -2,8 +2,8 @@
 layout: post
 title: Yeast Rolls
 date: 2016-11-20 13:37:20 -0500
-category: other
-tags: bread
+category: sides
+tags: bread thanksgiving
 ---
 1 cup plus 2 Tbsp. water  
 1/3 cup oil  

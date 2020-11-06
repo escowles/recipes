@@ -2,8 +2,8 @@
 layout: post
 title: Empanada Dough
 date: 2018-07-28 19:25:03 -0500
-category: other
-tags: dough mexican
+category: ingredients
+tags: dough bread mexican
 ---
 3 cups flour  
 ½ tsp. salt  

@@ -2,7 +2,7 @@
 layout: post
 title: Buzzfeed Chocolate Chip Cookies
 date: 2020-04-08 14:21:54 -0500
-category: other
+category: dessert
 tags: chocolate cookies
 ---
 1 cup all-purpose flour  

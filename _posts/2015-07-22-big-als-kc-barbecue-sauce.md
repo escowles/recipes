@@ -2,7 +2,7 @@
 layout: post
 title: Big Al's KC Barbecue Sauce
 date: 2015-07-22 10:18:36 -0500
-category: other
+category: ingredients
 tags: bbq sauce
 ---
 <ul>

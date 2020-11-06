@@ -2,7 +2,7 @@
 layout: post
 title: Pasta Sauce
 date: 2018-04-30 21:09:33 -0500
-category: other
+category: ingredients
 tags: italian sauce tomato
 ---
 2 Tbsp. olive oil  

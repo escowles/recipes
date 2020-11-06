@@ -2,7 +2,7 @@
 layout: post
 title: Poblano, Bacon, and Cheddar Cornbread
 date: 2020-08-07 11:42:28 -0500
-category: other
+category: sides
 tags: bread corn southern texmex
 ---
 3 poblanos  

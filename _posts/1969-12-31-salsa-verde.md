@@ -2,7 +2,7 @@
 layout: post
 title: Salsa Verde
 date: 1969-12-31 19:00:00 -0500
-category: other
+category: ingredients
 tags: mexican sauce
 ---
 <b>180 Cal (12x 15)</b>

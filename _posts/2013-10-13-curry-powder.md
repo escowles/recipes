@@ -2,7 +2,7 @@
 layout: post
 title: Curry Powder
 date: 2013-10-13 17:01:46 -0500
-category: other
+category: ingredients
 tags: curry indian
 ---
 1½ tsp. cumin  
