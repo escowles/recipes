@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cinnamon Rolls #2
+title: "Cinnamon Rolls #2"
 date: 2019-02-02 22:52:32 -0500
 category: dessert
 tags: bread breakfast

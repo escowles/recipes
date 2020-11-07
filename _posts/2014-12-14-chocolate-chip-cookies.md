@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chocolate Chip Cookies
+title: Chocolate Chip Cookies (Cook's)
 date: 2014-12-14 08:04:09 -0500
 category: dessert
 tags: 

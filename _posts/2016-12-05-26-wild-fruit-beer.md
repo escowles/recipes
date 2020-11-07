@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #26 Wild Fruit Beer
+title:  "#26 Wild Fruit Beer"
 date: 2016-12-05 01:42:25 -0500
 category: other
 tags: beer alchohol fruit wild

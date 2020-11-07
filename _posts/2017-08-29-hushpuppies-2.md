@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hushpuppies #2
+title: "Hushpuppies #2"
 date: 2017-08-29 18:06:04 -0500
 category: sides
 tags: bread southern
