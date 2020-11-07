@@ -9,4 +9,20 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+
+  <script>
+    function jsearch() {
+      var q = document.getElementById("q").value.toLowerCase();
+      var items = document.getElementsByTagName("li");
+      for ( var i = 0; i < items.length; i++ ) {
+        var item = items[i];
+        var text = item.innerText.toLowerCase();
+        if ( q == "" || text.includes(q) ) {
+          item.style.display = "block";
+        } else {
+          item.style.display = "none";
+        }
+      }
+    }
+  </script>
 </head>
