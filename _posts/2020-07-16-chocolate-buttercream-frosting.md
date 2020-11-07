@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Buttercream Frosting
 date: 2020-07-16 15:48:48 -0500
-category: ingredients
+category: desserts
 tags: chocolate frosting
 ---
 6 Tbsp. butter, softened  
