@@ -21,3 +21,10 @@ tags: bread vegetarian
  	<li>remove from oven and cool on wire rack for 30 minutes</li>
 </ul>
 Source: Bespoke Post flyer  
+
+---
+
+2020-09-23 18:36:46: Note: 1.33 cups of water is not quite enough, the dough was too
+dry and not cohesive. Added water and then a bit of flour until the dough texture was
+right — should probably be 1.5 or 1.75 cups water, or maybe reduce initial flour and
+add rest once the dough is wet?

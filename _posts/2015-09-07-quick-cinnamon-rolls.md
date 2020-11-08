@@ -39,3 +39,12 @@ Icing:
 	<li>Add milk a little at a time, constantly stirring until a thick icing forms</li>
 </ul>
 Source: http://www.food.com/recipe/quick-cinnamon-rolls-no-yeast-293243  
+
+---
+
+2015-09-07 08:41:08: A comment suggested some interesting modifications:
+* Don't bother sprinkling any filling on bottom of the pan
+* Cut them thick because they won't rise much
+* Bake at 300°F to make the dough gooier
+* Bake in spring-form pan to make it easier to get them out
+* Pour melted butter over the rolls after removing from the oven

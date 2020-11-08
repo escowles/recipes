@@ -29,3 +29,8 @@ tags: asian chicken chinese meat
 	<li>Add stock, orange juice, sugar, soy sauce, sherry and garlic and stir fry until chicken is done.</li>
 	<li>Remove from heat, mix in corn starch and sesame oil, and serve over rice.</li>
 </ul>
+
+---
+
+2013-10-18 14:01:50: Pretty bland and not very orangey. Try sauteing garlic & chilies,
+adding 1 cup of OJ, then adding chicken, and finishing with corn starch/sesame oil.

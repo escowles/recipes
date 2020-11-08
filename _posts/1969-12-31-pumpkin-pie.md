@@ -32,3 +32,7 @@ Directions:
 <ul>
  	<li>Source: http://www.pumpkinpatchesandmore.org/pumpkinpie.php</li>
 </ul>
+
+---
+
+2017-09-22 11:03:17: Dairy free: substitute coconut milk for milk.

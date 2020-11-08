@@ -14,7 +14,7 @@ tags: beef cuban
 1 cup dried fruit (raisins, dried apricots, etc.)  
 2 Tbsp. capers  
 16oz. tomato sauce  
-4 packages <a href="https://escowles.github.io/recipes/ingredients/2019/11/16/sazon.html">Sazon</a>
+4 packages <a href="http://tfsh.us/memory/2019/11/16/sazon/">Sazon</a>
 2 Tbsp. cumin  
 2 tsp. sugar  
 salt to taste  
@@ -24,3 +24,10 @@ salt to taste
  	<li>Add remaining ingredients, reduce heat, and simmer (10 minutes)</li>
 </ul>
 Source: <a href="https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/">https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/</a>
+
+---
+
+2019-11-18 00:17:54: Much, much better than the recipe in Pie Squared. But I'd make
+some changes on a second try:
+* Substitute 1/4 apricot jam for the apricots and sugar.
+* Use a small can of tomato sauce instead of a big one.

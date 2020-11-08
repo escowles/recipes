@@ -24,3 +24,13 @@ tags: cake cooksillustrated
  	<li>Cool cakes in pans for 10 minutes, then remove from pans and cool for 2 hours before frosting.</li>
 </ul>
 Source: Cook's Illustrated, p 662.  
+
+---
+
+2020-05-09 19:24:24:
+* This made two very thin cakes
+* When I checked them at 20 minutes, they were still liquid in the middle. But at 26
+  minutes, they were done.
+* I did not put parchment under them, and I had to loosen the sides with a spatula,
+  and then scrape under the edge all the way around, before they would come out of
+  the cake pans.

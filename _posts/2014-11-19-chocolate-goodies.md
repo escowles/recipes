@@ -21,3 +21,11 @@ tags: chocolate
  	<li>Drop onto greased cookie sheet or spread in greased 9x9" pan, and chill until firm.</li>
 </ul>
 Source: Adapted from Mom's recipe, from Robert's 7th-grade Home Ec class.  
+
+---
+
+2019-01-20 21:23:48: Note: if using plastic peanut butter, you can remove the
+chocolate mixture from the heat, and add peanut butter, oats, and vanilla.
+
+2020-10-21 16:53:35: Food Network variant:
+* 2 cups sugar, 1/4 cup cocoa, 1 cup peanut butter, pinch salt

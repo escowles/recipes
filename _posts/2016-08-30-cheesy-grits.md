@@ -25,3 +25,8 @@ tags: cheese southern
 <ul>
  	<li>Add each cheese a little at a time, whisking to incorporate after each addition</li>
 </ul>
+
+---
+
+2016-08-30 11:22:48: Makes 8 servings, so halve for 4.  Way too cheesy — would
+reduce to 3-4 oz.

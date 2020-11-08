@@ -26,7 +26,7 @@ salt, pepper, rosemary, and thyme
  	<li>Add flour and stir to form a thick roux</li>
  	<li>Slowly add stock and milk, mixing continuously to form a gravy</li>
 </ul>
-2 <a href="https://escowles.github.io/recipes/dessert/1970/01/01/pie-crust.html">pie crusts</a>
+2 <a href="http://tfsh.us/memory/1969/12/31/pie-crust/">pie crusts</a>
 <ul>
  	<li>Line pie dish with first crust</li>
  	<li>Add chicken, vegetables, and gravy</li>
@@ -34,3 +34,11 @@ salt, pepper, rosemary, and thyme
  	<li>Bake 30 minutes at 425°F, covering crust edge to prevent burning</li>
  	<li>Remove from oven and rest 10 minutes before serving</li>
 </ul>
+
+---
+
+2018-09-23 21:16:45:
+* 20x salt
+* 40x pepper
+* 1/2 tsp rosemary
+* 1/2 tsp thyme

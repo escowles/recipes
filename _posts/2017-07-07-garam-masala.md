@@ -15,3 +15,14 @@ tags: indian spice
  	<li>Combine all ingredients and grind into a powder with mortar and pestle or food processor</li>
  	<li>Whole spices can be substituted with half the amount of ground spice</li>
 </ul>
+
+---
+
+2017-07-08 15:58:20: all ground version:
+
+* 1/2 tsp. chipotle powder
+* 1/2 tsp. black pepper
+* 1/2 tsp. cumin
+* 1/2 tsp. cardamom
+* 1/4 tsp. cloves
+* 1/16 tsp. nutmeg

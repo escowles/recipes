@@ -24,3 +24,7 @@ Directions:
  	<li>Mash avocados with garlic, salt and cumin.</li>
  	<li>Fold in remaining ingredients and refrigerate for 30 minutes.</li>
 </ol>
+
+---
+
+2017-02-03 22:46:56: 1 tsp dry cilantro & 1 tsp harissa instead of the jalapeño

@@ -8,8 +8,8 @@ tags: meat mexican pork
 6 soft-taco flour tortillas  
 <sup>2</sup>/<sub>3</sub> cup refried beans  
 <sup>2</sup>/<sub>3</sub> cup Mexican rice  
-7 oz. <a title="Pulled Pork" href="https://escowles.github.io/recipes/main/1970/01/01/pulled-pork.html">pulled pork</a>
-1 cup <a title="Enchilada Sauce (New Mexico)" href="https://escowles.github.io/recipes/ingredients/2014/02/22/enchilada-sauce-new-mexico.html">New Mexico enchilada sauce</a>
+7 oz. <a title="Pulled Pork" href="http://tfsh.us/memory/6573/pulled-pork/">pulled pork</a>
+1 cup <a title="Enchilada Sauce (New Mexico)" href="http://tfsh.us/memory/7022/enchilada-sauce-new-mexico/">New Mexico enchilada sauce</a>
 <ul>
 	<li>Coat bottom of 9" square pan with <sup>1</sup>/<sub>4</sub> cup sauce</li>
 	<li>Divide beans, rice and pork evenly between the tortillas</li>
@@ -19,4 +19,7 @@ tags: meat mexican pork
 </ul>
 <strong>1,555 Cal (6x 259)</strong>
   
-&nbsp;  
+---
+
+2014-02-24 07:39:52: Best homemade enchiladas yet -- Lydia and i especially like
+these quite a bit more than the verdes.

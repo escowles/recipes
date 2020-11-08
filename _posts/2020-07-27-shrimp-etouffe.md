@@ -28,3 +28,19 @@ Hot sauce (Crystal or Tabasco) to taste
  	<li>Add green onions and hot sauce, then serve over rice</li>
 </ul>
 Source: <a href="https://www.simplyrecipes.com/recipes/shrimp_etouffee/">https://www.simplyrecipes.com/recipes/shrimp_etouffee/</a>
+
+---
+
+2020-08-06 20:08:52: Half-Shrimp/Half-Chicken batch (8/8):
+* Saute 1 lb. cubed chicken in separate dish
+* Make main dish as directed, except: before adding shrimp, take half of base and
+  add to chicken, and add only 1 lb. of shrimp.
+* Other substitutions: Used an extra poblano and 1 tsp. dried jalapeno flakes instead
+  of the jalapeno, 4 oz. celery sticks instead of a stalk
+
+Notes:
+* Chicken too tough because not thawed and then cooked too hard
+* Too spicy; reduce to 1/2 tsp. of jalapeno flakes at most
+* Too much celery: reduce to 2 oz. of celery sticks
+* Would like to have some tomato paste, add after ~1 tbsp. to shrimp batch after
+  splitting

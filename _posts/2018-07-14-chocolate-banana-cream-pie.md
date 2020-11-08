@@ -50,7 +50,15 @@ tags: banana chocolate
 <strong>Assembly</strong>
 <ul>
  	<li>Top chocolate cream layer with banana slices, the spoon cooled custard on top.</li>
- 	<li>Top with <a href="https://escowles.github.io/recipes/dessert/2018/07/14/whipped-cream.html">whipped cream</a>, then chill for 2 hours.</li>
+ 	<li>Top with <a href="http://tfsh.us/memory/2018/07/14/whipped-cream/">whipped cream</a>, then chill for 2 hours.</li>
  	<li>Before serving, top with sliced bananas and chopped chocolate.</li>
 </ul>
 Source: <a href="https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/">https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/</a>
+
+---
+
+2019-07-18 11:17:54: Like this pie a lot, but don't think the crust is the best
+option (hard to work with dough, resulting in overthick crust, and the flavor's not
+great, either).  Would rather have an Oreo crust (see <a href="https://tfsh.us/memory/2019/04/16/oreo-mini-cheesecakes/">Oreo Mini Cheesecakes</a>).
+
+Also, we could do a traditional custard (like in <a href="https://tfsh.us/memory/1969/12/31/berry-trifle/">Berry Trifle</a>).

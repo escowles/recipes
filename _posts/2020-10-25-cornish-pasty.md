@@ -34,3 +34,15 @@ salt and pepper to taste
 Source: https://www.thespruceeats.com/traditional-cornish-pasty-recipe-435042 and https://www.daringgourmet.com/authentic-cornish-pasty-recipe/  
   
 Note: apparently steak and rutabaga are traditional, but all the pasties I've had were ground beef and carrots, so that's what I'm using.  
+
+---
+
+2020-10-27 22:07:35: 7" is very small (about 1/4 cup of filling), and the filling
+recipe makes at least three times as much filling as four pasties need. Next time I
+think I'll triple the crust recipe and make 6-8 larger pasties.
+
+These were also pretty dry. The recipe called for dusting with flour and topping with
+pats of butter (I did the flour and skipped the butter). So I could just follow the
+recipe next time, or add some chicken stock to make the filling more moist. I also
+think that adding more salt, and some herbs could go a long way to make the flavor
+richer.

@@ -18,3 +18,7 @@ tags: chocolate frosting
  	<li>Increase speed to high for 2 minutes</li>
 </ul>
 Source: <a href="https://www.justataste.com/5-minute-chocolate-buttercream-frosting-recipe/">https://www.justataste.com/5-minute-chocolate-buttercream-frosting-recipe/</a>
+
+---
+
+2020-10-17 23:00:39: Not enough for a 2-layer cake — maybe 1.5x would be better?

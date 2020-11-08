@@ -18,3 +18,9 @@ tags: icecream orange
  	<li>Process in ice cream maker following manufacturer's directions</li>
 </ul>
 Source: <a href="https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337">https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337</a>
+
+---
+
+2020-08-17 10:53:49: First batch notes:
+* recipe too large for machine, need to reduce size
+* not as creamy as we'd like, should substitute in some cream
