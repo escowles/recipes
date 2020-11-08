@@ -31,5 +31,18 @@
         about="{{ site.url }}">united states</span>.</p>
       </div>
     </div>
+    {% comment %} changes start {% endcomment %}
+      <script>
+        function copytext(s) {
+          var elem = document.createElement('textarea');
+          elem.value = s;
+          document.body.appendChild(elem);
+          elem.select();
+          document.execCommand('copy');
+          document.body.removeChild(elem);
+        }
+      </script>
+      this file: <input type="button" onClick="javascript:copytext('{{page.path}}')" value="{{page.path}}"/>
+    {% comment %} changes end {% endcomment %}
   </div>
 </footer>
