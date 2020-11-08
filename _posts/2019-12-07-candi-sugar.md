@@ -3,7 +3,7 @@ layout: post
 title: Candi Sugar
 date: 2019-12-07 15:36:11 -0500
 category: other
-tags: brewing candy sugar
+tags: candy sugar homebrew
 ---
 1 lb. sugar  
 1/2 cup water  

@@ -3,7 +3,7 @@ layout: post
 title: Cacao Nib Extract
 date: 2018-08-04 13:23:18 -0500
 category: other
-tags: beer cacaonibs chocolate alcohol
+tags: beer cacaonibs chocolate alcohol homebrew
 ---
 4 oz. cacao nibs  
 3/4 cup "good" vodka  

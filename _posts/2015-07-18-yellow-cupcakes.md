@@ -3,7 +3,7 @@ layout: post
 title: Yellow Cupcakes
 date: 2015-07-18 15:40:44 -0500
 category: dessert
-tags: cupcakes
+tags: cupcakes cake
 ---
 <div class="left">
 <div class="ingredients">

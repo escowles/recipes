@@ -3,7 +3,7 @@ layout: post
 title: Pumpkin Muffins
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: bread breakfast
+tags: bread breakfast pumpkin
 ---
 <b>2375 Cal (18x 132)</b>
 <p>Ingredients:</p><ul>

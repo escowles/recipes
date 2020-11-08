@@ -3,7 +3,7 @@ layout: post
 title: Challah Cinnamon Rolls
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: bread breakfast
+tags: bread breakfast cinnamon
 ---
 <b>2200 Cal (12x 183)</b>
 <p>Ingredients:</p><ul>

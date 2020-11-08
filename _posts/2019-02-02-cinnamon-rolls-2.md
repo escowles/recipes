@@ -3,7 +3,7 @@ layout: post
 title: "Cinnamon Rolls #2"
 date: 2019-02-02 22:52:32 -0500
 category: dessert
-tags: bread breakfast
+tags: bread breakfast cinnamon
 ---
 <p><strong>Dough:</strong><br />¾ cup warm milk (110 degrees F)<br />2¼ tsp. active yeast<br />¼ cup sugar<br />1 egg plus 1 egg yolk, at room temperature<br />¼ cup unsalted butter, melted<br />3 cups bread flour<br />¾ tsp. salt</p>
 <p><strong>Filling:</strong><br />¼ cup unsalted butter, softened<br />2/3 cup brown sugar<br />1½ Tbsp. cinnamon</p>

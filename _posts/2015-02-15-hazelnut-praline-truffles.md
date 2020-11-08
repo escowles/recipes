@@ -3,7 +3,7 @@ layout: post
 title: Hazelnut Praline Truffles
 date: 2015-02-15 10:26:25 -0500
 category: dessert
-tags: chocolate
+tags: chocolate candy
 ---
 <b> Cal 1,520 (190 x 8)</b>
   

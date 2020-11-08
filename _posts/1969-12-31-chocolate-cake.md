@@ -3,7 +3,7 @@ layout: post
 title: Chocolate Cake
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags: chocolate cake
 ---
 <b>6720 Cal (24x 280)</b>
 <p>Ingredients:</p><ul>

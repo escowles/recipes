@@ -3,7 +3,7 @@ layout: post
 title: Hybrid Fresh/Canned Cherry Pie
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags: pie cherry
 ---
 <b>2160 Cal (8x 270)</b>
 <p>Ingredients:</p><ul>

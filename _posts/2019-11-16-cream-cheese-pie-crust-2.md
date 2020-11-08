@@ -3,7 +3,7 @@ layout: post
 title: Cream Cheese Pie Crust
 date: 2019-11-16 16:12:04 -0500
 category: ingredients
-tags: creamcheese pastry pie slab
+tags: creamcheese pastry pie slab crust
 ---
 2 5/8 cup flour  
 8 Tbsp. butter, cubed and frozen 20 minutes  

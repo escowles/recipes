@@ -3,7 +3,7 @@ layout: post
 title: Snickerdoodles
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags: cookies cinnamon
 ---
 <b>4478 Cal (48x 90)</b>
 <p>Ingredients:</p><ul>

@@ -17,6 +17,6 @@ tags: sauce tomato italian
 <p>Directions:</p>
 <ol>
 <li>Boil tomatoes until skins crack.  Remove from water and rinse in cold water.  Remove skins.  Puree in food processor and set aside.</li>
-<li>Heat oil in deep frying pan.  Saute onion and garlic over medium heat until caramelized, about 4 minutes.</li>
+<li>Heat oil in deep frying pan.  Saute onion and garlic over medium heat until softened, about 4 minutes.</li>
 <li>Add tomato puree and herbs.  Simmer over low heat 20-30 minutes.</li>
 </ol>

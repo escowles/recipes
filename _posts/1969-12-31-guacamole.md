@@ -3,28 +3,25 @@ layout: post
 title: Guacamole
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: mexican sauce
+tags: mexican sauce dip
 ---
 <b>1050 Cal (16x 66)</b>
   
-Ingredients:  
-<ul>
- 	<li>3 avocados</li>
- 	<li>1 clove garlic, minced</li>
- 	<li>1/2 tsp. salt</li>
- 	<li>1/2 tsp. cumin</li>
- 	<li>1/2 cup onion, finely chopped</li>
- 	<li>2 Roma tomatoes and/or tomatillos, chopped</li>
- 	<li>1 jalapeno pepper, minced</li>
- 	<li>1 tsp. dry cilantro (or 2 Tbsp. fresh), finely chopped</li>
- 	<li>juice from 1 lime</li>
-</ul>
-Directions:  
-<ol>
- 	<li>Mash avocados with garlic, salt and cumin.</li>
- 	<li>Fold in remaining ingredients and refrigerate for 30 minutes.</li>
-</ol>
+3 avocados  
+1 clove garlic, minced  
+1/2 tsp. salt  
+1/2 tsp. cumin
+* Halve and pit avocados, then scoop out flesh
+* Mash with spices until desired consistency (smooth or slightly chunky)
+
+1/2 cup onion, finely chopped  
+1-2 Roma tomatoes and/or tomatillos, chopped  
+1 jalapeno pepper, minced (or 1 tsp. harissa or 1/2 tsp. chipotle powder)  
+1 tsp. dry cilantro (or 2 Tbsp. fresh, finely chopped)  
+juice from 1 lime  
+* Fold in remaining ingredients and refrigerate for 30 minutes
 
 ---
 
-2017-02-03 22:46:56: 1 tsp dry cilantro & 1 tsp harissa instead of the jalapeño
+2017-02-03 22:46:56: updated recipe with substitutions (1 tsp dry cilantro & 1 tsp
+harissa instead of the jalapeño)

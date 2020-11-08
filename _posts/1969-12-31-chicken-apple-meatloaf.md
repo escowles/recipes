@@ -3,7 +3,7 @@ layout: post
 title: Chicken Apple Meatloaf
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: chicken meat southern
+tags: chicken meat southern apple
 ---
 <b>1665 Cal (8x 208)</b>
   

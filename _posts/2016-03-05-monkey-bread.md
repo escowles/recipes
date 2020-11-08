@@ -3,7 +3,7 @@ layout: post
 title: Monkey Bread
 date: 2016-03-05 06:54:01 -0500
 category: dessert
-tags: bread breakfast
+tags: bread breakfast cinnamon
 ---
 2 1/4 tsp yeast  
 1/4 cup warm water (110°F)  

@@ -3,7 +3,7 @@ layout: post
 title: Tiramisu (Traditional)
 date: 2016-05-23 10:10:50 -0500
 category: dessert
-tags: italian vegetarian
+tags: italian vegetarian coffee
 ---
 <span style="text-decoration: underline;">Mascarpone Cream</span>
   

@@ -21,7 +21,7 @@ tags: soup
 </ul>
 <p>Directions:</p>
 <ol>
-<li>Saute onion, celery and carrots in butter until onions are caramelized.</li>
+<li>Saute onion, celery and carrots in butter until onions are softened.</li>
 <li>Add squash and water.  Bring to a boil, reduce heat, and simmer for 20 minutes.</li>
 <li>Remove vegetables and puree with cream cheese in food processor or blender in batches until smooth.  Reserve broth.</li>
 <li>Return puree to pan, add half & half and heat through, but do not boil.</li>

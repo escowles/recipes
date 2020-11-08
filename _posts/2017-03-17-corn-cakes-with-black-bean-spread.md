@@ -3,7 +3,7 @@ layout: post
 title: Corn Cakes with Black Bean Spread
 date: 2017-03-17 13:08:43 -0500
 category: main
-tags: latin mexican vegetarian
+tags: latin mexican vegetarian corn
 ---
 1 cup masa  
 1/2 tsp. salt  

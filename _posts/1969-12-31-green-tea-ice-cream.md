@@ -3,7 +3,7 @@ layout: post
 title: Green Tea Ice Cream
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags: tea icecream cream
 ---
 <b>1900 Cal</b>
 <p>Ingredients:</p><ul>

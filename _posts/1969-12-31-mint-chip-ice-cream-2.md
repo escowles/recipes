@@ -3,7 +3,7 @@ layout: post
 title: Mint Chip Ice Cream
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags: mint chocolate icecream
 ---
 <b>2750 Cal</b>
 <p>Ingredients:</p><ul>
