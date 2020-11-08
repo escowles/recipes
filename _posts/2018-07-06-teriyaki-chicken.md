@@ -41,6 +41,7 @@ Source: <a href="https://cafedelites.com/teriyaki-chicken-recipe/">https://cafed
 * 2 TBSP sugar
 * 2 TBSP rice vinegar (do not use sushi vinegar)
 * some grated ginger
+
 As you pan-fry the chicken you add the above ingredients and cook till all liquid is
 reduced. THAT'S IT. The ratio is soy (1TBSP per serving) = mirin + sugar. Add
 vinegar that's 1/2 of soy. I grew up in Japan - this is the ratio everyone (or at

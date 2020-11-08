@@ -26,7 +26,7 @@ optional: 1-2 Tbsp. brown sugar, and/or harissa
 
 ---
 
-2014-09-25 15:53:15: Alternate:
+2014-09-25 15:53:15: Alternate:  
 1/2 lb. ground beef, browned  
 1/2 onion, chopped  
 1 bell pepper, chopped  

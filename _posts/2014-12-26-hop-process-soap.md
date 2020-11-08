@@ -12,7 +12,7 @@ tags: soap teatree
 14g tea tree oil</p>
   
 <ul>
-    <li class="p1">Check exact recipe at <http://soapcalc.net/calc/soapcalcwp.asp></li>
+    <li class="p1">Check exact recipe at http://soapcalc.net/calc/soapcalcwp.asp</li>
 	<li class="p1">Measure oils into slow cooker and heat on low heat.</li>
 	<li class="p1">Measure water in heat-proof mixing bowl.</li>
 	<li class="p1">Wearing gloves and safety goggles in a well-ventilated area:  

@@ -28,3 +28,7 @@ Source: Bespoke Post flyer
 dry and not cohesive. Added water and then a bit of flour until the dough texture was
 right — should probably be 1.5 or 1.75 cups water, or maybe reduce initial flour and
 add rest once the dough is wet?
+
+2020-09-30 Actually, a little more kneading is probably all this needs to work the
+water into the flour and avoid making the dough too wet (though that's pretty
+annoying given the title of this recipe).
