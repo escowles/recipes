@@ -36,3 +36,17 @@ confectioners’ sugar (about ¼ cup, but mainly just to taste)
  	<li class="ERInstructions"> Combine cream and sugar and beat until thickened.</li>
 </ul>
 Source: http://www.themeaningofpie.com/2010/06/key-lime-pie/  
+
+---
+
+2018-02-11 02:09:03: Dairy-free filling idea:
+* 4 yolks
+* 2 limes zest + 3 limes juice
+* 1 can coconut cream
+* 3 tbsp. honey
+
+2018-03-03 15:17:52: Mini variant:
+* Add 1 Tbsp. of crust mixture to each well of a wrapper-lined muffin pan.
+* Compact each mini-crust with the bottom of a glass.
+* Pre-bake 5 minutes at 350°F, then cool on a wire rack.
+* Fill with 1/4 cup of filling and bake 12-15 minutes at 350°F, until set.

@@ -52,3 +52,16 @@ tags: cuban beef meat
 * Serve with black beans, rice, and sweet plantains
 
 Source: <https://www.daringgourmet.com/best-ropa-vieja-the-national-dish-of-cuba/>
+
+---
+
+2020-11-04 23:19:05: Updated recipe to match what I did today:
+* 1.5 lbs of chuck roast, no salt/pepper
+* 1 bell pepper instead of two
+* 2 tsp. plain paprika, not 2 tsp smoked and 1 tsp plain
+* 6 baby carrots, not a big carrot
+* 6 green olives, not a cup
+* just the pimientos in the olives
+* 1/4 cup roasted red peppers, not 1/2 cup
+* 1 Tbsp. capers, not 2 Tbsp.
+* No parsley

@@ -30,3 +30,16 @@ tags: bbq beef brisket meat pork
  	<li>Allow brisket to rest for 15 minutes, then slice thinly against the grain.</li>
  	<li>To hold until dinner time, wrap in foil and store in a cooler, topped with towels.  This will limit heat loss to about 10-15°F per hour.</li>
 </ol>
+
+---
+
+2020-10-04 11:40:06: Timeline:
+* 6:00 wake up, read news, cup of tea
+* 6:30 rinse, slather, and rub butt
+* 6:40 egg setup
+* 7:00 fire lit, mise en place
+* 7:15 butt on fire
+
+ETA: 4.25 lbs. * 75 min = 5hrs 20min -> 12:30  
+but the guideline in the recipe has never been true, so really:
+* it'll stall around 11, wrap at 3, up to 200F at 5, and ready to eat around 6

@@ -23,3 +23,13 @@ tags: soap
  	<li>Remove the soap from the mold and cut into bars.</li>
 </ul>
 See <a href="http://knittles.ticklefish.org/2015/12/broap/">http://knittles.ticklefish.org/2015/12/broap/</a>
+
+---
+
+2016-12-31 13:52:36: Scaled up:
+* 398g water or completely flat beer
+* 148.6g lye
+* 680g lard
+* 210g olive oil
+* 157g coconut oil
+* 10ml tea tree essential oil

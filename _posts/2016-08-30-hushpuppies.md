@@ -35,3 +35,8 @@ tags: bread fried southern
  	<li>Heat oil to 350°F and drop batter by tablespoonful</li>
  	<li>Fry about 4 minutes, turning often, until golden brown</li>
 </ul>
+
+---
+
+2016-08-30 11:23:29: Makes 24, so halve or third for a more manageable amount.
+Outside was thick and light, not dense, so maybe fry hotter?

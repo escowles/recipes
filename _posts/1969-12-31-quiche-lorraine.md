@@ -6,7 +6,7 @@ category: main
 tags: egg pork
 ---
 <ul>
-	<li>8 slices bacon</li>
+ 	<li>8 slices bacon</li>
  	<li>1 cup shredded Emmental, Gruyere, or Cheddar cheese (3 oz.)</li>
  	<li>1/3 cup onion, finely chopped (1/8 large onion)</li>
  	<li>3/4 cup tomatoes, broccoli, zucchini, or other vegetables</li>
@@ -29,3 +29,16 @@ Directions:
 <ul>
  	<li>Source: http://allrecipes.com/Recipe/quiche-lorraine-i/detail.aspx</li>
 </ul>
+
+---
+
+2017-07-29 23:48:04: Good variant:
+* Asiago cheese
+* 3 slices British bacon
+* Broccoli
+* Don't bother blind baking the crust
+
+2020-06-20 20:33:01: Updated 6/20 to reflect typical modifications: adding broccoli,
+tomatoes, etc., reducing egg mixture so it's not too much for the shallow pie dish I
+usually use. Also, Gruyere is traditional, and my mom used to call this "Quiche
+Laverne" when using Cheddar instead.

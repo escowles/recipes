@@ -43,3 +43,12 @@ Salt and pepper
  	<li>Stir in beans, and cook uncovered for 60+ minutes until desired thickness</li>
 </ul>
 Source: WaPo Tex-Mex recipes feature, originally from "Pati's Mexican Table" by Pati Jinich.  
+
+---
+
+2020-08-16 20:58:27: Differences:
+* used drippings for onion/pepper/etc. additions because the pan didn't dry out
+* did not use any adobo sauce
+* used 1 can each of crushed tomatoes, black beans, and refried beans
+* used 2 cups of chicken stock, boiled down to roughly the right consistency and
+  steak was tough, so added another cup

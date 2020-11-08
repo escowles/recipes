@@ -51,3 +51,23 @@ glaze:
 Makes 24 donuts  
   
 Source: <a href="https://www.washingtonpost.com/recipes/vanilla-glazed-brioche-doughnuts/15889/">https://www.washingtonpost.com/recipes/vanilla-glazed-brioche-doughnuts/15889/</a>
+
+---
+
+2017-05-28 10:51:39: To make 8 donuts:
+1/3 cup milk  
+2½ tsp. yeast  
+2½ tsp warm water (105°F)  
+2 cups flour, plus more for rolling  
+2½ Tbsp. sugar  
+1 tsp. kosher salt  
+1 vanilla bean  
+1 eggs plus 2 yolks  
+7 tsp. butter, softened  
+1 quart vegetable oil for frying
+
+1 2/3 cups powdered sugar  
+2½ to 3½ Tbsp. hot water  
+2½ Tbsp. vanilla extract  
+3/4 tsp. kosher salt  
+½ vanilla bean

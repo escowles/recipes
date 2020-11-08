@@ -17,3 +17,8 @@ fresh rosemary sprigs
  	<li>Non-alcoholic variant: omit gin from base and top up with Sprite or fizzy water</li>
 </ul>
 Source: <a href="http://waitingonmartha.com/holiday-gin-punch/">http://waitingonmartha.com/holiday-gin-punch/</a>
+
+---
+
+2017-06-05 12:50:12: Served 6/3 as a Pan-Galactic Gargle Blaster at our 42nd birthday
+party.  We also intended to put slices of orange in the cup, but forgot...

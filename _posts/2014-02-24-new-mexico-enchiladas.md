@@ -19,4 +19,7 @@ tags: meat mexican pork
 </ul>
 <strong>1,555 Cal (6x 259)</strong>
   
-&nbsp;  
+---
+
+2014-02-24 07:39:52: Best homemade enchiladas yet -- Lydia and i especially like
+these quite a bit more than the verdes.

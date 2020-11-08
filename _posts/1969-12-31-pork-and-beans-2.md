@@ -29,3 +29,7 @@ Directions:
 	<li>Sear pork in frying pan and add to beans.</li>
 	<li>Add remaining ingredients and simmer until meat and beans are tender, approx. 1 hour.</li>
 </ol>
+
+---
+
+2020-10-11 23:11:23: Note: you can't just put this in the crockpot for 8 hours on low — that resulted in very firm beans and tough meat. Simmering for 1 hour got it done.

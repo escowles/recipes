@@ -37,3 +37,10 @@ tags: bread breakfast cinnamon sweets
 Source: <a href="https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/">https://minimalistbaker.com/the-worlds-easiest-cinnamon-rolls/</a>
   
 </div>
+
+---
+
+2017-11-04 13:57:11: Made these on Trey's recommendation, using Blue Bonnet margarine
+instead of Earth Balance.  They were good (the dough especially), but I suspect that
+using Earth Balance and adding some brown sugar to the filling would improve them —
+they were not as rich as I would like.

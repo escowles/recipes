@@ -34,3 +34,11 @@ salt, pepper, rosemary, and thyme
  	<li>Bake 30 minutes at 425°F, covering crust edge to prevent burning</li>
  	<li>Remove from oven and rest 10 minutes before serving</li>
 </ul>
+
+---
+
+2018-09-23 21:16:45:
+* 20x salt
+* 40x pepper
+* 1/2 tsp rosemary
+* 1/2 tsp thyme

@@ -24,3 +24,10 @@ salt to taste
  	<li>Add remaining ingredients, reduce heat, and simmer (10 minutes)</li>
 </ul>
 Source: <a href="https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/">https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/</a>
+
+---
+
+2019-11-18 00:17:54: Much, much better than the recipe in Pie Squared. But I'd make
+some changes on a second try:
+* Substitute 1/4 apricot jam for the apricots and sugar.
+* Use a small can of tomato sauce instead of a big one.

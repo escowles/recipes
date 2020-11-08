@@ -54,3 +54,11 @@ tags: banana chocolate
  	<li>Before serving, top with sliced bananas and chopped chocolate.</li>
 </ul>
 Source: <a href="https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/">https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/</a>
+
+---
+
+2019-07-18 11:17:54: Like this pie a lot, but don't think the crust is the best
+option (hard to work with dough, resulting in overthick crust, and the flavor's not
+great, either).  Would rather have an Oreo crust (see <a href="https://escowles.github.io/recipes/dessert/2019/04/17/oreo-mini-cheesecakes.html">Oreo Mini Cheesecakes</a>).
+
+Also, we could do a traditional custard (like in <a href=""https://escowles.github.io/recipes/dessert/1970/01/01/berry-trifle.html>Berry Trifle</a>).
