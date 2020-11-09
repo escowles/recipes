@@ -2,7 +2,7 @@
 layout: post
 title:  ropa vieja
 date:   2020-11-04 20:46:32 -0500
-categories: main
+category: main
 tags: cuban beef meat
 ---
 
