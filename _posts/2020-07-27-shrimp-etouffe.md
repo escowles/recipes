@@ -3,7 +3,7 @@ layout: post
 title: Shrimp Etouffe
 date: 2020-07-27 22:24:56 -0500
 category: main
-tags: cajun shrimp
+tags: cajun seafood shrimp
 ---
 2 lbs. shrimp, peeled  
 1/4 cup vegetable oil  

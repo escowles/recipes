@@ -3,7 +3,7 @@ layout: post
 title: Cream Cheese Wontons (Crab Rangoon)
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: appetizer dairy asian
+tags: appetizer dairy asian crab seafood
 ---
 <b>3100 Cal (24x 130)</b>
 <p>Ingredients:</p><ul>
