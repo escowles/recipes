@@ -3,7 +3,7 @@ layout: post
 title: Mashed Potatoes (Rustic)
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: 
+tags:  potatoes
 ---
 <b>1200 Cal (4x 300)</b>
 <p>Ingredients:</p><ul>

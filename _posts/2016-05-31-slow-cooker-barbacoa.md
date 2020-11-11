@@ -3,7 +3,7 @@ layout: post
 title: Slow cooker barbacoa
 date: 2016-05-31 22:45:28 -0500
 category: main
-tags: meat mexican
+tags: meat mexican slowcooker
 ---
 <div class="ingredients">
   

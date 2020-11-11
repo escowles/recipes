@@ -3,7 +3,7 @@ layout: post
 title: Moroccan Salmon
 date: 2014-01-26 10:57:39 -0500
 category: main
-tags: salmon seafood
+tags: salmon seafood middleeast
 ---
 ½ cup plain yogurt  
 1 lemon  

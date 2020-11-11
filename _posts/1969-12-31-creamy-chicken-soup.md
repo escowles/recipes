@@ -3,7 +3,7 @@ layout: post
 title: Creamy Chicken Soup
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: soup
+tags: soup chicken meat
 ---
 <b>1350 Cal (6x 225)</b>
 <p>Ingredients:</p><ul>

@@ -3,7 +3,7 @@ layout: post
 title: Orange Sherbet
 date: 2020-08-17 10:52:07 -0500
 category: dessert
-tags: icecream orange
+tags: icecream orange fruit
 ---
 1½ Tbsp. orange zest  
 2 cups orange juice (approx 2 lbs.)  

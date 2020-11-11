@@ -3,7 +3,7 @@ layout: post
 title: Banana Cream Pudding
 date: 2019-02-18 22:51:06 -0500
 category: dessert
-tags: banana pudding
+tags: banana pudding fruit
 ---
 1/2 cup (1 stick) butter  
 1 cup sugar  

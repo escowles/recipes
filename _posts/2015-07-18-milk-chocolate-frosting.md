@@ -3,7 +3,7 @@ layout: post
 title: Milk Chocolate Frosting
 date: 2015-07-18 15:36:58 -0500
 category: dessert
-tags: chocolate
+tags: chocolate frosting
 ---
 <ul>
  	<li class="ingredient">1 cup unsalted butter, softened</li>

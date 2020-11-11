@@ -3,7 +3,7 @@ layout: post
 title: Chocolate Banana Cream Pie
 date: 2018-07-14 00:14:46 -0500
 category: dessert
-tags: banana chocolate pie
+tags: banana chocolate pie fruit
 ---
 <strong>Chocolate Pie Crust</strong>
   

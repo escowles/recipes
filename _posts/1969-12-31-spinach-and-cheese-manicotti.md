@@ -3,7 +3,7 @@ layout: post
 title: Spinach and Cheese Manicotti
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: vegetarian
+tags: vegetarian pasta italian
 ---
 <b>2400 Cal (6x 400)</b>
 <p>Ingredients:</p><ul>

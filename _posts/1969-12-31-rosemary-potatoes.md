@@ -3,7 +3,7 @@ layout: post
 title: Rosemary Potatoes
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: 
+tags:  potatoes
 ---
 <b>640 Cal (4x 160)</b>
 <p>Ingredients:</p><ul>

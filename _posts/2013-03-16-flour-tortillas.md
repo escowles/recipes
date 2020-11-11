@@ -3,7 +3,7 @@ layout: post
 title: Flour Tortillas
 date: 2013-03-16 06:39:39 -0500
 category: ingredients
-tags: bread mexican recipes
+tags: bread mexican
 ---
 <strong>1750 Cal (10x 175)</strong>
   

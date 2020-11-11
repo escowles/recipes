@@ -3,7 +3,7 @@ layout: post
 title: Chicken and Rice
 date: 2020-10-28 16:42:12 -0500
 category: main
-tags: 
+tags:  chicken rice meat
 ---
 1 Tbsp. olive oil  
 1 lb. boneless chicken thighs  

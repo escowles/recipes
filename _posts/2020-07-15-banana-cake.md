@@ -3,7 +3,7 @@ layout: post
 title: Banana Cake
 date: 2020-07-15 17:31:13 -0500
 category: dessert
-tags: cake banana
+tags: cake banana fruit
 ---
 3 cups flour  
 1 tsp. baking powder  

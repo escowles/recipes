@@ -3,7 +3,7 @@ layout: post
 title: Doughnuts
 date: 2016-03-11 15:06:21 -0500
 category: sides
-tags: bread breakfast
+tags: bread breakfast fried
 ---
 <span style="text-decoration: underline;"><strong>Doughnuts</strong></span>
   

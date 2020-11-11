@@ -3,7 +3,7 @@ layout: post
 title: Shepherd's Pie
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: beef british meat
+tags: beef british meat cooksillustrated
 ---
 <b>1860 Cal (4x 465)</b>
   
@@ -46,3 +46,5 @@ Directions:
  	<li>Broil (high) for 3-5 min., until peaks are browned.</li>
  	<li>Remove from oven and rest for 10 min. before serving.</li>
 </ol>
+
+Source: Cook's Illustrated

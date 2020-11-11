@@ -3,7 +3,7 @@ layout: post
 title: Garlic Parmesan Couscous
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: 
+tags:  couscous middleeast
 ---
 <b>500 Cal (4x 125)</b>
 <p>Ingredients:</p><ul>

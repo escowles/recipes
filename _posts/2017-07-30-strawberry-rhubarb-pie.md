@@ -3,7 +3,7 @@ layout: post
 title: Strawberry Rhubarb Pie
 date: 2017-07-30 23:47:27 -0500
 category: dessert
-tags: fruit pie rhubarb strawberries
+tags: fruit pie rhubarb strawberries fruit
 ---
 1½ lbs. rhubarb, sliced ½" thick (about 3½ cups)  
 16 oz. strawberries, hulled and halved  

@@ -3,7 +3,7 @@ layout: post
 title: Chocolate Frosting
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags:  frosting chocolate
 ---
 <b>2148 Cal (12x 179)</b>
 <p>Ingredients:</p><ul>

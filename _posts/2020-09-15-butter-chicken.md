@@ -3,7 +3,7 @@ layout: post
 title: Butter Chicken
 date: 2020-09-15 11:04:52 -0500
 category: main
-tags: indian meat
+tags: indian meat chicken
 ---
 1.5 lbs. chicken breast  
 1/2 cup plain yogurt  

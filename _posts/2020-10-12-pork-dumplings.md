@@ -3,7 +3,7 @@ layout: post
 title: Pork Dumplings
 date: 2020-10-12 14:07:58 -0500
 category: main
-tags: chinese dumplings meat pork
+tags: chinese dumplings meat pork appetizer
 ---
 1 lb. ground pork  
 3 cloves garlic, minced  

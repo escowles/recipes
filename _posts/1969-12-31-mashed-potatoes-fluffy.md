@@ -3,7 +3,7 @@ layout: post
 title: Mashed Potatoes (Fluffy)
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: 
+tags:  potatoes
 ---
 <b>850 Cal (4x 213)</b>
 <p>Ingredients:</p><ul>

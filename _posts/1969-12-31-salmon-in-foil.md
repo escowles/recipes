@@ -3,7 +3,7 @@ layout: post
 title: Salmon in Foil
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: seafood
+tags: seafood salmon
 ---
 <b>920 Cal (4x 230)</b>
 <p>Ingredients:</p><ul>

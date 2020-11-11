@@ -3,7 +3,7 @@ layout: post
 title: Cuban Roast Pork
 date: 2016-12-23 19:47:37 -0500
 category: main
-tags: cuban pork
+tags: cuban pork meat
 ---
 4 lb. pork shoulder roast  
 4 cloves garlic  

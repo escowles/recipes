@@ -3,7 +3,7 @@ layout: post
 title: Calvados Truffles
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: chocolate candy
+tags: chocolate candy alcohol
 ---
 <b>2240 Cal (140 x 16)</b>
   

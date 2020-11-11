@@ -3,7 +3,7 @@ layout: post
 title: Moroccan Couscous
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: 
+tags:  middleeast couscous
 ---
 <b>1975 Cal (6x 330)</b>
 <p>Ingredients:</p><ul>

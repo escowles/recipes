@@ -3,7 +3,7 @@ layout: post
 title: "Queso #2 (Pepper Gravy)"
 date: 2017-02-18 12:12:06 -0500
 category: sides
-tags: cheese dip mexican
+tags: cheese dip mexican appetizer
 ---
 2 Tbsp. butter  
 1/2 yellow onion, diced  

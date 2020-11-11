@@ -3,7 +3,7 @@ layout: post
 title: Asian Fish In A Packet
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: seafood
+tags: seafood fish asian
 ---
 <p><b>1550 Cal (4x 387)</b></p>
 <p>Ingredients:</p>

@@ -3,7 +3,7 @@ layout: post
 title: Icing Sugar
 date: 2017-02-28 18:14:57 -0500
 category: dessert
-tags: 
+tags:  frosting
 ---
 1 cup powdered sugar  
 1 Tbsp. milk  

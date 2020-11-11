@@ -3,7 +3,7 @@ layout: post
 title: Hazelnut Praline
 date: 2015-02-06 13:35:18 -0500
 category: dessert
-tags: macaronfilling candy
+tags: macaronfilling candy hazelnuts
 ---
 <div id="preparation" class="instructions">
   

@@ -3,7 +3,7 @@ layout: post
 title: Cuban Black Beans
 date: 2016-12-27 15:46:16 -0500
 category: sides
-tags: cuban
+tags: cuban beans
 ---
 2 Tbsp. olive oil  
 1 onion, diced  

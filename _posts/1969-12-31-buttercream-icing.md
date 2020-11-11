@@ -3,7 +3,7 @@ layout: post
 title: Buttercream Icing
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags:  frosting
 ---
 <b>3600 Cal (24x 150)</b>
 <p>Ingredients:</p><ul>

@@ -3,7 +3,7 @@ layout: post
 title: WaPo Queso
 date: 2020-08-07 11:29:48 -0500
 category: ingredients
-tags: cheese dairy dip mexican
+tags: cheese dairy dip mexican appetizer
 ---
 2 Tbsp. butter  
 1 small onion  

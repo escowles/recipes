@@ -3,7 +3,7 @@ layout: post
 title: Chocolate Soufflé
 date: 2016-08-09 19:36:04 -0500
 category: dessert
-tags: chocolate
+tags: chocolate cooksillustrated souffle
 ---
 1 Tbsp. butter, softened  
 1 Tbsp. sugar  

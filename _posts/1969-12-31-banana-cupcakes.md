@@ -3,7 +3,7 @@ layout: post
 title: Banana Cupcakes
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: cupcakes cake banana
+tags: cupcakes cake banana fruit
 ---
 <b>3273 Cal (18x 182)</b>
 <p>Ingredients:</p><ul>

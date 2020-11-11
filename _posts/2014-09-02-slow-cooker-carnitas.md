@@ -3,7 +3,7 @@ layout: post
 title: Slow Cooker Carnitas
 date: 2014-09-02 07:51:22 -0500
 category: main
-tags: meat mexican pork
+tags: meat mexican pork slowcooker
 ---
 2-3 lbs. boneless pork shoulder roast  
 salt and pepper to taste  

@@ -3,7 +3,7 @@ layout: post
 title: Beef Stew Pie
 date: 2020-10-24 10:39:09 -0500
 category: main
-tags: beef gravy pie
+tags: beef gravy pie stew
 ---
 3 batches of <a href="https://escowles.github.io/recipes/dessert/1970/01/01/pie-crust.html">pie crust</a> dough  
 <ul>

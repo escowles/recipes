@@ -3,7 +3,7 @@ layout: post
 title: Blood Orange Marmalade
 date: 2019-02-10 15:22:26 -0500
 category: ingredients
-tags: british jam marmalade orange
+tags: british jam marmalade orange fruit
 ---
 9 blood oranges (Moro)  
 6 cups water  

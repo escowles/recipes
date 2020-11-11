@@ -3,7 +3,7 @@ layout: post
 title: Pork and Beans
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: meat pork southern
+tags: meat pork southern stew
 ---
 <b>1940 Cal (4x 485)</b>
   

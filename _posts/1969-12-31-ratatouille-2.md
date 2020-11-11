@@ -3,7 +3,7 @@ layout: post
 title: Ratatouille
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: vegetarian
+tags: vegetarian french vegetable
 ---
 <b>660 Cal (6x 110)</b>
   

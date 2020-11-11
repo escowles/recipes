@@ -3,7 +3,7 @@ layout: post
 title: Brownie In A Mug
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: 
+tags:  chocolate
 ---
 <b>600 Cal (1x 600)</b>
 <p>Ingredients:</p><ul>

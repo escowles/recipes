@@ -3,7 +3,7 @@ layout: post
 title: Hushpuppies
 date: 2016-08-30 11:18:02 -0500
 category: sides
-tags: bread fried southern
+tags: bread fried southern appetizer
 ---
 3/4 cup flour  
 3/4 cup fine-ground cornmeal  

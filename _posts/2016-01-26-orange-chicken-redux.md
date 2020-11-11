@@ -3,7 +3,7 @@ layout: post
 title: Orange Chicken Redux
 date: 2016-01-26 16:52:50 -0500
 category: main
-tags: chicken chinese orange
+tags: chicken chinese orange fruit
 ---
 <span style="text-decoration: underline;">Sauce</span>
   

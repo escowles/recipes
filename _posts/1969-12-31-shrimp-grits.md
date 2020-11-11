@@ -3,7 +3,7 @@ layout: post
 title: Shrimp & Grits
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: seafood tupelohoneycafe
+tags: seafood tupelohoneycafe shrimp
 ---
 <h2>Shrimp (620 Cal, 4x 155):</h2>
 <ul>
