@@ -3,7 +3,7 @@ layout: post
 title: California Rolls
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: seafood sushi japanese
+tags: seafood sushi japanese asian
 ---
 <b>2000 Cal (4x 500)</b>
 <p>Ingredients:</p><ul>

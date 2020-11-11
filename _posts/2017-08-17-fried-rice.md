@@ -3,7 +3,7 @@ layout: post
 title: Fried Rice
 date: 2017-08-17 23:57:01 -0500
 category: main
-tags: chicken chinese leftovers rice
+tags: chicken chinese leftovers rice meat asian
 ---
 The great thing about fried rice is you can use up whatever leftovers you have around, so take this as a general guideline:  
   

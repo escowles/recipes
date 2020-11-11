@@ -3,7 +3,7 @@ layout: post
 title: Madras Curry Chicken
 date: 2014-12-15 19:18:03 -0500
 category: main
-tags: chicken curry indian meat
+tags: chicken curry indian meat asian
 ---
 <strong>1680 Cal (4x 420)</strong>
   

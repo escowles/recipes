@@ -3,7 +3,7 @@ layout: post
 title: Dairy-Free Crockpot Butter Chicken
 date: 2018-02-18 15:35:57 -0500
 category: main
-tags: chicken dairyfree indian slowcooker
+tags: chicken dairyfree indian slowcooker meat asian
 ---
 2 Tbsp. coconut oil  
 1/2 onion, chopped  

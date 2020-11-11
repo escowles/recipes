@@ -3,7 +3,7 @@ layout: post
 title: Chicken and Apricot Tagine
 date: 2016-10-16 15:56:05 -0500
 category: main
-tags: chicken middleeast moroccan fruit apricots
+tags: chicken middleeast moroccan fruit apricots meat
 ---
 1 onion, sliced  
 2 cloves garlic, minced  

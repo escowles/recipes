@@ -3,7 +3,7 @@ layout: post
 title: brisket marinade
 date: 2015-08-22 09:50:57 -0500
 category: ingredients
-tags: bbq brisket marinade sauce
+tags: bbq brisket marinade sauce southern
 ---
 1 tbsp. salt  
 1 tsp. black pepper  

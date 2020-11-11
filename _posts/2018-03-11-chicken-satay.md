@@ -3,7 +3,7 @@ layout: post
 title: Chicken Satay
 date: 2018-03-11 20:36:08 -0500
 category: main
-tags: chicken peanutbutter thai
+tags: chicken peanutbutter thai meat asian
 ---
 2 lbs. boneless skinless chicken breast, sliced into strips  
 2 Tbsp. fish sauce  

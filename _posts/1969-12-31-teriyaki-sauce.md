@@ -3,7 +3,7 @@ layout: post
 title: Teriyaki Sauce
 date: 1969-12-31 19:00:00 -0500
 category: ingredients
-tags: sauce asian
+tags: sauce asian japanese
 ---
 <b>250 Cal (4x 63)</b>
 <p>Ingredients:</p><ul>

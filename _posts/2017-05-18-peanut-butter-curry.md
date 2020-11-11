@@ -3,7 +3,7 @@ layout: post
 title: Peanut Butter Curry
 date: 2017-05-18 21:18:18 -0500
 category: main
-tags: chicken curry peanutbutter thai
+tags: chicken curry peanutbutter thai meat asian
 ---
 2 Tbsp. oil  
 1½ lbs. chicken breast, cubed  

@@ -3,7 +3,7 @@ layout: post
 title: Chicken Pot Pie
 date: 2018-09-22 14:06:54 -0500
 category: main
-tags: chicken english pie
+tags: chicken british pie meat
 ---
 2 cups chicken stock  
 1 lb. boneless skinless chicken breast  

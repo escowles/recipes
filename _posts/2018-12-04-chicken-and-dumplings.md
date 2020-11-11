@@ -3,7 +3,7 @@ layout: post
 title: Chicken and Dumplings
 date: 2018-12-04 14:50:44 -0500
 category: main
-tags: chicken soup southern
+tags: chicken soup southern meat
 ---
 1.5 lbs. chicken breast  
 1 celery stalk  

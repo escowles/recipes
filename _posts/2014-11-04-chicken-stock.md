@@ -3,7 +3,7 @@ layout: post
 title: Chicken stock
 date: 2014-11-04 13:51:45 -0500
 category: ingredients
-tags: chicken soup
+tags: chicken soup meat
 ---
 Ingredients  
 <ul>

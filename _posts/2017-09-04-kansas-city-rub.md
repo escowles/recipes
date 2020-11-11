@@ -3,7 +3,7 @@ layout: post
 title: Kansas City Rub
 date: 2017-09-04 11:45:55 -0500
 category: ingredients
-tags: bbq sauce
+tags: bbq sauce southern
 ---
 1/3 cup brown sugar  
 1/3 cup white sugar  

@@ -3,7 +3,7 @@ layout: post
 title: Berry Trifle
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: trifle fruit strawberries raspberries blueberries
+tags: trifle fruit strawberries raspberries blueberries british
 ---
 <b>4200 Cal (12 x 350)</b>
 <p>Ingredients:</p><ul>

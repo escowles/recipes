@@ -3,7 +3,7 @@ layout: post
 title: Saffron Chicken Tagine
 date: 2016-08-07 10:33:40 -0500
 category: main
-tags: chicken middleeast moroccan
+tags: chicken middleeast moroccan meat
 ---
 <div class="ERSIngredients">
 <div class="ERSIngredients">

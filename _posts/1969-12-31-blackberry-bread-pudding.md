@@ -3,7 +3,7 @@ layout: post
 title: Blackberry Bread Pudding
 date: 1969-12-31 19:00:00 -0500
 category: desserts
-tags: bread cinnamon blackberries tupelohoneycafe fruit
+tags: bread cinnamon blackberries tupelohoneycafe fruit southern
 ---
 <b>2100 Cal (8x 263)</b>
 <p>Ingredients:</p><ul>

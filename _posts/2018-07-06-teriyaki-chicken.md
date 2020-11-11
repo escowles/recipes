@@ -3,7 +3,7 @@ layout: post
 title: Teriyaki Chicken
 date: 2018-07-06 21:06:02 -0500
 category: main
-tags: chicken japanese
+tags: chicken japanese meat asian
 ---
 <div class="wprm-recipe-ingredients-container">
 <div class="wprm-recipe-ingredient-group">

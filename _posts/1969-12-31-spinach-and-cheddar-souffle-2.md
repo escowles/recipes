@@ -3,7 +3,7 @@ layout: post
 title: Spinach and Cheddar Souffle
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: vegetarian egg spinach cheese souffle
+tags: vegetarian egg spinach cheese souffle french
 ---
 <b>1300 Cal (4x 325)</b>
 <p>Ingredients:</p><ul>

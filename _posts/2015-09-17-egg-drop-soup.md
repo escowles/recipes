@@ -3,7 +3,7 @@ layout: post
 title: Egg Drop Soup
 date: 2015-09-17 12:17:02 -0500
 category: main
-tags: chinese egg soup
+tags: chinese egg soup asian
 ---
 1 quart chicken broth  
 1 tsp. soy sauce  

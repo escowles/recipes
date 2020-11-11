@@ -3,7 +3,7 @@ layout: post
 title: Garam Masala
 date: 2017-07-07 20:17:31 -0500
 category: ingredients
-tags: indian spice
+tags: indian spice asian
 ---
 2 dried red chilies  
 1 tsp. black peppercorns  

@@ -3,7 +3,7 @@ layout: post
 title: Japanese Curry Roux
 date: 2018-11-17 19:57:19 -0500
 category: ingredients
-tags: curry japanese sauce
+tags: curry japanese sauce asian
 ---
 3 Tbsp. butter  
 3 Tbsp. flour  

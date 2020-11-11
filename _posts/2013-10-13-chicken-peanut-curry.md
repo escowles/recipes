@@ -3,7 +3,7 @@ layout: post
 title: Chicken Peanut Curry
 date: 2013-10-13 17:04:32 -0500
 category: main
-tags: chicken indian meat curry
+tags: chicken indian meat curry asian
 ---
 1,440 Cal (4x 360)  
   

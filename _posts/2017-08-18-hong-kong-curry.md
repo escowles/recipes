@@ -3,7 +3,7 @@ layout: post
 title: Hong Kong Curry
 date: 2017-08-18 00:12:32 -0500
 category: main
-tags: chicken chinese mix
+tags: chicken chinese mix meat asian
 ---
 2 Tbsp. peanut or canola oil  
 1 lb. chicken, cubed  
