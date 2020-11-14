@@ -3,7 +3,7 @@ layout: post
 title: Muffin Tin Pizza
 date: 2020-10-11 12:50:28 -0500
 category: main
-tags: mini pizza
+tags: mini pizza vegetarian
 ---
 <ul>
  	<li>Roll out <a href="https://escowles.github.io/recipes/ingredients/1970/01/01/pizza-dough.html">dough</a> and cut into 12 pieces, and push into greased muffin wells.</li>

@@ -3,7 +3,7 @@ layout: post
 title: Tomato Soup
 date: 2014-03-09 11:26:56 -0500
 category: main
-tags: italian soup tomato
+tags: italian soup tomato vegetarian
 ---
 <strong>664 Cal (4x 166)</strong>
   

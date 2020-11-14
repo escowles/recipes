@@ -3,7 +3,7 @@ layout: post
 title: Beef with Broccoli
 date: 2015-10-17 19:25:15 -0500
 category: main
-tags: asian beef chinese meat
+tags: asian beef chinese meat vegetable
 ---
 1 tsp salt  
 1 tsp sugar  

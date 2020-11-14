@@ -3,7 +3,7 @@ layout: post
 title: Irish Stew
 date: 2014-03-16 14:50:40 -0500
 category: main
-tags: irish lamb soup stew
+tags: irish lamb soup stew meat
 ---
 <h2>Marinade</h2>
 1½ lb. lamb shoulder  

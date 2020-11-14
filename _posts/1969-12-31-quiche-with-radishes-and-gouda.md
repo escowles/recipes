@@ -3,7 +3,7 @@ layout: post
 title: Quiche with Radishes and Gouda
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: egg quiche french cheese
+tags: egg quiche french cheese vegetarian
 ---
 <b>2200 Cal (8x 275)</b>
 <p>Ingredients:</p><ul>
