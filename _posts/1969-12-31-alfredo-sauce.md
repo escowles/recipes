@@ -3,7 +3,7 @@ layout: post
 title: Alfredo Sauce
 date: 1969-12-31 19:00:00 -0500
 category: ingredients
-tags: sauce italian dairy
+tags: sauce italian dairy cheese
 ---
 <b>1840 Cal (4x 480)</b>
 <p>Ingredients:</p><ul>

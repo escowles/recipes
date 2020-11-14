@@ -3,7 +3,7 @@ layout: post
 title: Cherry Syrup
 date: 2017-06-17 02:07:17 -0500
 category: other
-tags: cherry cocktails fruit syrup
+tags: cherry cocktails fruit syrup drinks
 ---
 2 lbs. Montmorency cherries  
 2 cups sugar  

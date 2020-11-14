@@ -3,7 +3,7 @@ layout: post
 title: Chicken Parmesan
 date: 2020-11-01 21:42:26 -0500
 category: main
-tags: chicken italian meat
+tags: chicken italian meat cheese
 ---
 4 chicken breast halves  
 salt and pepper  

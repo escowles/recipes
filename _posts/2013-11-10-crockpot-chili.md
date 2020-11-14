@@ -3,7 +3,7 @@ layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
 category: main
-tags: meat mexican slowcooker
+tags: meat mexican slowcooker beans
 ---
 <strong>1,560 Cal (6x 260)</strong>
   

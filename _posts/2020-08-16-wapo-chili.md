@@ -3,7 +3,7 @@ layout: post
 title: WaPo Chili
 date: 2020-08-16 11:22:39 -0500
 category: main
-tags: beef meat mexican
+tags: beef meat mexican beans
 ---
 2 Tbsp. vegetable oil  
 1 lb. beef stew meat, cubed  

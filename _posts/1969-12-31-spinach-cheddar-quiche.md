@@ -3,7 +3,7 @@ layout: post
 title: Spinach Cheddar Quiche
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: egg quiche french
+tags: egg quiche french cheese
 ---
 <b>2400 Cal (8x 300)</b>
 <p>Ingredients:</p><ul>

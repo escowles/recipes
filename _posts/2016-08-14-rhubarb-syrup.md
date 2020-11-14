@@ -3,7 +3,7 @@ layout: post
 title: Rhubarb Syrup
 date: 2016-08-14 19:34:52 -0500
 category: other
-tags: cocktails fruit rhubarb syrup
+tags: cocktails fruit rhubarb syrup drinks
 ---
 1 stalk rhubarb, sliced  
 1/2 cup sugar  
