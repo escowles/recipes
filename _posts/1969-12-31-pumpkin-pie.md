@@ -3,7 +3,7 @@ layout: post
 title: Pumpkin Pie (Pumpkin Puree)
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: pumpkin pie thanksgiving2020
+tags: pumpkin pie thanksgiving thanksgiving2020
 ---
 <b>2400 Cal (12x 200)</b>
   
