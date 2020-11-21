@@ -19,6 +19,7 @@ Thanksgiving 2019:
 1 tsp. black pepper  
 2 cups chicken stock  
 <ul>
+	<li>Thaw turkey for 6 hours per pound in the refrigerator, or 30 minutes per pound in a cold water bath (changed every 30 minutes).</li>
  	<li>24 hours before roasting, rinse turkey and pat dry. Rub all over with salt, including inside the cavities. Wrap with plastic wrap and refrigerate, turning over every 8 hours.</li>
  	<li>2 hours before roasting, remove from refrigerator, pat dry (do not rinse). Place in roasting pan and rest uncovered at room temperature.</li>
  	<li>30 minutes before roasting, heat oven to 450°F, stuff both cavities with herbs, onion, and apple, brush with butter, and sprinkle with pepper.</li>
