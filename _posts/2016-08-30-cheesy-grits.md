@@ -3,7 +3,7 @@ layout: post
 title: Cheesy Grits
 date: 2016-08-30 11:22:04 -0500
 category: sides
-tags: cheese southern grits
+tags: cheese southern grits dairy
 ---
 5 cups water  
 1 tsp. kosher salt  

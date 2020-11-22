@@ -3,7 +3,7 @@ layout: post
 title: Chocolate Goodies
 date: 2014-11-19 10:24:17 -0500
 category: dessert
-tags: chocolate cookies
+tags: chocolate cookies peanutbutter
 ---
 1½ cups sugar  
 2 Tbsp. cocoa powder  

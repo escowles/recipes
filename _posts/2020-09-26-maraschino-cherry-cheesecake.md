@@ -3,7 +3,7 @@ layout: post
 title: Maraschino Cherry Cheesecake
 date: 2020-09-26 21:14:10 -0500
 category: dessert
-tags: cheesecake cherry fruit
+tags: cheesecake cherry fruit dairy creamcheese
 ---
 <a href="https://escowles.github.io/recipes/dessert/2016/06/06/key-lime-pie.html">graham cracker crust</a>
 2 (8 oz.) packages of cream cheese, softened  

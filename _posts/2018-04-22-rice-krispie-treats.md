@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Rice Krispie Treats
+title: Vegan Rice Krispie Treats
 date: 2018-04-22 13:15:35 -0500
 category: dessert
-tags: dairyfree
+tags: dairyfree peanutbutter
 ---
 1/2 cup peanut butter  
 1/2 cup maple syrup  

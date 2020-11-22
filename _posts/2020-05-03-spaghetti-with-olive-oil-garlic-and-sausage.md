@@ -3,7 +3,7 @@ layout: post
 title: Spaghetti with Olive Oil, Garlic, and Sausage
 date: 2020-05-03 19:58:57 -0500
 category: main
-tags: italian meat pasta pork sausage cheese
+tags: italian meat pasta pork sausage cheese dairy
 ---
 1 lb. spaghetti (n.b., not thinner pasta like angel hair)  
 2 Tbsp. olive oil  

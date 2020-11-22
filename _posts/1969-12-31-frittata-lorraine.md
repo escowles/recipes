@@ -3,7 +3,7 @@ layout: post
 title: Frittata Lorraine
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: vegetarian egg frittata cheese
+tags: vegetarian egg frittata cheese dairy
 ---
 <b>1600 Cal (8x 200)</b>
 <p>Ingredients:</p><ul>

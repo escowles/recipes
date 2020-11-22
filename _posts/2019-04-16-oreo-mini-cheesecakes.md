@@ -3,7 +3,7 @@ layout: post
 title: Oreo Mini Cheesecakes
 date: 2019-04-16 20:12:58 -0500
 category: dessert
-tags: cheesecake mini oreos
+tags: cheesecake mini oreos dairy creamcheese
 ---
 12 Oreos  
 2 Tbsp. butter, melted  
