@@ -11,11 +11,10 @@ tags: crisp pie
 3/4 tsp. cinnamon  
 1/2 tsp. nutmeg  
 4 Tbsp. butter  
-<ul>
- 	<li>Combine dry ingredients and mix thoroughly, breaking up brown sugar lumps</li>
- 	<li>Melt butter, and use 1 Tbsp. to brush a 9" square dish</li>
- 	<li>Fill dish with pie filling, like [Cherry Pie Filling]({{ site.baseurl }}{% post_url 2017-06-13-cherry-pie %})</li>
- 	<li>Mix remaining butter into dry ingredients, then spread over pie filling</li>
- 	<li>Bake at 350°F for 30 minutes, then let cool at least 15 minutes before serving</li>
-</ul>
-Source: <a href="http://allrecipes.com/recipe/23421/cherry-crisp/">http://allrecipes.com/recipe/23421/cherry-crisp/</a>
+* Combine dry ingredients and mix thoroughly, breaking up brown sugar lumps
+* Melt butter, and use 1 Tbsp. to brush a 9" square dish
+* Fill dish with pie filling, like [Cherry Pie Filling]({{ site.baseurl }}{% post_url 2017-06-13-cherry-pie %})
+* Mix remaining butter into dry ingredients, then spread over pie filling
+* Bake at 350°F for 30 minutes, then let cool at least 15 minutes before serving
+
+Source: <http://allrecipes.com/recipe/23421/cherry-crisp/>

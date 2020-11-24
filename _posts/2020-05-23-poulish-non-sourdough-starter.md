@@ -8,17 +8,15 @@ tags: bread vegetarian
 1 cup flour  
 ½ cup lukewarm filtered water  
 1 tsp. dry yeast  
-<ul>
- 	<li>Mix all ingredients in a 1-quart mason jar (flour and water should be equal by weight), adding water if needed to make a thick paste.</li>
- 	<li>Cover with a wet towel, and rest for 24 hours at room temperature.</li>
- 	<li>Feed the starter, and continue feeding weekly.</li>
- 	<li>Refrigerate when not feeding and using.</li>
-</ul>
+* Mix all ingredients in a 1-quart mason jar (flour and water should be equal by weight), adding water if needed to make a thick paste.
+* Cover with a wet towel, and rest for 24 hours at room temperature.
+* Feed the starter, and continue feeding weekly.
+* Refrigerate when not feeding and using.
+
 <span style="text-decoration: underline;">Feeding and Using</span>
-<ul>
- 	<li>Discard all but ½ cup of the starter. It will contain less-active yeast, and can be used to make baked good that do not need to rise.</li>
- 	<li>Add 1 cup of flour and 1/2 cup lukewarm filtered water.</li>
- 	<li>Mix thoroughly and let rest 4-10 hours at room temperature, until risen and starting to fall.</li>
- 	<li>Use a chunk of starter to make [sourdough bread]({{ site.baseurl }}{% post_url 2020-05-19-sourdough-bread %}).</li>
-</ul>
-Source: <a href="https://www.feastingathome.com/sourdough-starter/">https://www.feastingathome.com/sourdough-starter/</a>
+* Discard all but ½ cup of the starter. It will contain less-active yeast, and can be used to make baked good that do not need to rise.
+* Add 1 cup of flour and 1/2 cup lukewarm filtered water.
+* Mix thoroughly and let rest 4-10 hours at room temperature, until risen and starting to fall.
+* Use a chunk of starter to make [sourdough bread]({{ site.baseurl }}{% post_url 2020-05-19-sourdough-bread %}).
+
+Source: <https://www.feastingathome.com/sourdough-starter/>
