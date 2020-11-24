@@ -9,7 +9,7 @@ tags: chocolate candy hazelnuts
   
 <span style="text-decoration: underline;">Filling:</span>
   
-4 oz. <a title="Hazelnut Praline" href="https://escowles.github.io/recipes/dessert/2015/02/06/hazelnut-praline.html">hazelnut praline</a>
+4 oz. [hazelnut praline]({{ site.baseurl }}{% post_url 2015-02-06-hazelnut-praline %})
 3 oz. milk chocolate  
 1 oz. semisweet chocolate  
 <ul>

@@ -8,7 +8,7 @@ tags: bread vegetarian
 520g flour  
 10g (2 tsp.) salt  
 385g filtered water  
-90g <a href="https://escowles.github.io/recipes/ingredients/2020/05/23/poulish-non-sourdough-starter.html">sourdough starter</a>
+90g [sourdough starter]({{ site.baseurl }}{% post_url 2020-05-23-poulish-non-sourdough-starter %})
 <ul>
  	<li>Feed starter and let rise for 4-10 hours at room temperature</li>
  	<li>Mix flour and salt in a large mixing bowl.</li>

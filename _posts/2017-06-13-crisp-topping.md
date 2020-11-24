@@ -14,7 +14,7 @@ tags: crisp pie
 <ul>
  	<li>Combine dry ingredients and mix thoroughly, breaking up brown sugar lumps</li>
  	<li>Melt butter, and use 1 Tbsp. to brush a 9" square dish</li>
- 	<li>Fill dish with pie filling, like <a href="https://escowles.github.io/recipes/dessert/2017/06/13/cherry-pie.html">Cherry Pie Filling</a></li>
+ 	<li>Fill dish with pie filling, like [Cherry Pie Filling]({{ site.baseurl }}{% post_url 2017-06-13-cherry-pie %})</li>
  	<li>Mix remaining butter into dry ingredients, then spread over pie filling</li>
  	<li>Bake at 350°F for 30 minutes, then let cool at least 15 minutes before serving</li>
 </ul>

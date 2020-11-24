@@ -8,8 +8,8 @@ tags: meat mexican pork
 6 soft-taco flour tortillas  
 <sup>2</sup>/<sub>3</sub> cup refried beans  
 <sup>2</sup>/<sub>3</sub> cup Mexican rice  
-7 oz. <a title="Pulled Pork" href="https://escowles.github.io/recipes/main/1970/01/01/pulled-pork.html">pulled pork</a>
-1 cup <a title="Enchilada Sauce (New Mexico)" href="https://escowles.github.io/recipes/ingredients/2014/02/22/enchilada-sauce-new-mexico.html">New Mexico enchilada sauce</a>
+7 oz. [pulled pork]({{ site.baseurl }}{% post_url 1969-12-31-pulled-pork %})
+1 cup [New Mexico enchilada sauce]({{ site.baseurl }}{% post_url 2014-02-22-enchilada-sauce-new-mexico %})
 <ul>
 	<li>Coat bottom of 9" square pan with <sup>1</sup>/<sub>4</sub> cup sauce</li>
 	<li>Divide beans, rice and pork evenly between the tortillas</li>

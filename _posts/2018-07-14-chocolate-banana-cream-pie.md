@@ -50,7 +50,7 @@ tags: banana chocolate pie fruit
 <strong>Assembly</strong>
 <ul>
  	<li>Top chocolate cream layer with banana slices, the spoon cooled custard on top.</li>
- 	<li>Top with <a href="https://escowles.github.io/recipes/dessert/2018/07/14/whipped-cream.html">whipped cream</a>, then chill for 2 hours.</li>
+ 	<li>Top with [whipped cream]({{ site.baseurl }}{% post_url 2018-07-14-whipped-cream %}), then chill for 2 hours.</li>
  	<li>Before serving, top with sliced bananas and chopped chocolate.</li>
 </ul>
 Source: <a href="https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/">https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/</a>
@@ -59,6 +59,6 @@ Source: <a href="https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/"
 
 2019-07-18 11:17:54: Like this pie a lot, but don't think the crust is the best
 option (hard to work with dough, resulting in overthick crust, and the flavor's not
-great, either).  Would rather have an Oreo crust (see <a href="https://escowles.github.io/recipes/dessert/2019/04/17/oreo-mini-cheesecakes.html">Oreo Mini Cheesecakes</a>).
+great, either).  Would rather have an Oreo crust (see [Oreo Mini Cheesecakes]({{ site.baseurl }}{% post_url 2019-04-16-oreo-mini-cheesecakes %})).
 
-Also, we could do a traditional custard (like in <a href=""https://escowles.github.io/recipes/dessert/1970/01/01/berry-trifle.html>Berry Trifle</a>).
+Also, we could do a traditional custard (like in [Berry Trifle]({{ site.baseurl }}{% post_url 1969-12-31-berry-trifle %})).

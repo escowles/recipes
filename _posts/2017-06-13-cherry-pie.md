@@ -18,7 +18,7 @@ pinch cinnamon
  	<li>Remove cherries from heat and add sugar mixture, mixing well</li>
  	<li>Return cherries heat and simmer until thickened</li>
  	<li>Remove from heat and mix in almond extract and cinnamon</li>
- 	<li>While filling is cooling, make two standard <a href="https://escowles.github.io/recipes/dessert/1970/01/01/pie-crust.html">pie crusts</a></li>
+ 	<li>While filling is cooling, make two standard [pie crusts]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})</li>
  	<li>Line a pie dish with the first crust, and chill while making the second crust</li>
  	<li>Fill pie, top with second crust, cut crust to fit pie dish and crimp edges to seal</li>
  	<li>Chill pie for 30 minutes, then cut slits to vent steam, and top with a crust protector</li>

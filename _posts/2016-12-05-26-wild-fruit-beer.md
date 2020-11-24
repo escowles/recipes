@@ -18,7 +18,7 @@ tags: beer alcohol fruit wild homebrew
 	<li>Boil 5 minutes, remove from heat</li>
 	<li>Add fruit mash and remaining water to make 5 gal.</li>
 	<li>Strain through filter, allowing hops for form a filter, to remove all solids.</li>
-	<li>Cool to room temperature and pitch wild yeast cultured from local apples (use a <a href="https://escowles.github.io/recipes/other/2016/09/02/yeast-starter.html">yeast starter</a> to produce a good quantity of vigorous yeast)</li>
+	<li>Cool to room temperature and pitch wild yeast cultured from local apples (use a [yeast starter]({{ site.baseurl }}{% post_url 2016-09-02-yeast-starter %}) to produce a good quantity of vigorous yeast)</li>
 	<li>Ferment and monitor gravity until stable, approx 8 brix (1.015)</li>
 </ul>
 Stats:  

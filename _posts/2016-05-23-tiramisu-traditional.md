@@ -18,7 +18,7 @@ tags: italian vegetarian coffee
 </ul>
 <span style="text-decoration: underline;">Tiramisu</span>
   
-7 oz. <a href="https://escowles.github.io/recipes/dessert/2016/05/21/ladyfingers.html">ladyfingers</a>
+7 oz. [ladyfingers]({{ site.baseurl }}{% post_url 2016-05-21-ladyfingers %})
 ¾ cup strong coffee, cooled  
 7 oz. semisweet chocolate, grated  
 1 Tbsp. cocoa powder  

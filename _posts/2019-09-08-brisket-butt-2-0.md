@@ -10,7 +10,7 @@ tags: bbq beef brisket meat pork southern
  	<li>Lump charcoal</li>
 </ul>
 <ol>
- 	<li>Marinate brisket/butt overnight, see <a href="https://escowles.github.io/recipes/ingredients/2015/08/22/brisket-marinade.html">brisket marinade</a>, <a href="https://escowles.github.io/recipes/main/2013/05/05/mojo-chicken.html">mojo marinade</a>, or just rubbed with salt. Rinse off salt and coat with <a href="https://escowles.github.io/recipes/ingredients/2017/09/04/kansas-city-rub.html">Kansas City rub</a>.</li>
+ 	<li>Marinate brisket/butt overnight, see [brisket marinade]({{ site.baseurl }}{% post_url 2015-08-22-brisket-marinade %}), [mojo marinade]({{ site.baseurl }}{% post_url 2013-05-05-mojo-chicken %}), or just rubbed with salt. Rinse off salt and coat with [Kansas City rub]({{ site.baseurl }}{% post_url 2017-09-04-kansas-city-rub %}).</li>
  	<li>Fill egg with charcoal, light with firestarter, close lid with chimney uncovered to promote chimney effect, and wait until fire is well started, about 10 minutes.</li>
  	<li>Cover chimney with adjustable vent lid, and close down bottom and top airflow to regulate temperature, adjusting to about 250°F.  For most stable temperature, make a change and wait a few minutes to see the full effect.</li>
  	<li>Add the following to the smoker quickly to minimize oxygen allowed into the egg:  

@@ -26,7 +26,7 @@ salt, pepper, rosemary, and thyme
  	<li>Add flour and stir to form a thick roux</li>
  	<li>Slowly add stock and milk, mixing continuously to form a gravy</li>
 </ul>
-2 <a href="https://escowles.github.io/recipes/dessert/1970/01/01/pie-crust.html">pie crusts</a>
+2 [pie crusts]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
 <ul>
  	<li>Line pie dish with first crust</li>
  	<li>Add chicken, vegetables, and gravy</li>

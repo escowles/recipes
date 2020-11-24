@@ -26,7 +26,7 @@ Filling:
  	<li>Add garlic and saute for 30 seconds</li>
  	<li>Add Worcestershire sauce, oregano, paprika, salt, and tomatoes.  Increase heat and cook until thickened and reduced by half, about 15 minutes.</li>
  	<li>Stir in beef, olives, and apple, then remove from the heat and allow to cool.</li>
- 	<li>Fill <a href="https://escowles.github.io/recipes/ingredients/2019/08/18/cream-cheese-pie-crust.html">Cream Cheese Pie Crust</a> and top with top crust.</li>
+ 	<li>Fill [Cream Cheese Pie Crust]({{ site.baseurl }}{% post_url 2019-08-17-cream-cheese-pie-crust %}) and top with top crust.</li>
  	<li>Beat egg yolk and water, then brush pie crust top.</li>
  	<li>Bake at 425°F for 20 minutes, then reduce heat to 350°F and bake an additional 35 minutes.</li>
  	<li>Rest 10 minutes before serving.</li>

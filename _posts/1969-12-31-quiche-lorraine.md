@@ -19,7 +19,7 @@ tags: egg pork quiche cheese meat french dairy
 </ul>
 Directions:  
 <ol>
- 	<li>Prepare standard <a href="https://escowles.github.io/recipes/dessert/1970/01/01/pie-crust.html">pie crust</a>, and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.</li>
+ 	<li>Prepare standard [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %}), and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.</li>
  	<li>Bake or fry bacon until crisp. Drain and chop coarsely.</li>
  	<li>Sprinkle bacon, cheese, onion, and any other vegetables in pie shell.</li>
  	<li>Beat eggs and mix in cream, milk, and spices. Pour into pie shell (should be 1/2" below rim).</li>

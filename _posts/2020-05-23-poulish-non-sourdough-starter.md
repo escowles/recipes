@@ -19,6 +19,6 @@ tags: bread vegetarian
  	<li>Discard all but ½ cup of the starter. It will contain less-active yeast, and can be used to make baked good that do not need to rise.</li>
  	<li>Add 1 cup of flour and 1/2 cup lukewarm filtered water.</li>
  	<li>Mix thoroughly and let rest 4-10 hours at room temperature, until risen and starting to fall.</li>
- 	<li>Use a chunk of starter to make <a href="https://escowles.github.io/recipes/sides/2020/05/20/sourdough-bread.html">sourdough bread</a>.</li>
+ 	<li>Use a chunk of starter to make [sourdough bread]({{ site.baseurl }}{% post_url 2020-05-19-sourdough-bread %}).</li>
 </ul>
 Source: <a href="https://www.feastingathome.com/sourdough-starter/">https://www.feastingathome.com/sourdough-starter/</a>
