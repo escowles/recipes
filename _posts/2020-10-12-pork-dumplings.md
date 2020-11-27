@@ -13,11 +13,11 @@ tags: chinese dumplings meat pork appetizer asian
 2 Tbsp. soy sauce  
 1 1/2 tsp. sesame oil  
 1 tsp. ground ginger  
-<ul>
- 	<li>Mix together until thoroughly combined</li>
- 	<li>Fill each dumpling wrapper with 1 Tbsp. of filling</li>
- 	<li>Wet edge of wrapper with water and crimp to seal</li>
-</ul>
+
+  * Mix together until thoroughly combined
+  * Fill each dumpling wrapper with 1 Tbsp. of filling
+  * Wet edge of wrapper with water and crimp to seal
+
 <div class="section-body">
 <div class="paragraph">
   
@@ -27,18 +27,18 @@ tags: chinese dumplings meat pork appetizer asian
 1/4 tsp. salt  
 1/2 tsp. sugar  
 1/4 tsp. pepper  
-<ul>
- 	<li>Mix all ingredients and bring to a simmer in a saucepan</li>
- 	<li>Simmer dumplings until filling is cooked through, about 10-15 minutes</li>
-</ul>
+
+  * Mix all ingredients and bring to a simmer in a saucepan
+  * Simmer dumplings until filling is cooked through, about 10-15 minutes
+
 1/2 cup soy sauce  
 1 Tbsp. rice vinegar  
 1 Tbsp. finely chopped chives  
 1 Tbsp. sesame seeds  
 1 tsp. hot sauce  
-<ul>
- 	<li>Mix together in a small bowl and serve as a dipping sauce</li>
-</ul>
+
+  * Mix together in a small bowl and serve as a dipping sauce
+
 Source: <a href="https://www.allrecipes.com/recipe/228052/chinese-pork-dumplings/">https://www.allrecipes.com/recipe/228052/chinese-pork-dumplings/</a> and <a href="https://www.allrecipes.com/recipe/82204/chinese-egg-dumplings/">https://www.allrecipes.com/recipe/82204/chinese-egg-dumplings/</a>
   
 </div>

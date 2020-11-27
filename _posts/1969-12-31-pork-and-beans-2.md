@@ -8,27 +8,27 @@ tags: meat pork southern stew beans
 <b>1940 Cal (4x 485)</b>
   
 Ingredients:  
-<ul>
-	<li>1 1/4 cups 13 Bean Soup Mix</li>
-	<li>6 cups water</li>
-	<li>2 Tbsp. olive oil</li>
-	<li>1 onion, chopped</li>
-	<li>2 cloves garlic, minced</li>
-	<li>1 lb. pork roast, cubed</li>
-	<li>1 bay leaf</li>
-	<li>1 Tbsp. brown sugar</li>
-	<li>1 tsp. thyme</li>
-	<li>1/2 tsp. black pepper</li>
-	<li>1 tsp. salt</li>
-</ul>
+
+ * 1 1/4 cups 13 Bean Soup Mix
+ * 6 cups water
+ * 2 Tbsp. olive oil
+ * 1 onion, chopped
+ * 2 cloves garlic, minced
+ * 1 lb. pork roast, cubed
+ * 1 bay leaf
+ * 1 Tbsp. brown sugar
+ * 1 tsp. thyme
+ * 1/2 tsp. black pepper
+ * 1 tsp. salt
+
 Directions:  
-<ol>
-	<li>Boil beans in 6 cups water for 5 minutes, then cover and soak for 1 hour.</li>
-	<li>Rinse beans thoroughly and return to pot with 6 cups water. Loosely cover and simmer for 2 hours.</li>
-	<li>Heat oil, onion and garlic in frying pan add to beans.</li>
-	<li>Sear pork in frying pan and add to beans.</li>
-	<li>Add remaining ingredients and simmer until meat and beans are tender, approx. 1 hour.</li>
-</ol>
+
+ * Boil beans in 6 cups water for 5 minutes, then cover and soak for 1 hour.
+ * Rinse beans thoroughly and return to pot with 6 cups water. Loosely cover and simmer for 2 hours.
+ * Heat oil, onion and garlic in frying pan add to beans.
+ * Sear pork in frying pan and add to beans.
+ * Add remaining ingredients and simmer until meat and beans are tender, approx. 1 hour.
+
 
 ---
 

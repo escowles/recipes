@@ -7,8 +7,8 @@ tags: pineapple pork slowcooker fruit meat
 ---
 2½ lb. pork loin roast  
 1 cup pineapple/habanero glaze  
-<ul>
- 	<li>Cube pork roast</li>
- 	<li>Add to slow cooker and toss with glaze</li>
- 	<li>Cook on low for 8 hours</li>
-</ul>
+
+  * Cube pork roast
+  * Add to slow cooker and toss with glaze
+  * Cook on low for 8 hours
+

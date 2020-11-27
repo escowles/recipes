@@ -18,13 +18,13 @@ tags: asian beef chinese meat vegetable
 1/4 white onion, diced  
   
 2 Tbsp. corn starch  
-<ul>
-	<li>Mix salt, sugar, vinegar, soy sauce and garlic.</li>
-	<li>Add cubed steak toss well, and refrigerate for 1 hour.</li>
-	<li>Cook broccoli and set aside.</li>
-	<li>Heat oil and saute onion until tender.</li>
-	<li>Add steak and marinade, bring to a boil.</li>
-	<li>Reduce heat and simmer for 15 minutes, until tender.</li>
-	<li>Add broccoli and stir fry for a few minutesl, until heated.</li>
-	<li>Add corn starch and mix well.</li>
-</ul>
+
+ * Mix salt, sugar, vinegar, soy sauce and garlic.
+ * Add cubed steak toss well, and refrigerate for 1 hour.
+ * Cook broccoli and set aside.
+ * Heat oil and saute onion until tender.
+ * Add steak and marinade, bring to a boil.
+ * Reduce heat and simmer for 15 minutes, until tender.
+ * Add broccoli and stir fry for a few minutesl, until heated.
+ * Add corn starch and mix well.
+

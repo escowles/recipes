@@ -9,44 +9,44 @@ tags: appetizer asian chicken meat
   
 Ingredients:  
 <h2>Filling:</h2>
-<ul>
-	<li>1 Tbsp. grape seed oil</li>
-	<li>1 tsp. minced garlic</li>
-	<li>2 tsp. ground ginger</li>
-	<li>1 lb. chicken, cubed</li>
-	<li>1 Tbsp. soy sauce</li>
-</ul>
+
+ * 1 Tbsp. grape seed oil
+ * 1 tsp. minced garlic
+ * 2 tsp. ground ginger
+ * 1 lb. chicken, cubed
+ * 1 Tbsp. soy sauce
+
 Directions:  
-<ol>
-	<li>Heat oil over medium heat. Add garlic and ginger.</li>
-	<li>Add chicken and soy sauce. Stir fry until cooked through, approx. 5 minutes.</li>
-</ol>
+
+ * Heat oil over medium heat. Add garlic and ginger.
+ * Add chicken and soy sauce. Stir fry until cooked through, approx. 5 minutes.
+
 <h2>Sauce:</h2>
-<ul>
-	<li>1/3 cup soy sauce</li>
-	<li>1/3 cup water</li>
-	<li>3 Tbsp. lemon juice</li>
-	<li>2 tsp. minced garlic</li>
-	<li>1 Tbsp. ground ginger</li>
-	<li>1 tsp. sugar</li>
-</ul>
+
+ * 1/3 cup soy sauce
+ * 1/3 cup water
+ * 3 Tbsp. lemon juice
+ * 2 tsp. minced garlic
+ * 1 Tbsp. ground ginger
+ * 1 tsp. sugar
+
 Directions:  
-<ol>
-	<li>Mix all ingredients.</li>
-</ol>
+
+ * Mix all ingredients.
+
 <h2>Assembly:</h2>
-<ul>
-	<li>1 bell pepper</li>
-	<li>4 green onions</li>
-	<li>6 small radishes</li>
-	<li>16 lettuce leaves</li>
-</ul>
+
+ * 1 bell pepper
+ * 4 green onions
+ * 6 small radishes
+ * 16 lettuce leaves
+
 Directions:  
-<ol>
-	<li>Chop all vegetables finely.</li>
-	<li>Fill each lettuce leaf with filling and vegetables, top with sauce.</li>
-	<li>Roll up and eat like a burrito.</li>
-</ol>
+
+ * Chop all vegetables finely.
+ * Fill each lettuce leaf with filling and vegetables, top with sauce.
+ * Roll up and eat like a burrito.
+
 
 ---
 

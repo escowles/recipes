@@ -12,12 +12,12 @@ tags: bread dairyfree irish
 ½ tsp. baking soda  
 ½ tsp. salt  
 1½ Tbsp. canola oil  
-<ul>
- 	<li>Combine almond milk and vinegar and set aside.</li>
- 	<li>Mix flour, brown sugar, baking soda and salt to combine.</li>
- 	<li>Add oil and mix to make a crumbly mixture.</li>
- 	<li>Add vinegar/milk mixture and mix to form a wet dough.</li>
- 	<li>Form into loaf on a greased baking sheet (or parchment/silicone-lined).</li>
- 	<li>Bake at 425°F for 25 minutes, then let cool 10 minutes.</li>
-</ul>
+
+  * Combine almond milk and vinegar and set aside.
+  * Mix flour, brown sugar, baking soda and salt to combine.
+  * Add oil and mix to make a crumbly mixture.
+  * Add vinegar/milk mixture and mix to form a wet dough.
+  * Form into loaf on a greased baking sheet (or parchment/silicone-lined).
+  * Bake at 425°F for 25 minutes, then let cool 10 minutes.
+
 Source: <a href="https://www.godairyfree.org/recipes/brown-soda-bread">https://www.godairyfree.org/recipes/brown-soda-bread</a>

@@ -22,12 +22,12 @@ tags: chocolate cookies
 </div>
 <h3 id="directions">Directions:</h3>
 <div class="instructions">
-<ol>
- 	<li>Preheat oven to 350°. Line two baking sheets with parchment paper and/or silpat baking liners.</li>
- 	<li>Combine flour, baking soda, and salt in a medium bowl. Stir and set aside.</li>
- 	<li>Stir together oil and sugars.</li>
- 	<li>Turn mixer (with butter mixture bowl attached) on low. Add eggs, one at a time, mixing completely. Mix in vanilla extract. Add flour mixture to the wet ingredients and mix until combined. Add chocolate chips and stir to combine.</li>
- 	<li>Drop by tablespoonfuls prepared cookie sheets. Bake for 8-9 minutes (mine were one tablespoon sized balls and cooked in about 8 minutes). Let cool for 5 minutes, and then remove from pans to cool completely.</li>
-</ol>
+
+  * Preheat oven to 350°. Line two baking sheets with parchment paper and/or silpat baking liners.
+  * Combine flour, baking soda, and salt in a medium bowl. Stir and set aside.
+  * Stir together oil and sugars.
+  * Turn mixer (with butter mixture bowl attached) on low. Add eggs, one at a time, mixing completely. Mix in vanilla extract. Add flour mixture to the wet ingredients and mix until combined. Add chocolate chips and stir to combine.
+  * Drop by tablespoonfuls prepared cookie sheets. Bake for 8-9 minutes (mine were one tablespoon sized balls and cooked in about 8 minutes). Let cool for 5 minutes, and then remove from pans to cool completely.
+
 </div>
 Source: <a href="http://www.inkatrinaskitchen.com/dairy-free-chocolate-chip-cookies/print/">http://www.inkatrinaskitchen.com/dairy-free-chocolate-chip-cookies/print/</a>

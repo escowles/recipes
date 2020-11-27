@@ -8,6 +8,6 @@ tags: cream ingredients
 2 cups heavy cream  
 1 Tbsp. sugar  
 1 tsp. vanilla  
-<ul>
- 	<li>Combine all ingredients and whip with mixer or blender until stiff, but not clotted.</li>
-</ul>
+
+  * Combine all ingredients and whip with mixer or blender until stiff, but not clotted.
+

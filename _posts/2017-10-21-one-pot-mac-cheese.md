@@ -9,10 +9,10 @@ tags: cheese pasta vegetarian southern dairy
 2/3 cup cream  
 10 oz. cheddar cheese, grated  
 salt, pepper and nutmeg, to taste  
-<ul>
- 	<li>Boil pasta until almost done, then drain.</li>
- 	<li>Return pot to heat and cook cream 2 minutes.</li>
- 	<li>Stir in cheese until melted, then stir in pasta.</li>
- 	<li>Season to taste and serve immediately.</li>
-</ul>
+
+  * Boil pasta until almost done, then drain.
+  * Return pot to heat and cook cream 2 minutes.
+  * Stir in cheese until melted, then stir in pasta.
+  * Season to taste and serve immediately.
+
 Source: <a href="https://food52.com/recipes/73636-melissa-clark-s-stovetop-mac-cheese">https://food52.com/recipes/73636-melissa-clark-s-stovetop-mac-cheese</a>

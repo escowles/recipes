@@ -17,11 +17,11 @@ tags: cajun chicken meat pork seafood shrimp
 ¼ tsp. dried oregano  
 ¼ tsp. dried thyme  
 ¼ tsp. green chili powder  
-<ul>
-	<li>Peel, devein and detail shrimp, as necessary.</li>
-	<li>Cube chicken and sausage.</li>
-	<li>Combine meats and spices, mix well, and set aside.</li>
-</ul>
+
+ * Peel, devein and detail shrimp, as necessary.
+ * Cube chicken and sausage.
+ * Combine meats and spices, mix well, and set aside.
+
 <h2>Soup:</h2>
 2 Tbsp. olive oil  
 ¼ white onion, diced  
@@ -34,10 +34,10 @@ tags: cajun chicken meat pork seafood shrimp
 1 Tbsp. tomato paste  
 ¾ cup rice  
 3 cups chicken stock  
-<ul>
-	<li>In 6-quart pot, sauté vegetables in oil until tender.</li>
-	<li>Add remaining ingredients and reduce heat.</li>
-	<li>Cook until rice absorbs liquid and becomes tender, about 15 minutes.</li>
-	<li>Add meat/spice mixture and cook about 10 minutes until meat is done (chicken should measure 165°F with a meat thermometer).</li>
-</ul>
+
+ * In 6-quart pot, sauté vegetables in oil until tender.
+ * Add remaining ingredients and reduce heat.
+ * Cook until rice absorbs liquid and becomes tender, about 15 minutes.
+ * Add meat/spice mixture and cook about 10 minutes until meat is done (chicken should measure 165°F with a meat thermometer).
+
 Source: http://www.foodnetwork.com/recipes/emeril-lagasse/cajun-jambalaya-recipe/  

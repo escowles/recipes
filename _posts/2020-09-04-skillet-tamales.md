@@ -12,17 +12,17 @@ juice from 1 lime and 1 lemon
 1 tsp. oregano  
 2 anaheim peppers, sliced  
 1 cup [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %})
-<ul>
- 	<li>Combine all ingredients in crockpot, and cook on low for 8 hours</li>
-</ul>
+
+  * Combine all ingredients in crockpot, and cook on low for 8 hours
+
 skillet tamales:  
   
 pulled pork  
 1 cup salsa verde  
 [cornbread batter]({{ site.baseurl }}{% post_url 2020-04-19-sweet-masa-cornbread %}) (reduce sugar by half)  
-<ul>
- 	<li>Shred pork and remove pepper skins and any other detritus</li>
- 	<li>Add to skillet with salsa verde, and simmer until thickened but not dry</li>
- 	<li>Top with cornbread batter</li>
- 	<li>Bake at 400°F for 30 minutes, until a toothpick comes out clean</li>
-</ul>
+
+  * Shred pork and remove pepper skins and any other detritus
+  * Add to skillet with salsa verde, and simmer until thickened but not dry
+  * Top with cornbread batter
+  * Bake at 400°F for 30 minutes, until a toothpick comes out clean
+

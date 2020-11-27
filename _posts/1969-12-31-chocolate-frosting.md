@@ -6,18 +6,18 @@ category: dessert
 tags:  frosting chocolate
 ---
 <b>2148 Cal (12x 179)</b>
-<p>Ingredients:</p><ul>
-<li>2 3/4 cups	powdered sugar</li>
-<li>6 Tbsp. cocoa powder</li>
-<li>6 Tbsp.	butter</li>
-<li>5 Tbsp.	evaporated milk</li>
-<li>1 tsp.	vanilla</li>
-</ul>
+<p>Ingredients:</p>
+* 2 3/4 cups powdered sugar
+* 6 Tbsp. cocoa powder
+* 6 Tbsp. butter
+* 5 Tbsp. evaporated milk
+* 1 tsp. vanilla
+
 <p>Directions:</p>
-<ol>
-<li>Combine sugar and cocoa, set aside.</li>
-<li>Cream butter until smooth.  Add sugar mixture and evaporated milk.</li>
-<li>Blend in vanilla.</li>
-<li>Beat until light and fluffy.  Adjust consistency with additional milk or sugar.</li>
-</ol>
-<li>Source: http://allrecipes.com/Recipe/creamy-chocolate-frosting/detail.aspx </li>
+
+* Combine sugar and cocoa, set aside.
+* Cream butter until smooth.  Add sugar mixture and evaporated milk.
+* Blend in vanilla.
+* Beat until light and fluffy.  Adjust consistency with additional milk or sugar.
+
+* Source: http://allrecipes.com/Recipe/creamy-chocolate-frosting/detail.aspx 

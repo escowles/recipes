@@ -8,37 +8,37 @@ tags: seafood fish asian
 <p><b>1550 Cal (4x 387)</b></p>
 <p>Ingredients:</p>
 <h2>Sauce:</h2>
-<ul>
-<li>2 Tbsp. vegetable oil</li>
-<li>2 tsp. ginger</li>
-<li>2 cloves garlic, minced (or 1/4 tsp. garlic powder)</li>
-<li>4 Tbsp. soy sauce</li>
-<li>1 Tbsp. sesame oil</li>
-</ul>
+
+* 2 Tbsp. vegetable oil
+* 2 tsp. ginger
+* 2 cloves garlic, minced (or 1/4 tsp. garlic powder)
+* 4 Tbsp. soy sauce
+* 1 Tbsp. sesame oil
+
 <p>Directions:</p>
-<ol>
-<li>Combine vegetable oil, ginger, and garlic, and mix well.</li>
-<li>Add remaining ingredients and stir.</li>
-</ol>
+
+* Combine vegetable oil, ginger, and garlic, and mix well.
+* Add remaining ingredients and stir.
+
 <h2>Fish:</h2>
-<ul>
-<li>1 1/2 cups rice, steamed</li>
-<li>4 cups bok choy, chopped</li>
-<li>4 small tilapia fillets (approx. 1 lb.)</li>
-<li>4 scallions, chopped</li>
-</ul>
+
+* 1 1/2 cups rice, steamed
+* 4 cups bok choy, chopped
+* 4 small tilapia fillets (approx. 1 lb.)
+* 4 scallions, chopped
+
 <p>Directions:</p>
-<ol>
-<li>Brush 2 sheets of aluminum foil with oil.</li>
-<li>Spread half of the rice on each sheet and top with half the bok choy and a fillet.</li>
-<li>Top with scallions and spoon sauce over the top.</li>
-<li>Fold up and seal foil packets.</li>
-<li>Bake at 450°F for 25 minutes.</li>
-</ol>
+
+* Brush 2 sheets of aluminum foil with oil.
+* Spread half of the rice on each sheet and top with half the bok choy and a fillet.
+* Top with scallions and spoon sauce over the top.
+* Fold up and seal foil packets.
+* Bake at 450°F for 25 minutes.
+
 <p>Alternate baking: Prepare in oven-safe pot with tight-fitting lid.</p>
-<ul>
-<li>Source: Moosewood Restaurant Cooks at Home</li>
-</ul>
+
+* Source: Moosewood Restaurant Cooks at Home
+
   
 <!-- wp:paragraph -->
 <p></p>

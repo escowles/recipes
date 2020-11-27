@@ -6,16 +6,16 @@ category: sides
 tags:  potatoes cheese thanksgiving thanksgiving2020 dairy
 ---
 <b>1200 Cal (4x 300)</b>
-<p>Ingredients:</p><ul>
-<li>2 lbs.	potatoes, cubed</li>
-<li>1 Tbsp.	butter</li>
-<li>1/4 cup	milk</li>
-<li>4 oz.	sharp cheddar or other hard cheese (Romano, Asiago, etc.)</li>
-<li>1/2 tsp.	minced garlic</li>
-</ul>
+<p>Ingredients:</p>
+* 2 lbs. potatoes, cubed
+* 1 Tbsp. butter
+* 1/4 cup milk
+* 4 oz. sharp cheddar or other hard cheese (Romano, Asiago, etc.)
+* 1/2 tsp. minced garlic
+
 <p>Directions:</p>
-<ol>
-<li>Cube potatoes and add to water as it heats up.</li>
-<li>Bring to boil and boil for 15 minutes.</li>
-<li>Drain and mash, add remaining ingredients and mix well.</li>
-</ol>
+
+* Cube potatoes and add to water as it heats up.
+* Bring to boil and boil for 15 minutes.
+* Drain and mash, add remaining ingredients and mix well.
+

@@ -12,11 +12,11 @@ tags: bread breakfast
 1/3 cup butter  
 2 eggs  
 3/4 cup whipping cream  
-<ul>
-	<li>Mix flour, sugar, baking powder, and salt in a large bowl.</li>
-	<li>Using a pastry blender, cut in butter and make a well in middle of the flour mixture.</li>
-	<li>Beat eggs and cream, and pour into well of flour mixture and stir until just moistened.</li>
-	<li>Turn dough onto floured surface and knead 10-12 times, until dough is smooth.</li>
-	<li>Divide dough in half, and roll or pat into 6" circle.  Cut into 6 or 8 wedges, and place 2" apart on ungreased baking sheet.  Brush with additional cream and sprinkle with sugar.</li>
-	<li>Bake at 400°F for 12-14 minutes, until lightly golden.</li>
-</ul>
+
+ * Mix flour, sugar, baking powder, and salt in a large bowl.
+ * Using a pastry blender, cut in butter and make a well in middle of the flour mixture.
+ * Beat eggs and cream, and pour into well of flour mixture and stir until just moistened.
+ * Turn dough onto floured surface and knead 10-12 times, until dough is smooth.
+ * Divide dough in half, and roll or pat into 6" circle.  Cut into 6 or 8 wedges, and place 2" apart on ungreased baking sheet.  Brush with additional cream and sprinkle with sugar.
+ * Bake at 400°F for 12-14 minutes, until lightly golden.
+

@@ -23,11 +23,11 @@ tags: chicken dairyfree indian slowcooker meat asian
 1 cinnamon stick  
 2 cups thawed frozen green beans (optional)  
 1/4 cup cilantro, chopped  
-<ul>
- 	<li>Sauté onion and garlic in coconut oil 5 minutes</li>
- 	<li>Add spices and saute an additional 2 minutes</li>
- 	<li>Transfer to slow cooker and add chicken, coconut milk, tomato sauce and cinnamon stick</li>
- 	<li>Cook on high for 3 hours or low for 6 hours</li>
- 	<li>Add green beans when there is 1 hour left</li>
- 	<li>Serve over rice and garnish with cilantro</li>
-</ul>
+
+  * Sauté onion and garlic in coconut oil 5 minutes
+  * Add spices and saute an additional 2 minutes
+  * Transfer to slow cooker and add chicken, coconut milk, tomato sauce and cinnamon stick
+  * Cook on high for 3 hours or low for 6 hours
+  * Add green beans when there is 1 hour left
+  * Serve over rice and garnish with cilantro
+

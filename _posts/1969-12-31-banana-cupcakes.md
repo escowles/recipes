@@ -6,24 +6,24 @@ category: dessert
 tags: cupcakes cake banana fruit
 ---
 <b>3273 Cal (18x 182)</b>
-<p>Ingredients:</p><ul>
-<li>1/2 cup	shortening</li>
-<li>1 1/2 cups	sugar</li>
-<li>2	eggs</li>
-<li>1 tsp.	vanilla</li>
-<li>1 cup	mashed bananas</li>
-<li>1/4 cup	buttermilk</li>
-<li>2 cups	flour</li>
-<li>1 tsp.	baking powder</li>
-<li>3/4 tsp.	baking soda</li>
-<li>1/2 tsp.	salt</li>
-</ul>
+<p>Ingredients:</p>
+* 1/2 cup shortening
+* 1 1/2 cups sugar
+* 2 eggs
+* 1 tsp. vanilla
+* 1 cup mashed bananas
+* 1/4 cup buttermilk
+* 2 cups flour
+* 1 tsp. baking powder
+* 3/4 tsp. baking soda
+* 1/2 tsp. salt
+
 <p>Directions:</p>
-<ol>
-<li>Cream shortening and sugar.  Add eggs, vanilla, bananas and buttermilk.</li>
-<li>Combine flour, baking powder, baking soda and salt.  Add to banana mixture.</li>
-<li>Spoon into cupcake wrappers.</li>
-<li>Bake at 350F for 15-20 minutes, until a toothpick comes out clean.</li>
-<li>Remove to wire rack to cool completely before frosting.</li>
-</ol>
-<li>Source: http://allrecipes.com/recipe/banana-cupcakes/ </li>
+
+* Cream shortening and sugar.  Add eggs, vanilla, bananas and buttermilk.
+* Combine flour, baking powder, baking soda and salt.  Add to banana mixture.
+* Spoon into cupcake wrappers.
+* Bake at 350F for 15-20 minutes, until a toothpick comes out clean.
+* Remove to wire rack to cool completely before frosting.
+
+* Source: http://allrecipes.com/recipe/banana-cupcakes/ 

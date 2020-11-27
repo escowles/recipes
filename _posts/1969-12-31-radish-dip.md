@@ -6,15 +6,15 @@ category: ingredients
 tags: sauce dairy dip appetizer creamcheese
 ---
 <b>800 Cal (8x 100)</b>
-<p>Ingredients:</p><ul>
-<li>2 cloves	garlic</li>
-<li>3	radishes</li>
-<li>8 oz.	cream cheese</li>
-</ul>
+<p>Ingredients:</p>
+* 2 cloves garlic
+* 3 radishes
+* 8 oz. cream cheese
+
 <p>Directions:</p>
-<ol>
-<li>Mince garlic and radishes in food processor.</li>
-<li>Add cream cheese and mix until blended.</li>
-<li>Chill until ready to serve.</li>
-</ol>
+
+* Mince garlic and radishes in food processor.
+* Add cream cheese and mix until blended.
+* Chill until ready to serve.
+
 http://allrecipes.com/recipe/radish-dip/  

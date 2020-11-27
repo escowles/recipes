@@ -16,10 +16,10 @@ tags: cuban pork meat
 3 Tbsp. orange juice  
 3 Tbsp. olive oil  
 1½ tsp. vinegar  
-<ul>
- 	<li>Grind spices into a paste with a mortar and pestle.</li>
- 	<li>Cut several slits into the fatty side of the pork roast, and rub half the spice mixture into the slits.</li>
- 	<li>Mix the rest of the spice mixture with the liquids, and pour over the pork roast in a large ziplock bag.</li>
- 	<li>Chill 8 hours or overnight.</li>
- 	<li>Bake at 375°F until internal temperature reaches 170°F.</li>
-</ul>
+
+  * Grind spices into a paste with a mortar and pestle.
+  * Cut several slits into the fatty side of the pork roast, and rub half the spice mixture into the slits.
+  * Mix the rest of the spice mixture with the liquids, and pour over the pork roast in a large ziplock bag.
+  * Chill 8 hours or overnight.
+  * Bake at 375°F until internal temperature reaches 170°F.
+

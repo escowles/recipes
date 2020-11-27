@@ -12,11 +12,11 @@ tags: icecream orange fruit
 ¼ tsp. salt  
 1 tsp. vanilla  
 1½ cups milk  
-<ul>
- 	<li>Blend all ingredients in food processor until sugar is dissolved, about 1 minute</li>
- 	<li>Blend in milk and chill for 1 hour</li>
- 	<li>Process in ice cream maker following manufacturer's directions</li>
-</ul>
+
+  * Blend all ingredients in food processor until sugar is dissolved, about 1 minute
+  * Blend in milk and chill for 1 hour
+  * Process in ice cream maker following manufacturer's directions
+
 Source: <a href="https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337">https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337</a>
 
 ---

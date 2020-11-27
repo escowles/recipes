@@ -16,13 +16,13 @@ tags: chicken curry peanutbutter thai meat asian
 1 Tbsp. brown sugar  
 ½ cup chicken stock  
 1 tsp. salt, to taste  
-<ol>
- 	<li>Heat oil in wok and stir fry chicken until browned</li>
- 	<li>Add curry paste and cook for 5 minutes</li>
- 	<li>Add vegetables and sauté until tender</li>
- 	<li>Add peanut butter and mix thoroughly until peanut butter is melted into the meat and vegetables.</li>
- 	<li>Add remaining ingredients and simmer for 15-20 minutes, until chicken is tender and the sauce is thickened.</li>
-</ol>
+
+  * Heat oil in wok and stir fry chicken until browned
+  * Add curry paste and cook for 5 minutes
+  * Add vegetables and sauté until tender
+  * Add peanut butter and mix thoroughly until peanut butter is melted into the meat and vegetables.
+  * Add remaining ingredients and simmer for 15-20 minutes, until chicken is tender and the sauce is thickened.
+
 
 Source: <a href="http://foodformyfamily.com/recipes/easy-thai-peanut-chicken-curry">http://foodformyfamily.com/recipes/easy-thai-peanut-chicken-curry</a>
 

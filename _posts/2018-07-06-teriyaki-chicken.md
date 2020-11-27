@@ -22,13 +22,13 @@ tags: chicken japanese meat asian
   
 </div>
 </div>
-<ol>
- 	<li>Stir fry chicken in oil until browned</li>
- 	<li>Mix soy sauce, brown sugar, Sake/vinegar, Mirin/sherry, and sesame oil, and set aside.</li>
- 	<li>Add the garlic to the chicken and saute about 30 seconds.</li>
- 	<li>Add the sauce and allow to cook about 2-3 minutes, while stirring, until the thickened.</li>
- 	<li>Add steamed broccoli and serve over steamed rice.</li>
-</ol>
+
+  * Stir fry chicken in oil until browned
+  * Mix soy sauce, brown sugar, Sake/vinegar, Mirin/sherry, and sesame oil, and set aside.
+  * Add the garlic to the chicken and saute about 30 seconds.
+  * Add the sauce and allow to cook about 2-3 minutes, while stirring, until the thickened.
+  * Add steamed broccoli and serve over steamed rice.
+
 Source: <a href="https://cafedelites.com/teriyaki-chicken-recipe/">https://cafedelites.com/teriyaki-chicken-recipe/</a>
 
 ---

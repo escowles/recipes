@@ -14,15 +14,15 @@ tags: cake oliveoil orange fruit
 ¼ tsp. baking powder  
 ¼ tsp. baking soda  
 ¼ tsp. salt  
-<ol>
- 	<li>Zest the oranges, then trim skin and pith from the orange and slice into thin round slices; cover and refrigerate until ready to serve.</li>
- 	<li>Whisk zest and eggs until well blended, then whisk in 1 cup of the sugar.</li>
- 	<li>Beat on medium speed for 3 to 4 minutes, until very light.</li>
- 	<li>Mix on low speed while adding olive oil and milk.</li>
- 	<li>In a separate bowl, mix together the remaining sugar, and other dry ingredients. Add to liquids in three additions, whisking until smooth after each addition.</li>
- 	<li>Grease a 9" cake pan with olive oil, then line the bottom with parchment paper.</li>
- 	<li>Pour batter into pan and bake at 350°F for 50 to 55 minutes, until the cake is well risen, golden, and firm in the center when pressed with a fingertip.</li>
- 	<li>Remove to a cooling rack for 5 minutes, then run a knife around the edge to loosen, and turn out onto a plate and return to the cooling rack right side up.</li>
- 	<li>Cool completely and serve with orange slices, plus whipped cream or ice cream as desired.</li>
-</ol>
+
+  * Zest the oranges, then trim skin and pith from the orange and slice into thin round slices; cover and refrigerate until ready to serve.
+  * Whisk zest and eggs until well blended, then whisk in 1 cup of the sugar.
+  * Beat on medium speed for 3 to 4 minutes, until very light.
+  * Mix on low speed while adding olive oil and milk.
+  * In a separate bowl, mix together the remaining sugar, and other dry ingredients. Add to liquids in three additions, whisking until smooth after each addition.
+  * Grease a 9" cake pan with olive oil, then line the bottom with parchment paper.
+  * Pour batter into pan and bake at 350°F for 50 to 55 minutes, until the cake is well risen, golden, and firm in the center when pressed with a fingertip.
+  * Remove to a cooling rack for 5 minutes, then run a knife around the edge to loosen, and turn out onto a plate and return to the cooling rack right side up.
+  * Cool completely and serve with orange slices, plus whipped cream or ice cream as desired.
+
 <p>Source: <a href="https://www.washingtonpost.com/recipes/orange-scented-olive-oil-cake/15641/">https://www.washingtonpost.com/recipes/orange-scented-olive-oil-cake/15641/</a></p>

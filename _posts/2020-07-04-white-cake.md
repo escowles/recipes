@@ -16,15 +16,15 @@ tags: cake
 <div class="paragraph">
   
 Cream butter and sugar, then beat in eggs, one at a time  
-<ul>
- 	<li>Cream butter and sugar.</li>
- 	<li>Beat in eggs, one a time.</li>
- 	<li>Stir in vanilla.</li>
- 	<li>Combine flour and baking powder, then add to the mixture and mix well.</li>
- 	<li>Stir in milk until batter is smooth.</li>
- 	<li>Pour into greased and floured cake pan, or lined cupcake pan.</li>
- 	<li>Bake @ 350°F for 30-40 minutes, or 20-25 minutes for cupcakes, until cake springs back when pressed.</li>
-</ul>
+
+  * Cream butter and sugar.
+  * Beat in eggs, one a time.
+  * Stir in vanilla.
+  * Combine flour and baking powder, then add to the mixture and mix well.
+  * Stir in milk until batter is smooth.
+  * Pour into greased and floured cake pan, or lined cupcake pan.
+  * Bake @ 350°F for 30-40 minutes, or 20-25 minutes for cupcakes, until cake springs back when pressed.
+
 Source: <a href="https://www.allrecipes.com/recipe/17481/simple-white-cake/">https://www.allrecipes.com/recipe/17481/simple-white-cake/</a>
   
 </div>

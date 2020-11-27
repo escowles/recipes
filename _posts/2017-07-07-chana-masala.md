@@ -9,9 +9,9 @@ tags: chicken curry indian meat asian chickpeas
 2 Tbsp. fresh ginger, grated  
 1/2 bunch fresh cilantro, chopped  
 2 fresh jalapeños, sliced  
-<ul>
- 	<li>Grind into paste with mortar and pestle, or food processor.</li>
-</ul>
+
+  * Grind into paste with mortar and pestle, or food processor.
+
 3 Tbsp. vegetable oil  
 1 onion, diced  
 1 Tbsp. cumin  
@@ -25,11 +25,11 @@ tags: chicken curry indian meat asian chickpeas
 1 tsp. [garam masala]({{ site.baseurl }}{% post_url 2017-07-07-garam-masala %})
 1 Tbsp. sugar  
 2 Tbsp. lime juice  
-<ul>
- 	<li>Heat large pot over medium heat, then add oil, onion, spices, and chili paste</li>
- 	<li>Add chicken and stir fry until browned</li>
- 	<li>Add chickpeas and tomatoes, increasing heat until simmering</li>
- 	<li>Reduce heat and simmer uncovered for 20 minutes, until thickened</li>
- 	<li>Add remaining ingredients and serve over rice</li>
-</ul>
+
+  * Heat large pot over medium heat, then add oil, onion, spices, and chili paste
+  * Add chicken and stir fry until browned
+  * Add chickpeas and tomatoes, increasing heat until simmering
+  * Reduce heat and simmer uncovered for 20 minutes, until thickened
+  * Add remaining ingredients and serve over rice
+
 Source: https://minimalistbaker.com/easy-chana-masala/  

@@ -6,39 +6,39 @@ category: main
 tags: beef gravy pie stew meat
 ---
 3 batches of [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %}) dough  
-<ul>
- 	<li>Split in two, roll out larger half and line quarter sheet pan.</li>
- 	<li>Roll out other half and leave on parchment.</li>
- 	<li>Chill while making filling.</li>
-</ul>
+
+  * Split in two, roll out larger half and line quarter sheet pan.
+  * Roll out other half and leave on parchment.
+  * Chill while making filling.
+
 1/2 lb. bacon, diced  
 1 lb. beef (ground or sirloin)  
-<ul>
- 	<li>Brown bacon and beef</li>
-</ul>
+
+  * Brown bacon and beef
+
 2 medium onions, diced  
 2 medium carrots, diced  
 2 stalks celery, diced  
-<ul>
- 	<li>Add vegetables and saute until softened</li>
-</ul>
+
+  * Add vegetables and saute until softened
+
 1/4 cup flour  
-<ul>
- 	<li>Add flour and stir to thicken.</li>
-</ul>
+
+  * Add flour and stir to thicken.
+
 1 shot espresso  
 12 oz. beef or chicken stock  
 1 Tbsp. chili powder  
 3/4 tsp. salt  
 1/2 tsp. pepper  
 herbs to taste  
-<ul>
- 	<li>Add espresso and scrape up any pan deposits.</li>
- 	<li>Add stock and break up any flour lumps to make a gravy.</li>
- 	<li>Add remaining ingredients and simmer 30 minutes.</li>
- 	<li>Adjust seasoning (recipe says it should be "assertive")</li>
- 	<li>Spoon filling into lined pie dish and top with second crust.</li>
- 	<li>Bake @ 425°F for 20 minutes.</li>
- 	<li>Reduce heat to 375°F and bake until crust is browned and filling is bubbling, about 45 minutes.</li>
-</ul>
+
+  * Add espresso and scrape up any pan deposits.
+  * Add stock and break up any flour lumps to make a gravy.
+  * Add remaining ingredients and simmer 30 minutes.
+  * Adjust seasoning (recipe says it should be "assertive")
+  * Spoon filling into lined pie dish and top with second crust.
+  * Bake @ 425°F for 20 minutes.
+  * Reduce heat to 375°F and bake until crust is browned and filling is bubbling, about 45 minutes.
+
 Source: Pie Squared, p. 165  

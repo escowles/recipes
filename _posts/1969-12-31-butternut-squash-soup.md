@@ -6,24 +6,24 @@ category: main
 tags: soup squash vegetarian vegetable creamcheese dairy
 ---
 <b>1200 Cal (5 x 240)</b>
-<p>Ingredients:</p><ul>
-<li>2 Tbsp.	butter</li>
-<li>1/2	red onion, chopped</li>
-<li>2	stalks celery, chopped</li>
-<li>2	carrots, peeled and chopped</li>
-<li>1	butternut squash, peeled and cubed</li>
-<li>6 cups	water</li>
-<li>1/2 tsp.	thyme</li>
-<li>1/4 tsp.	black pepper</li>
-<li>1/8 tsp.	cayenne pepper</li>
-<li>4 oz.	cream cheese</li>
-<li>1 cup	half & half</li>
-</ul>
+<p>Ingredients:</p>
+* 2 Tbsp. butter
+* 1/2 red onion, chopped
+* 2 stalks celery, chopped
+* 2 carrots, peeled and chopped
+* 1 butternut squash, peeled and cubed
+* 6 cups water
+* 1/2 tsp. thyme
+* 1/4 tsp. black pepper
+* 1/8 tsp. cayenne pepper
+* 4 oz. cream cheese
+* 1 cup half & half
+
 <p>Directions:</p>
-<ol>
-<li>Saute onion, celery and carrots in butter until onions are softened.</li>
-<li>Add squash and water.  Bring to a boil, reduce heat, and simmer for 20 minutes.</li>
-<li>Remove vegetables and puree with cream cheese in food processor or blender in batches until smooth.  Reserve broth.</li>
-<li>Return puree to pan, add half & half and heat through, but do not boil.</li>
-<li>Add water and herbs from broth to taste.</li>
-</ol>
+
+* Saute onion, celery and carrots in butter until onions are softened.
+* Add squash and water.  Bring to a boil, reduce heat, and simmer for 20 minutes.
+* Remove vegetables and puree with cream cheese in food processor or blender in batches until smooth.  Reserve broth.
+* Return puree to pan, add half & half and heat through, but do not boil.
+* Add water and herbs from broth to taste.
+

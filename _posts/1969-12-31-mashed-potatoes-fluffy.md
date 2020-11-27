@@ -6,15 +6,15 @@ category: sides
 tags:  potatoes
 ---
 <b>850 Cal (4x 213)</b>
-<p>Ingredients:</p><ul>
-<li>1 1/2 lbs.	potatoes, peeled and cubed</li>
-<li>2 Tbsp.	butter</li>
-<li>2 Tbsp.	milk</li>
-</ul>
+<p>Ingredients:</p>
+* 1 1/2 lbs. potatoes, peeled and cubed
+* 2 Tbsp. butter
+* 2 Tbsp. milk
+
 <p>Directions:</p>
-<ol>
-<li>Peel and cube potatoes, and add to water as it heats up.</li>
-<li>Bring to boil and boil for 15 minutes.</li>
-<li>Drain and add remaining ingredients.</li>
-<li>Mix with electric mixer until smooth and fluffy.</li>
-</ol>
+
+* Peel and cube potatoes, and add to water as it heats up.
+* Bring to boil and boil for 15 minutes.
+* Drain and add remaining ingredients.
+* Mix with electric mixer until smooth and fluffy.
+

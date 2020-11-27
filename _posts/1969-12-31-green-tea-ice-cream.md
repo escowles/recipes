@@ -6,20 +6,20 @@ category: dessert
 tags: tea icecream cream
 ---
 <b>1900 Cal</b>
-<p>Ingredients:</p><ul>
-<li>2 cups	heavy cream</li>
-<li>1 cup	whole milk</li>
-<li>1/4 tsp.	salt</li>
-<li>6	eggs</li>
-<li>2/3 cup	sugar</li>
-<li>2 Tbsp.	matcha (powdered tea)</li>
-</ul>
+<p>Ingredients:</p>
+* 2 cups heavy cream
+* 1 cup whole milk
+* 1/4 tsp. salt
+* 6 eggs
+* 2/3 cup sugar
+* 2 Tbsp. matcha (powdered tea)
+
 <p>Directions:</p>
-<ol>
-<li>Bring cream, milk and salt to a simmer and immediately remove from heat.</li>
-<li>Whisk eggs, sugar and matcha and slowly add cream mixture while whisking vigorously.</li>
-<li>Cook over low heat, stirring constantly until thick enough to coat back of a wooden spoon and 160F.</li>
-<li>Poor through fine sieve into metal bowl and cool, stirring occasionally.  Place bowl in ice bath to cool quickly.  Chill covered until cold, at least 1 hour.</li>
-<li>Freeze in ice cream maker, then freeze in airtight container to harden.</li>
-</ol>
-<li>Can use mortar and pestle to pulverize pearl tea.  Slightly less than 2 Tbsp. of pearl tea makes 2 Tbsp. of powder.</li>
+
+* Bring cream, milk and salt to a simmer and immediately remove from heat.
+* Whisk eggs, sugar and matcha and slowly add cream mixture while whisking vigorously.
+* Cook over low heat, stirring constantly until thick enough to coat back of a wooden spoon and 160F.
+* Poor through fine sieve into metal bowl and cool, stirring occasionally.  Place bowl in ice bath to cool quickly.  Chill covered until cold, at least 1 hour.
+* Freeze in ice cream maker, then freeze in airtight container to harden.
+
+* Can use mortar and pestle to pulverize pearl tea.  Slightly less than 2 Tbsp. of pearl tea makes 2 Tbsp. of powder.

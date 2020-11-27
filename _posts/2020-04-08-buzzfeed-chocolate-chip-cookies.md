@@ -16,12 +16,12 @@ tags: chocolate cookies
 1 Tbsp. vanilla extract  
 2 eggs  
 8 oz. semisweet chocolate, chopped  
-<ul>
- 	<li>Whisk flours, salt, and baking soda together and set aside</li>
- 	<li>Whisk butter, oil, sugars (reserving 1/2 cup of white sugar), and vanilla. Whisk in eggs vigorously until smooth (about 30 seconds)</li>
- 	<li>Add dry ingredients and stir until smooth</li>
- 	<li>Fold in chocolate, and rest for 1 hour</li>
- 	<li>Form into balls, and roll in remaining 1/2 cup of white sugar</li>
- 	<li>Bake 7-8 minutes at 375°F, and tap baking sheet to partially deflate the cookies to accentuate cracking.</li>
-</ul>
+
+  * Whisk flours, salt, and baking soda together and set aside
+  * Whisk butter, oil, sugars (reserving 1/2 cup of white sugar), and vanilla. Whisk in eggs vigorously until smooth (about 30 seconds)
+  * Add dry ingredients and stir until smooth
+  * Fold in chocolate, and rest for 1 hour
+  * Form into balls, and roll in remaining 1/2 cup of white sugar
+  * Bake 7-8 minutes at 375°F, and tap baking sheet to partially deflate the cookies to accentuate cracking.
+
 Source: <a href="https://www.buzzfeed.com/jesseszewczyk/heres-how-to-make-buzzfeeds-best-chocolate-chip-cookies">https://www.buzzfeed.com/jesseszewczyk/heres-how-to-make-buzzfeeds-best-chocolate-chip-cookies</a>

@@ -8,9 +8,9 @@ tags: soap teatree
 1 lb. glycerin soap base  
 2 drops food coloring (optional, but helps make soap visible if dropped in the bath)  
 1 jar (⅓ oz.) tea tree oil  
-<ul>
-	<li>Cut the soap into small chunks and add food coloring.</li>
-	<li>Microwave in 30 second intervals, stirring after each time, until melted and the food coloring is incorporated.</li>
-	<li>Add tea tree oil and stir.</li>
-	<li>Pour into soap molds (or tupperware) and chill until hardened.</li>
-</ul>
+
+ * Cut the soap into small chunks and add food coloring.
+ * Microwave in 30 second intervals, stirring after each time, until melted and the food coloring is incorporated.
+ * Add tea tree oil and stir.
+ * Pour into soap molds (or tupperware) and chill until hardened.
+

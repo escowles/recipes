@@ -13,11 +13,11 @@ tags: chicken meat mexican recipe
 1 lime  
 ½ orange  
 1 whole chicken  
-<ul>
-	<li>Mash spices into a paste in a heat proof bowl</li>
-	<li>Heat oil in saucepan and whisk into spice paste</li>
-	<li>Allow mixture to cool slightly and squeeze in juices</li>
-	<li>Pour over chicken pieces in plastic bag, coating chicken</li>
-	<li>Refrigerate 4 hours or overnight</li>
-	<li>Bake at 375°F about 1 hour, until chicken is 180°F.</li>
-</ul>
+
+ * Mash spices into a paste in a heat proof bowl
+ * Heat oil in saucepan and whisk into spice paste
+ * Allow mixture to cool slightly and squeeze in juices
+ * Pour over chicken pieces in plastic bag, coating chicken
+ * Refrigerate 4 hours or overnight
+ * Bake at 375°F about 1 hour, until chicken is 180°F.
+

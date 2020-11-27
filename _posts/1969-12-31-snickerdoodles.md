@@ -6,20 +6,20 @@ category: dessert
 tags: cookies cinnamon
 ---
 <b>4478 Cal (48x 90)</b>
-<p>Ingredients:</p><ul>
-<li>1 1/2 cups	sugar</li>
-<li>1 cup	butter, softened</li>
-<li>2	eggs</li>
-<li>2 3/4 cups	flour</li>
-<li>1 Tbsp.	baking powder</li>
-<li>1/2 tsp.	salt</li>
-<li>1/4 cup	sugar</li>
-<li>2 tsp.	cinnamon</li>
-</ul>
+<p>Ingredients:</p>
+* 1 1/2 cups sugar
+* 1 cup butter, softened
+* 2 eggs
+* 2 3/4 cups flour
+* 1 Tbsp. baking powder
+* 1/2 tsp. salt
+* 1/4 cup sugar
+* 2 tsp. cinnamon
+
 <p>Directions:</p>
-<ol>
-<li>Mix sugar, butter, and eggs in large bowl.</li>
-<li>Add flour, baking powder, and salt.</li>
-<li>Form dough into 1 1/4" balls and roll in cinnamon sugar.</li>
-<li>Bake at 400F (205C) 8-10 minutes, until set.</li>
-</ol>
+
+* Mix sugar, butter, and eggs in large bowl.
+* Add flour, baking powder, and salt.
+* Form dough into 1 1/4" balls and roll in cinnamon sugar.
+* Bake at 400F (205C) 8-10 minutes, until set.
+

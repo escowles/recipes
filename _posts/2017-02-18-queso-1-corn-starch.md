@@ -9,10 +9,10 @@ tags: cheese dip mexican appetizer dairy
 1 Tbsp. corn starch  
 1 can (12 oz.) evaporated milk  
 1 can (10 oz.) Ro-Tel tomatoes and chillies  
-<ul>
- 	<li>Toss cheese and corn starch.</li>
- 	<li>Add 1 cup evaporated milk and cook over low heat until melted and smooth.</li>
- 	<li>Add Ro-Tel tomatoes and chillies and mix well.</li>
- 	<li>Add additional evaporated milk as desired to adjust thickness.</li>
-</ul>
+
+  * Toss cheese and corn starch.
+  * Add 1 cup evaporated milk and cook over low heat until melted and smooth.
+  * Add Ro-Tel tomatoes and chillies and mix well.
+  * Add additional evaporated milk as desired to adjust thickness.
+
 http://www.seriouseats.com/recipes/2010/09/cheese-sauce-for-cheese-fries-and-nachos.html  

@@ -6,17 +6,17 @@ category: dessert
 tags:  frosting
 ---
 <b>3600 Cal (24x 150)</b>
-<p>Ingredients:</p><ul>
-<li>1/2 cup	shortening</li>
-<li>1/2 cup	butter, softened</li>
-<li>1 tsp.	clear vanilla extract</li>
-<li>4 cups	powdered sugar</li>
-<li>2 Tbsp.	milk</li>
-</ul>
+<p>Ingredients:</p>
+* 1/2 cup shortening
+* 1/2 cup butter, softened
+* 1 tsp. clear vanilla extract
+* 4 cups powdered sugar
+* 2 Tbsp. milk
+
 <p>Directions:</p>
-<ol>
-<li>Mix shortening and butter.  Add vanilla.</li>
-<li>Gradually add sugar, beating well on medium speed, scraping sides of bowl.</li>
-<li>Add milk and mix until light and fluffy.</li>
-</ol>
-<li>Source: http://www.wilton.com/recipe/Buttercream-Icing </li>
+
+* Mix shortening and butter.  Add vanilla.
+* Gradually add sugar, beating well on medium speed, scraping sides of bowl.
+* Add milk and mix until light and fluffy.
+
+* Source: http://www.wilton.com/recipe/Buttercream-Icing 

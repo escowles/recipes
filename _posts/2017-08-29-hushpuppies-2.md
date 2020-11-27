@@ -15,13 +15,13 @@ tags: bread southern appetizer fried
 </span><span class="rd_name">¾ cup milk  
 </span><span class="rd_name">¾ cup cream-style corn  
 </span><span class="rd_name">oil for frying</span>
-<ul>
- 	<li>Mix dry ingredients, then add egg, milk and corn, stirring until just mixed.</li>
- 	<li>Drop spoonfuls of batter into 375° oil and fry until golden brown.</li>
- 	<li>Dry on paper towels and eat warm.</li>
-</ul>
+
+  * Mix dry ingredients, then add egg, milk and corn, stirring until just mixed.
+  * Drop spoonfuls of batter into 375° oil and fry until golden brown.
+  * Dry on paper towels and eat warm.
+
 <dl class="numbered-list">
- 	<dt></dt>
- 	<dt></dt>
+  <dt></dt>
+  <dt></dt>
 </dl>
 <div class="row-fluid publication rd_font11px">Source: <a href="https://www.tasteofhome.com/recipes/best-hush-puppies">https://www.tasteofhome.com/recipes/best-hush-puppies</a></div>

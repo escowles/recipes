@@ -14,7 +14,7 @@ tags: middleeast sauce tahini
 1 tsp. cilantro  
 1 tsp. parsley  
 1/8 tsp. cumin  
-<ul>
- 	<li>Combine all ingredients and mix well.</li>
-</ul>
+
+  * Combine all ingredients and mix well.
+
 Source: <a href="https://www.epicurious.com/recipes/food/views/tahini-sauce-109039">https://www.epicurious.com/recipes/food/views/tahini-sauce-109039</a>

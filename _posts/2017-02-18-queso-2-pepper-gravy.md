@@ -17,13 +17,13 @@ tags: cheese dip mexican appetizer dairy sourcream
 12 oz. cheddar cheese, grated  
 12 oz. monterey jack cheese, grated  
 1/2 cup sour cream  
-<ul>
- 	<li>Sauté vegetables in butter until tender.</li>
- 	<li>Mix in flour and cook for 30 seconds.</li>
- 	<li>Add milk slowly and whisk constantly until thickened.</li>
- 	<li>Reduce heat and add cilantro and tomatoes.</li>
- 	<li>Add cheese in small batches, whisking until combined.</li>
- 	<li>Add sour cream and mix thoroughly.</li>
-</ul>
+
+  * Sauté vegetables in butter until tender.
+  * Mix in flour and cook for 30 seconds.
+  * Add milk slowly and whisk constantly until thickened.
+  * Reduce heat and add cilantro and tomatoes.
+  * Add cheese in small batches, whisking until combined.
+  * Add sour cream and mix thoroughly.
+
   
 <p>Source: <a href="http://www.browneyedbaker.com/chile-con-queso-dip-recipe/">http://www.browneyedbaker.com/chile-con-queso-dip-recipe/</a></p>

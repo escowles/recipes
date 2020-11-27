@@ -12,18 +12,18 @@ tags: chocolate candy hazelnuts
 4 oz. [hazelnut praline]({{ site.baseurl }}{% post_url 2015-02-06-hazelnut-praline %})
 3 oz. milk chocolate  
 1 oz. semisweet chocolate  
-<ul>
-	<li>Microwave chocolate 30 sec. at a time, stirring between each heating until melted.</li>
-	<li>Combine with hazelnut praline, mix thoroughly, and chill.</li>
-</ul>
+
+ * Microwave chocolate 30 sec. at a time, stirring between each heating until melted.
+ * Combine with hazelnut praline, mix thoroughly, and chill.
+
 <span style="text-decoration: underline;">Truffles:</span>
   
 2 oz. milk chocolate  
 2 oz. semisweet chocolate  
-<ul>
-	<li>Microwave 1 oz. of milk chocolate and 2 oz. of semisweet chocolate 30 sec. at a time, stirring between each heating, until smooth and shiny.</li>
-	<li>Add remaining chocolate and stir until smooth.</li>
-	<li>Scoop 1" balls of hazelnut filling and coat with tempered chocolate.</li>
-	<li>Allow to harden for a few minutes and serve at room temperature.</li>
-	<li>Can be kept refrigerated for weeks.</li>
-</ul>
+
+ * Microwave 1 oz. of milk chocolate and 2 oz. of semisweet chocolate 30 sec. at a time, stirring between each heating, until smooth and shiny.
+ * Add remaining chocolate and stir until smooth.
+ * Scoop 1" balls of hazelnut filling and coat with tempered chocolate.
+ * Allow to harden for a few minutes and serve at room temperature.
+ * Can be kept refrigerated for weeks.
+

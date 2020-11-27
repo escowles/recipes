@@ -13,15 +13,15 @@ tags: salmon seafood middleeast
 1½ tsp. cumin  
 ¼ tsp. salt  
 ¼ tsp. pepper  
-<ul>
-	<li>Juice lemon and mince garlic.</li>
-	<li>Combine all ingredients.</li>
-</ul>
+
+ * Juice lemon and mince garlic.
+ * Combine all ingredients.
+
 1¼ lbs. salmon fillets  
-<ul>
-	<li>Combine salmon with half of sauce and marinate 30 minutes, turning once.</li>
-	<li>Grill until internal temperature is 145°F.</li>
-</ul>
+
+ * Combine salmon with half of sauce and marinate 30 minutes, turning once.
+ * Grill until internal temperature is 145°F.
+
 <strong>840 Cal (4x 210)  
 </strong>
   

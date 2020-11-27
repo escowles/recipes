@@ -10,16 +10,16 @@ tags: bread vegetarian
 1 tsp. honey or sugar  
 2.25 tsp. dry yeast  
 1.33 cups warm water  
-<ul>
- 	<li>mix dry ingredients in the cloche, then add water and stir until the dough is evenly mixed</li>
- 	<li>cover with a damp towel and rest for 1 hour (dough should double in size)</li>
- 	<li>remove dough to a floured work surface and fold into center until it holds its shape</li>
- 	<li>form into a ball, dust with flour and return to cloche, smooth side up</li>
- 	<li>heat oven to 450°F</li>
- 	<li>fold cloche and bake for 30 minutes</li>
- 	<li>unfold cloche and continue baking for 10-20 minutes, until the bread reaches your desired level of doneness</li>
- 	<li>remove from oven and cool on wire rack for 30 minutes</li>
-</ul>
+
+  * mix dry ingredients in the cloche, then add water and stir until the dough is evenly mixed
+  * cover with a damp towel and rest for 1 hour (dough should double in size)
+  * remove dough to a floured work surface and fold into center until it holds its shape
+  * form into a ball, dust with flour and return to cloche, smooth side up
+  * heat oven to 450°F
+  * fold cloche and bake for 30 minutes
+  * unfold cloche and continue baking for 10-20 minutes, until the bread reaches your desired level of doneness
+  * remove from oven and cool on wire rack for 30 minutes
+
 Source: Bespoke Post flyer  
 
 ---

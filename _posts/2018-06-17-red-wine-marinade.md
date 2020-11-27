@@ -13,8 +13,8 @@ tags: marinade steak alcohol
 5 cloves of garlic, minced  
 1/4 onion, diced  
 1 Tbsp. rosemary  
-<ul>
- 	<li>Combine all ingredients with steaks, turning to coat well</li>
- 	<li>Refrigerate for at least 4 hours, turning several times</li>
-</ul>
+
+  * Combine all ingredients with steaks, turning to coat well
+  * Refrigerate for at least 4 hours, turning several times
+
 Source: <a href="https://www.thespruceeats.com/easy-red-wine-marinade-3511042">https://www.thespruceeats.com/easy-red-wine-marinade-3511042</a>

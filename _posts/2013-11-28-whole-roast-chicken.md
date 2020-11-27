@@ -12,9 +12,9 @@ tags: chicken meat thanksgiving traditional
 3 Tbsp. kosher salt  
 2 Tbsp. turbinado sugar  
 1 can beer (Cigar City Jai Alai IPA)  
-<ul>
-	<li>Place all ingredients in 1-gallon ziplock bag and marinate for 2 hours or longer.</li>
-</ul>
+
+ * Place all ingredients in 1-gallon ziplock bag and marinate for 2 hours or longer.
+
 <span style="text-decoration: underline;">Roast:</span>
   
 1 brined chicken1 Tbsp. olive oil  
@@ -22,10 +22,10 @@ tags: chicken meat thanksgiving traditional
 1 tsp. pepper  
 1 tsp. rosemary  
 1 tsp. thyme  
-<ul>
-	<li>Dry chicken and rub with oil, salt and pepper inside and out.</li>
-	<li>Add rosemary and thyme to cavity.</li>
-	<li>Bake at 425°F for 15 min.</li>
-	<li>Reduce temperature to 375°F and bake until inner thigh reads 165°F on a meat thermometer (approx. 60 min.).</li>
-	<li>Rest 15 min. before carving.</li>
-</ul>
+
+ * Dry chicken and rub with oil, salt and pepper inside and out.
+ * Add rosemary and thyme to cavity.
+ * Bake at 425°F for 15 min.
+ * Reduce temperature to 375°F and bake until inner thigh reads 165°F on a meat thermometer (approx. 60 min.).
+ * Rest 15 min. before carving.
+

@@ -14,15 +14,15 @@ tags: chocolate
 </span><span class="amount">1 Tbsp. c</span><span class="name">ocoa powder  
 </span><span class="amount">1/2 tsp. </span><span class="name">vanilla extract  
 </span><span class="amount">3/4 tsp.</span> <span class="name">salt</span>, more or less depending upon your preference  
-<ul>
-	<li>Melt chocolate in double boiler or microwave and set aside to cool.</li>
-	<li>Bake hazelnuts at 350°F for 12 minutes, until the skins blister.</li>
-	<li>Rub in a kitchen towel to remove as much of the skins as possible.</li>
-	<li>Process hazelnuts food processor until they form a paste (about 5 minutes).</li>
-	<li>Add oil, sugar, cocoa, vanilla and salt, and process until smooth.</li>
-	<li>Add chocolate and blend well, it will be runny but thicken as it cools.</li>
-	<li>Remove to covered container and let cool to room temperature.  Keeps for 2 weeks.</li>
-</ul>
+
+ * Melt chocolate in double boiler or microwave and set aside to cool.
+ * Bake hazelnuts at 350°F for 12 minutes, until the skins blister.
+ * Rub in a kitchen towel to remove as much of the skins as possible.
+ * Process hazelnuts food processor until they form a paste (about 5 minutes).
+ * Add oil, sugar, cocoa, vanilla and salt, and process until smooth.
+ * Add chocolate and blend well, it will be runny but thicken as it cools.
+ * Remove to covered container and let cool to room temperature.  Keeps for 2 weeks.
+
 http://www.splendidtable.org/recipes/homemade-nutella  
   
 </div>

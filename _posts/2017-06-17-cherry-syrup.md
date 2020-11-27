@@ -8,9 +8,9 @@ tags: cherry cocktails fruit syrup drinks
 2 lbs. Montmorency cherries  
 2 cups sugar  
 3 cups water  
-<ul>
- 	<li>Bring to boil, then reduce heat.</li>
- 	<li>Mash cherries, removing to a bowl in batches.</li>
- 	<li>Simmer for 20 minutes.</li>
- 	<li>Strain and refrigerate.</li>
-</ul>
+
+  * Bring to boil, then reduce heat.
+  * Mash cherries, removing to a bowl in batches.
+  * Simmer for 20 minutes.
+  * Strain and refrigerate.
+

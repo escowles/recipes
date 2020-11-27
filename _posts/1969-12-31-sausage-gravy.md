@@ -8,15 +8,15 @@ tags: meat pork sauce southern
 <b>1900 Cal (6x 315)</b>
   
 Ingredients:  
-<ul>
-	<li>1 lb. sausage</li>
-	<li>1/4 cup flour</li>
-	<li>2 cups milk</li>
-	<li>1/2 tsp. salt</li>
-	<li>1/2 tsp. pepper</li>
-</ul>
+
+ * 1 lb. sausage
+ * 1/4 cup flour
+ * 2 cups milk
+ * 1/2 tsp. salt
+ * 1/2 tsp. pepper
+
 Directions:  
-<ol>
-	<li>Brown sausage until finely crumbled.</li>
-	<li>Add flour and mix well, then add milk and spices and cook until thickened.</li>
-</ol>
+
+ * Brown sausage until finely crumbled.
+ * Add flour and mix well, then add milk and spices and cook until thickened.
+

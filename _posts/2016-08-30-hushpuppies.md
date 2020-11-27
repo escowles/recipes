@@ -13,28 +13,28 @@ tags: bread fried southern appetizer
 1/2 tsp. garlic powder  
 1/4 tsp. onion powder  
 1/4 tsp. black pepper  
-<ul>
- 	<li>Whisk together</li>
-</ul>
+
+  * Whisk together
+
 4 Tbsp. butter, cubed  
-<ul>
- 	<li>Blend into coarse meal</li>
-</ul>
+
+  * Blend into coarse meal
+
 1 egg, beaten  
 1 cup buttermilk  
-<ul>
- 	<li>Make a well and pour in, then gradually blend until the batter is smooth</li>
-</ul>
+
+  * Make a well and pour in, then gradually blend until the batter is smooth
+
 1/2 small onion, minced  
 1 jalapeno, minced  
-<ul>
- 	<li>Mix gently</li>
-</ul>
+
+  * Mix gently
+
 6 cups vegetable oil  
-<ul>
- 	<li>Heat oil to 350°F and drop batter by tablespoonful</li>
- 	<li>Fry about 4 minutes, turning often, until golden brown</li>
-</ul>
+
+  * Heat oil to 350°F and drop batter by tablespoonful
+  * Fry about 4 minutes, turning often, until golden brown
+
 
 ---
 

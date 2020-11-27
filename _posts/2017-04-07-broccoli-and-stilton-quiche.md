@@ -13,11 +13,11 @@ tags: egg british quiche stilton vegetarian cheese bluecheese vegetable dairy
 ¾ cup heavy cream  
 2 Tbsp. hot sauce or green [harissa]({{ site.baseurl }}{% post_url 2016-10-16-chili-paste %})
 salt and pepper to taste  
-<ul>
- 	<li>Bake pie crust blind at 400°F for 15 minutes.</li>
- 	<li>While the crust is baking, blanch and rinse the broccoli.</li>
- 	<li>Place broccoli, onions, and stilton in the pie crust.</li>
- 	<li>In a bowl, whisk eggs, cream, harissa, salt and pepper, then pour over broccoli and cheese.</li>
- 	<li>Bake at 400°F for 20-30 minutes, until golden brown.</li>
-</ul>
+
+  * Bake pie crust blind at 400°F for 15 minutes.
+  * While the crust is baking, blanch and rinse the broccoli.
+  * Place broccoli, onions, and stilton in the pie crust.
+  * In a bowl, whisk eggs, cream, harissa, salt and pepper, then pour over broccoli and cheese.
+  * Bake at 400°F for 20-30 minutes, until golden brown.
+
 Source: <a href="http://www.foodnetwork.co.uk/recipes/broccoli-and-stilton-quiche.html">http://www.foodnetwork.co.uk/recipes/broccoli-and-stilton-quiche.html</a>

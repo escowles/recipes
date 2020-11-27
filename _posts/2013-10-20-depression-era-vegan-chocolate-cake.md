@@ -16,13 +16,13 @@ tags: chocolate lydia cake
 1 cup water  
 1½ tsp. vanilla  
 1 Tbsp. cider or white vinegar  
-<ul>
-	<li>Mix dry ingredients.</li>
-	<li>In a separate bowl, whisk wet ingredients.</li>
-	<li>Combine and whisk until smooth.</li>
-	<li>Tap mixing bowl or drop from 6 inches to shake out air bubbles.</li>
-	<li>Bake at 350°F for 25-30 minutes, until toothpick comes out clean.</li>
-	<li>Cool before removing from pan.</li>
-	<li>Dust with powdered sugar or frost as desired.</li>
-</ul>
+
+ * Mix dry ingredients.
+ * In a separate bowl, whisk wet ingredients.
+ * Combine and whisk until smooth.
+ * Tap mixing bowl or drop from 6 inches to shake out air bubbles.
+ * Bake at 350°F for 25-30 minutes, until toothpick comes out clean.
+ * Cool before removing from pan.
+ * Dust with powdered sugar or frost as desired.
+
 Source: http://food52.com/blog/8614-margaret-fox-s-amazon-chocolate-cake  

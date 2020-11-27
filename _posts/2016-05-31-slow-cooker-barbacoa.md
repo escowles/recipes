@@ -16,9 +16,9 @@ tags: meat mexican slowcooker
 2 Tbsp. soy sauce  
   
 </div>
-<ul>
- 	<li>Combine all ingredients in a large ziplock bag, toss to coat, and refrigerate overnight.</li>
-</ul>
+
+  * Combine all ingredients in a large ziplock bag, toss to coat, and refrigerate overnight.
+
 <div class="ingredients">
   
 3 bay leaves  
@@ -28,11 +28,11 @@ tags: meat mexican slowcooker
 1 tsp. black pepper  
 ¼ tsp. ground cloves  
 ½ cup beef broth or water  
-<ul>
- 	<li>Combine with marinated meat in slow cooker.</li>
- 	<li>Cook for 6-8 hours on low,or 3-4 hours on high.</li>
- 	<li>Shred and serve.</li>
-</ul>
+
+  * Combine with marinated meat in slow cooker.
+  * Cook for 6-8 hours on low,or 3-4 hours on high.
+  * Shred and serve.
+
 Source: <a href="http://www.gimmesomeoven.com/barbacoa-recipe/">http://www.gimmesomeoven.com/barbacoa-recipe/</a>
   
 </div>

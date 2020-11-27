@@ -17,11 +17,11 @@ tags: bread pumpkin
 </span><span class="amount"><span class="toggleunits" data-alt="400 g">1 cup</span></span> <span class="name">sugar  
 </span><span class="amount">1 tsp. baking soda</span><span class="name"><span class="toggleunits" data-alt="425-g">
 </span></span>
-<ul>
- 	<li>Combine wet ingredients and mix thoroughly.</li>
- 	<li>Mix dry ingredients and add to wet ingredients.</li>
- 	<li>Pour into greased and floured bread pan.</li>
- 	<li>Bake at 325°F for 60-75 minutes, until toothpick comes out clean.</li>
- 	<li>Turn out and cool on a rack.</li>
-</ul>
+
+  * Combine wet ingredients and mix thoroughly.
+  * Mix dry ingredients and add to wet ingredients.
+  * Pour into greased and floured bread pan.
+  * Bake at 325°F for 60-75 minutes, until toothpick comes out clean.
+  * Turn out and cool on a rack.
+
 Source: https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html  

@@ -13,12 +13,12 @@ tags: crab maryland seafood
 1 tsp. worcestershire sauce  
 2 eggs, beaten  
 2 lbs. crabmeat  
-<ul>
- 	<li>Remove crusts from bread and process in food processor until crumbs</li>
- 	<li>Mix in remaining ingredients, except crabmeat, until well blended</li>
- 	<li>Carefully break apart crabmeat, removing any bits of shell</li>
- 	<li>Fold in crabmeat until combined, then shape into about 12 patties.</li>
- 	<li>Cover and chill for 30 minutes.</li>
- 	<li>Broil 10 minutes without turning, or fry until browned on both sides.</li>
-</ul>
+
+  * Remove crusts from bread and process in food processor until crumbs
+  * Mix in remaining ingredients, except crabmeat, until well blended
+  * Carefully break apart crabmeat, removing any bits of shell
+  * Fold in crabmeat until combined, then shape into about 12 patties.
+  * Cover and chill for 30 minutes.
+  * Broil 10 minutes without turning, or fry until browned on both sides.
+
 Source: https://www.mccormick.com/recipes/main-dishes/old-bay-crab-cakes  

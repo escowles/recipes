@@ -9,42 +9,42 @@ tags: beef british meat cooksillustrated
   
 Ingredients:  
 <h2>Filling:</h2>
-<ul>
- 	<li>1 Tbsp. butter</li>
- 	<li>1/2 onion, finely chopped</li>
- 	<li>1 large carrot or 12 baby carrots, finely chopped</li>
- 	<li>1 lb. ground beef</li>
- 	<li>2 Tbsp. flour</li>
- 	<li>1 Tbsp. ketchup</li>
- 	<li>2 Tbsp. heavy cream</li>
- 	<li>3/8 cup chicken broth</li>
- 	<li>3/8 cup beer</li>
- 	<li>1 Tbsp. soy sauce or Worcestershire sauce</li>
- 	<li>1 tsp. thyme</li>
- 	<li>1/2 cup frozen peas</li>
-</ul>
+
+  * 1 Tbsp. butter
+  * 1/2 onion, finely chopped
+  * 1 large carrot or 12 baby carrots, finely chopped
+  * 1 lb. ground beef
+  * 2 Tbsp. flour
+  * 1 Tbsp. ketchup
+  * 2 Tbsp. heavy cream
+  * 3/8 cup chicken broth
+  * 3/8 cup beer
+  * 1 Tbsp. soy sauce or Worcestershire sauce
+  * 1 tsp. thyme
+  * 1/2 cup frozen peas
+
 Directions:  
-<ol>
- 	<li>Saute onion and carrot in butter until tender, about 8 min.</li>
- 	<li>Add beef, season with salt and pepper, and cook until browned, about 6 min.</li>
- 	<li>Add flour and tomato paste, and cook about 1 min.</li>
- 	<li>Add cream and cook about 1 min.</li>
- 	<li>Add broth, beer, soy sauce, and thyme. Simmer until thickened but still saucy, about 5 min.</li>
- 	<li>Remove from heat, add peas, season with salt and pepper, and add to baking dish.</li>
-</ol>
+
+  * Saute onion and carrot in butter until tender, about 8 min.
+  * Add beef, season with salt and pepper, and cook until browned, about 6 min.
+  * Add flour and tomato paste, and cook about 1 min.
+  * Add cream and cook about 1 min.
+  * Add broth, beer, soy sauce, and thyme. Simmer until thickened but still saucy, about 5 min.
+  * Remove from heat, add peas, season with salt and pepper, and add to baking dish.
+
 <h2>Topping:</h2>
-<ul>
- 	<li>1½ lb. potatoes</li>
- 	<li>1½ Tbsp. butter</li>
- 	<li>¼ cup heavy cream</li>
-</ul>
+
+  * 1½ lb. potatoes
+  * 1½ Tbsp. butter
+  * ¼ cup heavy cream
+
 Directions:  
-<ol>
- 	<li>Cut potatoes and boil until tender. Drain and mash with butter and cream.</li>
- 	<li>Spread potatoes over filling, smooth top and then make ridges with a fork.</li>
- 	<li>Bake at 375F (190C) for 15 min., until bubbling.</li>
- 	<li>Broil (high) for 3-5 min., until peaks are browned.</li>
- 	<li>Remove from oven and rest for 10 min. before serving.</li>
-</ol>
+
+  * Cut potatoes and boil until tender. Drain and mash with butter and cream.
+  * Spread potatoes over filling, smooth top and then make ridges with a fork.
+  * Bake at 375F (190C) for 15 min., until bubbling.
+  * Broil (high) for 3-5 min., until peaks are browned.
+  * Remove from oven and rest for 10 min. before serving.
+
 
 Source: Cook's Illustrated

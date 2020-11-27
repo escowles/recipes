@@ -14,13 +14,13 @@ salt and pepper to taste
 4 cloves garlic, minced  
 1 jalapeño, seeded and diced  
 juice from 2 limes  
-<ul>
-	<li>Cube pork roast and toss with oil and spices until coated</li>
-	<li>Add vegetables and lime juice</li>
-	<li>(Optional) marinate overnight</li>
-	<li>Cook in slow cooker: 4 hours (high) or 8-10 hours (low)</li>
-	<li>Remove pork chunks to a frying pan with slotted spoon</li>
-	<li>Remove cilantro and pull pork chunks with fork or chopsticks</li>
-	<li>Fry on medium heat until nicely browned</li>
-</ul>
+
+ * Cube pork roast and toss with oil and spices until coated
+ * Add vegetables and lime juice
+ * (Optional) marinate overnight
+ * Cook in slow cooker: 4 hours (high) or 8-10 hours (low)
+ * Remove pork chunks to a frying pan with slotted spoon
+ * Remove cilantro and pull pork chunks with fork or chopsticks
+ * Fry on medium heat until nicely browned
+
 See also [Pulled Pork]({{ site.baseurl }}{% post_url 1969-12-31-pulled-pork %}).

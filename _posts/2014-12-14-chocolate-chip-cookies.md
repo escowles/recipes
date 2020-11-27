@@ -14,12 +14,12 @@ tags:  chocolate cookies cooksillustrated
 1/2 tsp. baking soda  
 1 tsp. salt  
 1 cup semi-sweet chocolate chips  
-<ul>
-	<li>Mix butter, sugars, vanilla and eggs.</li>
-	<li>In a separate bowl, mix flour, baking soda and salt.</li>
-	<li>Add egg mixture to flour mixture and mix until combined.</li>
-	<li>Stir in chocolate chips.</li>
-	<li>Spoon onto ungreased baking sheet</li>
-	<li>Bake 10-14 minutes at 375°F, until golden brown.</li>
-</ul>
+
+ * Mix butter, sugars, vanilla and eggs.
+ * In a separate bowl, mix flour, baking soda and salt.
+ * Add egg mixture to flour mixture and mix until combined.
+ * Stir in chocolate chips.
+ * Spoon onto ungreased baking sheet
+ * Bake 10-14 minutes at 375°F, until golden brown.
+
 Source: Adapted from Cook's, removed fussy process (browning butter, separating eggs).  

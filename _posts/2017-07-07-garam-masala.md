@@ -11,10 +11,10 @@ tags: indian spice asian
 1 tsp. cardamom seeds  
 1/2 tsp. whole cloves  
 1/8 tsp. nutmeg  
-<ul>
- 	<li>Combine all ingredients and grind into a powder with mortar and pestle or food processor</li>
- 	<li>Whole spices can be substituted with half the amount of ground spice</li>
-</ul>
+
+  * Combine all ingredients and grind into a powder with mortar and pestle or food processor
+  * Whole spices can be substituted with half the amount of ground spice
+
 
 ---
 

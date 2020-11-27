@@ -13,14 +13,14 @@ tags: meat mexican pork
 6 sprigs cilantro (or 1 tsp. dried cilantro)  
 1 tsp. salt  
 2-3 lbs. boneless Boston butt pork  
-<ul>
-	<li>Add all ingredients except pork to large pot and bring to a boil.</li>
-	<li>Trim fat from pork roast and cut into large cubes (roughly 4").</li>
-	<li>Add pork to pot and return to boiling.</li>
-	<li>Reduce heat and simmer for 90 minutes.</li>
-	<li>Remove from heat and allow to cool for several hours (can be refrigerated overnight).</li>
-	<li>Drain pork and pull apart.</li>
-</ul>
+
+ * Add all ingredients except pork to large pot and bring to a boil.
+ * Trim fat from pork roast and cut into large cubes (roughly 4").
+ * Add pork to pot and return to boiling.
+ * Reduce heat and simmer for 90 minutes.
+ * Remove from heat and allow to cool for several hours (can be refrigerated overnight).
+ * Drain pork and pull apart.
+
 Source: http://www.flotation9.net/sweetfineday/2008/08/25/my-favorite-pulled-pork/  
   
 See also [Slow Cooker Carnitas]({{ site.baseurl }}{% post_url 2014-09-02-slow-cooker-carnitas %})

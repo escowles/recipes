@@ -13,6 +13,6 @@ tags: mexican sauce
 1 tsp. sea salt  
 ½ tsp. cumin  
 2 Tbsp. lime juice (one lime)  
-<ul>
- 	<li>Mix in food processor to desired consistency.</li>
-</ul>
+
+  * Mix in food processor to desired consistency.
+

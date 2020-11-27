@@ -13,10 +13,10 @@ tags: cheesecake cherry fruit dairy creamcheese
 ½ tsp. almond extract  
 2 Tbsp. maraschino cherry juice  
 10 oz. maraschino cherries, minced  
-<ul>
- 	<li>Mix cream cheese and sugar</li>
- 	<li>Add remaining ingredients and mix</li>
- 	<li>Pour into prepared pie crust</li>
- 	<li>Bake at 350°F for 25 minutes, or until set</li>
-</ul>
+
+  * Mix cream cheese and sugar
+  * Add remaining ingredients and mix
+  * Pour into prepared pie crust
+  * Bake at 350°F for 25 minutes, or until set
+
 Source: Lydia's customization of Cherry Cheesecake Bars from AnyoneCanBake  
