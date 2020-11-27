@@ -11,11 +11,11 @@ tags: cocktails drinks fruit gin alcohol
 4 oz. gin  
 8 oz. prosecco or champagne  
 fresh rosemary sprigs  
-<ul>
- 	<li>Combine juices, fruit, and gin and mix</li>
- 	<li>Pour over ice, top up with prosecco, and garnish with rosemary</li>
- 	<li>Non-alcoholic variant: omit gin from base and top up with Sprite or fizzy water</li>
-</ul>
+
+  * Combine juices, fruit, and gin and mix
+  * Pour over ice, top up with prosecco, and garnish with rosemary
+  * Non-alcoholic variant: omit gin from base and top up with Sprite or fizzy water
+
 Source: <a href="http://waitingonmartha.com/holiday-gin-punch/">http://waitingonmartha.com/holiday-gin-punch/</a>
 
 ---

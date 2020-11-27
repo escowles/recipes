@@ -23,12 +23,12 @@ tags: asian chicken chinese meat fruit
   
 1 tsp. corn starch  
 2 tsp. sesame oil  
-<ul>
-	<li>Toss chicken with egg white, salt, oil and corn starch.</li>
-	<li>Heat peanut oil in wok and stir fry chicken.</li>
-	<li>Add stock, orange juice, sugar, soy sauce, sherry and garlic and stir fry until chicken is done.</li>
-	<li>Remove from heat, mix in corn starch and sesame oil, and serve over rice.</li>
-</ul>
+
+ * Toss chicken with egg white, salt, oil and corn starch.
+ * Heat peanut oil in wok and stir fry chicken.
+ * Add stock, orange juice, sugar, soy sauce, sherry and garlic and stir fry until chicken is done.
+ * Remove from heat, mix in corn starch and sesame oil, and serve over rice.
+
 
 ---
 

@@ -5,7 +5,7 @@ date: 1969-12-31 19:00:00 -0500
 category: sides
 tags: mexican sauce dip appetizer
 ---
-<b>1050 Cal (16x 66)</b>
+1050 Cal (16x 66)
   
 3 avocados  
 1 clove garlic, minced  

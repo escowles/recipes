@@ -19,14 +19,14 @@ salt and pepper
 1 Tbsp. cumin  
 1 Tbsp. chili paste  
 1 tsp. saffron, soaked in ¼ cup warm water  
-<ul>
- 	<li>Line bottom of tagine with onion and garlic, drizzle with oil.</li>
- 	<li>Top with chicken, seasoned with salt and pepper.</li>
- 	<li>Mix remaining ingredients and cover chicken.</li>
- 	<li>Cook on low heat about 1 hour, until chicken is tender.</li>
-</ul>
+
+  * Line bottom of tagine with onion and garlic, drizzle with oil.
+  * Top with chicken, seasoned with salt and pepper.
+  * Mix remaining ingredients and cover chicken.
+  * Cook on low heat about 1 hour, until chicken is tender.
+
 Sources:  
-<ul>
- 	<li>http://www.foodnetwork.com/recipes/bobby-flay/chicken-and-chickpea-tagine-with-apricots-and-harissa-sauce-recipe.html</li>
- 	<li>http://cooking.nytimes.com/recipes/1013108-chickpea-tagine-with-chicken-and-apricots</li>
-</ul>
+
+  * http://www.foodnetwork.com/recipes/bobby-flay/chicken-and-chickpea-tagine-with-apricots-and-harissa-sauce-recipe.html
+  * http://cooking.nytimes.com/recipes/1013108-chickpea-tagine-with-chicken-and-apricots
+

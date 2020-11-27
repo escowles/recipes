@@ -13,10 +13,10 @@ tags: bread dairyfree
 2 tsp. baking powder  
 1/4 tsp. salt  
 1 cup flour  
-<ul>
- 	<li>Beat egg, then add liquids and beat again.</li>
- 	<li>Add sugar, baking powder, and salt and beat again.</li>
- 	<li>Add flour and mix until just combined.</li>
- 	<li>Prepare according to waffle maker instructions.</li>
-</ul>
+
+  * Beat egg, then add liquids and beat again.
+  * Add sugar, baking powder, and salt and beat again.
+  * Add flour and mix until just combined.
+  * Prepare according to waffle maker instructions.
+
 Source: <a href="https://permanentriot.com/2013/02/21/my-favorite-and-dairy-free-waffle-recipe/">https://permanentriot.com/2013/02/21/my-favorite-and-dairy-free-waffle-recipe/</a>

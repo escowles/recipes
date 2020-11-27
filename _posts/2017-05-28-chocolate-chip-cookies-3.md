@@ -14,12 +14,12 @@ tags: chocolate cookies
 ½ tsp. baking soda  
 ¼ tsp. salt  
 ¾ cup chocolate chips  
-<ul>
- 	<li>Soften butter and mix with sugars until creamy.</li>
- 	<li>Add vanilla and eggs and mix until just incorporated, about 15 seconds.</li>
- 	<li>Add dry ingredients and mix until crumbles form.</li>
- 	<li>Add chocolate chips and mix with hands.</li>
- 	<li>Roll into 12 balls and bake for 13 minutes at 350°F.</li>
- 	<li>Let cool on the cookie sheet.</li>
-</ul>
+
+  * Soften butter and mix with sugars until creamy.
+  * Add vanilla and eggs and mix until just incorporated, about 15 seconds.
+  * Add dry ingredients and mix until crumbles form.
+  * Add chocolate chips and mix with hands.
+  * Roll into 12 balls and bake for 13 minutes at 350°F.
+  * Let cool on the cookie sheet.
+
 Source: <a href="http://pinchofyum.com/the-best-soft-chocolate-chip-cookies">http://pinchofyum.com/the-best-soft-chocolate-chip-cookies</a>

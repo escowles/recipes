@@ -20,13 +20,13 @@ Heaping 1/4 cup flour
 1 tsp. salt  
 3 green onions, chopped  
 Hot sauce (Crystal or Tabasco) to taste  
-<ul>
- 	<li>Make roux with the oil and flour, and cook until very brown, about 10 minutes</li>
- 	<li>Add vegetables, stir well, and cook 4 minutes</li>
- 	<li>Add stock slowly, stirring to incorporate, until sauce is the consistency of syrup</li>
- 	<li>Add spices and shrimp, and cook at lowest heat for 10 minutes</li>
- 	<li>Add green onions and hot sauce, then serve over rice</li>
-</ul>
+
+  * Make roux with the oil and flour, and cook until very brown, about 10 minutes
+  * Add vegetables, stir well, and cook 4 minutes
+  * Add stock slowly, stirring to incorporate, until sauce is the consistency of syrup
+  * Add spices and shrimp, and cook at lowest heat for 10 minutes
+  * Add green onions and hot sauce, then serve over rice
+
 Source: <a href="https://www.simplyrecipes.com/recipes/shrimp_etouffee/">https://www.simplyrecipes.com/recipes/shrimp_etouffee/</a>
 
 ---

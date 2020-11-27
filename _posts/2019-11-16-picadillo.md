@@ -18,11 +18,11 @@ tags: beef cuban meat
 2 Tbsp. cumin  
 2 tsp. sugar  
 salt to taste  
-<ul>
- 	<li>Saute garlic, onion, and pepper until softened (5-7 minutes)</li>
- 	<li>Brown beef (7-10 minutes)</li>
- 	<li>Add remaining ingredients, reduce heat, and simmer (10 minutes)</li>
-</ul>
+
+  * Saute garlic, onion, and pepper until softened (5-7 minutes)
+  * Brown beef (7-10 minutes)
+  * Add remaining ingredients, reduce heat, and simmer (10 minutes)
+
 Source: <a href="https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/">https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/</a>
 
 ---

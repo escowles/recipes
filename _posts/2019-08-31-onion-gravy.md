@@ -13,10 +13,10 @@ tags: british gravy sauce
 1 cup broth  
 1 Tbsp. worcestershire sauce  
 ¼ tsp. pepper  
-<ul>
- 	<li>Slice onion and saute in oil and butter about 15 minutes</li>
- 	<li>Stir in flour and cook 1 minute</li>
- 	<li>Add water and broth, and mix well, scraping up brown bits, until thickened</li>
- 	<li>Season with worcestershire sauce, salt, and pepper as desired</li>
-</ul>
+
+  * Slice onion and saute in oil and butter about 15 minutes
+  * Stir in flour and cook 1 minute
+  * Add water and broth, and mix well, scraping up brown bits, until thickened
+  * Season with worcestershire sauce, salt, and pepper as desired
+
 Source: <a href="https://www.epicurious.com/recipes/food/views/onion-gravy-231663">https://www.epicurious.com/recipes/food/views/onion-gravy-231663</a>

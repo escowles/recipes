@@ -17,9 +17,9 @@ tags: cuban beans
 1 cup chicken stock or bouillon  
 1 bay leaf  
 1 tsp. vinegar (1 capful)  
-<ul>
- 	<li>heat oil and sauté vegetables and bacon</li>
- 	<li>add beans, stock and spices</li>
- 	<li>bring to a boil, then reduce heat and simmer until thickened</li>
-</ul>
+
+  * heat oil and sauté vegetables and bacon
+  * add beans, stock and spices
+  * bring to a boil, then reduce heat and simmer until thickened
+
 Source: <a href="http://cooking.nytimes.com/recipes/1013062-cuban-black-beans">http://cooking.nytimes.com/recipes/1013062-cuban-black-beans</a>

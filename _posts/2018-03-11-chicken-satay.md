@@ -16,9 +16,9 @@ tags: chicken peanutbutter thai meat asian
 ¼ tsp. cayenne pepper  
 2 tsp. Masaman curry paste  
 1/3 cup coconut milk  
-<ul>
- 	<li>Marinate meat for at least 30 minutes in the refrigerator</li>
-</ul>
+
+  * Marinate meat for at least 30 minutes in the refrigerator
+
 1 tsp. Masaman curry paste  
 2 Tbsp. fish sauce  
 3 Tbsp. tamarind juice  
@@ -28,7 +28,7 @@ tags: chicken peanutbutter thai meat asian
 ½ tsp. garlic powder  
 2 cups coconut milk  
 1/2 cup crushed peanutes  
-<ul>
- 	<li>Mix all ingredients and cook until thickened, about 10-15 minutes</li>
-</ul>
+
+  * Mix all ingredients and cook until thickened, about 10-15 minutes
+
 Source: <a href="https://rasamalaysia.com/thai-chicken-sate-with-peanut-sauce/2/">https://rasamalaysia.com/thai-chicken-sate-with-peanut-sauce/2/</a>

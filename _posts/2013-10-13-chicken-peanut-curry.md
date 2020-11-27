@@ -15,8 +15,8 @@ tags: chicken indian meat curry asian peanutbutter
 1 can (8 oz.) water chestnuts  
 curry powder to taste  
 ½ cup peanut butter  
-<ul>
- 	<li>Heat oil in wok and stir fry chicken, onion and pepper.</li>
- 	<li>Add remaining ingredients and simmer until chicken is thoroughly cooked and tender.</li>
-</ul>
+
+  * Heat oil in wok and stir fry chicken, onion and pepper.
+  * Add remaining ingredients and simmer until chicken is thoroughly cooked and tender.
+
 &nbsp;  

@@ -7,12 +7,12 @@ tags: beer cacaonibs chocolate alcohol homebrew
 ---
 4 oz. cacao nibs  
 3/4 cup "good" vodka  
-<ul>
- 	<li>Combine in airtight container (ziplock bag, jam jar, etc.)</li>
- 	<li>Let infuse for four days (shaking several times a day)</li>
- 	<li>Strain out solids</li>
-</ul>
+
+  * Combine in airtight container (ziplock bag, jam jar, etc.)
+  * Let infuse for four days (shaking several times a day)
+  * Strain out solids
+
 Optional: To remove fats which can impact head retention:  
-<ul>
- 	<li>Freeze overnight and scrape off fat and solids that float to the top</li>
-</ul>
+
+  * Freeze overnight and scrape off fat and solids that float to the top
+

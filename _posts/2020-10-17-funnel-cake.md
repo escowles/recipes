@@ -13,10 +13,10 @@ tags: bread fried
 1 1/2 tsp. baking powder  
 1/4 tsp. salt  
 1 cup flour  
-<ul>
- 	<li>Mix all ingredients until smooth</li>
- 	<li>Heat oil to 375°F</li>
- 	<li>Pour 1/2 cup of batter from funnel with 1/2" opening, swirling from the center into a circle</li>
- 	<li>Fry until golden brown then flip and brown on the other side</li>
- 	<li>Drain on paper towels and dust with powdered sugar</li>
-</ul>
+
+  * Mix all ingredients until smooth
+  * Heat oil to 375°F
+  * Pour 1/2 cup of batter from funnel with 1/2" opening, swirling from the center into a circle
+  * Fry until golden brown then flip and brown on the other side
+  * Drain on paper towels and dust with powdered sugar
+

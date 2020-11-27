@@ -21,7 +21,7 @@ tags: bbq sauce southern
 1/8 tsp. coriander  
 1/8 tsp. allspice  
 1/8 tsp. chipotle pepper  
-<ul>
- 	<li>Mix all ingredients and shake over brisket, ribs, etc. before smoking.</li>
-</ul>
+
+  * Mix all ingredients and shake over brisket, ribs, etc. before smoking.
+
 Source: Kansas City Sweet and Smoky Rub, p 24, Raichlen, Barbeque Sauces, Rubs and Marinades.  Non-sugars halved, plain salt instead of smoked, chipotle instead of cayenne, adding garlic, coriander and cumin.  

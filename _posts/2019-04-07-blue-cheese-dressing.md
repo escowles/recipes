@@ -12,7 +12,7 @@ tags: bluecheese saladdressing cheese dairy sourcream
 1/8 tsp. Worcestershire sauce  
 1/4 cup buttermilk  
 4 oz. crumbled blue cheese  
-<ul>
- 	<li>Combine all ingredients, stir well, and refrigerate.</li>
-</ul>
+
+  * Combine all ingredients, stir well, and refrigerate.
+
 Source: <a href="https://www.tasteofhome.com/recipes/buttermilk-blue-cheese-dressing/">https://www.tasteofhome.com/recipes/buttermilk-blue-cheese-dressing/</a>

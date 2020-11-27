@@ -8,26 +8,26 @@ tags: banana pudding fruit
 1/2 cup (1 stick) butter  
 1 cup sugar  
 3 bananas, peeled and cubed  
-<ul>
- 	<li>Melt butter and heat until it starts to sizzle</li>
- 	<li>Add sugar, stir well, and cook on medium-high heat until it begins to brown (3-5 min)</li>
- 	<li>Add bananas and cook while stirring until smooth (about 3 minutes)</li>
- 	<li>Set aside</li>
-</ul>
+
+  * Melt butter and heat until it starts to sizzle
+  * Add sugar, stir well, and cook on medium-high heat until it begins to brown (3-5 min)
+  * Add bananas and cook while stirring until smooth (about 3 minutes)
+  * Set aside
+
 6 egg yolks  
 2 tsp. vanilla  
 2 Tbsp. cornstarch  
 1/2 cup sugar  
 2 cups half and half  
-<ul>
- 	<li>Combine yolks, vanilla, cornstarch and sugar in a bowl</li>
- 	<li>Head half and half over medium heat</li>
- 	<li>Pour half of half and half into the bowl, stirring constantly, then whisk until smooth</li>
- 	<li>Add remaining half and half and continue stirring</li>
- 	<li>Add mixture to saucepan and cook until thickened (6-8 minutes)</li>
-</ul>
+
+  * Combine yolks, vanilla, cornstarch and sugar in a bowl
+  * Head half and half over medium heat
+  * Pour half of half and half into the bowl, stirring constantly, then whisk until smooth
+  * Add remaining half and half and continue stirring
+  * Add mixture to saucepan and cook until thickened (6-8 minutes)
+
 Assembly:  
-<ul>
- 	<li>Make alternating layers of pudding and banana mixture, topping each layer with crumbled vanilla wafers.</li>
-</ul>
+
+  * Make alternating layers of pudding and banana mixture, topping each layer with crumbled vanilla wafers.
+
 Source: http://www.nickstellino.com/Recipes/Menu/Recipe/Print.aspx?rec=853  

@@ -9,29 +9,29 @@ tags: chocolate cookies
 3/4 cup sugar  
 3/4 cup brown sugar
   
-<ul>
- 	<li>Mix together until creamy.</li>
-</ul>
+
+  * Mix together until creamy.
+
 
 2 tsp. vanilla  
 2 eggs
   
-<ul>
- 	<li>Add to mixture and mix until combined.</li>
-</ul>
+
+  * Add to mixture and mix until combined.
+
 
 2 cups flour  
 1 tsp. baking soda  
 1/2 tsp. salt
   
-<ul>
- 	<li>Mix together and add slowly until combined.</li>
-</ul>
+
+  * Mix together and add slowly until combined.
+
 
 2 cups chocolate chips
   
-<ul>
- 	<li>Stir in.</li>
- 	<li>Drop by tablespoon onto ungreased cookie sheet.</li>
- 	<li>Bake 9-11 minutes at 375° F.</li>
-</ul>
+
+  * Stir in.
+  * Drop by tablespoon onto ungreased cookie sheet.
+  * Bake 9-11 minutes at 375° F.
+

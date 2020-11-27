@@ -10,11 +10,11 @@ tags: bread breakfast dutch
 2 eggs  
 500ml (2 cups) milk  
 butter for frying  
-<ul>
- 	<li>Mix flour and salt, add eggs and half the milk.</li>
- 	<li>Beat until smooth, then add the remaining milk to make a thin batter.</li>
- 	<li>Melt butter in pan and fry scant ½ cup of batter, tilting to coat bottom of pan evenly.</li>
- 	<li>Turn when bottom is golden brown.</li>
- 	<li>For spek (bacon): cook bacon and line bottom of pan with 2-3 slices of bacon before pouring in batter.</li>
-</ul>
+
+  * Mix flour and salt, add eggs and half the milk.
+  * Beat until smooth, then add the remaining milk to make a thin batter.
+  * Melt butter in pan and fry scant ½ cup of batter, tilting to coat bottom of pan evenly.
+  * Turn when bottom is golden brown.
+  * For spek (bacon): cook bacon and line bottom of pan with 2-3 slices of bacon before pouring in batter.
+
 https://stefangourmet.com/2013/12/31/dutch-pancakes-pannenkoeken/  

@@ -13,31 +13,31 @@ Dough:
 1 tsp. salt  
 3 Tbsp. butter, softened  
 ¾ cup milk  
-<ul>
-	<li>Mix dried ingredients in mixing bowl</li>
-	<li>Cut in butter</li>
-	<li>Stir in milk to form a soft dough</li>
-	<li>Roll out to 12" square</li>
-</ul>
+
+ * Mix dried ingredients in mixing bowl
+ * Cut in butter
+ * Stir in milk to form a soft dough
+ * Roll out to 12" square
+
 Filling:  
   
 4 Tbsp. butter  
 1 cup brown sugar  
 3 tsp. cinnamon  
-<ul>
-	<li>Combine all ingredients</li>
-	<li>(optional) Drizzle some filling in the bottom of pan</li>
-	<li>Spread filling on dough and roll tightly</li>
-	<li>Cut into 12-16 slices</li>
-	<li>Place in pan and bake for 20-25 minutes at 400°F</li>
-</ul>
+
+ * Combine all ingredients
+ * (optional) Drizzle some filling in the bottom of pan
+ * Spread filling on dough and roll tightly
+ * Cut into 12-16 slices
+ * Place in pan and bake for 20-25 minutes at 400°F
+
 Icing:  
   
 ½ cup powdered sugar  
 ¼ cup milk  
-<ul>
-	<li>Add milk a little at a time, constantly stirring until a thick icing forms</li>
-</ul>
+
+ * Add milk a little at a time, constantly stirring until a thick icing forms
+
 Source: http://www.food.com/recipe/quick-cinnamon-rolls-no-yeast-293243  
 
 ---

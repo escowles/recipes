@@ -12,14 +12,14 @@ tags: chocolate cookies peanutbutter
 ½ cup peanut butter  
 3 cups quick oats  
 1 tsp. vanilla  
-<ul>
- 	<li>Combine sugar, cocoa, milk and butter in saucepan and boil for 90 seconds.</li>
- 	<li>Add peanut butter and stir until melted.</li>
- 	<li>Add oats and stir until combined.</li>
- 	<li>Remove from heat and add vanilla.</li>
- 	<li>Stir occasionally, allowing to cool slightly.</li>
- 	<li>Drop onto greased cookie sheet or spread in greased 9x9" pan, and chill until firm.</li>
-</ul>
+
+  * Combine sugar, cocoa, milk and butter in saucepan and boil for 90 seconds.
+  * Add peanut butter and stir until melted.
+  * Add oats and stir until combined.
+  * Remove from heat and add vanilla.
+  * Stir occasionally, allowing to cool slightly.
+  * Drop onto greased cookie sheet or spread in greased 9x9" pan, and chill until firm.
+
 Source: Adapted from Mom's recipe, from Robert's 7th-grade Home Ec class.  
 
 ---
