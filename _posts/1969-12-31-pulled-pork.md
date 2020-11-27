@@ -5,7 +5,7 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: meat mexican pork
 ---
-<b>2100 Cal (8x 263)</b>
+2100 Cal (8x 263)
   
 6-8 cups water  
 1 onion, peeled and quartered  

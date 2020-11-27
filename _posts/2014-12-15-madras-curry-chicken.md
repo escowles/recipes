@@ -5,7 +5,7 @@ date: 2014-12-15 19:18:03 -0500
 category: main
 tags: chicken curry indian meat asian
 ---
-<strong>1680 Cal (4x 420)</strong>
+1680 Cal (4x 420)
   
 Madras Curry Paste:  
   
@@ -18,7 +18,7 @@ Madras Curry Paste:
 1 clove garlic, minced  
 2 Tbsp. lemon juice  
 
- * Combine all ingredients in a small bowl and mix well
+* Combine all ingredients in a small bowl and mix well
 
 2 Tbsp. olive oil  
 1 lb. chicken breast  
@@ -26,8 +26,7 @@ Madras Curry Paste:
 1 cup chicken bouillon  
 1 cup tomato purée  
 
- * Sautée chicken and onion in oil until chicken is browned.
- * Add bouillon, tomato purée, and curry paste.
- * Bring to a boil, then simmer until tender, about 1 hour.
- * Serve with rice, naan, raita, etc.
-
+* Sautée chicken and onion in oil until chicken is browned.
+* Add bouillon, tomato purée, and curry paste.
+* Bring to a boil, then simmer until tender, about 1 hour.
+* Serve with rice, naan, raita, etc.

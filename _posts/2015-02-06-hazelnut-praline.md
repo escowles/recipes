@@ -5,9 +5,7 @@ date: 2015-02-06 13:35:18 -0500
 category: dessert
 tags: macaronfilling candy hazelnuts
 ---
-<div id="preparation" class="instructions">
-  
-<strong>1,087 Cal</strong>
+1,087 Cal
   
 1 cup hazelnuts (or mixture of nuts)  
 ½ cup sugar  
@@ -20,5 +18,3 @@ tags: macaronfilling candy hazelnuts
  * Remove from heat and add hazelnuts.
  * Pour onto baking sheet and allow to cool completely, about 20 minutes.
  * Break up and process in food processor until paste.
-
-</div>

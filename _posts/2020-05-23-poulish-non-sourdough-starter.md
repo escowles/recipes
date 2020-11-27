@@ -13,7 +13,8 @@ tags: bread vegetarian
 * Feed the starter, and continue feeding weekly.
 * Refrigerate when not feeding and using.
 
-<span style="text-decoration: underline;">Feeding and Using</span>
+Feeding and Using
+
 * Discard all but ½ cup of the starter. It will contain less-active yeast, and can be used to make baked good that do not need to rise.
 * Add 1 cup of flour and 1/2 cup lukewarm filtered water.
 * Mix thoroughly and let rest 4-10 hours at room temperature, until risen and starting to fall.

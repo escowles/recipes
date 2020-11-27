@@ -5,7 +5,7 @@ date: 2013-11-28 19:31:05 -0500
 category: main
 tags: chicken meat thanksgiving traditional
 ---
-<span style="text-decoration: underline;">Brine:</span>
+Brine:
   
 1 whole chicken (3-4 lbs.)  
 6 cups water  
@@ -13,9 +13,9 @@ tags: chicken meat thanksgiving traditional
 2 Tbsp. turbinado sugar  
 1 can beer (Cigar City Jai Alai IPA)  
 
- * Place all ingredients in 1-gallon ziplock bag and marinate for 2 hours or longer.
+* Place all ingredients in 1-gallon ziplock bag and marinate for 2 hours or longer.
 
-<span style="text-decoration: underline;">Roast:</span>
+Roast:
   
 1 brined chicken1 Tbsp. olive oil  
 1 tsp. salt  
@@ -23,9 +23,8 @@ tags: chicken meat thanksgiving traditional
 1 tsp. rosemary  
 1 tsp. thyme  
 
- * Dry chicken and rub with oil, salt and pepper inside and out.
- * Add rosemary and thyme to cavity.
- * Bake at 425°F for 15 min.
- * Reduce temperature to 375°F and bake until inner thigh reads 165°F on a meat thermometer (approx. 60 min.).
- * Rest 15 min. before carving.
-
+* Dry chicken and rub with oil, salt and pepper inside and out.
+* Add rosemary and thyme to cavity.
+* Bake at 425°F for 15 min.
+* Reduce temperature to 375°F and bake until inner thigh reads 165°F on a meat thermometer (approx. 60 min.).
+* Rest 15 min. before carving.

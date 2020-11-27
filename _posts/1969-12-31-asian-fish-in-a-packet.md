@@ -5,7 +5,7 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: seafood fish asian
 ---
-<b>1550 Cal (4x 387)</b>
+1550 Cal (4x 387)
 
 ### Sauce:
 

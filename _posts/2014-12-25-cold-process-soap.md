@@ -13,12 +13,12 @@ tags: soap
 
 lye water:
 
-* wear gloves and safety goggles</span>
-* measure water into glass pitcher</span>
-* slowly add lye to water</span>
-* mix with metal spoon</span>
-* lye water will be cloudy and will get very hot</span>
-* allow to cool to 100° F</span>
+* wear gloves and safety goggles
+* measure water into glass pitcher
+* slowly add lye to water
+* mix with metal spoon
+* lye water will be cloudy and will get very hot
+* allow to cool to 100° F
 
 soap:
 

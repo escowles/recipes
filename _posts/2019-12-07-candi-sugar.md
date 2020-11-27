@@ -10,9 +10,9 @@ tags: candy sugar homebrew
 1/8 tsp. cream of tartar  
 
   * Mix all ingredients in a saucepan and heat slowly to 260°F.
-  * Hold between 260°F and 275°F for 20 minutes to invert sugar. <strong>Note:</strong> this is basically impossible to do on an electric stove.
+  * Hold between 260°F and 275°F for 20 minutes to invert sugar. **Note:** this is basically impossible to do on an electric stove.
   * (optional) Continue cooking between 260°F and 275°F to caramelize sugar for darker color.
   * To make syrup: pour out and let cool.
   * To make rocks: heat to 300°F and pour out onto foil-lined baking sheet and let cool.
 
-Source: <a href="https://joshthebrewmaster.wordpress.com/2010/11/27/how-to-make-belgian-candi-sugar/">https://joshthebrewmaster.wordpress.com/2010/11/27/how-to-make-belgian-candi-sugar/</a>
+Source: <https://joshthebrewmaster.wordpress.com/2010/11/27/how-to-make-belgian-candi-sugar/>

@@ -5,31 +5,25 @@ date: 2018-07-06 21:06:02 -0500
 category: main
 tags: chicken japanese meat asian
 ---
-<div class="wprm-recipe-ingredients-container">
-<div class="wprm-recipe-ingredient-group">
+1¼ lbs. chicken breast, cubed  
+1 Tbsp. vegetable oil  
+1/4 cup soy sauce  
+3 Tbsp. brown sugar  
+3 Tbsp. cooking Sake or rice wine vinegar  
+2 tablespoons Mirin or dry sherry  
+1 tablespoon sesame oil  
+2 cloves garlic, minced  
+1 shallot/green onion stem, sliced to garnish  
+4 cups broccoli florets, lightly steamed  
+1 tsp. cornstarch mixed with 2 tsp. water  
   
-<span class="wprm-recipe-ingredient-amount">1¼</span> lbs. <span class="wprm-recipe-ingredient-unit">chicken breast</span>, cubed  
-<span class="wprm-recipe-ingredient-amount">1</span> Tbsp. <span class="wprm-recipe-ingredient-unit">vegetable oil</span><span class="wprm-recipe-ingredient-name">
-</span><span class="wprm-recipe-ingredient-amount">1/4</span> <span class="wprm-recipe-ingredient-unit">cup</span><span class="wprm-recipe-ingredient-name"> soy sauce  
-</span><span class="wprm-recipe-ingredient-amount">3</span> Tbsp. <span class="wprm-recipe-ingredient-name">brown sugar  
-</span><span class="wprm-recipe-ingredient-amount">3</span> Tbsp. cooking Sake or rice wine vinegar  
-<span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-unit">tablespoons</span> <span class="wprm-recipe-ingredient-name">Mirin</span> <span class="wprm-recipe-ingredient-notes">or dry sherry  
-</span><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">tablespoon</span> <span class="wprm-recipe-ingredient-name">sesame oil</span><span class="wprm-recipe-ingredient-notes">
-</span><span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-unit">cloves garlic, minced  
-</span><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-name">shallot/green onion stem,</span> <span class="wprm-recipe-ingredient-notes">sliced to garnish  
-</span><span class="wprm-recipe-ingredient-amount">4</span> <span class="wprm-recipe-ingredient-unit">cups</span> <span class="wprm-recipe-ingredient-name">broccoli florets,</span> <span class="wprm-recipe-ingredient-notes">lightly steamed  
-</span><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">tsp.</span> <span class="wprm-recipe-ingredient-name">cornstarch</span> <span class="wprm-recipe-ingredient-notes">mixed with 2 tsp. water</span>
-  
-</div>
-</div>
+* Stir fry chicken in oil until browned
+* Mix soy sauce, brown sugar, Sake/vinegar, Mirin/sherry, and sesame oil, and set aside.
+* Add the garlic to the chicken and saute about 30 seconds.
+* Add the sauce and allow to cook about 2-3 minutes, while stirring, until the thickened.
+* Add steamed broccoli and serve over steamed rice.
 
-  * Stir fry chicken in oil until browned
-  * Mix soy sauce, brown sugar, Sake/vinegar, Mirin/sherry, and sesame oil, and set aside.
-  * Add the garlic to the chicken and saute about 30 seconds.
-  * Add the sauce and allow to cook about 2-3 minutes, while stirring, until the thickened.
-  * Add steamed broccoli and serve over steamed rice.
-
-Source: <a href="https://cafedelites.com/teriyaki-chicken-recipe/">https://cafedelites.com/teriyaki-chicken-recipe/</a>
+Source: <https://cafedelites.com/teriyaki-chicken-recipe/>
 
 ---
 

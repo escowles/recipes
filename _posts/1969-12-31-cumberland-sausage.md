@@ -5,7 +5,7 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: british meat pork
 ---
-<b>1240 Cal (8x 155)</b>
+1240 Cal (8x 155)
   
 2 Tbsp. bread crumbs  
 1 tsp. nutmeg  

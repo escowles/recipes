@@ -7,14 +7,14 @@ tags: chocolate lydia cake
 ---
 2,080 Cal (8x 260)  
   
-1½ cups flour  
-¹/<sub>3</sub> cup cocoa  
+1 1/2 cups flour  
+1/3 cup cocoa  
 1 tsp. baking soda  
 1 cup sugar  
-½ tsp. salt  
+1/2 tsp. salt  
 5 Tbsp. vegetable oil  
 1 cup water  
-1½ tsp. vanilla  
+1 1/2 tsp. vanilla  
 1 Tbsp. cider or white vinegar  
 
  * Mix dry ingredients.
