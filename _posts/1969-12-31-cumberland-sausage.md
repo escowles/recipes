@@ -7,11 +7,12 @@ tags: british meat pork
 ---
 <b>1240 Cal (8x 155)</b>
   
-Ingredients:  
+2 Tbsp. bread crumbs  
+1 tsp. nutmeg  
+1/2 tsp. mace  
+1/2 tsp. salt  
+1/2 tsp. pepper  
+1 lb. ground pork
 
- * 2 Tbsp. bread crumbs
- * 1 tsp. nutmeg
- * 1/2 tsp. mace
- * 1/2 tsp. salt
- * 1/2 tsp. pepper
-
+* mix bread crumbs and spices
+* mix into pork and form patties

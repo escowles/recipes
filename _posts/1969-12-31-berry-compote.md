@@ -5,16 +5,10 @@ date: 1969-12-31 19:00:00 -0500
 category: ingredients
 tags: sauce fruit
 ---
-&nbsp;  
   
-Ingredients:  
+2 cups berries
+½ cup sugar
+2 tsp. lemon juice
 
-  * 2 cups berries
-  * ½ cup sugar
-  * 2 tsp. lemon juice
-
-Directions:  
-
-  * Cook over medium heat until skins burst and thickened.
-  * For a smoother compote, puree before serving.
-
+* Cook over medium heat until skins burst and thickened.
+* For a smoother compote, puree before serving.

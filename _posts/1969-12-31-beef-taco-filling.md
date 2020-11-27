@@ -5,20 +5,16 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: beef meat mexican
 ---
-<b>800 Cal (4x 200)</b>
+800 Cal (4x 200)
   
-Ingredients:  
+1 lb. ground beef  
+1/4 white onion  
+1/2 jalapeno pepper (or 1 Poblano pepper and 1/2 tsp. chili powder, or 1 tsp. chili powder)  
+1/2 tsp. salt  
+1/2 tsp. cumin  
+1/4 tsp. paprika  
 
- * 1 lb. ground beef
- * 1/4 white onion
- * 1/2 jalapeno pepper (or 1 Poblano pepper and 1/2 tsp. chili powder, or 1 tsp. chili powder)
- * 1/2 tsp. salt
- * 1/2 tsp. cumin
- * 1/4 tsp. paprika
 
-Directions:  
-
- * Brown beef, onion and jalapeno, breaking beef into small chunks.
- * Add spices and mix well.
- * Remove from pan with slotted spoon to drain grease.
-
+* Brown beef, onion and jalapeno, breaking beef into small chunks.
+* Add spices and mix well.
+* Remove from pan with slotted spoon to drain grease.

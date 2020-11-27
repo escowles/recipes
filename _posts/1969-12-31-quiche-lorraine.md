@@ -16,7 +16,6 @@ tags: egg pork quiche cheese meat french dairy
 1/2 tsp. pepper  
 1/8 tsp. chipotle powder
 
-Directions:  
 * Prepare standard [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %}), and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.
 * Bake or fry bacon until crisp. Drain and chop coarsely.
 * Sprinkle bacon, cheese, onion, and any other vegetables in pie shell.
@@ -24,7 +23,7 @@ Directions:
 * Bake 15 minutes at 425°F. Reduce heat and bake at 300°F for 30 minutes.
 * Rest at least 10 minutes before serving (can be served hot, room temperature, or chilled).
 
-Source: http://allrecipes.com/Recipe/quiche-lorraine-i/detail.aspx
+Source: <http://allrecipes.com/Recipe/quiche-lorraine-i/detail.aspx>
 
 ---
 

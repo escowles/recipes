@@ -5,14 +5,11 @@ date: 1969-12-31 19:00:00 -0500
 category: ingredients
 tags: sauce fruit lemons middleeast
 ---
-<b>22 Cal</b>
-<p>Ingredients:</p>
-* 1 lemon
-* 1 Tbsp. kosher salt
+22 Cal
 
-<p>Directions:</p>
+1 lemon
+1 Tbsp. kosher salt
 
 * Cut lemon into sixths lengthwise, sprinkle with salt and place in non-metal dish.
 * Cover with water and cook at 250F for 3 hours.
 * Let cool and refrigerate, up to 6 months covered in glass jar.
-

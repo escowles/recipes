@@ -5,17 +5,15 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: egg quiche french cheese vegetarian dairy
 ---
-<b>2200 Cal (8x 275)</b>
-<p>Ingredients:</p>
-* 1 tsp. butter
-* 1/2 cup onion, finely chopped
-* 1/4 cup radishes, finely chopped
-* 1 cup grated Gouda cheese (or cheddar, etc.)
-* 4 eggs
-* 1 cup steamed broccoli
-* 1/2 cup heavy cream
+2200 Cal (8x 275)
 
-<p>Directions:</p>
+1 tsp. butter  
+1/2 cup onion, finely chopped  
+1/4 cup radishes, finely chopped  
+1 cup grated Gouda cheese (or cheddar, etc.)  
+4 eggs  
+1 cup steamed broccoli  
+1/2 cup heavy cream  
 
 * Prepare standard pie crust and line pie dish.
 * Saute onion until tender.
@@ -23,4 +21,3 @@ tags: egg quiche french cheese vegetarian dairy
 * Beat eggs and cream and pour over cheese.
 * Bake at 325F for 30-35 min, until a knife comes out clean.
 * Rest for 10 minutes before serving.
-
