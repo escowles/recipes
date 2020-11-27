@@ -3,7 +3,7 @@ layout: post
 title: Ice Cream Bombe
 date: 1969-12-31 19:00:00 -0500
 category: dessert
-tags: icecream
+tags: icecream barefootcontessa
 ---
 <b>2200 Cal (12x 180)</b>
 <p>Ingredients:</p>

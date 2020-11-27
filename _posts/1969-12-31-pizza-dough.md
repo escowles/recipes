@@ -3,18 +3,16 @@ layout: post
 title: Pizza Dough
 date: 1969-12-31 19:00:00 -0500
 category: ingredients
-tags: bread italian
+tags: bread italian barefootcontessa
 ---
-<b>1500 Cal (4x 375)</b>
-<p>Ingredients:</p>
-* 1 2/3  cups warm water (100-110F)
-* 1 1/4  tsp. dry yeast
-* 2 tsp. honey
-* 2 Tbsp. olive oil
-* 3 cups flour
-* 1 1/4 tsp. salt
+1500 Cal (4x 375)
 
-<p>Directions:</p>
+1 2/3  cups warm water (100-110F)  
+1 1/4  tsp. dry yeast  
+2 tsp. honey  
+2 Tbsp. olive oil  
+3 cups flour  
+1 1/4 tsp. salt  
 
 * Combine water, yeast, honey and olive oil in mixer with dough hook.
 * When yeast is dissolved, add 2 1/2 cups of flour and salt.
@@ -26,4 +24,4 @@ tags: bread italian
 * Place on parchment-lined baking sheet and cover with a damp towel.  Allow to rest for 10 minutes.
 * Top and bake 10-15 minutes at 500F, until crusts are crisp and cheese begin to brown.
 
-* Source: http://www.barefootcontessa.com/recipes.aspx?RecipeID=296&S=0 
+Source: <http://www.barefootcontessa.com/recipes.aspx?RecipeID=296&S=0> 

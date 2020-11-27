@@ -5,7 +5,7 @@ date: 2015-05-09 15:59:29 -0500
 category: other
 tags: beer homebrew alcohol
 ---
-<h2>Mash</h2>
+### Mash
 
 * Heat 1 quart of water per pound of grain to 180°F and add to mash tun/cooler.
 * Let stand 10 minutes, check temperature until it falls to 170°F.
@@ -17,7 +17,7 @@ tags: beer homebrew alcohol
   * If it quickly disappears or remains red, the mash is complete
   * If it turns black, the mash is incomplete. Re-test every 10 minutes until iodine does not turn black.
 
-<h2>Wort Collection</h2>
+### Wort Collection
 
 * Collect 2 quarts of wort and pour back on top of mash until it is free of grain or cloudiness.
 * Slowly collect wort in fermenting bucket (for accurate measurement) while pouring 200°F sparge water over mashed grains.
@@ -25,7 +25,7 @@ tags: beer homebrew alcohol
 * Wort collection should take about 1 hour to get correct gravity.
 * When 5 gallons of wort are collected and the kettle is empty, pour wort into kettle and collect final 2 gallons.
 
-<h2>Boil</h2>
+### Boil
 
 * Bring wort to boil. Add hops and other kettle additions:  
   * 60 minutes bittering hops
@@ -34,7 +34,7 @@ tags: beer homebrew alcohol
 * Check gravity and dilute to specified original gravity.
 * Chill wort until temperature falls to room temperature.
 
-<h2>Fermentation</h2>
+### Fermentation
 
 * Siphon bitter wort to sterile fermenting bucket.
 * Pitch yeast, stir well and seal lid with airlock.
@@ -42,7 +42,7 @@ tags: beer homebrew alcohol
 * After a few days, bubbling should slow down to an occasional bubble.
 * Check gravity every day, and bottle when final gravity is reached, or when gravity stops falling.
 
-<h2>Bottling</h2>
+### Bottling
 
 * Use a [priming sugar calculator](http://www.northernbrewer.com/learn/resources/priming-sugar-calculator/) to figure out how much sugar to use
 * Dissolve priming sugar in 2 cups of water and boil for 5 minutes, then cool to room temperature.

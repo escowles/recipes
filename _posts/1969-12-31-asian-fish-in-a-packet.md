@@ -5,29 +5,25 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: seafood fish asian
 ---
-<p><b>1550 Cal (4x 387)</b></p>
-<p>Ingredients:</p>
-<h2>Sauce:</h2>
+<b>1550 Cal (4x 387)</b>
 
-* 2 Tbsp. vegetable oil
-* 2 tsp. ginger
-* 2 cloves garlic, minced (or 1/4 tsp. garlic powder)
-* 4 Tbsp. soy sauce
-* 1 Tbsp. sesame oil
+### Sauce:
 
-<p>Directions:</p>
+2 Tbsp. vegetable oil  
+2 tsp. ginger  
+2 cloves garlic, minced (or 1/4 tsp. garlic powder)  
+4 Tbsp. soy sauce  
+1 Tbsp. sesame oil  
 
 * Combine vegetable oil, ginger, and garlic, and mix well.
 * Add remaining ingredients and stir.
 
-<h2>Fish:</h2>
+### Fish:
 
-* 1 1/2 cups rice, steamed
-* 4 cups bok choy, chopped
-* 4 small tilapia fillets (approx. 1 lb.)
-* 4 scallions, chopped
-
-<p>Directions:</p>
+1 1/2 cups rice, steamed  
+4 cups bok choy, chopped  
+4 small tilapia fillets (approx. 1 lb.)  
+4 scallions, chopped  
 
 * Brush 2 sheets of aluminum foil with oil.
 * Spread half of the rice on each sheet and top with half the bok choy and a fillet.
@@ -35,11 +31,6 @@ tags: seafood fish asian
 * Fold up and seal foil packets.
 * Bake at 450°F for 25 minutes.
 
-<p>Alternate baking: Prepare in oven-safe pot with tight-fitting lid.</p>
+Alternate baking: Prepare in oven-safe pot with tight-fitting lid.
 
-* Source: Moosewood Restaurant Cooks at Home
-
-  
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+Source: Moosewood Restaurant Cooks at Home

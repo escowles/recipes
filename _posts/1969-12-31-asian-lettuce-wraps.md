@@ -5,48 +5,40 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: appetizer asian chicken meat
 ---
-<b>1000 Cal (4x 250)</b>
+1000 Cal (4x 250)
   
-Ingredients:  
-<h2>Filling:</h2>
+### Filling:
 
- * 1 Tbsp. grape seed oil
- * 1 tsp. minced garlic
- * 2 tsp. ground ginger
- * 1 lb. chicken, cubed
- * 1 Tbsp. soy sauce
-
-Directions:  
+1 Tbsp. grape seed oil  
+1 tsp. minced garlic  
+2 tsp. ground ginger  
+1 lb. chicken, cubed  
+1 Tbsp. soy sauce  
 
  * Heat oil over medium heat. Add garlic and ginger.
  * Add chicken and soy sauce. Stir fry until cooked through, approx. 5 minutes.
 
-<h2>Sauce:</h2>
+### Sauce:
 
- * 1/3 cup soy sauce
- * 1/3 cup water
- * 3 Tbsp. lemon juice
- * 2 tsp. minced garlic
- * 1 Tbsp. ground ginger
- * 1 tsp. sugar
-
-Directions:  
+1/3 cup soy sauce  
+1/3 cup water  
+3 Tbsp. lemon juice  
+2 tsp. minced garlic  
+1 Tbsp. ground ginger  
+1 tsp. sugar  
 
  * Mix all ingredients.
 
-<h2>Assembly:</h2>
+### Assembly:
 
- * 1 bell pepper
- * 4 green onions
- * 6 small radishes
- * 16 lettuce leaves
-
-Directions:  
+1 bell pepper  
+4 green onions  
+6 small radishes  
+16 lettuce leaves  
 
  * Chop all vegetables finely.
  * Fill each lettuce leaf with filling and vegetables, top with sauce.
  * Roll up and eat like a burrito.
-
 
 ---
 

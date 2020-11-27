@@ -5,15 +5,13 @@ date: 1969-12-31 19:00:00 -0500
 category: dessert
 tags: bread breakfast cinnamon
 ---
-<b>2200 Cal (12x 183)</b>
-<p>Ingredients:</p>
-<h2>Cinnamon Rolls:</h2>
-* 2 Tbsp. butter
-* 2 Tbsp. sugar
-* 2 Tbsp. brown sugar
-* 1 tsp. cinnamon
+2200 Cal (12x 183)
 
-<p>Directions:</p>
+### Cinnamon Rolls:
+2 Tbsp. butter  
+2 Tbsp. sugar  
+2 Tbsp. brown sugar  
+1 tsp. cinnamon  
 
 * Make challah dough.  Roll out onto floured board into a 12" x 15" rectangle.
 * Spread dough with butter.
@@ -21,12 +19,10 @@ tags: bread breakfast cinnamon
 * Roll into tube and cut into 1" circles.  Place in greased round pan.
 * Bake at 350F for 30-35 min., until golden brown.
 
-<h2>Icing:</h2>
-* 1/2 cup powdered sugar
-* 1/4 tsp. vanilla
-* 3 tsp. milk
+### Icing:
 
-<p>Directions:</p>
+1/2 cup powdered sugar  
+1/4 tsp. vanilla  
+3 tsp. milk  
 
 * Mix ingredients thoroughly until smooth.  Drizzle over cinnamon rolls.
-
