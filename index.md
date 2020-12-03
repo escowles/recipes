@@ -6,7 +6,7 @@ layout: home
 ---
 
 <div class="search">
-  <form id="jsearch" action="" onKeyPress="javascript:jsearch()">
+  <form id="jsearch" action="" onKeyPress="javascript:jsearch()" onKeyDown="javascript:xser(event)">
     <input id="q" type="text" autocomplete="off" placeholder="search"/>
   </form>
 </div>

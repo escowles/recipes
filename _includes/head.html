@@ -25,5 +25,14 @@
         }
       }
     }
+
+    function xser(event) {
+      if (event.key == 'Enter') {
+        document.activeElement.blur();
+        return false;
+      } else {
+        return true;
+      }
+    }
   </script>
 </head>
