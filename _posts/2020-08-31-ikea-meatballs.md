@@ -17,8 +17,8 @@ salt and pepper
   * Mix beef and pork by hand, working out any lumps.
   * Mix in onion, garlic, bread crumbs, and egg, and work in until smooth.
   * Add milk, salt, and pepper and mix.
-  * Shape into balls and chill for 2 hours
-  * Brown meatballs in oil, then bake in a covered dish at 350°F for 30 minutes.
+  * Shape into (35g/1.25 oz.) balls and chill for 2 hours
+  * Bake at 350°F for 30 minutes.
 
 3 Tbsp. butter  
 3 Tbsp. flour  
@@ -31,4 +31,4 @@ salt and pepper
   * Add remaining ingredients and stir until smooth.
   * Bring to a simmer until thickened.
 
-Source: <a href="https://boingboing.net/2020/08/22/make-ikeas-iconic-meatballs.html">https://boingboing.net/2020/08/22/make-ikeas-iconic-meatballs.html</a>
+Source: <https://boingboing.net/2020/08/22/make-ikeas-iconic-meatballs.html>
