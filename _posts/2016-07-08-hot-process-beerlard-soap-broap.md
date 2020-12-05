@@ -22,7 +22,7 @@ tags: soap
   * Pour soap into molds, cover with waxed paper, and allow to set for 24 hours.
   * Remove the soap from the mold and cut into bars.
 
-See <a href="http://knittles.ticklefish.org/2015/12/broap/">http://knittles.ticklefish.org/2015/12/broap/</a>
+See <http://knittles.ticklefish.org/2015/12/broap/>
 
 ---
 

@@ -7,13 +7,13 @@ tags: chocolate cookies cooksillustrated
 ---
 The recipes:  
 
-  * <a href="https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/">https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/</a>
-  * <a href="https://www.handletheheat.com/bakery-style-chocolate-chip-cookies/">https://www.handletheheat.com/bakery-style-chocolate-chip-cookies/</a>
-  * <a href="https://pinchofyum.com/the-best-soft-chocolate-chip-cookies">https://pinchofyum.com/the-best-soft-chocolate-chip-cookies</a>
-  * <a href="https://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/">https://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/</a>
-  * <a href="https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/">https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/</a> (Nestle)
-  * <a href="https://www.browneyedbaker.com/cooks-illustrated-perfect-chocolate-chip-cookies/">https://www.browneyedbaker.com/cooks-illustrated-perfect-chocolate-chip-cookies/</a> (Cook's)
-  * <a href="https://www.geniuskitchen.com/recipe/ghirardelli-s-ultimate-chocolate-chip-cookies-13661">https://www.geniuskitchen.com/recipe/ghirardelli-s-ultimate-chocolate-chip-cookies-13661</a> (Ghirardelli)
+  * <https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/>
+  * <https://www.handletheheat.com/bakery-style-chocolate-chip-cookies/>
+  * <https://pinchofyum.com/the-best-soft-chocolate-chip-cookies>
+  * <https://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/>
+  * <https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/> (Nestle)
+  * <https://www.browneyedbaker.com/cooks-illustrated-perfect-chocolate-chip-cookies/> (Cook's)
+  * <https://www.geniuskitchen.com/recipe/ghirardelli-s-ultimate-chocolate-chip-cookies-13661> (Ghirardelli)
 
 General Instructions  
 

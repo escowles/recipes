@@ -20,4 +20,4 @@ salt and pepper to taste
   * In a bowl, whisk eggs, cream, harissa, salt and pepper, then pour over broccoli and cheese.
   * Bake at 400°F for 20-30 minutes, until golden brown.
 
-Source: <a href="http://www.foodnetwork.co.uk/recipes/broccoli-and-stilton-quiche.html">http://www.foodnetwork.co.uk/recipes/broccoli-and-stilton-quiche.html</a>
+Source: <http://www.foodnetwork.co.uk/recipes/broccoli-and-stilton-quiche.html>

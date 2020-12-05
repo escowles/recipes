@@ -25,4 +25,4 @@ salt and pepper
   * Brown meatballs over medium heat, carefully turning to brown all sides
   * Simmer in pasta sauce to finish cooking, or bake at 400°F for 18-20 minutes
 
-Source: <a href="https://iowagirleats.com/2016/03/28/incredible-italian-meatballs/">https://iowagirleats.com/2016/03/28/incredible-italian-meatballs/</a>
+Source: <https://iowagirleats.com/2016/03/28/incredible-italian-meatballs/>

@@ -31,4 +31,4 @@ tags: chicken peanutbutter thai meat asian
 
   * Mix all ingredients and cook until thickened, about 10-15 minutes
 
-Source: <a href="https://rasamalaysia.com/thai-chicken-sate-with-peanut-sauce/2/">https://rasamalaysia.com/thai-chicken-sate-with-peanut-sauce/2/</a>
+Source: <https://rasamalaysia.com/thai-chicken-sate-with-peanut-sauce/2/>

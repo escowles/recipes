@@ -24,4 +24,4 @@ salt and pepper
   * Bake at 425°F for 15-20 minutes, until cheese is melted and chicken reaches 165°F.
   * Serve on a bed of pasta.
 
-Source: <a href="https://www.allrecipes.com/recipe/223042/chicken-parmesan/">https://www.allrecipes.com/recipe/223042/chicken-parmesan/</a>
+Source: <https://www.allrecipes.com/recipe/223042/chicken-parmesan/>

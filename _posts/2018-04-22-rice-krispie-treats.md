@@ -13,4 +13,4 @@ tags: dairyfree peanutbutter
   * Combine with rice krispies and press into greased/lined cookie sheet
   * Chill for 30 minutes to firm up
 
-Source: <a href="https://thebigmansworld.com/2015/09/23/healthy-3-ingredient-rice-crispy-treats/">https://thebigmansworld.com/2015/09/23/healthy-3-ingredient-rice-crispy-treats/</a>
+Source: <https://thebigmansworld.com/2015/09/23/healthy-3-ingredient-rice-crispy-treats/>

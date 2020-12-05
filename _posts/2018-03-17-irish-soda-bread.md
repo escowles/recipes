@@ -20,4 +20,4 @@ tags: bread dairyfree irish
   * Form into loaf on a greased baking sheet (or parchment/silicone-lined).
   * Bake at 425°F for 25 minutes, then let cool 10 minutes.
 
-Source: <a href="https://www.godairyfree.org/recipes/brown-soda-bread">https://www.godairyfree.org/recipes/brown-soda-bread</a>
+Source: <https://www.godairyfree.org/recipes/brown-soda-bread>

@@ -17,4 +17,4 @@ tags: marinade steak alcohol
   * Combine all ingredients with steaks, turning to coat well
   * Refrigerate for at least 4 hours, turning several times
 
-Source: <a href="https://www.thespruceeats.com/easy-red-wine-marinade-3511042">https://www.thespruceeats.com/easy-red-wine-marinade-3511042</a>
+Source: <https://www.thespruceeats.com/easy-red-wine-marinade-3511042>

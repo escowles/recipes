@@ -27,7 +27,7 @@ Hot sauce (Crystal or Tabasco) to taste
   * Add spices and shrimp, and cook at lowest heat for 10 minutes
   * Add green onions and hot sauce, then serve over rice
 
-Source: <a href="https://www.simplyrecipes.com/recipes/shrimp_etouffee/">https://www.simplyrecipes.com/recipes/shrimp_etouffee/</a>
+Source: <https://www.simplyrecipes.com/recipes/shrimp_etouffee/>
 
 ---
 

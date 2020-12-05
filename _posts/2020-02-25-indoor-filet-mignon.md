@@ -12,4 +12,4 @@ tags: beef meat
   * Put the skillet with the steaks in a 400 degree Fahrenheit oven and roast for 5 minutes, or until a thermometer reads 135F for medium-rare.
   * Let the steaks sit for 5 minutes before serving.
 
-Source: <a href="https://www.leaf.tv/13718604/lunch-time-philly-cheese-steak-recipe/">https://www.leaf.tv/13718604/lunch-time-philly-cheese-steak-recipe/</a>
+Source: <https://www.leaf.tv/13718604/lunch-time-philly-cheese-steak-recipe/>

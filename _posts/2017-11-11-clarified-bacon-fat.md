@@ -12,4 +12,4 @@ tags: soap
   * Add an equal amount of cold water.
   * Refrigerate for 5 hours to sepatate.
 
-Source: <a href="https://www.hermannwursthaus.com/clarified-bacon-fat/">https://www.hermannwursthaus.com/clarified-bacon-fat/</a>
+Source: <https://www.hermannwursthaus.com/clarified-bacon-fat/>

@@ -17,7 +17,7 @@ tags: icecream orange fruit
   * Blend in milk and chill for 1 hour
   * Process in ice cream maker following manufacturer's directions
 
-Source: <a href="https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337">https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337</a>
+Source: <https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337>
 
 ---
 

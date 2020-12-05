@@ -30,4 +30,4 @@ thyme, rosemary, salt, and pepper, to taste
   * Stir in chicken and remove from heat
   * Rest 5 minutes before serving
 
-Source: <a href="https://spicysouthernkitchen.com/old-fashioned-chicken-and-dumplings/">https://spicysouthernkitchen.com/old-fashioned-chicken-and-dumplings/</a> and <a href="https://emerils.com/127781/southern-style-chicken-and-dumplings">https://emerils.com/127781/southern-style-chicken-and-dumplings</a>
+Source: <https://spicysouthernkitchen.com/old-fashioned-chicken-and-dumplings/> and <https://emerils.com/127781/southern-style-chicken-and-dumplings>

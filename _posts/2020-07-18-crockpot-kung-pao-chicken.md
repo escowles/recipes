@@ -39,4 +39,4 @@ salt and pepper
 
   * Toast in a hot dry pan, and serve as a topping
 
-Source: <a href="https://therecipecritic.com/skinny-slow-cooker-kung-pao-chicken/">https://therecipecritic.com/skinny-slow-cooker-kung-pao-chicken/</a>
+Source: <https://therecipecritic.com/skinny-slow-cooker-kung-pao-chicken/>

@@ -18,4 +18,4 @@ tags: fruit pie rhubarb strawberries fruit
   * Reduce heat to 350°F and bake for 1 hour and 25 minutes
   * Let cool completely to set.
 
-Source: <a href="http://www.epicurious.com/recipes/food/views/lattice-topped-strawberry-rhubarb-pie-4459">http://www.epicurious.com/recipes/food/views/lattice-topped-strawberry-rhubarb-pie-4459</a>
+Source: <http://www.epicurious.com/recipes/food/views/lattice-topped-strawberry-rhubarb-pie-4459>

@@ -24,7 +24,7 @@ tags: chicken curry peanutbutter thai meat asian
   * Add remaining ingredients and simmer for 15-20 minutes, until chicken is tender and the sauce is thickened.
 
 
-Source: <a href="http://foodformyfamily.com/recipes/easy-thai-peanut-chicken-curry">http://foodformyfamily.com/recipes/easy-thai-peanut-chicken-curry</a>
+Source: <http://foodformyfamily.com/recipes/easy-thai-peanut-chicken-curry>
 
 ---
 

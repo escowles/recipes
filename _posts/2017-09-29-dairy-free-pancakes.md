@@ -13,4 +13,4 @@ tags: bread breakfast dairyfree
 1/2 tsp. salt  
 2 Tbsp. vegetable oil  
   
-See also: <a href="http://www.kingarthurflour.com/recipes/homemade-whole-grain-pancake-mix-recipe">http://www.kingarthurflour.com/recipes/homemade-whole-grain-pancake-mix-recipe</a>
+See also: <http://www.kingarthurflour.com/recipes/homemade-whole-grain-pancake-mix-recipe>

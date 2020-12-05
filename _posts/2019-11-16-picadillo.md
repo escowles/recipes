@@ -23,7 +23,7 @@ salt to taste
   * Brown beef (7-10 minutes)
   * Add remaining ingredients, reduce heat, and simmer (10 minutes)
 
-Source: <a href="https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/">https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/</a>
+Source: <https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/>
 
 ---
 

@@ -15,4 +15,4 @@ salt, pepper and nutmeg, to taste
   * Stir in cheese until melted, then stir in pasta.
   * Season to taste and serve immediately.
 
-Source: <a href="https://food52.com/recipes/73636-melissa-clark-s-stovetop-mac-cheese">https://food52.com/recipes/73636-melissa-clark-s-stovetop-mac-cheese</a>
+Source: <https://food52.com/recipes/73636-melissa-clark-s-stovetop-mac-cheese>

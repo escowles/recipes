@@ -17,4 +17,4 @@ tags: middleeast sauce tahini
 
   * Combine all ingredients and mix well.
 
-Source: <a href="https://www.epicurious.com/recipes/food/views/tahini-sauce-109039">https://www.epicurious.com/recipes/food/views/tahini-sauce-109039</a>
+Source: <https://www.epicurious.com/recipes/food/views/tahini-sauce-109039>

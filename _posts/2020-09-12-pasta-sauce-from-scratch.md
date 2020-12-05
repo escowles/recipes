@@ -32,6 +32,6 @@ dash Worcestershire sauce
   * Add remaining ingredients and simmer until thickened, about 90 minutes
   * Season to taste.
 
-Source: <a href="https://www.momontimeout.com/homemade-pasta-sauce-recipe/">https://www.momontimeout.com/homemade-pasta-sauce-recipe/</a>
+Source: <https://www.momontimeout.com/homemade-pasta-sauce-recipe/>
   
 &nbsp;  

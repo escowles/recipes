@@ -15,4 +15,4 @@ tags: bluecheese saladdressing cheese dairy sourcream
 
   * Combine all ingredients, stir well, and refrigerate.
 
-Source: <a href="https://www.tasteofhome.com/recipes/buttermilk-blue-cheese-dressing/">https://www.tasteofhome.com/recipes/buttermilk-blue-cheese-dressing/</a>
+Source: <https://www.tasteofhome.com/recipes/buttermilk-blue-cheese-dressing/>

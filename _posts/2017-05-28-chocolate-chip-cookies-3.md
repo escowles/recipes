@@ -22,4 +22,4 @@ tags: chocolate cookies
   * Roll into 12 balls and bake for 13 minutes at 350°F.
   * Let cool on the cookie sheet.
 
-Source: <a href="http://pinchofyum.com/the-best-soft-chocolate-chip-cookies">http://pinchofyum.com/the-best-soft-chocolate-chip-cookies</a>
+Source: <http://pinchofyum.com/the-best-soft-chocolate-chip-cookies>

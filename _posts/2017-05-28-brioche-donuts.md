@@ -50,7 +50,7 @@ glaze:
 
 Makes 24 donuts  
   
-Source: <a href="https://www.washingtonpost.com/recipes/vanilla-glazed-brioche-doughnuts/15889/">https://www.washingtonpost.com/recipes/vanilla-glazed-brioche-doughnuts/15889/</a>
+Source: <https://www.washingtonpost.com/recipes/vanilla-glazed-brioche-doughnuts/15889/>
 
 ---
 

@@ -22,4 +22,4 @@ tags: bread vegetarian
   * Remove lid, reduce heat to 450°F, and bake 10-15 minutes, until deeply golden and internal temperature reaches 208°F.
   * Remove to cooling rack and cool for 60 minutes before slicing.
 
-Source: <a href="https://www.feastingathome.com/sourdough-bread/">https://www.feastingathome.com/sourdough-bread/</a>
+Source: <https://www.feastingathome.com/sourdough-bread/>

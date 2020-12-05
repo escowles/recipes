@@ -25,4 +25,4 @@ tags: cake oliveoil orange fruit
   * Remove to a cooling rack for 5 minutes, then run a knife around the edge to loosen, and turn out onto a plate and return to the cooling rack right side up.
   * Cool completely and serve with orange slices, plus whipped cream or ice cream as desired.
 
-<p>Source: <a href="https://www.washingtonpost.com/recipes/orange-scented-olive-oil-cake/15641/">https://www.washingtonpost.com/recipes/orange-scented-olive-oil-cake/15641/</a></p>
+Source: <https://www.washingtonpost.com/recipes/orange-scented-olive-oil-cake/15641/>

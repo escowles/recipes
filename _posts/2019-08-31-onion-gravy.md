@@ -19,4 +19,4 @@ tags: british gravy sauce
   * Add water and broth, and mix well, scraping up brown bits, until thickened
   * Season with worcestershire sauce, salt, and pepper as desired
 
-Source: <a href="https://www.epicurious.com/recipes/food/views/onion-gravy-231663">https://www.epicurious.com/recipes/food/views/onion-gravy-231663</a>
+Source: <https://www.epicurious.com/recipes/food/views/onion-gravy-231663>

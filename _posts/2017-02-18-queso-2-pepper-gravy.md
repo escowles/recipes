@@ -26,4 +26,4 @@ tags: cheese dip mexican appetizer dairy sourcream
   * Add sour cream and mix thoroughly.
 
   
-<p>Source: <a href="http://www.browneyedbaker.com/chile-con-queso-dip-recipe/">http://www.browneyedbaker.com/chile-con-queso-dip-recipe/</a></p>
+Source: <http://www.browneyedbaker.com/chile-con-queso-dip-recipe/>

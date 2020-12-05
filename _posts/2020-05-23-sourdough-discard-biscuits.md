@@ -16,4 +16,4 @@ tags: bread vegetarian
   * Cut into 8 biscuits
   * Bake at 425°F for 15-20 minutes, until lightly browned
 
-Source: <a href="https://www.kingarthurflour.com/recipes/buttery-sourdough-sandwich-biscuits-recipe">https://www.kingarthurflour.com/recipes/buttery-sourdough-sandwich-biscuits-recipe</a>
+Source: <https://www.kingarthurflour.com/recipes/buttery-sourdough-sandwich-biscuits-recipe>

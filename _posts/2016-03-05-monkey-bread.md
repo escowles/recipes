@@ -41,4 +41,4 @@ tags: bread breakfast cinnamon
  * Bake at 350°F for 30-35 minutes.
  * Cool for 5 minutes then invert on serving dish.
 
-Adapted from <a href="http://sallysbakingaddiction.com/2014/06/30/homemade-monkey-bread-aka-cinnamon-roll-bites/">http://sallysbakingaddiction.com/2014/06/30/homemade-monkey-bread-aka-cinnamon-roll-bites/</a>
+Adapted from <http://sallysbakingaddiction.com/2014/06/30/homemade-monkey-bread-aka-cinnamon-roll-bites/>

@@ -25,4 +25,4 @@ tags: cake banana fruit
   * Divide batter between two greased 9" cake pans.
   * Bake at 350°F for 25-30 minutes, until a toothpick comes out clean.
 
-Source: <a href="https://sallysbakingaddiction.com/best-banana-cake/#tasty-recipes-66521">https://sallysbakingaddiction.com/best-banana-cake/#tasty-recipes-66521</a>
+Source: <https://sallysbakingaddiction.com/best-banana-cake/#tasty-recipes-66521>

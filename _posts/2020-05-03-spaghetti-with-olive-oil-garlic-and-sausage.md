@@ -22,4 +22,4 @@ tags: italian meat pasta pork sausage cheese dairy
   * Transfer spaghetti to large pot, and add remaining ingredients. Toss over low flame until cheese melts and coats pasta.
   * Add salt to taste, serve warm with more Parmesan and chopped parsley.
 
-Source: <a href="https://food52.com/recipes/78536-spaghetti-aglio-e-olio-e-salsiccia-spaghetti-with-garlic-olive-oil-sausage">https://food52.com/recipes/78536-spaghetti-aglio-e-olio-e-salsiccia-spaghetti-with-garlic-olive-oil-sausage</a>
+Source: <https://food52.com/recipes/78536-spaghetti-aglio-e-olio-e-salsiccia-spaghetti-with-garlic-olive-oil-sausage>

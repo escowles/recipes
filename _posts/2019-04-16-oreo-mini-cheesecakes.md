@@ -23,4 +23,4 @@ tags: cheesecake mini oreos dairy creamcheese
   * Bake at 350°F for 15 minutes
   * Cool to room temperature then chill for at least 3 hours
 
-Source: <a href="https://whatscookingamerica.net/Desserts/OreoPieCrust.htm">https://whatscookingamerica.net/Desserts/OreoPieCrust.htm</a> and <a href="https://www.allrecipes.com/recipe/7307/mini-cheesecakes-i/">https://www.allrecipes.com/recipe/7307/mini-cheesecakes-i/</a>
+Source: <https://whatscookingamerica.net/Desserts/OreoPieCrust.htm> and <https://www.allrecipes.com/recipe/7307/mini-cheesecakes-i/>

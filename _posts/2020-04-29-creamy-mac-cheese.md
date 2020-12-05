@@ -19,4 +19,4 @@ tags: cheese dairy pasta southern vegetarian
   * Reduce heat to low, add cheese and spices, and stir until sauce is smooth. Add pasta and stir until combined.
   * Rest 3-5 minutes, then stir and serve.
 
-Source: <a href="https://www.inspiredtaste.net/37626/easy-creamy-mac-and-cheese/">https://www.inspiredtaste.net/37626/easy-creamy-mac-and-cheese/</a>
+Source: <https://www.inspiredtaste.net/37626/easy-creamy-mac-and-cheese/>

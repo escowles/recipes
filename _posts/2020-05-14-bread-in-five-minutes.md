@@ -18,4 +18,4 @@ tags: bread vegetarian
   * Bake for 30-35 minutes, until browned (remove parchment paper for last 5-10 minutes to crisp bottom).
   * Rest until loaf is cooled before slicing and eating.
 
-Source: <a href="https://artisanbreadinfive.com/2013/10/22/the-new-artisan-bread-in-five-minutes-a-day-is-launched-back-to-basics-updated/">https://artisanbreadinfive.com/2013/10/22/the-new-artisan-bread-in-five-minutes-a-day-is-launched-back-to-basics-updated/</a>
+Source: <https://artisanbreadinfive.com/2013/10/22/the-new-artisan-bread-in-five-minutes-a-day-is-launched-back-to-basics-updated/>

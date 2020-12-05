@@ -31,4 +31,4 @@ juice from 1 lime
 
   * Smear corn cakes with black bean spread, and top with cabbage/lettuce, avocado cubes, salsa and cheese.
 
-Source: <a href="https://www.washingtonpost.com/recipes/corn-cakes-black-bean-spread/15762">https://www.washingtonpost.com/recipes/corn-cakes-black-bean-spread/15762</a>
+Source: <https://www.washingtonpost.com/recipes/corn-cakes-black-bean-spread/15762>

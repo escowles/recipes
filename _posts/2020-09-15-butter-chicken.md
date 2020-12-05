@@ -39,4 +39,4 @@ tags: indian meat chicken asian
 * Remove from heat, scoop mixture into a blender and blend until smooth. You may need to add a couple tablespoons of water to help it blend (up to 1/4 cup). Work in batches depending on the size of your blender.
 * Pour the puréed sauce back into the pan. Stir the cream and maple syrup through the sauce. Add the chicken with juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling.
 
-Source: <a href="https://cafedelites.com/butter-chicken/#wprm-recipe-container-62176">https://cafedelites.com/butter-chicken/</a>
+Source: <https://cafedelites.com/butter-chicken/>

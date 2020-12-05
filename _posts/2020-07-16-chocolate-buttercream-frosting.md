@@ -17,7 +17,7 @@ tags: chocolate frosting
   * Add milk and vanilla slowly while mixing, about 2 minutes
   * Increase speed to high for 2 minutes
 
-Source: <a href="https://www.justataste.com/5-minute-chocolate-buttercream-frosting-recipe/">https://www.justataste.com/5-minute-chocolate-buttercream-frosting-recipe/</a>
+Source: <https://www.justataste.com/5-minute-chocolate-buttercream-frosting-recipe/>
 
 ---
 

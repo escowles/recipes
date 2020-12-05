@@ -20,4 +20,4 @@ tags:  chicken rice meat
   * Add remaining ingredients except rice, stir, and cook on low for 7.5 hours
   * Add rice, stir, and cook until rice is tender (approximately 30 minutes)
 
-Source: <a href="https://pinchofyum.com/slow-cooker-creole-chicken-sausage">https://pinchofyum.com/slow-cooker-creole-chicken-sausage</a>
+Source: <https://pinchofyum.com/slow-cooker-creole-chicken-sausage>

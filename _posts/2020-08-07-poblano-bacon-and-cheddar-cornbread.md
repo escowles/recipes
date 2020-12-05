@@ -38,4 +38,4 @@ tags: bread corn southern texmex
   * Reheat skillet, pour batter into skillet.
   * Move to oven and bake @ 375°F for 30-40 minutes, until toothpick comes out clean.
 
-Source: <a href="https://www-washingtonpost-com.ezproxy.princeton.edu/recipes/poblano-bacon-and-cheddar-skillet-corn-bread/13861/">https://www-washingtonpost-com.ezproxy.princeton.edu/recipes/poblano-bacon-and-cheddar-skillet-corn-bread/13861/</a>
+Source: <https://www-washingtonpost-com.ezproxy.princeton.edu/recipes/poblano-bacon-and-cheddar-skillet-corn-bread/13861/>

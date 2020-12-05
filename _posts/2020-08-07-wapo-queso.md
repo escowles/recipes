@@ -30,4 +30,4 @@ tags: cheese dairy dip mexican appetizer
 
   * Add spices, stir well, and adjust to taste.
 
-Source: <a href="https://www-washingtonpost-com.ezproxy.princeton.edu/lifestyle/food/hooray-for-queso-especially-when-its-draped-over-tacos/2017/09/11/618376f8-8434-11e7-b359-15a3617c767b_story.html">https://www-washingtonpost-com.ezproxy.princeton.edu/lifestyle/food/hooray-for-queso-especially-when-its-draped-over-tacos/2017/09/11/618376f8-8434-11e7-b359-15a3617c767b_story.html</a>
+Source: <https://www-washingtonpost-com.ezproxy.princeton.edu/lifestyle/food/hooray-for-queso-especially-when-its-draped-over-tacos/2017/09/11/618376f8-8434-11e7-b359-15a3617c767b_story.html>

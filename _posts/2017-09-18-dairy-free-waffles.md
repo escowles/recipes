@@ -19,4 +19,4 @@ tags: bread dairyfree
   * Add flour and mix until just combined.
   * Prepare according to waffle maker instructions.
 
-Source: <a href="https://permanentriot.com/2013/02/21/my-favorite-and-dairy-free-waffle-recipe/">https://permanentriot.com/2013/02/21/my-favorite-and-dairy-free-waffle-recipe/</a>
+Source: <https://permanentriot.com/2013/02/21/my-favorite-and-dairy-free-waffle-recipe/>

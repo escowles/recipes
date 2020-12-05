@@ -13,4 +13,4 @@ tags: cocktails fruit rhubarb syrup drinks
   * Simmer for 20 minutes.
   * Strain and refrigerate.
 
-Source: <a href="http://www.epicurious.com/recipes/food/views/rhubarb-collins-394704">http://www.epicurious.com/recipes/food/views/rhubarb-collins-394704</a>
+Source: <http://www.epicurious.com/recipes/food/views/rhubarb-collins-394704>

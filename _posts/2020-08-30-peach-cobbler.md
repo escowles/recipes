@@ -25,4 +25,4 @@ cinnamon
   * Mix well, spoon over batter, and dust with cinnamon
   * Bake at 350°F for 40 minutes, and serve warm
 
-Source: <a href="https://tastesbetterfromscratch.com/peach-cobbler/">https://tastesbetterfromscratch.com/peach-cobbler/</a>
+Source: <https://tastesbetterfromscratch.com/peach-cobbler/>

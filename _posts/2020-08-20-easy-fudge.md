@@ -13,4 +13,4 @@ tags: chocolate
   * Add vanilla, stir until combined, and pour into dish lined with waxed paper.
   * Chill until solidified, then cut into cubes.
 
-Source: <a href="https://chocolatechocolateandmore.com/3-minute-fudge/">https://chocolatechocolateandmore.com/3-minute-fudge/</a>
+Source: <https://chocolatechocolateandmore.com/3-minute-fudge/>

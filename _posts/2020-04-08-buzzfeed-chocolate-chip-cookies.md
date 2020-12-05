@@ -24,4 +24,4 @@ tags: chocolate cookies
   * Form into balls, and roll in remaining 1/2 cup of white sugar
   * Bake 7-8 minutes at 375°F, and tap baking sheet to partially deflate the cookies to accentuate cracking.
 
-Source: <a href="https://www.buzzfeed.com/jesseszewczyk/heres-how-to-make-buzzfeeds-best-chocolate-chip-cookies">https://www.buzzfeed.com/jesseszewczyk/heres-how-to-make-buzzfeeds-best-chocolate-chip-cookies</a>
+Source: <https://www.buzzfeed.com/jesseszewczyk/heres-how-to-make-buzzfeeds-best-chocolate-chip-cookies>

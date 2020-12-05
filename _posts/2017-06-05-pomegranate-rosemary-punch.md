@@ -16,7 +16,7 @@ fresh rosemary sprigs
   * Pour over ice, top up with prosecco, and garnish with rosemary
   * Non-alcoholic variant: omit gin from base and top up with Sprite or fizzy water
 
-Source: <a href="http://waitingonmartha.com/holiday-gin-punch/">http://waitingonmartha.com/holiday-gin-punch/</a>
+Source: <http://waitingonmartha.com/holiday-gin-punch/>
 
 ---
 

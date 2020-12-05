@@ -22,4 +22,4 @@ tags: cuban beans
   * add beans, stock and spices
   * bring to a boil, then reduce heat and simmer until thickened
 
-Source: <a href="http://cooking.nytimes.com/recipes/1013062-cuban-black-beans">http://cooking.nytimes.com/recipes/1013062-cuban-black-beans</a>
+Source: <http://cooking.nytimes.com/recipes/1013062-cuban-black-beans>

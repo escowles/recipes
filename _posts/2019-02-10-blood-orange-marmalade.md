@@ -20,4 +20,4 @@ tags: british jam marmalade orange fruit
   * Marmalade is done when the juices are reduced enough that they don't form a layer on top of the fruit, or when you put a tablespoon on a plate and refrigerate for 10 minutes, and the consistency is as thick as desired
   * Transfer to jars sterilized with boiling water, and let cool before refrigerating.
 
-Source: <a href="https://www.kitchenkonfidence.com/2013/04/blood-orange-marmalade">https://www.kitchenkonfidence.com/2013/04/blood-orange-marmalade</a>
+Source: <https://www.kitchenkonfidence.com/2013/04/blood-orange-marmalade>

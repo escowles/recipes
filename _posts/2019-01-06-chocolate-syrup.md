@@ -15,4 +15,4 @@ tags: chocolate sauce syrup
   * Stirring constantly, bring to a boil and boil for 1 minutes.
   * Remove from heat, add vanilla, and allow to cool completely before use.
 
-<a href="https://www.allrecipes.com/recipe/210084/chocolate-syrup/">https://www.allrecipes.com/recipe/210084/chocolate-syrup/</a>
+<https://www.allrecipes.com/recipe/210084/chocolate-syrup/>

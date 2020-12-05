@@ -5,6 +5,8 @@ date: 2020-04-19 16:27:52 -0500
 category: sides
 tags: bread corn southern
 ---
+Calories: 8x 262 or 12x 175  
+
 1 cup all-purpose flour  
 1 cup masa harina  
 2/3 cup white sugar  
@@ -20,5 +22,4 @@ tags: bread corn southern
   * Mix butter into batter, then pour batter into buttered skillet.
   * Bake 20-25 minutes at 400°F, until a toothpick comes out clean.
 
-Source: <a href="https://www.allrecipes.com/recipe/17891/golden-sweet-cornbread/">https://www.allrecipes.com/recipe/17891/golden-sweet-cornbread</a> and <a href="https://thepioneerwoman.com/food-and-friends/masa-harina-cornbread/">https://thepioneerwoman.com/food-and-friends/masa-harina-cornbread/</a>
-Calories: 8x 262 or 12x 175  
+Source: <https://www.allrecipes.com/recipe/17891/golden-sweet-cornbread> and <https://thepioneerwoman.com/food-and-friends/masa-harina-cornbread/>
