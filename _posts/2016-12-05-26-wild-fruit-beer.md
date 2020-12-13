@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "#26 Wild Fruit Beer"
+title:  "#26 Wild Fruit Beer / Wild The Fruit (W.T.F.)"
 date: 2016-12-05 01:42:25 -0500
 category: other
-tags: beer alcohol fruit wild homebrew
+tags: drinks alcohol beer fruit wild homebrew
 ---
+See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
+
 5 gal. water  
 4 lbs. raspberry, blueberry, blackberry mix  
 6 lbs. amber dry malt extract powder  
