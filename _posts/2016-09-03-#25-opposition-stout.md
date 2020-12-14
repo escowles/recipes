@@ -3,7 +3,7 @@ layout: post
 title: "#25 opposition stout"
 date: 2016-09-03
 category: other
-tags: drinks alcohol homebrew
+tags: drinks alcohol homebrew ale stout
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

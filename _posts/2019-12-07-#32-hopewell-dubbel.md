@@ -3,7 +3,7 @@ layout: post
 title: "#32 hopewell dubbel"
 date: 2019-12-07
 category: other
-tags: drinks alcohol homebrew ale belgian dubbel
+tags: drinks alcohol homebrew ale belgian dubbel abbey
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

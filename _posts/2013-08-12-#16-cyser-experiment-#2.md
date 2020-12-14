@@ -3,7 +3,7 @@ layout: post
 title: "#16 cyser experiment #2"
 date: 2013-08-12
 category: other
-tags: drinks alcohol homebrew cider honey cyser
+tags: drinks alcohol homebrew cider honey cyser variations
 ---
 **fermentables:**
 * 3 gallons apple juice (mott's 100% apple juice with vitamin C)

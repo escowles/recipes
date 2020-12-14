@@ -3,7 +3,7 @@ layout: post
 title: "#12 cider four ways"
 date: 2012-12-23
 category: other
-tags: drinks alcohol homebrew cider honey cyser
+tags: drinks alcohol homebrew cider honey cyser variations
 ---
 **fermentables:**
 * 4 gallons apple juice (martinelli's unfiltered, no-additives in 1/2 gal jugs)

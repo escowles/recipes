@@ -3,7 +3,7 @@ layout: post
 title: "#18 dirty blonde tripel"
 date: 2013-10-13
 category: other
-tags: drinks alcohol homebrew ale belgian tripel
+tags: drinks alcohol homebrew ale belgian tripel abbey
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
