@@ -1,0 +1,27 @@
+---
+layout: post
+title: "#32 hopewell dubbel"
+date: 2019-12-07
+category: other
+tags: drinks alcohol homebrew ale belgian dubbel abbey
+---
+See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
+
+**grain bill:**
+* 7 1/2 lbs. pilsner DME
+* 12 oz. dark candi syrup (275L)
+* 8 oz. caramunich II
+* 5 oz. biscuit
+* 2 1/2 oz. chocolate
+
+**45 minute kettle additions:**
+* 2 oz. Styrian Goldings hop pellets
+
+**15 minute kettle additions:**
+* 1 tsp. Irish Moss
+
+**yeast:**
+* WLP530 Abbey Ale Yeast
+
+**notes:**
+first mini-mash batch in a long time
