@@ -3,7 +3,7 @@ layout: post
 title: "#23 sour bruxellensis"
 date: 2015-10-27
 category: other
-tags: drinks alcohol homebrew ale belgian saison sour
+tags: drinks alcohol homebrew ale belgian saison sour brett
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
@@ -30,3 +30,6 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 * OG: 1.051
 * FG: 1.013
 * ABV: 4.99%
+
+**notes:**
+* first batch in maryland

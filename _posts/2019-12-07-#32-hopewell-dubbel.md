@@ -23,5 +23,11 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 **yeast:**
 * WLP530 Abbey Ale Yeast
 
+**stats:**
+* OG: 1.082
+* FG: 1.014
+* ABV: 8.2%
+
 **notes:**
-first mini-mash batch in a long time
+* first batch in new jersey
+* first mini-mash batch in a long time

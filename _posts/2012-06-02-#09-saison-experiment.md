@@ -3,7 +3,7 @@ layout: post
 title: "#09 saison experiment"
 date: 2012-06-02
 category: other
-tags: drinks alcohol homebrew ale belgian saison variations
+tags: drinks alcohol homebrew ale belgian saison variations brett
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
@@ -44,5 +44,6 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 Stats:
 * OG: 1.057
 * FG: 1.014
+* ABV: 5.2%
 
 Source: <http://hopville.com/recipe/1381525/saison-recipes/saison-dupont-clone>

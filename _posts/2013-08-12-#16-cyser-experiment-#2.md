@@ -16,5 +16,10 @@ tags: drinks alcohol homebrew cider honey cyser variations
 **yeast:**
 * WLP530 Abbey Ale yeast
 
+**stats:**
+* OG: 1.059 - 1.087
+* FG: ~1.0
+* ABV: ~10-11%
+
 **process:**
 * same as [#12 cider four ways]({{ site.baseurl }}{% post_url 2012-12-23-#12-cider-four-ways %})

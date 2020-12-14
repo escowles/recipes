@@ -22,6 +22,11 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 * 1 tsp. Irish Moss
 
 **yeast:**
-1 vial Belgian Abbey Ale yeast (WLP530)
+* 1 vial Belgian Abbey Ale yeast (WLP530)
+
+**stats:**
+* OG: 1.068
+* FG: 1.006
+* ABV: 8.0%
 
 Source: Beer Captured, Westmalle Trappist Dubbel clone, p47.

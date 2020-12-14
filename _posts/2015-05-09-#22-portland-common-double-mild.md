@@ -25,6 +25,11 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 **yeast:**
 * WLP002 English Ale Yeast
 
+**stats:**
+* OG: 1.071
+* FG: 1.021
+* ABV: 6.0%
+
 **label text:**
 ```
 <> a beer:Mild, beer:Porter,

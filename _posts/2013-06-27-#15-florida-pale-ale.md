@@ -34,4 +34,5 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 * FG: 1.016
 * ABV: 7.66%
 
-note: Hops chosen based on hop tea tasting 5/25/13.
+**notes:**
+* hops chosen based on hop tea tasting 5/25/13.

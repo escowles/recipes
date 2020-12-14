@@ -3,7 +3,7 @@ layout: post
 title: "#24 ninety shilling"
 date: 2016-02-26
 category: other
-tags: drinks alcohol homebrew ale scottish
+tags: drinks alcohol homebrew ale scottish secondrunnings
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
@@ -24,6 +24,11 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 **yeast:**
 * WLP510 Belgian Bastogne Ale
 
+**stats:**
+* OG: 1.058
+* FG: 1.016
+* ABV: 5.1%
+
 **#24x second runnings:**
 had enough wort left over to make a small second batch, adding some cascade hops to go for a
-table beer
+table beer. wound up slightly drier, about 4.5%

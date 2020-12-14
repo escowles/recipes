@@ -3,7 +3,7 @@ layout: post
 title: "#29 cabin john kriek"
 date: 2017-08-13
 category: other
-tags: drinks alcohol homebrew ale belgian saison sour
+tags: drinks alcohol homebrew ale belgian saison sour fruit
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

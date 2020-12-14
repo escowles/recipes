@@ -3,7 +3,7 @@ layout: post
 title: "#28 cabin john reek"
 date: 2017-06-24
 category: other
-tags: drinks alcohol homebrew ale belgian saison sour failure
+tags: drinks alcohol homebrew ale belgian saison sour failure fruit
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

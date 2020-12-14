@@ -16,6 +16,11 @@ tags: drinks alcohol homebrew cider honey cyser variations
 **yeast:**
 * safeale US-05
 
+**stats:**
+* OG: 1.059 - 1.083
+* FG: ~1.000
+* ABV: ~7-8%
+
 **process:**
 * no-boil, just combine ingredients in sterilized 1-gal growlers and pitch yeast.
 * seal with airlock and ferment until gravity stabilizes.

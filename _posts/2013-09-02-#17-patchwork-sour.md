@@ -3,7 +3,7 @@ layout: post
 title: "#17 patchwork sour"
 date: 2013-09-02
 category: other
-tags: drinks alcohol homebrew ale belgian saison sour variations
+tags: drinks alcohol homebrew ale belgian saison sour variations brett
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
@@ -22,6 +22,11 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 
 **yeast:**
 * WLP530 Abbey Ale Yeast
+
+**stats:**
+* OG: 1.057
+* FG: 1.003
+* ABV: 6.5%
 
 **microbes:**
 fermented for one week, then divided in five 1-gal batches:

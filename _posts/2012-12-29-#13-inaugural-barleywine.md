@@ -30,4 +30,6 @@ See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-a
 * OG: 1.100
 * FG: 1.025
 * ABV: 9.81%
+
+**notes:**
 * bottled: 1/20/2013, during Obama's second inauguration (hence the name)
