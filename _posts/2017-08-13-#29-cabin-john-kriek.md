@@ -5,7 +5,8 @@ date: 2017-08-13
 category: other
 tags: drinks alcohol homebrew ale belgian saison sour fruit
 ---
-See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
+See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %}) and
+[kettle-soured saison mash]({{ site.baseurl }}{% post_url 2017-06-24-kettle-soured-saison-mash %})
 
 **grain bill:**
 * 10 lb. pilsner malt
