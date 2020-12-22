@@ -3,7 +3,7 @@ layout: post
 title: Beef Stew Pie
 date: 2020-10-24 10:39:09 -0500
 category: main
-tags: beef gravy pie stew meat
+tags: beef gravy pie stew meat piesquared
 ---
 3 batches of [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %}) dough  
 

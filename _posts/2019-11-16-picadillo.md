@@ -3,7 +3,7 @@ layout: post
 title: Picadillo
 date: 2019-11-16 15:19:21 -0500
 category: main
-tags: beef cuban meat
+tags: beef cuban meat piesquared
 ---
 2 Tbsp. olive oil  
 2 cloves garlic, minced  
