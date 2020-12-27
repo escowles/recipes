@@ -7,7 +7,7 @@ tags: chicken meat middleeast barefootcontessa
 ---
 1040 Cal (4x 260)
  
-### Marinade>
+### Marinade:
 
 3 cloves chopped garlic  
 1/2 tsp. ground cumin  
