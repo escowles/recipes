@@ -28,15 +28,5 @@ Source: <https://cafedelites.com/teriyaki-chicken-recipe/>
 ---
 
 2020-04-30 13:24:22: NYT comment on traditional Teriyaki (at this recipe:
-<https://cooking.nytimes.com/recipes/1012984-chicken-teriyaki>):
-
-* 4 TBSP soy sauce
-* 2 TBSP mirin
-* 2 TBSP sugar
-* 2 TBSP rice vinegar (do not use sushi vinegar)
-* some grated ginger
-
-As you pan-fry the chicken you add the above ingredients and cook till all liquid is
-reduced. THAT'S IT. The ratio is soy (1TBSP per serving) = mirin + sugar. Add
-vinegar that's 1/2 of soy. I grew up in Japan - this is the ratio everyone (or at
-least the majority) uses there.
+<https://cooking.nytimes.com/recipes/1012984-chicken-teriyaki>), see
+[teriyaki sauce]({{ site.baseurl }}{% post_url 1969-12-31-teriyaki-sauce %})
