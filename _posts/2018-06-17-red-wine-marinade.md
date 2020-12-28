@@ -3,7 +3,7 @@ layout: post
 title: Red Wine Marinade
 date: 2018-06-17 12:51:08 -0500
 category: ingredients
-tags: marinade steak alcohol
+tags: marinade beef steak alcohol
 ---
 1 cup red wine  
 3/4 cup olive oil  

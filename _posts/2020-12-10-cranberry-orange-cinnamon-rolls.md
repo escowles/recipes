@@ -60,3 +60,19 @@ candied orange peel, diced
 * mix powdered sugar and orange juice, until it is thick enough that it takes 20 seconds to reincorporate, then drizzle over rolls
 
 source: <https://thegreatbritishbakeoff.co.uk/recipes/all/dan-sticky-spiced-orange-chelsea-buns/>
+
+---
+
+12/24/20 variant:
+* omit fruit from filling, so just butter, cinnamon, and brown sugar
+* cream cheese icing:
+
+3 1/2 oz. cream cheese, softened  
+1 Tbsp. orange juice  
+1 cup powdered sugar  
+1/4 tsp. salt  
+1 Tbsp. orange syrup  
+1 tsp. orange extract
+* beat cream cheese and orange juice until combined
+* mix in powdered sugar until smooth
+* add remaining ingredients and mix until smooth

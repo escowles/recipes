@@ -3,7 +3,7 @@ layout: post
 title: Indoor Filet Mignon
 date: 2020-02-25 13:58:16 -0500
 category: main
-tags: beef meat
+tags: steak beef meat
 ---
 
   * Heat a cast-iron or oven-safe skillet on the stovetop until it's screaming hot.
