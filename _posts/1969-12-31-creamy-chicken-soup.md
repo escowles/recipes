@@ -27,3 +27,13 @@ salt and pepper to taste
 * Rest for 10 minutes before serving.
 
 Source: <http://thepioneerwoman.com/cooking/2010/12/chicken-and-dumplings/>
+
+---
+
+01/05/2021: sous-vide variant:
+
+* put all ingredients (omit butter and cream, and don't cube chicken before cooking) in a large
+  ziplock bag and cook for 6 hours at 150°F
+* remove chicken, let cool, and shred
+* return chicken to broth (either in sous vide bath or in a large pot), add cream, and cook until
+  the chicken is heated through
