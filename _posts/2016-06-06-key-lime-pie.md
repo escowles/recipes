@@ -46,3 +46,8 @@ Source: <http://www.themeaningofpie.com/2010/06/key-lime-pie/>
 * Compact each mini-crust with the bottom of a glass.
 * Pre-bake 5 minutes at 350°F, then cool on a wire rack.
 * Fill with 1/4 cup of filling and bake 12-15 minutes at 350°F, until set.
+
+2021-01-14 Orange variant:
+* Replace lime juice and zest with equal parts lemon and navel orange.
+* Produced a very mellow pie — maybe using a more sour orange and/or grapefruit juice would
+  be better, and more like sour orange pie?
