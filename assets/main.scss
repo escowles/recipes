@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.taglist {
+  margin: 0;
+  padding: 0;
+}
+.tagnav {
+  list-style-type: none;
+  display: inline-block;
+}
+.tagnav, .taglink {
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  margin: 2px;
+  padding: 4px;
+  text-decoration: none;
+}
