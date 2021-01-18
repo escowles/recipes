@@ -3,7 +3,7 @@ layout: post
 title: Caramel Hazelnut Cheesecake
 date: 2016-12-18 11:42:37 -0500
 category: dessert
-tags: caramel cheesecake hazelnut mini dairy creamcheese
+tags: cheesecake hazelnut mini dairy creamcheese
 ---
 2 cups hazelnuts, toasted  
 ¼ cup sugar  

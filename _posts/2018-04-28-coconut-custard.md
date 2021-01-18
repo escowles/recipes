@@ -3,7 +3,7 @@ layout: post
 title: Coconut Custard
 date: 2018-04-28 15:27:35 -0500
 category: dessert
-tags: coconut custard dairyfree
+tags: custard dairyfree
 ---
 
 1 13.5 oz can full-fat coconut milk  

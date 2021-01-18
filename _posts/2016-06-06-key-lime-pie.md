@@ -3,7 +3,7 @@ layout: post
 title: Key Lime Pie
 date: 2016-06-06 16:29:35 -0500
 category: dessert
-tags: pie southern lime fruit
+tags: pie southern fruit
 ---
 8 tsp. lime zest (approx. 4)  
 1 cup lime juice (approx. 6)  

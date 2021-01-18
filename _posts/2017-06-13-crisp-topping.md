@@ -3,7 +3,7 @@ layout: post
 title: Crisp Topping
 date: 2017-06-13 12:08:46 -0500
 category: dessert
-tags: crisp pie
+tags: pie
 ---
 1/2 cup flour  
 1/2 cup oatmeal  

@@ -3,7 +3,7 @@ layout: post
 title: Peach Cobbler
 date: 2020-08-30 11:36:37 -0500
 category: dessert
-tags: fruit peach southern cobbler
+tags: fruit peach southern
 ---
 6 Tbsp. butter  
 

@@ -3,7 +3,7 @@ layout: post
 title: steamed and roasted goose
 date: 2020-12-21 11:00:57 -0500
 category: main
-tags: meat poultry xmas
+tags: meat goose xmas
 ---
 
 **steaming:**

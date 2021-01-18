@@ -3,7 +3,7 @@ layout: post
 title: Stovetop Espresso (Moka 1-cup coffeemaker)
 date: 2017-11-05 15:14:57 -0500
 category: other
-tags: coffee espresso italian
+tags: coffee italian
 ---
 1 part beans  
 16 parts cold filtered water  

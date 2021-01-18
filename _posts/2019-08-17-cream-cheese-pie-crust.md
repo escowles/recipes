@@ -3,7 +3,7 @@ layout: post
 title: Cream Cheese Pie Crust
 date: 2019-08-17 23:02:21 -0500
 category: ingredients
-tags: pastry bread pie crust dairy creamcheese piesquared
+tags: bread pie crust dairy creamcheese piesquared
 ---
 2½ plus 2 Tbsp. flour  
 ¼ tsp. kosher salt  

@@ -3,7 +3,7 @@ layout: post
 title: Star Bread
 date: 2020-12-22 19:00:00 -0500
 category: main
-tags: bread herb
+tags: bread
 ---
 
 **For the dough**
