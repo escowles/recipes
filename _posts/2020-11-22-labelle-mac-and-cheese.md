@@ -10,13 +10,13 @@ tags: pasta cheese dairy vegetarian southern
 * prepare according to the directions on the box, reducing boil time by 1 minute.
 * drain and set aside while making the sauce
 
-3 Tbsp. butter
-3 Tbsp. flour
-3 1/2 cups half-and-half
-1 tsp. salt
-1/4 tsp. black pepper
-1/2 tsp. cayenne pepper, chipotle powder, etc.
-3 cups grated cheese
+3 Tbsp. butter  
+3 Tbsp. flour  
+3 1/2 cups half-and-half  
+1 tsp. salt  
+1/4 tsp. black pepper  
+1/2 tsp. cayenne pepper, chipotle powder, etc.  
+3 cups grated cheese (12 oz.)  
 * melt butter until it foams, about 2 minutes
 * whisk in flour until it turns blonde, about 2 minutes
 * whisk in 2 cups of half-and-half, reduce heat and stir until thickened
@@ -24,8 +24,8 @@ tags: pasta cheese dairy vegetarian southern
 * stir in cheese until completely incorporated (it's fine if they don't completely melt)
 * stir in macaroni, breaking up clumps
 
-1 Tbsp. butter
-3/4 cup grated cheese
+1 Tbsp. butter  
+3/4 cup grated cheese (3 oz.)  
 * grease 9x13 baking dish with butter and add mac & cheese
 * top with remaining cheese
 * bake at 350°F for 15-25 minutes, until bubbling and the top cheese is melted
