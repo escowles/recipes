@@ -5,31 +5,26 @@ date: 2016-06-06 16:29:35 -0500
 category: dessert
 tags: pie southern fruit
 ---
-8 tsp. lime zest (approx. 4)  
-1 cup lime juice (approx. 6)  
 8  egg yolks  
+8 tsp. lime zest (approx. 4)  
+1 cup lime juice (approx. 6-8)  
 2 (14 oz.) cans sweetened condensed milk  
 
-* Grate lime zest, then halve limes and juice.
-* Beat lime zest into egg yolks until greenish.
-* Whisk in sweetened condensed milk and juice until smooth.
-* Set aside while making the crust.
+* Blend yolks, zest, and juice in blender until the zest is broken down.
+* Add sweetened condensed milk and mix until smooth.
+* Set aside to thicken while making the crust.
 
 11 full sized graham crackers  
 3 Tbsp. granulated sugar  
-5 Tbsp. butter  
+5 Tbsp. butter, melted
 
-* Put graham crackers and sugar in food processor and process until broken down into small even crumbs.
-* Melt butter, add to crumbs, and mix until combined.
+* Process graham crackers and sugar in food processor until broken down into small even crumbs.
+* Add butter to crumbs, and mix until combined.
 * Pour buttered crumbs into 9" pie dish and press into sides and bottom to form a crust.
 * Bake empty crust at 325° F for 13 minutes.
 * Add filling and bake an additional 15-30 minutes, until pie is set and barely wiggles in the center.
 * Chill to room temperature and then refrigerate for 3 hours.
-
-1 pint heavy whipping cream  
-confectioners’ sugar (about ¼ cup, but mainly just to taste)  
-
-* Combine cream and sugar and beat until thickened.
+* Slice into 12-16 slices and top with [whipped cream]({{site.baseurl }}{% post_url 2018-07-14-whipped-cream %})
 
 Source: <http://www.themeaningofpie.com/2010/06/key-lime-pie/>
 
