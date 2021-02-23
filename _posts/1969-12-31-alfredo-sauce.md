@@ -1,22 +1,24 @@
 ---
 layout: post
-title: Alfredo Sauce
+title: Fettucine Alfredo
 date: 1969-12-31 19:00:00 -0500
 category: ingredients
-tags: sauce italian dairy cheese
+tags: sauce italian dairy cheese cooksillustrated
 ---
-1840 Cal (4x 480)
+3 Tbsp. butter  
+2 cups heavy cream  
+* heat butter and half of cream in large saucepan for 15 minutes
+* remove from heat and add remaining cream
 
-1/4 cup butter  
-1 cup heavy cream  
-1 clove garlic, minced  
-1 1/2 cups parmesan cheese, grated  
-1/4 cup parsley, chopped  
+1 lb. dry fettucine  
+* cook following directions on package, but 1 minute less than al dente time
+* reserve 1/4 cup of pasta water then drain
 
-* Melt butter.  Add cream and simmer for 5 minutes.
-* Add garlic and cheese, heat through.
-* Add parsley and serve.
+2 oz. parmesan cheese, grated  
+3/4 tsp. pepper
+pinch nutmeg
+* return sauce to low heat, add cheese, spices, and drained pasta
+* stir well until cheese is melted and pasta is al dente, about 2 minutes
+* add pasta water as needed if sauce is too thick
 
----
-
-2019-04-07 13:50:50: This recipe is bananas — use Cook's instead.
+source: Cook's Illustrated, p. 165.
