@@ -27,3 +27,8 @@ Source: <https://artisanbreadinfive.com/2013/10/22/the-new-artisan-bread-in-five
 * covered with wet kitchen towel and let rise in a warmed oven because it's ~67°F inside
 * instead of adding water to oven, put dough and parchment in a pre-heated dutch oven and cover
 * remove cover after 20 minutes
+
+results: baked a total of 45 minutes until browning was good. very good structure, but a little bland and soft/moist.
+
+next time: double salt, rest overnight, spritz with water before putting in oven, and bake 30
+minutes before removing cover.
