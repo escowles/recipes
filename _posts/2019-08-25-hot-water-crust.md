@@ -11,15 +11,17 @@ tags: bread crust british pie piesquared
 
   * Mix together in a large bowl
 
-6 Tbsp. lard  
-4 Tbsp. unsalted butter  
+6 Tbsp. (80g) lard or shortening  
+4 Tbsp. (60g) butter  
 
   * Mix into flour with pastry blender
 
 ½ cup boiling water  
 
-  * Pour into flour fixture and mix with spoon, then turn out to silicone mat.  Shape into a ball and let rest 5 minutes.
+  * Pour into flour fixture and mix with spoon, then turn out to silicone mat.
+  * Shape into a ball and let rest 5 minutes.
   * Knead if lumpy
-  * Roll out quickly, shaping into pie crusts while warm, or the dough will get difficult to work.
+  * Roll out quickly, shaping into pie crusts while warm, or the dough will get
+    difficult to work.
 
 Pie Squared, p 322.  
