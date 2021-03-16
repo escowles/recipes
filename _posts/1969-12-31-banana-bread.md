@@ -3,7 +3,7 @@ layout: post
 title: Banana Bread
 date: 1969-12-31 19:00:00 -0500
 category: sides
-tags: bread fruit banana
+tags: bread fruit banana bettycrocker
 ---
 2500 Cal (12x 210)
   
@@ -25,3 +25,5 @@ Approx. baking times and calorie counts:
 * 4-cup loaf: 12x 210 Cal, 75+ minutes
 * 2-cup loaf: 8x 150 Cal, 55 minutes
 * 1 1/2-cup loaf: 8x 120 Cal, 50 minutes
+
+Source: Betty Crocker (1981 ed.)
