@@ -7,7 +7,7 @@ tags: bread banana fruit yousuckatcooking
 ---
 
 3/8 cup (6 Tbsp.) vegetable oil  
-3/4 cup brown sugar  
+3/4 cup (150g) brown sugar  
 2 eggs  
 2-3 very ripe bananas, mashed  
 1/2 tsp. vanilla  
@@ -22,3 +22,9 @@ tags: bread banana fruit yousuckatcooking
 * cool on a wire rack for 15 minutes before removing from pan
 
 source: <https://www.yousuckatcooking.net/banana-bread-you-suck-at-cooking-episode-110/>
+
+---
+
+2021-03-21: given that this recipe has the same amount of banana, and less flour, i
+was expecting it to be more intense. but it's much milder tasting, like when you only
+use 2 bananas instead of 3.
