@@ -36,5 +36,6 @@ latest try (was not as good):
 
 things to try:
 * probably too little lime juice, use a whole lime
+* shake with ice, then strain onto fresh ice
 * maybe didn't use syrup if i was looking at nyt recipe?
 * or just reduce cointreau and syrup
