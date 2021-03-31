@@ -15,3 +15,26 @@ tags: drinks cocktails alcohol tequila mexican
 * strain into coupe
 
 source: <https://fivethirtyeight.com/videos/we-got-drunk-on-margaritas-for-science/>
+
+---
+
+liquor.com recipe:
+
+2 oz. tequila  
+1/2 oz. orange liqueur  
+1 oz. lime juice (1 lime)  
+1/2 oz. agave syrup  
+
+nytimes: same, but no agave
+
+latest try (was not as good):
+
+2 oz. tequila  
+1 oz. orange liqueur  
+1 oz. tangerine syrup  
+1/2 oz. lime juice (1/2 lime)  
+
+things to try:
+* probably too little lime juice, use a whole lime
+* maybe didn't use syrup if i was looking at nyt recipe?
+* or just reduce cointreau and syrup
