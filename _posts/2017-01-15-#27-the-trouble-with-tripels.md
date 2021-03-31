@@ -3,7 +3,7 @@ layout: post
 title: "#27 the trouble with tripels"
 date: 2017-01-15
 category: other
-tags: drinks alcohol homebrew ale belgian tripel abbey
+tags: drinks alcohol homebrew ale belgian tripel abbey beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

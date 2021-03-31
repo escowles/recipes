@@ -3,7 +3,7 @@ layout: post
 title: "#22 portland common double mild"
 date: 2015-05-09
 category: other
-tags: drinks alcohol homebrew ale english porter mild
+tags: drinks alcohol homebrew ale english porter mild beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

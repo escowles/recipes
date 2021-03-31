@@ -3,7 +3,7 @@ layout: post
 title: denver omelet
 date: 2021-02-07 06:38:29 -0500
 category: main
-tags: eggs breakfast
+tags: egg breakfast
 ---
 
 3 large eggs

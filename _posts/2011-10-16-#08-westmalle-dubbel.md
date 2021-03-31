@@ -3,7 +3,7 @@ layout: post
 title: "#08 westmalle dubbel"
 date: 2011-10-16
 category: other
-tags: drinks alcohol homebrew ale belgian abbey dubbel
+tags: drinks alcohol homebrew ale belgian abbey dubbel beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

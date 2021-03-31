@@ -8,8 +8,9 @@ layout: default
 <ul class="taglist">
 {% for tag in sorted_tags %}
   {% assign tag_name = tag | first %}
-    <li class="tagnav"><a href="#{{ tag_name }}">{{ tag_name }}</a></li>
-  {% endfor %}
+  {% assign tag_posts = tag | last %}
+  <li class="tagnav"><a href="#{{ tag_name }}">{{ tag_name }}</a> ({{ tag_posts.size }})</li>
+{% endfor %}
 </ul>
 
 {% for tag in sorted_tags %}

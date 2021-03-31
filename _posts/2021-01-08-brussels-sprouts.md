@@ -3,7 +3,7 @@ layout: post
 title: brussels sprouts
 date: 2021-01-08 07:17:01 -0500
 category: sides
-tags: vegetables barefootcontessa
+tags: vegetable barefootcontessa
 ---
 1.5 lbs. brussels sprouts  
 3 Tbsp. olive oil  

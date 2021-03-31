@@ -3,7 +3,7 @@ layout: post
 title: "#31 colonial stout"
 date: 2018-07-29
 category: other
-tags: drinks alcohol homebrew ale stout
+tags: drinks alcohol homebrew ale stout beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

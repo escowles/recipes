@@ -3,7 +3,7 @@ layout: post
 title: Sausage Gravy
 date: 1969-12-31 19:00:00 -0500
 category: ingredients
-tags: meat pork sauce southern
+tags: meat pork sauce southern sausage
 ---
 1900 Cal (6x 315)
   

@@ -3,7 +3,7 @@ layout: post
 title: "#23 sour bruxellensis"
 date: 2015-10-27
 category: other
-tags: drinks alcohol homebrew ale belgian saison sour brett
+tags: drinks alcohol homebrew ale belgian saison sour brett beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

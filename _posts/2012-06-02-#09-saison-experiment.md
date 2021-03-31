@@ -3,7 +3,7 @@ layout: post
 title: "#09 saison experiment"
 date: 2012-06-02
 category: other
-tags: drinks alcohol homebrew ale belgian saison variations brett
+tags: drinks alcohol homebrew ale belgian saison variations brett beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

@@ -3,7 +3,7 @@ layout: post
 title: "#17 patchwork sour"
 date: 2013-09-02
 category: other
-tags: drinks alcohol homebrew ale belgian saison sour variations brett
+tags: drinks alcohol homebrew ale belgian saison sour variations brett beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

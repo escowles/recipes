@@ -3,7 +3,7 @@ layout: post
 title: "#33 exiled for the good of the kingdom"
 date: 2020-03-22
 category: other
-tags: drinks alcohol homebrew ale creamale
+tags: drinks alcohol homebrew ale creamale beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

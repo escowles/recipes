@@ -3,7 +3,7 @@ layout: post
 title: thin mints
 date: 2021-03-08 06:57:28 -0500
 category: dessert
-tags: chocolate girlscouts
+tags: cookies chocolate mint
 ---
 
 1/2 cup butter, softened  

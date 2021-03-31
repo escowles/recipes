@@ -3,7 +3,7 @@ layout: post
 title: Jambalaya
 date: 1969-12-31 19:00:00 -0500
 category: main
-tags: cajun chicken meat pork seafood shrimp
+tags: cajun chicken meat pork seafood shrimp sausage
 ---
 2160 Cal (4 x 540)
 

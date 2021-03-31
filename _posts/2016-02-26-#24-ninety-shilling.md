@@ -3,7 +3,7 @@ layout: post
 title: "#24 ninety shilling"
 date: 2016-02-26
 category: other
-tags: drinks alcohol homebrew ale scottish secondrunnings
+tags: drinks alcohol homebrew ale scottish secondrunnings beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

@@ -3,7 +3,7 @@ layout: post
 title: "#20 imperial saison"
 date: 2014-12-13
 category: other
-tags: drinks alcohol homebrew ale belgian saison
+tags: drinks alcohol homebrew ale belgian saison beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

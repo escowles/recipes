@@ -3,7 +3,7 @@ layout: post
 title: mini omelets
 date: 2021-02-14 09:30:11 -0500
 category: main
-tags: eggs mini breakfast
+tags: egg mini breakfast
 ---
 
 5 eggs  

@@ -3,7 +3,7 @@ layout: post
 title: "#34 isolated ipa"
 date: 2020-04-23
 category: other
-tags: drinks alcohol homebrew ale ipa
+tags: drinks alcohol homebrew ale ipa beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 

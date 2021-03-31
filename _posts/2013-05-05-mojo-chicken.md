@@ -3,7 +3,7 @@ layout: post
 title: Mojo Chicken
 date: 2013-05-05 08:35:13 -0500
 category: main
-tags: chicken meat mexican recipe
+tags: chicken meat mexican
 ---
 1 ½ tsp. cumin  
 1 ½ tsp. kosher salt  

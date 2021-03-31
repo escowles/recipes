@@ -3,7 +3,7 @@ layout: post
 title: "#14 saison bruxellensis"
 date: 2013-03-16
 category: other
-tags: drinks alcohol homebrew ale belgian saison brett
+tags: drinks alcohol homebrew ale belgian saison brett beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
