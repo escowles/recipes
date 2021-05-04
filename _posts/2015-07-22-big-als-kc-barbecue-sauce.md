@@ -6,21 +6,21 @@ category: ingredients
 tags: bbq sauce southern
 ---
 
-2 cups ketchup
-2 cups tomato sauce
-1¼ cups brown sugar
-1¼ cups red wine vinegar
-½ cup molasses
-2 tbsp. butter
-1 tsp. salt
-1 tsp. pepper
-1 tsp. paprika
-½ tsp. garlic powder
-½ tsp. onion powder
-½ tsp. celery seed
-½ tsp. cayenne
-¼ tsp. chili powder
-¼ tsp. cinnamon
+2 cups ketchup  
+2 cups tomato sauce  
+1¼ cups brown sugar  
+1¼ cups red wine vinegar  
+½ cup molasses  
+2 tbsp. butter  
+1 tsp. salt  
+1 tsp. pepper  
+1 tsp. paprika  
+½ tsp. garlic powder  
+½ tsp. onion powder  
+½ tsp. celery seed  
+½ tsp. cayenne  
+¼ tsp. chili powder  
+¼ tsp. cinnamon  
 
  * Mix all ingredients and simmer 20-60 minutes, until reaching desired thickness.
 
