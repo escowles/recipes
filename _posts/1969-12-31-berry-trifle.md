@@ -13,19 +13,19 @@ tags: fruit berries british
 3 Tbsp. sugar  
 
 * Heat cream over medium heat until steaming.
-* Mix egg yolks and sugar, and add hot cream and mix thoroughly.
+* Mix egg yolks and sugar, then slowly pour in hot cream while mixing.
 * Heat mixture on low heat, stirring constantly, until thick enough to coat the back of a metal spoon.
 * Remove from heat and allow to cool.
+* Place plastic wrap on the surface of the custard to prevent a skin forming, if not
+  immediately making the trifle.
 
 ### Trifle:
 
-1 sponge cake, pound cake, etc.  
+1 pound cake
 1 cup raspberry jam  
-4 oz. fresh raspberries  
-4 oz. fresh blueberries  
-4 oz. fresh strawberries  
+1 lb. mixed berries
 10 oz. heavy cream  
 
-* Cut cake into sections, spreading each slice with jam.  Line trifle dish.
-* Top cake with fruit and custard, making layers.
+* Cut cake into thin slices, spreading each slice with jam.  Line trifle dish.
+* Top cake with fruit and custard, repeating layers of cake, jam, fruit and custard.
 * Top with whipped cream and remaining fruit (reserve best fruit for decoration).
