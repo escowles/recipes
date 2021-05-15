@@ -26,7 +26,7 @@ zest from one orange
 
 2 oranges, quartered  
 300g sugar  
-150ml water
+150ml water  
 * peel oranges and cut peel into strips (reserve flesh for juice)
 * bring to the boil and discard water (repeat three times)
 * heat sugar and water until sugar is dissolved, then add thrice-boiled orange peel
@@ -35,7 +35,7 @@ zest from one orange
 
 **filling**:
 
-150g cranberries, chopped
+150g cranberries, chopped  
 3 Tbsp. brandy  
 candied orange peel, diced  
 100g brown sugar  
@@ -46,7 +46,7 @@ candied orange peel, diced
 
 **assembly**:
 
-50g butter, softened
+50g butter, softened  
 100g powdered sugar  
 1-2 tsp. orange juice   
 * roll out dough into a large square (35-40cm)
@@ -76,3 +76,8 @@ source: <https://thegreatbritishbakeoff.co.uk/recipes/all/dan-sticky-spiced-oran
 * beat cream cheese and orange juice until combined
 * mix in powdered sugar until smooth
 * add remaining ingredients and mix until smooth
+
+05/15/21 orange rolls variant:
+* omit cinnamon and orange essence from dough
+* filling: 1/2 cup butter, 1 cup sugar, 2 Tbsp. zest, mixed well
+* top with 12/24/20 cream cheese icing
