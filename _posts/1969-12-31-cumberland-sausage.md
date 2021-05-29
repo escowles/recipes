@@ -22,4 +22,4 @@ tags: british meat pork
 * mix bread crumbs and spices
 * mix into pork and form patties
 
-source: https://www.rockrecipes.com/cumberland-sausage/
+source: <https://www.rockrecipes.com/cumberland-sausage/>
