@@ -3,7 +3,7 @@ layout: post
 title: chouquettes
 date: 2021-05-13 19:58:00 -0400
 category: dessert
-tags: dessert cookies french
+tags: dessert cookies french frenchbaker
 ---
 
 125ml (4 oz.) water  
