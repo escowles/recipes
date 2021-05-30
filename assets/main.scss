@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+.home-link {
+  list-style-type: none;
+  margin: 2px;
+  padding: 4px;
+  font-size: large;
+}
+.home-meta {
+  font-size: small;
+  color: #cccccc;
+}
 .taglist {
   margin: 0;
   padding: 0;

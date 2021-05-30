@@ -4,6 +4,7 @@ title: "banana bread #2"
 date: 2021-03-16 14:19:50 -0400
 category: sides
 tags: bread banana fruit yousuckatcooking
+status: deprecated
 ---
 
 3/8 cup (6 Tbsp.) vegetable oil  

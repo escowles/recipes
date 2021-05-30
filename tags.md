@@ -19,7 +19,11 @@ layout: default
   <ul>
     {% assign sorted_posts = tag.last | sort_natural: "title" %}
     {% for post in sorted_posts %}
-      <li class="taglink"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      <li class="taglink"><a href="{{ post.url | relative_url }}">
+        {% if post.status == "deprecated" %}<s>{% endif %}
+          {{ post.title }}
+        {% if post.status == "deprecated" %}</s>{% endif %}
+      </a></li>
     {% endfor %}
   </ul>
 {% endfor %}

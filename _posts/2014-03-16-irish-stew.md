@@ -4,6 +4,7 @@ title: Irish Stew
 date: 2014-03-16 14:50:40 -0500
 category: main
 tags: irish lamb soup stew meat
+status: deprecated
 ---
 1,600 Cal (4x 400)  
 

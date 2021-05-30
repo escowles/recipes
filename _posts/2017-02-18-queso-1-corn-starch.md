@@ -4,6 +4,7 @@ title: "Queso #1 (Corn Starch)"
 date: 2017-02-18 12:06:43 -0500
 category: sides
 tags: cheese dip mexican appetizer dairy
+status: deprecated
 ---
 8 oz. cheddar cheese, shredded  
 1 Tbsp. corn starch  

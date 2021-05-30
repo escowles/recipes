@@ -4,6 +4,7 @@ title: Boiled Scrambled Eggs
 date: 2017-09-14 14:35:08 -0500
 category: sides
 tags: breakfast egg
+status: deprecated
 ---
 
   * Separate yolks from whites with a wire strainer
