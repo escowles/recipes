@@ -4,6 +4,7 @@ title: Hybrid Fresh/Canned Cherry Pie
 date: 1969-12-31 19:00:00 -0500
 category: dessert
 tags: pie cherry fruit
+status: deprecated
 ---
 2160 Cal (8x 270), w/crust: 3500 Cal (8x 437)
 
@@ -25,3 +26,9 @@ pinch salt
 * Rotate pie dish in oven, reduce heat to 350F and bake an additional 30 minutes, until crust is golden and juices are bubbling.
 
 Source: Combination of Cooks Illustrated Sour Cherry Pie and Sweet Cherry Cobler recipes.  
+
+---
+
+2021-05-30: This wasn't very good — it's better to just go pick sour cherries when
+they are ripe. It's a hassle, but the only way I've found to get a truly good cherry
+pie.

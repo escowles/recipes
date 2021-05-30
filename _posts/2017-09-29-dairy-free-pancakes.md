@@ -4,6 +4,7 @@ title: Dairy-Free Pancakes
 date: 2017-09-29 21:51:48 -0500
 category: sides
 tags: bread breakfast dairyfree
+status: deprecated
 ---
 1 egg, beaten  
 1 cup milk  

@@ -4,6 +4,7 @@ title: Quick Cinnamon Rolls
 date: 2015-09-07 08:38:30 -0500
 category: dessert
 tags: bread breakfast cinnamon
+status: deprecated
 ---
 Dough:  
   

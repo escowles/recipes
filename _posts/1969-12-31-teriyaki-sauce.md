@@ -3,7 +3,7 @@ layout: post
 title: Teriyaki Sauce
 date: 1969-12-31 19:00:00 -0500
 category: ingredients
-tags: sauce asian japanese
+tags: sauce asian japanese nytimes
 ---
 
 1/2 cup soy sauce  

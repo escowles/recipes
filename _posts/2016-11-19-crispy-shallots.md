@@ -3,7 +3,7 @@ layout: post
 title: Crispy Shallots
 date: 2016-11-19 14:27:42 -0500
 category: ingredients
-tags: thanksgiving
+tags: thanksgiving nytimes
 ---
 1 cup oil  
 3 shallots, sliced lengthwise  

@@ -3,7 +3,7 @@ layout: post
 title: baked potato latkes
 date: 2020-12-06 07:34:46 -0500
 category: main
-tags: potatoes jewish vegetarian fried
+tags: potatoes jewish vegetarian fried nytimes
 ---
 
 4 russet potatoes  

@@ -4,6 +4,7 @@ title: Dairy-Free Waffles
 date: 2017-09-18 20:52:14 -0500
 category: dessert
 tags: bread dairyfree
+status: deprecated
 ---
 1 egg  
 1/4 tsp. vanilla  
