@@ -7,18 +7,18 @@ tags: british meat
 ---
 
 1 Tbsp. vegetable oil  
-1 onion, finely chopped
+1 onion, finely chopped  
 * saute onion in oil until tender
 
-2 lbs. [cumberland sausgage meat](XXX)  
+2 lbs. [cumberland sausgage meat]({{ site.baseurl }}{% post_url 1969-12-31-cumberland-sausage %})  
 2 eggs  
-salt and pepper
+salt and pepper  
 * combine sauted onions and all ingredients and mix well
 
-1 batch [croissant dough](XXX)
+1 batch [croissant dough]({{ site.baseurl }}{% post_url 2021-05-29-croissants %})  
 1 egg, beaten  
-* roll out dough to a 20x90cm (8x36") rectangle and cut into four
-  sections
+* roll out dough to a 20x65cm (8x25") rectangle and cut into four sections that are
+  approximatly 4x12" (10x30cm)
 * chill for 10 minutes
 * line each rectangle with sausage mixture, and brush the edges of the
   pastry with egg
