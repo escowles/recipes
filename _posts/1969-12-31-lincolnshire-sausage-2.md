@@ -7,11 +7,13 @@ tags: british meat pork
 ---
 1240 Cal (8x 155)
   
-2 Tbsp. bread crumbs  
+1/4 cup bread crumbs  
+2 tsp. sage  
 1 tsp. salt  
-1 tsp. pepper  
-1 tsp. sage  
+1 tsp. white pepper  
 1 lb. ground pork
 
  * Combine all ingredients and mix well.
  * Divide into 8 patties and fry over medium heat, approx. 5 minutes per side, until internal temp. is 160F.
+
+source: <https://www.meatsandsausages.com/sausage-recipes/fresh/uk/lincolnshire-traditional>
