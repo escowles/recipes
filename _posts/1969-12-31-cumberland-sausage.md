@@ -5,21 +5,27 @@ date: 1969-12-31 19:00:00 -0500
 category: main
 tags: british meat pork
 ---
-2 cups. bread crumbs  
-4 tsp. salt    
-2 tsp. sage  
-1 tsp. parsley  
-1 tsp. thyme  
-1 tsp. white pepper  
-3/4 tsp. coriander  
-3/4 tsp. nutmeg  
-1/2 tsp. black pepper  
-1/2 tsp. mace  
-1/2 tsp. brown sugar  
+1 cup bread crumbs  
+2 tsp. salt    
+1 tsp. sage  
+1/2 tsp. parsley  
+1/2 tsp. thyme  
+1/2 tsp. white pepper  
+1/4 tsp. coriander  
+1/4 tsp. nutmeg  
+1/4 tsp. brown sugar  
+1/4 tsp. black pepper  
+1/8 tsp. mace  
 1/8 tsp. cayenne or chipotle pepper  
-2.5 lb. ground pork shoulder  
+1 lb. ground pork shoulder  
 
 * mix bread crumbs and spices
 * mix into pork and form patties
 
 source: <https://www.rockrecipes.com/cumberland-sausage/>
+
+---
+
+2021-05-31: Used yesterday in sausage rolls. It was very tasty, but the nutmeg/mace
+in particular was too strong. Also realized that I only need 1 lb., so halving the
+recipe too.
