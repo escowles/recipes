@@ -14,7 +14,7 @@ tags: mint chocolate icecream
 2 cups heavy cream  
 1 cup whole milk  
 1 1/2 tsp. mint extract  
-12-14 oreos, crumbled
+10 oreos, crumbled
 * heat cream and milk over low heat until they reach 170°F
 * pour into egg mixture while mixing, then heat the mixture until it reaches 160°F
 * chill in an ice bath until reaching room temperature
