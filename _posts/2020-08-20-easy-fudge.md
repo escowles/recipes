@@ -10,7 +10,12 @@ tags: chocolate
 1 tsp. vanilla  
 
   * Heat up chocolate chips and sweetened condensed milk while stirring (either stovetop or microwave is ok), until chocolate is melted and mixed in.
-  * Add vanilla, stir until combined, and pour into dish lined with waxed paper.
+  * Remove from heat, add vanilla, stir until combined, and pour into dish lined with waxed paper.
   * Chill until solidified, then cut into cubes.
 
 Source: <https://chocolatechocolateandmore.com/3-minute-fudge/>
+
+---
+
+07/03/2021: peppermint variant:
+* add 1/2 tsp. peppermint extract and 2 crushed candy canes with the vanilla
