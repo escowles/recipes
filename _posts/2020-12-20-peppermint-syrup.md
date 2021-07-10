@@ -1,6 +1,6 @@
 ---
 layout: post
-title: peppermint-syrup
+title: peppermint syrup
 date: 2020-12-20 18:41:58 -0500
 category: ingredients
 tags: xmas drinks cocktails mint

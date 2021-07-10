@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chicken-korma
+title: chicken korma
 date: 2021-01-31 14:48:06 -0500
 category: main
 tags: indian chicken meat curry
