@@ -5,22 +5,16 @@ date: 2020-08-17 10:52:07 -0500
 category: dessert
 tags: icecream orange fruit
 ---
-1½ Tbsp. orange zest  
-2 cups orange juice (approx 2 lbs.)  
-1 Tbsp. lemon juice  
-7 oz. sugar  
-¼ tsp. salt  
-1 tsp. vanilla  
-1½ cups milk  
+1/2 cup heavy cream  
+1/3 cup sugar  
+* whip until cream thickens, then set aside
 
-  * Blend all ingredients in food processor until sugar is dissolved, about 1 minute
-  * Blend in milk and chill for 1 hour
-  * Process in ice cream maker following manufacturer's directions
+2 cups fresh-squeezed orange juice  
+1 Tbsp. orange zest  
+2/3 cup sugar  
+1/2 cup milk
+* mix juice, zest, and sugar together until sugar is dissolved
+* mix in milk, then fold in whipped cream
+* chill for an hour then freeze using ice cream maker
 
-Source: <https://www.foodnetwork.com/recipes/alton-brown/orange-sherbet-recipe-1945337>
-
----
-
-2020-08-17 10:53:49: First batch notes:
-* recipe too large for machine, need to reduce size
-* not as creamy as we'd like, should substitute in some cream
+source: <https://www.thespruceeats.com/orange-sherbet-recipe-1945803>
