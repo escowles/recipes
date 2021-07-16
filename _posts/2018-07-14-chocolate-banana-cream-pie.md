@@ -58,3 +58,8 @@ option (hard to work with dough, resulting in overthick crust, and the flavor's 
 great, either).  Would rather have an Oreo crust (see [Oreo Mini Cheesecakes]({{ site.baseurl }}{% post_url 2019-04-16-oreo-mini-cheesecakes %})).
 
 Also, we could do a traditional custard (like in [Berry Trifle]({{ site.baseurl }}{% post_url 1969-12-31-berry-trifle %})).
+
+2021-07-16: Used the [oreo crust]({{ site.base_url}}(% post_url 2021-07-12-oreo-pie-crust %}), and
+chilled with just the chocolate, bananas, and custard filling. Topped each piece with whipped cream
+and dusted with oreo crumbs. This is definitely better than the chocolate crust and topping the
+whole pie before cutting.
