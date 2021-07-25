@@ -9,7 +9,7 @@ tags: coffee drinks
 to make a full 6-cup chemex of coffee:
 
 * wet a cone filter and add to chemex
-* grind beans, volume=3.5, grind=finest setting in coarse category
+* grind 50g of beans at finest setting in coarse category
 * heat a kettle of water to 190°F and wet the grounds, then let sit for 5 minutes
 * pour a total of 1.5L (6 1/4 cups) of hot water, slowly to avoid disturbing the
   grounds
