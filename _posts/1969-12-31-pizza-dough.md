@@ -25,3 +25,13 @@ tags: bread italian barefootcontessa
 * Top and bake 10-15 minutes at 500F, until crusts are crisp and cheese begin to brown.
 
 Source: <http://www.barefootcontessa.com/recipes.aspx?RecipeID=296&S=0> 
+
+---
+
+07/26/21: adjusting for 3 pizzas:
+* 1.25 cups water
+* 1 tsp. yeast
+* 1.5 tsp. sugar
+* 1.5 Tbsp. olive oil
+* 2.25 cups flour
+* 1 tsp. salt
