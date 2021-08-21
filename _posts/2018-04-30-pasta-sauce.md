@@ -4,6 +4,7 @@ title: Pasta Sauce
 date: 2018-04-30 21:09:33 -0500
 category: ingredients
 tags: italian sauce tomato
+status: deprecated
 ---
 2 Tbsp. olive oil  
 ½ onion, diced  

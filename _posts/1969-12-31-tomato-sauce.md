@@ -4,6 +4,7 @@ title: Tomato Sauce
 date: 1969-12-31 19:00:00 -0500
 category: ingredients
 tags: sauce tomato italian
+status: deprecated
 ---
 330 Cal (4x 83)
 

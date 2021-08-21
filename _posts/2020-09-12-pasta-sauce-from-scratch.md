@@ -4,6 +4,7 @@ title: Pasta Sauce From Scratch
 date: 2020-09-12 20:58:25 -0500
 category: ingredients
 tags: italian sauce tomato
+status: deprecated
 ---
 2 lbs. fresh tomatoes  
 
