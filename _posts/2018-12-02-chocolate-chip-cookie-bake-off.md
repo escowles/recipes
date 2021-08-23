@@ -25,3 +25,27 @@ General Instructions
   * bake for specified time
   * rest on warm pans for 2 minutes, then remove to cooling rack
 
+---
+
+#2:
+
+3 cups (380g) flour  
+1 tsp. baking soda  
+1 tsp. salt  
+* mix and set aside
+
+1 cup (2 sticks) butter, softened  
+1/2 cup (100g) white sugar  
+1 1/4 cups (247g) brown sugar  
+2 tsp. vanilla  
+2 eggs  
+2 cups (340g) chocolate chips  
+* beat butter and sugars until creamy, about 2 minutes
+* add vanilla and eggs and mix until combined
+* slowly add flour mixture
+* stir in chocolate chips
+* drop in large balls (3 Tbsp.) onto baking sheets
+* bake at 350°F for 12-15 minutes
+* cool on baking sheets for 5 minutes before removing to cooling racks
+
+source: <https://www.handletheheat.com/bakery-style-chocolate-chip-cookies/>
