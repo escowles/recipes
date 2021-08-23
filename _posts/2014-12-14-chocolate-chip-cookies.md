@@ -4,6 +4,7 @@ title: Chocolate Chip Cookies (Cook's)
 date: 2014-12-14 08:04:09 -0500
 category: dessert
 tags:  chocolate cookies cooksillustrated
+status: deprecated
 ---
 13 Tbsp. butter, softened  
 1/2 cup turbinado sugar  

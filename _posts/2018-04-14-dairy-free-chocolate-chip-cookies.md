@@ -4,6 +4,7 @@ title: Dairy-Free Chocolate Chip Cookies
 date: 2018-04-14 13:50:55 -0500
 category: dessert
 tags: chocolate cookies
+status: deprecated
 ---
 3/4 cup canola oil  
 1/2 cup granulated sugar  

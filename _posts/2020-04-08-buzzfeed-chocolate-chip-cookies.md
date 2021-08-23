@@ -4,6 +4,7 @@ title: Buzzfeed Chocolate Chip Cookies
 date: 2020-04-08 14:21:54 -0500
 category: dessert
 tags: chocolate cookies
+status: deprecated
 ---
 1 cup all-purpose flour  
 1 cup bread flour  

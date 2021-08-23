@@ -4,6 +4,7 @@ title: Chocolate Chip Cookies
 date: 2017-05-28 19:24:21 -0500
 category: dessert
 tags: chocolate cookies
+status: deprecated
 ---
 ½ cup butter  
 ½ cup sugar  
