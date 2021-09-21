@@ -31,8 +31,8 @@ tags: meat crust latin
   about 3 minutes
 
 1/2 white onion, diced  
-1 poblano pepper, seeded and diced
-3 cloved, minced  
+1 poblano pepper, seeded and diced  
+3 cloves garlic, minced  
 1 1/2 tsp. salt  
 1/2 tsp. pepper  
 * add to skillet and saute until softened, about 5 minutes
