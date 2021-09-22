@@ -13,17 +13,18 @@ tags: candy caramel
 90g butter  
 1 tsp. vanilla  
 1/2 tsp. salt  
-* heat sugar over medium heat, stirring occasionally until it melts and darkens
-* heat cream until steaming then pour into melted sugar and stir well
+* heat sugar over medium heat, stirring occasionally until it melts and darkens, and reaches 347°F
+* heat cream until steaming then remove sugar from heat and pour in cream (it will steam a lot)
+* stir until combined, then stir occasionally and bring to 250°F
 * remove from heat and add butter and mix until combined
 * add vanilla and salt then pour into square pan lined with parchment paper
 * let cool at room temperature until firm, 2-3 hours
 
 **nougat:**
 
-1 cup raw peanuts  
-1/2 cup sugar  
-1/2 cup honey  
+1 cup peanuts  
+3/4 cup sugar  
+1/4 cup honey  
 2 Tbsp. water  
 1 egg white, room temperature  
 1/4 tsp. salt  
