@@ -3,7 +3,7 @@ layout: post
 title: Crockpot Kung Pao Chicken
 date: 2020-07-18 11:45:57 -0500
 category: main
-tags: asian chicken chinese slowcooker meat peanutbutter
+tags: asian chicken chinese crockpot meat peanutbutter
 ---
 2 Tbsp. canola oil  
 1-1¼ lbs. boneless skinless chicken breast  

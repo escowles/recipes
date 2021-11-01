@@ -14,14 +14,14 @@ tags: soap teatree
 
 Check exact recipe at http://soapcalc.net/calc/soapcalcwp.asp
 
-* Measure oils into slow cooker and heat on low heat.
+* Measure oils into crockpot and heat on low heat.
 * Measure water in heat-proof mixing bowl.
 * Wearing gloves and safety goggles in a well-ventilated area:  
   * Measure lye in a separate container and slowly add to water.
   * Stir carefully with heat-proof spoon.
   * Lye mixture will be cloudy and heat to 200°F.
   * Let mixture cool 10 minutes.
-* When oils are 120-130°F, slowly add lye mixture to oils in slow cooker.
+* When oils are 120-130°F, slowly add lye mixture to oils in crockpot.
 * Rinse all lye tools and containers with water and neutralize with vinegar.
 * Mix lye mixture into oils and then blend with stick blender 4-5 minutes, until mixture is opaque and starting to thicken.
 * Cover and heat on low heat for 30-60 minutes, until thickened and bubbling over the entire surface.

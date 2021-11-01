@@ -3,7 +3,7 @@ layout: post
 title: Dairy-Free Crockpot Butter Chicken
 date: 2018-02-18 15:35:57 -0500
 category: main
-tags: chicken dairyfree indian slowcooker meat asian
+tags: chicken dairyfree indian crockpot meat asian
 ---
 2 Tbsp. coconut oil  
 1/2 onion, chopped  
@@ -26,7 +26,7 @@ tags: chicken dairyfree indian slowcooker meat asian
 
   * Sauté onion and garlic in coconut oil 5 minutes
   * Add spices and saute an additional 2 minutes
-  * Transfer to slow cooker and add chicken, coconut milk, tomato sauce and cinnamon stick
+  * Transfer to crockpot and add chicken, coconut milk, tomato sauce and cinnamon stick
   * Cook on high for 3 hours or low for 6 hours
   * Add green beans when there is 1 hour left
   * Serve over rice and garnish with cilantro

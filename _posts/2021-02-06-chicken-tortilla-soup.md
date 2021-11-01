@@ -3,7 +3,7 @@ layout: post
 title: chicken tortilla soup
 date: 2021-02-06 08:42:07 -0500
 category: main
-tags: chicken meat soup mexican slowcooker
+tags: chicken meat soup mexican crockpot
 ---
 
 1 lb. boneless skinless chicken breasts  
@@ -18,7 +18,7 @@ tags: chicken meat soup mexican slowcooker
 1 tbsp. chili powder  
 1 tsp. kosher salt  
 2 cups low-sodium chicken broth  
-* combine in a large slow cooker, and cook on low until chicken is cooked and falling apart, 5 to 6 hours.
+* combine in a large crockpot, and cook on low until chicken is cooked and falling apart, 5 to 6 hours.
 * shred chicken with a fork, and stir back into soup
 
 1 cup shredded Monterey jack  

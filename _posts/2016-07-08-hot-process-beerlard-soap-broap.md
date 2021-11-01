@@ -14,7 +14,7 @@ tags: soap
 
   * Pour beer into a jar and cover.  Shake vigorously and release pressure.  Will not stop foaming (because of proteins, but need to get all carbonation out of the beer.
   * Add lye to beer in heatproof container, following usual lye safety protocol.
-  * Add lard and oils to slow cooker on low heat and melt.
+  * Add lard and oils to crockpot on low heat and melt.
   * Slowly pour the lye mixture into the oils and stir until combined.
   * Mix with a stick blender until the soap is thick and opaque.
   * Cook on low for 30-60 minutes, stirring occasionally, until the soap bubbles up over the entire surface.
