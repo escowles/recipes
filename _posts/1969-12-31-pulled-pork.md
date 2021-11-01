@@ -21,6 +21,6 @@ tags: meat mexican pork
  * Remove from heat and allow to cool for several hours (can be refrigerated overnight).
  * Drain pork and pull apart.
 
-Source: http://www.flotation9.net/sweetfineday/2008/08/25/my-favorite-pulled-pork/  
+Source: <http://www.flotation9.net/sweetfineday/2008/08/25/my-favorite-pulled-pork/>
   
 See also [Crockpot Carnitas]({{ site.baseurl }}{% post_url 2014-09-02-crockpot-carnitas %})
