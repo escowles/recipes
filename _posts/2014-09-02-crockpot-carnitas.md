@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Slow Cooker Carnitas
+title: Crockpot Carnitas
 date: 2014-09-02 07:51:22 -0500
 category: main
-tags: meat mexican pork slowcooker
+tags: meat mexican pork crockpot
 ---
 2-3 lbs. boneless pork shoulder roast  
 salt and pepper to taste  
@@ -18,7 +18,7 @@ juice from 2 limes
  * Cube pork roast and toss with oil and spices until coated
  * Add vegetables and lime juice
  * (Optional) marinate overnight
- * Cook in slow cooker: 4 hours (high) or 8-10 hours (low)
+ * Cook in crockpot: 4 hours (high) or 8-10 hours (low)
  * Remove pork chunks to a frying pan with slotted spoon
  * Remove cilantro and pull pork chunks with fork or chopsticks
  * Fry on medium heat until nicely browned

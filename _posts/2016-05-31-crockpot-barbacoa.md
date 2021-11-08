@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Slow cooker barbacoa
+title: crockpot barbacoa
 date: 2016-05-31 22:45:28 -0500
 category: main
-tags: meat mexican slowcooker
+tags: meat mexican crockpot
 ---
 2½ lb. chuck roast, cut into 2" chunks  
 3 cloves garlic, minced  
@@ -23,7 +23,7 @@ tags: meat mexican slowcooker
 ¼ tsp. ground cloves  
 ½ cup beef broth or water  
 
-* Combine with marinated meat in slow cooker.
+* Combine with marinated meat in crockpot.
 * Cook for 6-8 hours on low,or 3-4 hours on high.
 * Shred and serve.
 
