@@ -101,3 +101,12 @@ and 1kg fat).
 * 550g lard
 * 225g olive oil
 * 225g coconut oil
+
+2021-11-14: fall batch
+* 475g water
+* 176g lye
+* 750g lard
+* 250g coconut oil
+* 250g olive oil
+* 38g sandalwood oil
+yield: 1720g
