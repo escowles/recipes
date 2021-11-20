@@ -17,7 +17,8 @@ Brine:
 
 Roast:
   
-1 brined chicken1 Tbsp. olive oil  
+1 brined chicken  
+1 Tbsp. olive oil  
 1 tsp. salt  
 1 tsp. pepper  
 1 tsp. rosemary  
