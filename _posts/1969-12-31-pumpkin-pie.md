@@ -30,3 +30,6 @@ Source: <http://www.pumpkinpatchesandmore.org/pumpkinpie.php>
 ---
 
 2017-09-22 11:03:17: Dairy free: substitute coconut milk for milk.
+
+2021-11-20: mini pies: bake at 400°F for 10 minutes, then reduce heat to 325°F and
+bake for another 10 minutes.
