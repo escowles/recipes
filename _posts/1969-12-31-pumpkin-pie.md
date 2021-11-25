@@ -31,5 +31,9 @@ Source: <http://www.pumpkinpatchesandmore.org/pumpkinpie.php>
 
 2017-09-22 11:03:17: Dairy free: substitute coconut milk for milk.
 
-2021-11-20: mini pies: bake at 400°F for 10 minutes, then reduce heat to 325°F and
-bake for another 10 minutes.
+2021-11-20: mini pies:
+* Scale down recipe to 2/3
+* Make 1.5 pie crusts and cut into 4.5" circles to line muffin pan wells
+* Bake at 400°F for 10 minutes, then reduce heat to 325°F and
+  bake for another 20-25 minutes, until a knife comes out clean.
+* Makes 12 mini pies
