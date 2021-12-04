@@ -8,18 +8,19 @@ tags: bread pumpkin
 1 cup pumpkin puree  
 6 Tbsp. butter, softened  
 1 egg  
-½ tsp. nutmeg  
-½ tsp. cinnamon  
-½ tsp. cloves  
+* Combine and mix thoroughly.
+* If the pumpkin is cold and the butter doesn't blend, heat gently until butter softens.
+
   
 1 cup flour  
-½ tsp. salt  
 1 cup sugar  
-1 tsp. baking soda  
-
-
-* Combine wet ingredients and mix thoroughly.
-* Mix dry ingredients and add to wet ingredients.
+½ tsp. salt  
+½ tsp. cinnamon  
+½ tsp. nutmeg  
+½ tsp. cloves  
+½ tsp. baking soda  
+¼ tsp. baking powder
+* Mix and add to wet ingredients.
 * Pour into greased and floured bread pan.
 * Bake at 325°F for 60-75 minutes, until toothpick comes out clean.
 * Turn out and cool on a rack.
