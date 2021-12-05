@@ -12,17 +12,23 @@ tags: bread pumpkin
 * If the pumpkin is cold and the butter doesn't blend, heat gently until butter softens.
 
   
-1 cup flour  
+1½ cup flour  
 1 cup sugar  
 ½ tsp. salt  
 ½ tsp. cinnamon  
 ½ tsp. nutmeg  
 ½ tsp. cloves  
-½ tsp. baking soda  
-¼ tsp. baking powder
+1½ tsp. baking powder
 * Mix and add to wet ingredients.
 * Pour into greased and floured bread pan.
 * Bake at 325°F for 60-75 minutes, until toothpick comes out clean.
 * Turn out and cool on a rack.
 
 Source: <https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html>
+
+---
+12/05/21: Made with 1 tsp. of baking soda, and it was good but very moist and too
+dense. Should probably try 1-2 tsp. of baking powder instead, since pumpkin is
+probably not acidic enough to fully activate baking soda. I also noticed that this
+recipe has a lower flour-to-liquids ratio than my trusty banana bread recipe, so
+upping flour to 1.5 cups would also be good.
