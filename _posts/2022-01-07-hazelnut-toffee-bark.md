@@ -21,5 +21,5 @@ tags: candy chocolate hazelnuts toffee
 * chop hazelnuts and set aside
 * melt chocolate in a double-boiler (or 30-second microwave bursts, stirring between each burst)
 * pour chocolate onto parchment-lined baking sheet and spread evenly
-* sprinkle toffee and hazelnut chunks over chocolate and press into the chocolate
+* sprinkle toffee and hazelnut chunks over chocolate and press in to embed in the chocolate
 * let cool to room temperature then break into chunks
