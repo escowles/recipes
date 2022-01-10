@@ -17,7 +17,7 @@ tags: candy chocolate hazelnuts toffee
 * break into small pieces
 
 1/2 cup [hazelnuts, toasted and peeled]({{ site.baseurl }}{% post_url 2015-02-06-hazelnut-praline %})  
-12 oz. chocolate chips  
+24 oz. chocolate chips  
 * chop hazelnuts and set aside
 * melt chocolate in a double-boiler (or 30-second microwave bursts, stirring between each burst)
 * pour chocolate onto parchment-lined baking sheet and spread evenly
