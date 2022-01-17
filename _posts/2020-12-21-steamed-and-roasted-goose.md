@@ -30,7 +30,7 @@ salt and pepper
 1/4 cup water  
 * bring goose to room temperature
 * mix all ingredients to make a basting sauce
-* roast goose breast side up for 1 hour, basting occasionally with sauce
+* roast goose breast side up for 1 hour at 350°F, basting occasionally with sauce
 * flip goose and continue roasting and basting, until thigh temperature reaches 170°F.
 * remove goose, tent with foil, and rest 20 minutes
 
