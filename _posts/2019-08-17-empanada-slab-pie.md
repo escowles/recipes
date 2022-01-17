@@ -6,8 +6,8 @@ category: main
 tags: beef cuban pie meat creamcheese dairy piesquared
 ---
 
-dough: [Cream Cheese Pie Crust]({{ site.baseurl }}{% post_url 2019-08-17-cream-cheese-pie-crust %})
-filling: double batch of [Empanada filling]({{ site.baseurl }}{% post_url 2021-09-08-empanadas %})
+dough: [Cream Cheese Pie Crust]({{ site.baseurl }}{% post_url 2019-08-17-cream-cheese-pie-crust %})  
+filling: double batch of [Empanada filling]({{ site.baseurl }}{% post_url 2021-09-08-empanadas %})  
 * I typically make a few changes because it's a larger batch, such as using one apple and one
   potato (not two potatoes) and adding some Worcestershire sauce instead of just doubling the
   soy sauce, etc.
