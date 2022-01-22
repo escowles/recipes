@@ -27,8 +27,9 @@ tags: cuban latin meat chicken instantpot
 2 tsp. oregano  
 2 tsp. paprika  
 2 tsp. cumin  
-1 tsp. chipotle powder  
 2 tsp. salt  
+1 tsp. chipotle powder  
+1/2 tsp. annatto powder  
 1/2 tsp. red pepper flakes  
 14 1/2 oz. can diced tomatoes  
 1 cup white rice
