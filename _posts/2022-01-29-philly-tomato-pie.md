@@ -3,7 +3,7 @@ layout: post
 title: philly tomato pie
 date: 2022-01-29 19:28:00 -0500
 category: main
-tags: pizza philadelphia
+tags: pizza philadelphia italian
 ---
 
 **dough:**
