@@ -6,7 +6,15 @@ category: other
 tags: drinks cocktails alcohol tequila mexican
 ---
 
-**The Tequila-Forward (voted best in blind tasting):**
+double jigger reposado tequila  
+single jigger cointreau  
+single jigger simple syrup  
+juice from whole lime  
+* shake over ice and strain into salt-rimmed glass
+
+---
+The Tequila-Forward (voted best in 538 blind tasting):
+
 1 1/2 oz. tequila  
 1/4 oz. orange liqueur  
 3/4 oz. lime juice  
@@ -15,8 +23,6 @@ tags: drinks cocktails alcohol tequila mexican
 * strain into coupe
 
 source: <https://fivethirtyeight.com/videos/we-got-drunk-on-margaritas-for-science/>
-
----
 
 liquor.com recipe:
 
