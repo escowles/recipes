@@ -31,7 +31,7 @@ tags: bread breakfast cinnamon
 * mix brown sugar and cinnamon and sprinkle over buttered dough
 * roll into a tight roll and slice into 9 or 12 rolls
 * put rolls in buttered pan, cover, and let rise for 30-60 minutes
-* bake at 400°F for 20 minutes, then cool in pan for 15 minutes
+* bake at 350°F for 20-25 minutes, until lightly golden, then cool in pan for 15 minutes
 
 **icing:**
 
