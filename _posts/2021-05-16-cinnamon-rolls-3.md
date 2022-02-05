@@ -10,7 +10,7 @@ tags: bread breakfast cinnamon
 
 200ml (6 3/4 oz.) milk  
 50g (3 1/2 Tbsp.) butter  
-500g (3 2/3 cups) bread flour  
+500g (3 2/3 cups) flour  
 75g (6 Tbsp.) sugar  
 1 tsp. salt  
 1 tsp. cinnamon  
@@ -31,6 +31,7 @@ tags: bread breakfast cinnamon
 * mix brown sugar and cinnamon and sprinkle over buttered dough
 * roll into a tight roll and slice into 9 or 12 rolls
 * put rolls in buttered pan, cover, and let rise for 30-60 minutes
+* optional: refrigerate overnight before rising, and warm up in a 130°F oven in the morning
 * bake at 350°F for 20-25 minutes, until lightly golden, then cool in pan for 15 minutes
 
 **icing:**
