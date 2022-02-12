@@ -3,7 +3,7 @@ layout: post
 title: Doughnuts
 date: 2016-03-11 15:06:21 -0500
 category: sides
-tags: bread breakfast fried
+tags: bread breakfast doughnuts fried
 ---
 1/2 cup milk  
 2 tsp. dry yeast  
