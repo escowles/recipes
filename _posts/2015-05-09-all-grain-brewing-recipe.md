@@ -51,3 +51,22 @@ tags: beer homebrew alcohol
 * Siphon beer to sterile bottles and cap.  Let sit at room temperature for 2 weeks to carbonate.
 
 Source: <http://www.homebrewing.org/All-Grain-Homebrewing_ep_47-1.html>
+
+---
+
+### 2/13/2022 brew day schedule
+batch: Black is Beautiful (~16 lbs. mash)  
+kettle: 9 gal digiboil (110v/1500w)  
+other: all-gravity transfers, passive chilling in bathtub  
+* 6am: wake up have breakfast
+* 8am: gather equipment
+* 9am: start heating mash water
+* 10am: mash in
+* 11am: start fly-sparging and collecting wort
+* 12:15pm: flame on
+* 1pm: boil
+* 2pm: flame out
+* 4pm: main cleanup done, bitter wort chilling
+* 10pm: bitter wort room temp, pitch yeast
+
+summary: 1 hour prep, 5 hours active, 2 hours cleanup, 6 hours chilling
