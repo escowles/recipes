@@ -4,6 +4,7 @@ title: Chana Masala
 date: 2017-07-07 20:15:22 -0500
 category: main
 tags: chicken curry indian meat asian chickpeas
+status: deprecated
 ---
 6 cloves garlic, minced  
 2 Tbsp. fresh ginger, grated  
