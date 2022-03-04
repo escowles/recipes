@@ -8,4 +8,4 @@ group :jekyll_plugins do
 end
 
 gem "kramdown", "~> 2.3.1"
-gem "nokogiri", "~> 1.12.5"
+gem "nokogiri", "~> 1.13.2"
