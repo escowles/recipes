@@ -3,7 +3,7 @@ layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
 category: main
-tags: meat mexican crockpot beans
+tags: meat mexican crockpot beans beef
 ---
 1,560 Cal (6x 260)
   

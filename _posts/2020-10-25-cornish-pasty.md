@@ -3,7 +3,7 @@ layout: post
 title: Cornish Pasty
 date: 2020-10-25 11:42:04 -0500
 category: main
-tags: british meat pie
+tags: british meat pie beef
 ---
 1 cup flour  
 1/4 tsp. salt  
