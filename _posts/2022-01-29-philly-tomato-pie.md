@@ -22,11 +22,11 @@ tags: pizza philadelphia italian
 
 1/4 cup olive oil  
 1/4 cup butter  
-1 onion, diced
+1 onion, diced  
 8 cloves garlic, minced  
 2 tsp. oregano  
-2 tsp. parsley
-2 tsp. basil
+2 tsp. parsley  
+2 tsp. basil  
 1 tsp. red pepper flakes  
 2 28 oz. cans whole peeled tomatoes, pureed in blender  
 2 Tbsp. sugar  
