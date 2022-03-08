@@ -28,3 +28,9 @@ food coloring (4 drops yellow, 2 drops red)
 * dip each egg into chocolate, place waxed paper, and chill until firm (1-2 hours)
 
 source: <https://www.justapinch.com/recipes/dessert/candy/copy-cat-cadbury-creme-eggs.html>
+
+---
+
+03/07/2022: Making a half batch yielded a 24 one inch balls. A half batch of chocolate was plenty
+to coat them once. Other recipes say to dip twice, and I think that would get closer to the
+original's chocolate-to-filling ratio.
