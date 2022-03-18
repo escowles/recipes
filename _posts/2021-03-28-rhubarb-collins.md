@@ -3,7 +3,7 @@ layout: post
 title: rhubarb collins
 date: 2021-03-28 17:32:38 -0400
 category: other
-tags: rhubarb gin cocktails alcohol
+tags: rhubarb gin cocktails alcohol drinks
 ---
 
 double jigger (2 oz.) gin  
