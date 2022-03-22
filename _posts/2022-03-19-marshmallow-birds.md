@@ -3,37 +3,31 @@ layout: post
 title: marshmallow birds
 date: 2022-03-19 14:19:54 -0400
 category: dessert
-tags: marshmallow easter
+tags: marshmallow easter marthastewart
 ---
 
 **colored sugar:**
 
-3 cups sugar  
-gel food coloring  
+1 cup sugar  
+4 drops food coloring  
 * mix in food processor until combined
 * spread on baking sheet and bake on lowest setting for 10 minutes stirring
   every few minutes
 
 **marshmallow base:**
 
-1/2 cup cold water  
-21g (3 packets) powdered gelatin  
-* mix in small bowl and set aside for 10 minutes
+1/3 cup cold water  
+7g (1 packet) powdered gelatin  
+* sprinkle gelatin over water in mixing bowl
 
-1/2 cup water  
-2 cups sugar  
-1/2 cup corn syrup  
-1/4 tsp. salt  
-2 egg whites, room temperature  
-2 tsp. vanilla  
-* mix water, sugar, corn syrup and salt in a saucepan until sugar dissolves
+1/4 cup water  
+1 cups sugar  
+1/2 tsp. vanilla  
+* stir water and sugar while heating until sugar is dissolved
 * brush sides of pot with a wet pastry brush to remove sugar crystals
-* cook without stirring until thermometer reaches 260°F.
-* when the sugar mixture reaches 245°F, begin beating the egg whites on medium 
-* microwave gelatin mixture for 20 seconds
-* remove sugar mixture from the heat and stir in gelatin mixture (it will bubble up)
-* reduce mixer speed to low and pour sugar mixture into the mixer very slowly
-* raise mixer speed to medium until mixture is thick and shiny, about 8-10 minutes
+* cook without stirring until thermometer reaches 238°F.
+* pour sugar into gelatin mixture and mix on low speed until combined and frothy
+* increase mixer speed to medium-high and mix until thick and shiny, about 10 minutes
 * add vanilla and mix for 20 seconds
 
 **assembly:**
@@ -48,4 +42,10 @@ black gel food coloring
 * use a toothpick to make eyes with the black food coloring
 
 source: <https://ashleemarie.com/homemade-peeps-marshmallow-recipe-video-tutorial/>
-and The Sweet Book of Candy Making, p. 113-114.
+and <https://www.marthastewart.com/1141390/marshmallow-piping>
+
+**note:** i tried the marshmallow recipe from the first link, and it did not set,
+even after waiting an hour (i piped the peeps out and they immediately collapsed
+into pools of goo). but the recipe lacks even the basics of candy-making (no real
+times or temperatures), so maybe some small change to what i did would fix it. the
+martha stewart recipe works perfectly.
