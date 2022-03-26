@@ -17,8 +17,10 @@ layout: default
     {% for post in sorted_posts %}
       <li class="taglink"><a href="{{ post.url | relative_url }}">
         {% if post.status == "deprecated" %}<s>{% endif %}
+        {% if post.status == "draft" %}<i>{% endif %}
           {{ post.title }}
         {% if post.status == "deprecated" %}</s>{% endif %}
+        {% if post.status == "draft" %}</i>{% endif %}
       </a></li>
     {% endfor %}
     </ul>

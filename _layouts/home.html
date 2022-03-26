@@ -17,7 +17,9 @@ layout: default
         <li class="home-link">
           {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
           <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {% if post.status == "draft" %}<i>{% endif %}
+              {{ post.title | escape }}
+            {% if post.status == "draft" %}</i>{% endif %}
           </a>
           <span class="home-meta">{{ post.date | date: date_format }}</span>
           {%- if site.show_excerpts -%}
