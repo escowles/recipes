@@ -2,7 +2,7 @@
 layout: post
 title: Fettucine Alfredo
 date: 1969-12-31 19:00:00 -0500
-category: ingredients
+category: main
 tags: sauce italian dairy cheese cooksillustrated
 ---
 3 Tbsp. butter  
@@ -22,3 +22,7 @@ pinch nutmeg
 * add pasta water as needed if sauce is too thick
 
 source: Cook's Illustrated, p. 165.
+
+---
+
+02/23/2021: Replacing deeply-flawed old recipe with solid recipe from Cook's.
