@@ -11,7 +11,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         created: {{ page.date | date: date_format }}
         |
-        modified: {{ page.last_modified_at }}
+        modified: {{ page.last_modified_at | date: date_format }}
       </time>
       {% comment %} changes start {% endcomment %}
       {% if page.status %}
