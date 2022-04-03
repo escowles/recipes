@@ -9,7 +9,9 @@ layout: default
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        created: {{ page.date | date: date_format }}
+        |
+        modified: {{ page.last_modified_at }}
       </time>
       {% comment %} changes start {% endcomment %}
       {% if page.status %}

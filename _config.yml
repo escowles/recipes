@@ -29,6 +29,7 @@ url: "https://escowles.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
   - jekyll-sitemap
 
 # Exclude from processing.
