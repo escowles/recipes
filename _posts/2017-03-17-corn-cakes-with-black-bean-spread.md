@@ -7,7 +7,7 @@ tags: latin mexican vegetarian corn beans cheese dairy
 ---
 1 cup masa  
 1/2 tsp. salt  
-3/4 cup plus 2 Tbsp. warm water  
+3/4 cup plus 2 Tbsp. (215ml) warm water  
 1 cup roasted corn kernels  
 1 Tbsp. olive oil  
 
