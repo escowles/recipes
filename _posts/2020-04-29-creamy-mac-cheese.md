@@ -4,6 +4,7 @@ title: Creamy Mac & Cheese
 date: 2020-04-29 10:54:01 -0500
 category: main
 tags: cheese dairy pasta southern vegetarian
+status: deprecated
 ---
 1 lb. pasta  
 5 Tbsp. butter  

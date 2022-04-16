@@ -18,10 +18,14 @@ tags: dairy southern vegetarian cheese
 ½ cup breadcrumbs or crumbled crackers  
 
 * Preheat oven to 350F.
-* Cook macaroni until almost done. Drain and set aside.
-* Melt butter in large skillet and stir in flour. Pour in milk a little at a time, stirring constantly until the sauce boils and thickens.
-* Remove sauce from heat. Add spices and cheese to sauce. Stir until cheese is melted.
-* Combine macaroni and cheese sauce and add to a greased 9x12 (3-quart) casserole dish. Top with breadcrumbs or crumbled crackers, if desired.
+* Cook macaroni according to package directions (or one minute less, if baking).
+  Drain and set aside.
+* While pasta is cooking, melt butter in large skillet over medium heat.
+* Stir in flour and cook for one minute.
+* Pour in milk a little at a time, stirring constantly until the milk is incorporated
+  and the sauce is smooth.
+* Continue cooking until the sauce boils and thickens.
+* Remove sauce from heat, and add spices and cheese. Stir until cheese is melted.
+* Combine macaroni and cheese sauce and stir to combine.
+* To bake, add to a greased 9x12 (3-quart) casserole dish and top with breadcrumbs or crumbled crackers, if desired.
 * Bake 20 minutes, until hot and bubbling.
-
-See also [Macaroni and Cheese]({{ site.baseurl }}{% post_url 1969-12-31-macaroni-cheese %}).

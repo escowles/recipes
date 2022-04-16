@@ -4,6 +4,7 @@ title: One-Pot Mac & Cheese
 date: 2017-10-21 17:22:40 -0500
 category: main
 tags: cheese pasta vegetarian southern dairy
+status: deprecated
 ---
 1 lb. pasta  
 2/3 cup cream  

@@ -4,6 +4,7 @@ title: creamy mac and cheese
 date: 2021-11-07 19:35:47 -0500
 category: main
 tags: pasta cheese nytimes
+status: deprecated
 ---
 
 1 lb. pasta
