@@ -2,7 +2,7 @@
 layout: post
 title: White Cake
 date: 2020-07-04 10:11:18 -0500
-last_modified_at: 2022-05-08 15:21:21 -0400
+last_modified_at: 2022-05-08 15:24:41 -0400
 category: dessert
 tags: cake
 ---
@@ -34,4 +34,4 @@ source: <https://sugargeekshow.com/recipe/white-cake-recipe/>
 
 **note**:
 this works well in [trifle]({{ site.baseurl }}{% post_url 1969-12-31-berry-trifle %})
-and you use the spare egg yolks to make the custard.
+and you can use the spare egg yolks to make the custard.
