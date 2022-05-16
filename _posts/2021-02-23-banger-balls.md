@@ -11,19 +11,18 @@ tags: meat pork british foodlab
 * spread on baking sheet and bake at 300°F for 10 minutes
 * remove from oven and let cool completely on baking sheet
 
-2 lbs. ground pork
-1/2 cup bread crumbs from above
+2 lbs. ground pork  
+1/2 cup bread crumbs from above  
 1/2 cup cold water  
-1 1/4 tablespoons salt  
+1 Tbsp. salt  
 1 1/2 tsp. white pepper  
 1 tsp. fresh sage  
 1 tsp. onion powder  
 1/2 tsp. ginger  
 1/2 tsp. mace  
 1/2 tsp. nutmeg  
-* combine all ingredients in stand mixer bowl
-* mix for 3-4 minutes until thoroughly mixed, adding more cold water if needed to blend well
-* shape into 35g balls and chill for 2 hours
+* combine all ingredients and mix well
+* shape into 30g balls and chill for 2 hours
 * bake at 350°F for 30 minutes
 
 source: <https://www.daringgourmet.com/homemade-british-bangers/> and food lab p. 504
