@@ -10,4 +10,4 @@ end
 
 gem "commonmarker", ">= 0.23.4"
 gem "kramdown", "~> 2.3.1"
-gem "nokogiri", ">= 1.13.4"
+gem "nokogiri", ">= 1.13.6"
