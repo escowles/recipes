@@ -1,0 +1,36 @@
+---
+layout: post
+title: black bean burgers
+date: 2022-06-06 14:01:12 -0400
+last_modified_at: 
+category: main
+tags: beans burgers
+status: draft
+---
+
+2 cans black beans, drained and dried  
+* spread on a baking sheet and bake at 325°F for 15 minutes
+
+1 Tbsp. olive oil  
+1 poblano pepper, chopped  
+1/2 onion, chopped  
+3 cloves garlic, sliced  
+* saute vegetables in oil for 5 minutes
+
+1 1/2 tsp. cumin  
+1 tsp. chili powder  
+1/2 tsp. garlic powder  
+1/4 tsp. paprika  
+1/2 cup bread crumbs  
+1/2 cup feta cheese  
+2 eggs  
+1 Tbsp. worcestershire sauce  
+2 Tbsp. ketchup or bbq sauce  
+1/4 tsp. salt  
+1/4 tsp. pepper  
+* add all ingredients to food processor with sautee vegetables and pulse
+* add black beans and pulse, leaving some larger chunks
+* form into patties using about 1/3 cup per patty
+* bake at 375°F for 10 minutes per side, or grill for 8 minutes per side
+
+source: <https://sallysbakingaddiction.com/best-black-bean-burgers/>
