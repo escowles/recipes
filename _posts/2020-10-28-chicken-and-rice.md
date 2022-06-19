@@ -2,6 +2,7 @@
 layout: post
 title: Chicken and Rice
 date: 2020-10-28 16:42:12 -0500
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: main
 tags:  chicken rice meat
 ---

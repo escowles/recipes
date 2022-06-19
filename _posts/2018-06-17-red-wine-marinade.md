@@ -2,6 +2,7 @@
 layout: post
 title: Red Wine Marinade
 date: 2018-06-17 12:51:08 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: ingredients
 tags: marinade beef steak alcohol
 ---

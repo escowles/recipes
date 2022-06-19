@@ -2,6 +2,7 @@
 layout: post
 title: "#31 colonial stout"
 date: 2018-07-29
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: other
 tags: drinks alcohol homebrew ale stout beer
 ---

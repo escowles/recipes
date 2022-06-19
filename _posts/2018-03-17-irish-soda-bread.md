@@ -2,6 +2,7 @@
 layout: post
 title: Irish Soda Bread
 date: 2018-03-17 23:24:55 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: sides
 tags: bread dairyfree irish
 status: deprecated

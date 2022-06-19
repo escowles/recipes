@@ -2,6 +2,7 @@
 layout: post
 title: "#25 opposition stout"
 date: 2016-09-03
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: other
 tags: drinks alcohol homebrew ale stout beer
 ---

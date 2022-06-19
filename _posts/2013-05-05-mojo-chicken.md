@@ -2,6 +2,7 @@
 layout: post
 title: Mojo Chicken
 date: 2013-05-05 08:35:13 -0500
+last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: chicken meat mexican
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: brisket marinade
 date: 2015-08-22 09:50:57 -0500
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: ingredients
 tags: bbq brisket marinade sauce southern
 ---

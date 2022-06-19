@@ -2,6 +2,7 @@
 layout: post
 title: "#19 westmalle dubbel #2"
 date: 2014-10-26
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: other
 tags: drinks alcohol homebrew ale belgian dubbel abbey secondrunnings beer
 ---

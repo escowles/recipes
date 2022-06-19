@@ -2,6 +2,7 @@
 layout: post
 title: Chana Masala
 date: 2017-07-07 20:15:22 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: main
 tags: chicken curry indian meat asian chickpeas
 status: deprecated

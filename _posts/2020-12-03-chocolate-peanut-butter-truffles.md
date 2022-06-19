@@ -2,6 +2,7 @@
 layout: post
 title: chocolate peanut butter truffles
 date: 2020-12-03 12:41:19 -0500
+last_modified_at: 2022-06-19 10:11:20 -0400
 category: dessert
 tags: chocolate peanutbutter candy
 ---

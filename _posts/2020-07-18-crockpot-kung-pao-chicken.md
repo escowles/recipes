@@ -2,6 +2,7 @@
 layout: post
 title: Crockpot Kung Pao Chicken
 date: 2020-07-18 11:45:57 -0500
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: main
 tags: asian chicken chinese crockpot meat peanutbutter
 ---

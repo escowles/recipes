@@ -2,6 +2,7 @@
 layout: post
 title: "#34 isolated ipa"
 date: 2020-04-23
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: other
 tags: drinks alcohol homebrew ale ipa beer
 ---

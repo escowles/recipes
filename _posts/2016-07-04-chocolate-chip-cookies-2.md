@@ -2,6 +2,7 @@
 layout: post
 title: Chocolate Chip Cookies 2
 date: 2016-07-04 13:03:28 -0500
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: dessert
 tags: chocolate cookies
 status: deprecated

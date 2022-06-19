@@ -2,6 +2,7 @@
 layout: post
 title:  "#26 Wild Fruit Beer / Wild The Fruit (W.T.F.)"
 date: 2016-12-05 01:42:25 -0500
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: other
 tags: drinks alcohol beer fruit wild homebrew
 ---

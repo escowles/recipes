@@ -2,6 +2,7 @@
 layout: post
 title: Boiled Scrambled Eggs
 date: 2017-09-14 14:35:08 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: sides
 tags: breakfast egg
 status: deprecated

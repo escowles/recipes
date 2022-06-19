@@ -2,6 +2,7 @@
 layout: post
 title: "#27 the trouble with tripels"
 date: 2017-01-15
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: other
 tags: drinks alcohol homebrew ale belgian tripel abbey beer
 ---

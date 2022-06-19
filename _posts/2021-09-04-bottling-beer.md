@@ -2,6 +2,7 @@
 layout: post
 title: bottling beer
 date: 2021-09-04 16:00:18 -0400
+last_modified_at: 2022-06-19 10:11:20 -0400
 category: other
 tags: alcohol beer homebrew
 ---

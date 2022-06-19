@@ -2,6 +2,7 @@
 layout: post
 title: salmon sous vide
 date: 2020-12-27 18:48:35 -0500
+last_modified_at: 2022-06-19 10:11:20 -0400
 category: main
 tags: asian meat fish salmon sous-vide
 ---
