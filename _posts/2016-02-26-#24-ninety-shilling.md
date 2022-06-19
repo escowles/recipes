@@ -2,6 +2,7 @@
 layout: post
 title: "#24 ninety shilling"
 date: 2016-02-26
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: other
 tags: drinks alcohol homebrew ale scottish secondrunnings beer
 ---

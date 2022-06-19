@@ -2,6 +2,7 @@
 layout: post
 title: Chocolate Chip Cookies (Cook's)
 date: 2014-12-14 08:04:09 -0500
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: dessert
 tags:  chocolate cookies cooksillustrated
 status: deprecated

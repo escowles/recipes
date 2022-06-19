@@ -2,6 +2,7 @@
 layout: post
 title: "Hushpuppies #2"
 date: 2017-08-29 18:06:04 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: sides
 tags: bread southern appetizer fried
 ---

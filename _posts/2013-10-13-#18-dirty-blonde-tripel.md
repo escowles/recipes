@@ -2,6 +2,7 @@
 layout: post
 title: "#18 dirty blonde tripel"
 date: 2013-10-13
+last_modified_at: 2022-06-19 10:11:16 -0400
 category: other
 tags: drinks alcohol homebrew ale belgian tripel abbey beer
 ---

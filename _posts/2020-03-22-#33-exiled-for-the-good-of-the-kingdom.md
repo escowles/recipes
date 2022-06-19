@@ -2,6 +2,7 @@
 layout: post
 title: "#33 exiled for the good of the kingdom"
 date: 2020-03-22
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: other
 tags: drinks alcohol homebrew ale creamale beer
 ---

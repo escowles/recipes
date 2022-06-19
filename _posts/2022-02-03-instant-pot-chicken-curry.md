@@ -2,6 +2,7 @@
 layout: post
 title: instant pot chicken curry
 date: 2022-02-03 07:22:02 -0500
+last_modified_at: 2022-06-19 10:11:21 -0400
 category: main
 tags: asian curry chicken meat
 ---

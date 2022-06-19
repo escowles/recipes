@@ -2,6 +2,7 @@
 layout: post
 title: Boing Boing Fried Chicken
 date: 2015-02-15 19:55:59 -0500
+last_modified_at: 2022-06-19 10:11:17 -0400
 category: main
 tags: chicken meat southern
 ---

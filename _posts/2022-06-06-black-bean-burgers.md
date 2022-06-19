@@ -2,8 +2,8 @@
 layout: post
 title: black bean burgers
 date: 2022-06-06 14:01:12 -0400
-last_modified_at: 
 category: main
+last_modified_at: 2022-06-19 10:11:21 -0400
 tags: beans burgers
 ---
 

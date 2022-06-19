@@ -2,6 +2,7 @@
 layout: post
 title: Teriyaki Chicken
 date: 2018-07-06 21:06:02 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: main
 tags: chicken japanese meat asian
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: ham and bean soup
 date: 2022-02-14 06:56:57 -0500
+last_modified_at: 2022-06-19 10:11:21 -0400
 category: main
 tags: ham meat soup southern instantpot
 ---

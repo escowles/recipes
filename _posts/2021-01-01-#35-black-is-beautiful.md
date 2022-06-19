@@ -2,6 +2,7 @@
 layout: post
 title: "#35 black is beautiful"
 date: 2021-01-01 08:09:35 -0500
+last_modified_at: 2022-06-19 10:11:20 -0400
 category: other
 tags: alcohol beer homebrew stout
 ---

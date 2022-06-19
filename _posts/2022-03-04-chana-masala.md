@@ -2,6 +2,7 @@
 layout: post
 title: chana masala
 date: 2022-03-04 17:58:30 -0500
+last_modified_at: 2022-06-19 10:11:21 -0400
 category: main
 tags: curry indian asian chickpeas vegan instantpot
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Cinnamon Ice Cream
 date: 2020-10-11 23:10:10 -0500
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: dessert
 tags: cinnamon icecream custard
 ---

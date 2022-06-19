@@ -2,6 +2,7 @@
 layout: post
 title: Dairy-Free Chocolate Chip Cookies
 date: 2018-04-14 13:50:55 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: dessert
 tags: chocolate cookies
 status: deprecated

@@ -2,6 +2,7 @@
 layout: post
 title: Kansas City Rub
 date: 2017-09-04 11:45:55 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: ingredients
 tags: bbq sauce southern
 ---

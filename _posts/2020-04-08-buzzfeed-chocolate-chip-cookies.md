@@ -2,6 +2,7 @@
 layout: post
 title: Buzzfeed Chocolate Chip Cookies
 date: 2020-04-08 14:21:54 -0500
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: dessert
 tags: chocolate cookies
 status: deprecated

@@ -2,6 +2,7 @@
 layout: post
 title: pearl cous cous
 date: 2022-03-06 08:10:48 -0500
+last_modified_at: 2022-06-19 10:11:21 -0400
 category: sides
 tags: couscous middleeast
 ---

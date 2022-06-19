@@ -2,6 +2,7 @@
 layout: post
 title: Funnel Cake
 date: 2020-10-17 11:22:27 -0500
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: dessert
 tags: bread fried
 ---

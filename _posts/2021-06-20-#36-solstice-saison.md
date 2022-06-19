@@ -2,6 +2,7 @@
 layout: post
 title: "#36 solstice saison"
 date: 2021-06-20 08:00:00 -0500
+last_modified_at: 2022-06-19 10:11:20 -0400
 category: other
 tags: alcohol beer homebrew belgian saison
 ---

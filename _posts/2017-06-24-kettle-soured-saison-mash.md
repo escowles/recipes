@@ -2,6 +2,7 @@
 layout: post
 title: Kettle-Soured Saison Mash
 date: 2017-06-24 17:37:29 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: other
 tags: beer lactobacillus saison sour alcohol homebrew
 ---

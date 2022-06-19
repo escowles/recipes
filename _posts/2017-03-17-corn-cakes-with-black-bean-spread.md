@@ -2,6 +2,7 @@
 layout: post
 title: Corn Cakes with Black Bean Spread
 date: 2017-03-17 13:08:43 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: main
 tags: latin mexican vegetarian corn beans cheese dairy
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: cuban chicken with rice
 date: 2022-01-21 18:47:40 -0500
+last_modified_at: 2022-06-19 10:11:21 -0400
 category: main
 tags: cuban latin meat chicken instantpot
 ---

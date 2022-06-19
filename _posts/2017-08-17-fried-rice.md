@@ -2,6 +2,7 @@
 layout: post
 title: Fried Rice
 date: 2017-08-17 23:57:01 -0500
+last_modified_at: 2022-06-19 10:11:18 -0400
 category: main
 tags: chicken chinese leftovers rice meat asian
 ---

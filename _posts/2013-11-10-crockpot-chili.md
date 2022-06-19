@@ -2,6 +2,7 @@
 layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
+last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: meat mexican crockpot beans beef
 ---

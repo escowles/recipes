@@ -2,6 +2,7 @@
 layout: post
 title: Easy Fudge
 date: 2020-08-20 14:44:18 -0500
+last_modified_at: 2022-06-19 10:11:19 -0400
 category: dessert
 tags: chocolate
 ---
