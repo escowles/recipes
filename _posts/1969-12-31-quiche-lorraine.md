@@ -2,7 +2,7 @@
 layout: post
 title: Quiche Lorraine
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2022-06-27 18:15:21 -0400
 category: main
 tags: egg pork quiche cheese meat french dairy
 ---
@@ -38,3 +38,8 @@ Source: <http://allrecipes.com/Recipe/quiche-lorraine-i/detail.aspx>
 tomatoes, etc., reducing egg mixture so it's not too much for the shallow pie dish I
 usually use. Also, Gruyere is traditional, and my mom used to call this "Quiche
 Laverne" when using Cheddar instead.
+
+2022-06-27: Crustless mini quiche variant:
+* Line muffin tin with paper liners
+* Divide the ingredients evenly between the twelve muffin wells
+* Bake at 375°F for 15-20 minutes, until a knife comes out clean
