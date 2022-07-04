@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "github-pages", "~> 225", group: :jekyll_plugins
+gem "github-pages", "~> 226", group: :jekyll_plugins
 gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
@@ -11,3 +11,5 @@ end
 gem "commonmarker", ">= 0.23.4"
 gem "kramdown", "~> 2.3.1"
 gem "nokogiri", ">= 1.13.6"
+
+gem "webrick", "~> 1.7"
