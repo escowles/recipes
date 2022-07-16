@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Banana Cream Pie
 date: 2018-07-14 00:14:46 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2022-07-16 09:11:09 -0400
 category: dessert
 tags: banana chocolate pie fruit
 ---
@@ -60,7 +60,7 @@ great, either).  Would rather have an Oreo crust (see [Oreo Mini Cheesecakes]({{
 
 Also, we could do a traditional custard (like in [Berry Trifle]({{ site.baseurl }}{% post_url 1969-12-31-berry-trifle %})).
 
-2021-07-16: Used the [oreo crust]({{ site.base_url}}(% post_url 2021-07-12-oreo-pie-crust %}), and
+2021-07-16: Used the [oreo crust]({{ site.base_url}}{% post_url 2021-07-12-oreo-pie-crust %}), and
 chilled with just the chocolate, bananas, and custard filling. Topped each piece with whipped cream
 and dusted with oreo crumbs. This is definitely better than the chocolate crust and topping the
 whole pie before cutting.
