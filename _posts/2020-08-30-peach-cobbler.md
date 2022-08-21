@@ -27,3 +27,11 @@ cinnamon
   * Bake at 350°F for 40 minutes, and serve warm
 
 Source: <https://tastesbetterfromscratch.com/peach-cobbler/>
+
+---
+
+08/21/2022: made with these changes:
+* made in 8-10 oz. ramekins and reduced baking time to 25 minutes
+* used fresh peaches (peeled by blanching, then sliced thin)
+* in peach mixture, used 1/4 cup each of white and brown sugar
+* omitted cinnamon, and dusted some ramekins with cinnamon sugar (2 Tbsp. sugar and 1 tsp. cinnamon)
