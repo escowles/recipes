@@ -4,7 +4,7 @@ title: blueberry crisp
 date: 2022-08-15 13:54:35 -0400
 last_modified_at: 2022-08-15 18:57:25 -0400
 category: dessert
-tags: blueberry fruit pie
+tags: fruit pie
 ---
 
 5 cups blueberries  

@@ -4,7 +4,7 @@ title: broccoli and stilton quiche
 date: 2017-04-07 21:15:19 -0500
 last_modified_at: 2022-06-19 10:11:18 -0400
 category: main
-tags: egg british quiche stilton vegetarian cheese bluecheese vegetable dairy
+tags: egg british quiche vegetarian cheese bluecheese vegetable dairy
 ---
 [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
 2 cups frozen broccoli  

@@ -4,7 +4,7 @@ title: chorizo slab pie
 date: 2021-05-26 15:27:04 -0400
 last_modified_at: 2022-06-19 10:11:20 -0400
 category: main
-tags: chorizo potatoes mexican meat pie piesquared
+tags: potatoes mexican meat pie piesquared
 ---
 
 **hash brown crust:**

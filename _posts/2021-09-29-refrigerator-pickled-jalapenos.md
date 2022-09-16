@@ -4,7 +4,7 @@ title: refrigerator pickled jalapenos
 date: 2021-09-29 07:19:23 -0400
 last_modified_at: 2022-06-19 10:11:21 -0400
 category: ingredients
-tags: peppers
+tags: pickles
 ---
 
 4 medium jalapeños (about 8 ounces total)  

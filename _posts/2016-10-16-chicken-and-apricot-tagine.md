@@ -4,7 +4,7 @@ title: Chicken and Apricot Tagine
 date: 2016-10-16 15:56:05 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
 category: main
-tags: chicken middleeast moroccan fruit apricots meat chickpeas nytimes
+tags: chicken middleeast moroccan fruit meat chickpeas nytimes
 ---
 1 onion, sliced  
 2 cloves garlic, minced  

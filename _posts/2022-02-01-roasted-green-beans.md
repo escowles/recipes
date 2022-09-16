@@ -4,7 +4,7 @@ title: roasted green beans
 date: 2022-02-01 18:27:21 -0500
 last_modified_at: 2022-06-19 10:11:21 -0400
 category: sides
-tags: greenbeans vegetable
+tags: vegetable
 ---
 
 2 lbs. fresh green beans  

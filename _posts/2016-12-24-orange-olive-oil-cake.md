@@ -4,7 +4,7 @@ title: Orange Olive Oil Cake
 date: 2016-12-24 11:53:25 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
 category: dessert
-tags: cake oliveoil orange fruit
+tags: cake orange fruit
 ---
 ¾ cup olive oil  
 1½ large navel oranges  

@@ -4,7 +4,7 @@ title: green bean casserole 2
 date: 2021-11-20 12:43:32 -0500
 last_modified_at: 2022-06-19 10:11:21 -0400
 category: sides
-tags: thanksgiving greanbeans vegetable
+tags: thanksgiving vegetable
 ---
 
 1/2 can cream of mushroom soup  
