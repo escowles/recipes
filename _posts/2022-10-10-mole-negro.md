@@ -1,8 +1,8 @@
 ---
 layout: post
-title: mole-negro
+title: mole negro
 date: 2022-10-10 17:28:29 -0400
-last_modified_at: 2022-10-11 17:00:29 -0400
+last_modified_at: 2022-10-16 11:34:13 -0400
 category: main
 tags: mexican sauce ingredients
 status: draft
@@ -35,12 +35,11 @@ status: draft
 2 Tbsp. almonds  
 1 Tbsp. peanuts  
 1 stick cinnamon  
-2 cloves  
 1 star anise  
 1/2 tsp. allspice  
 1/2 tsp. black pepper  
 1 Tbsp. pumpkin seeds  
-* heat lard in a large pot and cook 2 minutes, until browned
+* heat lard in a large pot, add nuts and spices and cook 2 minutes, until browned
 
 1 Tbsp. raisins  
 1 Tbsp. sesame seeds  
@@ -49,7 +48,6 @@ status: draft
 1/2 tsp. oregano  
 2 bay leaves  
 * add and cook 1 minute, until fragrant
-
 
 prepared chilies, plantain, and charred vegetables  
 2 corn tortillas, toasted  
@@ -60,6 +58,7 @@ prepared chilies, plantain, and charred vegetables
 * remove from heat and puree in blender until smooth
 
 2 Tbsp. lard  
+mole puree
 67g mexican chocolate, chopped  
 * heat lard in a clean pot, add puree into the hot lard and immediately cover (this
   will spatter, so wear long sleeves and/or apron)
