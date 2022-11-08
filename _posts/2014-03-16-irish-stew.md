@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Irish Stew
+title: Irish Stew (old)
 date: 2014-03-16 14:50:40 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2022-11-08 17:42:16 -0500
 category: main
 tags: irish soup stew meat
 status: deprecated
