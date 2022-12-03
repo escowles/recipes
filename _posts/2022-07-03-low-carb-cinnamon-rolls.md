@@ -2,9 +2,10 @@
 layout: post
 title: low carb cinnamon rolls
 date: 2022-07-03 06:42:06 -0400
-last_modified_at: 2022-07-04 08:21:56 -0400
+last_modified_at: 2022-12-03 06:57:46 -0500
 category: dessert
 tags: breakfast lowcarb bread cinnamon
+status: deprecated
 ---
 **dough:**
 
