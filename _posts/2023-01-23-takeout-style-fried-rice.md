@@ -2,13 +2,26 @@
 layout: post
 title: takeout style fried rice
 date: 2023-01-23 10:27:52 -0500
-last_modified_at: 
+last_modified_at: 2023-01-23 19:24:40 -0500
 category: main
-tags: asian chinese leftovers rice meat chicken
-status: draft
+tags: asian chinese leftovers rice meat chicken flexitarian
 ---
 
-**chicken marinade:**
+**dehydrated rice:**
+
+1 cup rice  
+1 1/2 cups water  
+pinch salt  
+* rinse rice three times
+* add all ingredients to pan with tight-fitting lid
+* cover and heat on medium-high heat, until boiling (listen for boiling and lid rattling)
+* reduce heat to lowest setting and simmer for 5 minutes (listen for hissing or water boiling off)
+* turn heat off and rest for 10 minutes, without removing lid
+* remove lid, stir, and spread on small cookie sheet
+* loosely cover, cool to room temperature, then refrigerate overnight
+
+
+**chicken marinade (optional):**
 
 1 lb. chicken breast  
 1/2 tsp. baking soda  
@@ -25,8 +38,7 @@ status: draft
 **sauce mixture:**
 
 1/2 tsp. sugar  
-2 tsp. light soy sauce  
-1/2 tsp. dark soy sauce  
+1 Tbsp. light soy sauce  
 * mix together and set aside
 
 
@@ -41,7 +53,7 @@ status: draft
 * remove eggs from pan and set aside
 * wipe out wok
 
-**chicken:**
+**chicken (optional):**
 
 1 Tbsp. neutral oil  
 marinated chicken  
@@ -55,14 +67,14 @@ marinated chicken
 
 1 Tbsp. neutral oil  
 1/2 onion, diced  
-5 baby carrots, diced  
+5 baby carrots, halved lengthwise and sliced  
 2 cloves garlic, roughly chopped  
-2 cups rice, cooked and cooled (refrigerate loosely covered overnight)  
+2 cups dehydrated rice
 1 tsp. kosher salt  
-1/8 tsp. white pepper  
+1/8 tsp. white pepper (5 grinds)  
 small handful bean sprouts  
-2 Tbsp. frozen peas  
-2 tsp. Shaoxing wine  
+3 Tbsp. frozen peas  
+2 tsp. Shaoxing wine or mirin  
 2 Tbsp. green onion, sliced  
 1 tsp. sesame oil  
 * heat oil in wok over medium heat until shimmering
@@ -83,4 +95,4 @@ source: <https://docs.google.com/document/d/1unXLkg8HWA0vBcJEUrm6pCzM9XHSKjoqDi_
 
 ---
 
-01/23/23: made vegetarian by substituting steamed broccoli for the chicken
+01/23/23: made vegetarian by omitting chicken and adding steamed broccoli
