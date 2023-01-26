@@ -14,9 +14,8 @@ layout: default
         modified: {{ page.last_modified_at | date: date_format }}
       </time>
       {% comment %} changes start {% endcomment %}
-      {% if page.status %}
-        <i>{{ page.status }}</i>
-      {% endif %}
+      {% if page.time %} | {{ page.time }}{% endif %}
+      {% if page.status %} <i>{{ page.status }}</i>{% endif %}
       {% comment %} changes end {% endcomment %}
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
