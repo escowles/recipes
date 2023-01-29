@@ -2,16 +2,17 @@
 layout: post
 title: ranchero sauce
 date: 2023-01-22 11:16:30 -0500
-last_modified_at: 2023-01-22 11:44:25 -0500
+last_modified_at: 2023-01-29 09:38:56 -0500
 category: ingredients
-tags: mexican salsa tomato
-status: draft
+tags: mexican salsa tomato vegetarian
 ---
 
+2 new mexico chilies
 1 Tbsp. olive oil  
 1/2 white onion, diced  
-2 chipotles in adobo sauce (or 2 rehydrated new mexico chilies), diced  
-1 jalapeno, seeded and diced  
+1 jalapeno or 2 hatch chilies, seeded and diced  
+* seed and chop new mexico chilies and cover in 1 cup boiling water. rest for 5
+  minutes then remove chilies, reserving liquid.
 * heat oil until shimmering, then saute vegetables 5 minutes
 
 3 cloves garlic, minced  
@@ -21,13 +22,13 @@ status: draft
 * add to pan and saute until garlic is aromatic, about 1 minute
 
 1 can diced tomatoes, or 5 roma tomatos diced  
-1/2 cup broth  
+1/2 cup stock or reserved liquid from rehydrating chilies  
 * add and bring to a simmer, reduce heat and simmer for 10 minutes, until thickened
+* puree to desired consistency
 
 1 Tbsp. cilantro  
 juice from 1/2 lime  
 salt, to taste  
-* remove pan from heat, add remaining ingredients, and puree to desired thickness
-* adjust salt and lime juice to taste
+* add remaining ingredients, and adjust salt and lime juice to taste
 
 source: <https://keytomylime.com/ranchero-sauce-recipe>
