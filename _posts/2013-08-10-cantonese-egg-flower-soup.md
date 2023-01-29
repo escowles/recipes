@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cantonese Egg Flower Soup
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2023-01-28 19:02:04 -0500
 category: main
-tags: chinese egg soup asian
+tags: chinese egg soup asian vegetarian
 ---
 
 1 egg  

@@ -2,9 +2,9 @@
 layout: post
 title: bombay frittata
 date: 2021-11-19 12:04:55 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2023-01-28 19:02:05 -0500
 category: main
-tags: egg frittata indian
+tags: egg frittata indian vegetarian
 ---
 
 12 eggs  

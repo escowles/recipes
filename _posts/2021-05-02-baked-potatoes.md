@@ -2,9 +2,9 @@
 layout: post
 title: baked potatoes
 date: 2021-05-02 10:41:31 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2023-01-28 19:02:04 -0500
 category: main
-tags: potatoes
+tags: potatoes vegetarian
 ---
 
 medium-to-large russet potatoes  

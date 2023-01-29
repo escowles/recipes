@@ -2,9 +2,9 @@
 layout: post
 title: Butter Chicken
 date: 2020-09-15 11:04:52 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2023-01-28 19:02:04 -0500
 category: main
-tags: indian meat chicken asian
+tags: indian meat chicken asian flexitarian
 ---
 1.5 lbs. chicken breast  
 1/2 cup plain yogurt  
@@ -41,3 +41,7 @@ tags: indian meat chicken asian
 * Pour the puréed sauce back into the pan. Stir the cream and maple syrup through the sauce. Add the chicken with juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling.
 
 Source: <https://cafedelites.com/butter-chicken/>
+
+---
+
+01/27/23: made vegetarian by omitting chicken and adding roasted cauliflower

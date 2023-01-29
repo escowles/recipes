@@ -2,9 +2,9 @@
 layout: post
 title: chana masala
 date: 2022-03-04 17:58:30 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2023-01-28 19:02:05 -0500
 category: main
-tags: curry indian asian chickpeas vegan instantpot
+tags: curry indian asian chickpeas vegan vegetarian instantpot
 ---
 
 2 Tbsp. coconut oil  
