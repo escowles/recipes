@@ -29,3 +29,11 @@ tags: asian japanese soup vegetarian
 * garnish with onions and sesame seeds
 
 source: <https://themodernproper.com/sesame-garlic-ramen-noodles>
+
+---
+
+01/29/23: made a double batch with the following modifications: tamari instead of soy sauce, about
+half as much oyster sauce, mirin instead of rice vinegar and brown sugar, and slightly less sesame
+oil. i also added some steamed broccoli. it was very good, but a little too salty for some. next
+time i would reduce tamari or partially substitute with low-sodium (like the original recipe called
+for).
