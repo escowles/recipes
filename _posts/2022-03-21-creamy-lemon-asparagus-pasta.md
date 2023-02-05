@@ -2,9 +2,9 @@
 layout: post
 title: creamy lemon asparagus pasta
 date: 2022-03-21 19:06:57 -0400
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2023-02-05 13:25:43 -0500
 category: main
-tags: pasta vegetarian italian
+tags: pasta vegetarian italian rainbowplantlife
 ---
 
 12-16 oz. spaghetti, linguine, or fettucine  
