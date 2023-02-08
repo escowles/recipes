@@ -4,7 +4,7 @@ title: margaritas
 date: 2020-12-30 09:10:49 -0500
 last_modified_at: 2022-06-19 10:11:20 -0400
 category: other
-tags: drinks cocktails alcohol tequila mexican
+tags: drinks cocktails alcohol cointreau tequila mexican
 ---
 
 double jigger reposado tequila  

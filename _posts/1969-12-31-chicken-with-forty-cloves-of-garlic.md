@@ -4,7 +4,7 @@ title: Chicken with Forty Cloves of Garlic
 date: 1969-12-31 19:00:00 -0500
 last_modified_at: 2022-06-19 10:11:15 -0400
 category: main
-tags: chicken french meat barefootcontessa
+tags: chicken french meat barefootcontessa cognac wine
 ---
 2500 Cal (6x 417)
   
