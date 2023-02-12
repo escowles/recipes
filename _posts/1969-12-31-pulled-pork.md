@@ -2,9 +2,10 @@
 layout: post
 title: Stovetop Pulled Pork
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2023-02-12 18:24:46 -0500
 category: main
 tags: meat mexican pork
+status: deprecated
 ---
 2100 Cal (8x 263)
   
@@ -25,3 +26,7 @@ tags: meat mexican pork
 Source: <http://www.flotation9.net/sweetfineday/2008/08/25/my-favorite-pulled-pork/>
   
 See also [Crockpot Carnitas]({{ site.baseurl }}{% post_url 2014-09-02-crockpot-carnitas %})
+
+---
+
+02/12/2023: Deprecating in favor of [Crockpot Carnitas]({{ site.baseurl }}{% post_url 2014-09-02-crockpot-carnitas %}).

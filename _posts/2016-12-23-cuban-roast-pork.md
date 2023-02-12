@@ -2,9 +2,10 @@
 layout: post
 title: Cuban Roast Pork
 date: 2016-12-23 19:47:37 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2023-02-12 18:24:46 -0500
 category: main
 tags: cuban pork meat
+status: deprecated
 ---
 4 lb. pork shoulder roast  
 4 cloves garlic  
@@ -24,3 +25,6 @@ tags: cuban pork meat
   * Chill 8 hours or overnight.
   * Bake at 375°F until internal temperature reaches 170°F.
 
+---
+
+02/12/2023: Deprecating this in favor of [Crockpot Carnitas]({{ site.baseurl }}{% post_url 2014-09-02-crockpot-carnitas %}).

@@ -2,26 +2,36 @@
 layout: post
 title: Crockpot Carnitas (Roast Pork)
 date: 2014-09-02 07:51:22 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2023-02-12 18:24:46 -0500
 category: main
 tags: meat mexican pork crockpot
 ---
-2-3 lbs. boneless pork shoulder roast  
-salt and pepper to taste  
-¼ bunch cilantro  
+3-4 lbs. boneless pork shoulder  
+3 Tbsp. kosher salt  
+* toss pork with salt, chill uncovered for 1 hour
+* blot with paper towels to remove moisture and most of salt
+* transfer pork to a dutch oven or crockpot
+
 1 tsp. cumin  
-1 Tbsp. olive oil  
-½ onion, diced  
-4 cloves garlic, minced  
-1 jalapeño, seeded and diced  
-juice from 2 limes  
+1/2 tsp. red pepper flakes  
+3/4 tsp. pepper  
+3 cloves garlic, minced  
+* mix and sprinkle over pork
 
- * Cube pork roast and toss with oil and spices until coated
- * Add vegetables and lime juice
- * (Optional) marinate overnight
- * Cook in crockpot: 4 hours (high) or 8-10 hours (low)
- * Remove pork chunks to a frying pan with slotted spoon
- * Remove cilantro and pull pork chunks with fork or chopsticks
- * Fry on medium heat until nicely browned
+1/2 onion, diced  
+2 limes  
+2 oranges  
+* add onion and juice from the limes and oranges to the pot
+* add lime and orange peels to the pot and mix well
+* cover and cook in crockpot (4 hours on high or 8-10 hours on low) or oven
+  (2-3 hours at 300°F)
+* remove pork from juices and shred on a large baking sheet
+* drizzle 1 cup of juices over the shredded pork and broil for 10-15 minutes to crisp
 
-See also [Pulled Pork]({{ site.baseurl }}{% post_url 1969-12-31-pulled-pork %}).
+source: <https://www.jocooks.com/recipes/pork-carnitas/>
+
+---
+
+02/12/2023: this was pretty similar to my crockpot recipe, so i'm just updating it.
+this was the best homemade carnitas i've made, so i'm deprecating most of the other
+variants and sticking with this one.
