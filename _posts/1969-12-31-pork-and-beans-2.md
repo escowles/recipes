@@ -29,3 +29,8 @@ tags: meat pork southern stew beans
 ---
 
 2020-10-11 23:11:23: Note: you can't just put this in the crockpot for 8 hours on low — that resulted in very firm beans and tough meat. Simmering for 1 hour got it done.
+
+2023-03-09: variant with canned beans and leftover pulled pork:
+* replace beans with 2 cans, drained
+* replace pork shoulder with 1 lb. leftover pulled pork
+* saute onion and garlic in oil, then add everything to the crockpot for 6-8 hours
