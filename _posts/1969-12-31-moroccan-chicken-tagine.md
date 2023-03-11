@@ -2,9 +2,10 @@
 layout: post
 title: Moroccan Chicken Tagine
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2023-03-11 16:01:07 -0500
 category: main
 tags: chicken meat middleeast barefootcontessa
+status: deprecated
 ---
 1040 Cal (4x 260)
  

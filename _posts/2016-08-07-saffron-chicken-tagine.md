@@ -2,9 +2,10 @@
 layout: post
 title: Saffron Chicken Tagine
 date: 2016-08-07 10:33:40 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2023-03-11 16:01:07 -0500
 category: main
 tags: chicken middleeast moroccan meat
+status: deprecated
 ---
 1 large sweet onion cut into small chunks  
 ¼ cup olive oil  
