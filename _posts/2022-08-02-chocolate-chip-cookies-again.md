@@ -2,10 +2,10 @@
 layout: post
 title: chocolate chip cookies again
 date: 2022-08-02 14:10:37 -0400
-last_modified_at: 2022-08-02 14:16:43 -0400
+last_modified_at: 2023-03-10 20:27:44 -0500
 category: dessert
 tags: chocolate cookies
-status: draft
+status: deprecated
 ---
 
 1 cup white sugar  

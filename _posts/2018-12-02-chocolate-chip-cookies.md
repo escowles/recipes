@@ -2,9 +2,10 @@
 layout: post
 title: Chocolate Chip Cookies
 date: 2018-12-02 12:22:56 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2023-03-10 20:27:44 -0500
 category: dessert
 tags: chocolate cookies
+status: deprecated
 ---
 3 cups (380g) flour  
 1 tsp. baking soda  
