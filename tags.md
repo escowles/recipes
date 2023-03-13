@@ -5,6 +5,8 @@ layout: default
 # tags
 {% assign sorted_tags = site.tags | sort %}
 
+{% include deprecated.html %}
+
 <ul class="taglist">
 {% for tag in sorted_tags %}
   {% assign tag_name = tag | first %}
@@ -19,11 +21,11 @@ layout: default
   <ul>
     {% assign sorted_posts = tag.last | sort_natural: "title" %}
     {% for post in sorted_posts %}
-      <li class="taglink"><a href="{{ post.url | relative_url }}">
-        {% if post.status == "deprecated" %}<s>{% endif %}
+      {% if post.status == "deprecated" %}<s>{% endif %}
+        <li class="taglink"><a href="{{ post.url | relative_url }}">
           {{ post.title }}
-        {% if post.status == "deprecated" %}</s>{% endif %}
-      </a></li>
+        </a></li>
+      {% if post.status == "deprecated" %}</s>{% endif %}
     {% endfor %}
   </ul>
 {% endfor %}

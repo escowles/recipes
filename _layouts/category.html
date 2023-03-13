@@ -1,13 +1,10 @@
 ---
 layout: default
 ---
-<div class="search">
-  <form id="jsearch" action="" onKeyPress="javascript:jsearch()" onKeyDown="javascript:xser(event)">
-    <input id="q" type="text" autocomplete="off" placeholder="search"/>
-  </form>
-</div>
-
 <h1>{{ page.category }}</h1>
+
+{% include search.html %}
+{% include deprecated.html %}
 
 {% for category in site.categories %}
   {% assign cat_name = category | first %}
@@ -15,13 +12,13 @@ layout: default
     <ul>
     {% assign sorted_posts = category.last | sort_natural: "title" %}
     {% for post in sorted_posts %}
+      {% if post.status == "deprecated" %}<s>{% endif %}
+      {% if post.status == "draft" %}<i>{% endif %}
       <li class="taglink"><a href="{{ post.url | relative_url }}">
-        {% if post.status == "deprecated" %}<s>{% endif %}
-        {% if post.status == "draft" %}<i>{% endif %}
-          {{ post.title }}
-        {% if post.status == "deprecated" %}</s>{% endif %}
-        {% if post.status == "draft" %}</i>{% endif %}
+        {{ post.title }}
       </a></li>
+      {% if post.status == "deprecated" %}</s>{% endif %}
+      {% if post.status == "draft" %}</i>{% endif %}
     {% endfor %}
     </ul>
   {% endif %}

@@ -34,5 +34,22 @@
         return true;
       }
     }
+
+    function showdep() {
+      var deprecated = document.getElementsByTagName("s");
+      for ( var i = 0; i < deprecated.length; i++ ) {
+        deprecated[i].style.display = "block";
+      }
+      document.getElementById("showbtn").disabled = true;
+      document.getElementById("hidebtn").disabled = false;
+    }
+    function hidedep() {
+      var deprecated = document.getElementsByTagName("s");
+      for ( var i = 0; i < deprecated.length; i++ ) {
+        deprecated[i].style.display = "none";
+      }
+      document.getElementById("showbtn").disabled = false;
+      document.getElementById("hidebtn").disabled = true;
+    }
   </script>
 </head>

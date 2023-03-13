@@ -13,7 +13,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <ul>
       {%- for post in site.posts -%}
-      {% if post.status != "deprecated" %}
+      {% if post.status == "deprecated" %}<s>{% endif %}
         <li class="home-link">
           {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
           <a href="{{ post.url | relative_url }}">
@@ -26,7 +26,7 @@ layout: default
             {{ post.excerpt }}
           {%- endif -%}
         </li>
-      {% endif %}
+      {% if post.status == "deprecated" %}</s>{% endif %}
       {%- endfor -%}
     </ul>
 
