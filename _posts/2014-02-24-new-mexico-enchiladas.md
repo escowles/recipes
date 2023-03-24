@@ -11,7 +11,7 @@ tags: meat mexican pork
 6 soft-taco flour tortillas  
 2/3 cup refried beans  
 2/3 cup Mexican rice  
-7 oz. [pulled pork]({{ site.baseurl }}{% post_url 1969-12-31-pulled-pork %})
+7 oz. [pulled pork]({{ site.baseurl }}{% post_url 1969-12-31-pulled-pork %})  
 1 cup [New Mexico enchilada sauce]({{ site.baseurl }}{% post_url 2014-02-22-enchilada-sauce-new-mexico %})
 
  * Coat bottom of 9" square pan with 1/4 cup sauce
@@ -22,5 +22,5 @@ tags: meat mexican pork
   
 ---
 
-2014-02-24 07:39:52: Best homemade enchiladas yet -- Lydia and i especially like
+2014-02-24 07:39:52: Best homemade enchiladas yet -- Lydia and I especially like
 these quite a bit more than the verdes.
