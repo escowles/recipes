@@ -2,7 +2,7 @@
 layout: post
 title: Ladyfingers
 date: 2016-05-21 18:16:12 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2023-03-30 20:52:05 -0400
 category: dessert
 tags:  ingredients cookies
 ---
@@ -22,4 +22,4 @@ tags:  ingredients cookies
   * Fold in remaining egg whites and pipe onto parchment-lined baking sheet.
   * Bake at 400°F for 8 minutes.
 
-http://allrecipes.com/recipe/10434/ladyfingers/  
+source: <http://allrecipes.com/recipe/10434/ladyfingers/>
