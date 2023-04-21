@@ -8,8 +8,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4.0"
 end
 
-gem "commonmarker", ">= 0.23.7"
+gem "commonmarker", ">= 0.23.9"
 gem "kramdown", "~> 2.3.1"
-gem "nokogiri", ">= 1.13.10"
+gem "nokogiri", ">= 1.14.3"
 
 gem "webrick", "~> 1.7"
