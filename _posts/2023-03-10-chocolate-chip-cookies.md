@@ -26,7 +26,8 @@ tags: chocolate cookies
 
 12 oz. (2 cups) chocolate chips  
 * stir in chocolate chips, then cover and chill dough for 2 hours
-* scoop 1 oz. balls and bake at 375°F for 9 minutes, until just browning
+* scoop 1 oz./28g balls and bake at 375°F for 9 minutes, until just browning
 * cool on cookie sheet for 2 minutes before removing to cooling rack
+* makes approx. 4 dozen cookies
 
 source: <https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/>
