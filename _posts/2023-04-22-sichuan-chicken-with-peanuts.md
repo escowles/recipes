@@ -2,9 +2,9 @@
 layout: post
 title: sichuan chicken with peanuts
 date: 2023-04-22 16:39:36 -0400
-last_modified_at: 2023-04-22 16:58:57 -0400
+last_modified_at: 2023-04-23 09:52:52 -0400
 category: main
-tags: asian chinese meat chicken
+tags: asian chinese meat chicken thewok
 ---
 
 1 lb. boneless skinless chicken breast, cubed  
