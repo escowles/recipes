@@ -45,3 +45,8 @@ salt, to taste
 * salt to taste then mix in cilantro and serve
 
 source: *The Wok*, J. Kenji López-Alt, p. 134
+
+---
+04/23/23: turned out pretty good, but the cumin seeds were way to much for our 1/2 cup mortar and
+pestle, so i couldn't grind them all and they wound up getting everywhere. substitute 2 Tbsp. of
+ground cumin next time.
