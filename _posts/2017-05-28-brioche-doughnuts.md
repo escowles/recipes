@@ -4,7 +4,7 @@ title: Brioche Donuts
 date: 2017-05-28 10:47:41 -0500
 last_modified_at: 2022-06-19 10:11:18 -0400
 category: sides
-tags: bread donuts fried breakfast
+tags: bread doughnuts fried breakfast
 status: draft
 ---
 dough:  
@@ -29,12 +29,12 @@ dough:
   * Fold over and recover, then refrigerate for 6-15 hours
   * Dough can be frozen in a ziplock bag for up to 2 months
 
-donuts:  
+doughnuts:  
 
   * Roll half the dough into a 9x10 rectangle, about ½" thick and let rest for 5-10 minutes
-  * Cut out donuts and holes, re-roll any scraps into ¾" thick and recut
+  * Cut out doughnuts and holes, re-roll any scraps into ¾" thick and recut
   * Cover and let rise 1-3 hours, until almost doubled in height (preheat oven to 170°F and turn it off for a quicker rise)
-  * Heat oil in wok to 325°F, and fry 2 or 3 donuts at a time
+  * Heat oil in wok to 325°F, and fry 2 or 3 doughnuts at a time
   * Fry for 4 minutes, turning frequently, until golden brown and puffed
   * Cool for 5-10 minutes then toss in glaze to coat
   * Let dry to set the glaze
@@ -50,13 +50,13 @@ glaze:
   * Combine sugar,½ cup water, and the rest of the ingredients
   * Beat until smooth, adding remaining water as needed for form a thick glaze
 
-Makes 24 donuts  
+Makes 24 doughnuts  
   
 Source: <https://www.washingtonpost.com/recipes/vanilla-glazed-brioche-doughnuts/15889/>
 
 ---
 
-2017-05-28 10:51:39: To make 8 donuts:
+2017-05-28 10:51:39: To make 8 doughnuts:
 1/3 cup milk  
 2½ tsp. yeast  
 2½ tsp warm water (105°F)  
