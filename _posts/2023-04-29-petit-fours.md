@@ -2,10 +2,10 @@
 layout: post
 title: petit fours
 date: 2023-04-29 13:39:13 -0400
-last_modified_at: 2023-04-29 13:59:33 -0400
+last_modified_at: 2023-05-14 18:49:23 -0400
 category: dessert
 tags: cake french
-status: draft
+status: confirmed
 ---
 **cake:**
 
@@ -32,6 +32,9 @@ status: draft
   making cubes by stacking 2-3 layers
 * cover with plastic wrap and freeze while making icing
 
+alternate baking: to make one 9" round cake layer (about 1" thick), bake at 350°F
+for 20-25 minutes.
+
 **icing:**
 
 7 1/2 Tbsp. butter  
@@ -51,3 +54,8 @@ food coloring if desired
 * let dry completely at room temperature or in the refrigerator before serving
 
 source: <https://sugarspunrun.com/petit-fours/#recipe>
+
+---
+
+5/14/23: icing didn't work very well, but the cake is good (though the instructions
+say to cut into 1.5" cubes, but that's much larger than normal petit fours.
