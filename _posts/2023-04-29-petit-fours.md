@@ -32,8 +32,10 @@ status: confirmed
   making cubes by stacking 2-3 layers
 * cover with plastic wrap and freeze while making icing
 
-alternate baking: to make one 9" round cake layer (about 1" thick), bake at 350°F
-for 20-25 minutes.
+alternate baking:
+* to make one 9" round cake layer (about 1" thick), bake at 350°F for 20-25 minutes.
+* to make three thin 9" round cake layers, make a double batch and divide between three cake pans,
+  bake at 350°F for 15-20 minutes.
 
 **icing:**
 
