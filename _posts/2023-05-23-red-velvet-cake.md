@@ -26,8 +26,8 @@ red food coloring
 1 tsp. white vinegar  
 * add to wet ingredients and mix well
 * add dry ingredients a little at a time until just combined (batter will be thin)
-* divide into two 9" cake pans that have been greased and floured
-* bake at 325°F for 30-40 minutes, until a toothpick comes out clean
+* divide into two greased and floured 9" cake pans and bake at 325°F for 30-40 minutes, until a
+  toothpick comes out clean (or pour into cupcake wrappers and bake for 18-20 minutes)
 * cool pans on a wire rack until mostly cooled down
 * loosen cakes by running a knife around the edge before removing to a wire rack
 * cool completely before frosting with 
@@ -35,3 +35,14 @@ red food coloring
 [vanilla buttercream frosting]({{ site.baseurl }}{% post_url 2023-05-23-vanilla-buttercream-frosting %})
 
 source: <https://divascancook.com/the-best-red-velvet-cake-recipe-easy-homemade-moist-with-southern-flair/>
+
+---
+
+05/24/2023: i accidentally left out the coffee, and the cake had two flaws: it sank in the middle,
+and it was not as red as i was hoping. i think adding the coffee would help prevent sinking, but
+there were comments suggesting that reducing the oil to 1/2 cup and adding 1/2 cup melted butter
+would help, too. i might also just do cupcakes next time, because the cake is so rich that it's
+easy to get too much. for the color, just adding a ridiculous amount of gel food coloring is
+probably what is needed. doing cupcakes would have the advantage of making it easy to have some
+with buttercream frosting and some with cream cheese frosting (since i like the cream cheese better
+but Irina doesn't).
