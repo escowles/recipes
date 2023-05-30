@@ -14,15 +14,7 @@ tags: pie southern fruit
 * Blend yolks, zest, and juice in blender until the zest is broken down.
 * Add sweetened condensed milk and mix until smooth.
 * Set aside to thicken while making the crust.
-
-11 full sized graham crackers  
-3 Tbsp. granulated sugar  
-5 Tbsp. butter, melted
-
-* Process graham crackers and sugar in food processor until broken down into small even crumbs.
-* Add butter to crumbs, and mix until combined.
-* Pour buttered crumbs into 9" pie dish and press into sides and bottom to form a crust.
-* Bake empty crust at 325° F for 13 minutes.
+* Prepare a [graham cracker crust]({{ site.baseurl }}{% post_url 2023-05-30-graham-cracker-crust %})
 * Add filling and bake an additional 20 minutes, until pie is set and barely wiggles in the center.
 * Chill to room temperature and then refrigerate for 3 hours.
 * Slice into 12-16 slices and top with [whipped cream]({{site.baseurl }}{% post_url 2018-07-14-whipped-cream %})

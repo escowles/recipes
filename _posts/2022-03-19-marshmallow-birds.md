@@ -4,7 +4,7 @@ title: marshmallow birds
 date: 2022-03-19 14:19:54 -0400
 last_modified_at: 2022-06-19 10:11:21 -0400
 category: dessert
-tags: candy easter marthastewart
+tags: candy easter marthastewart marshmallow
 ---
 
 **colored sugar:**
