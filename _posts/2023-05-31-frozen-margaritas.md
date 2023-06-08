@@ -7,10 +7,10 @@ category: other
 tags: cocktails tequila alcohol drinks frozen
 ---
 
-2 oz. tequila  
-2 oz. cointreau  
-6 oz. lime juice (3 limes)  
-10 oz. simple syrup  
+2.5 oz. tequila  
+2.5 oz. cointreau  
+5 oz. lime juice (4 limes)  
+9 oz. simple syrup  
 6 oz. water  
 * combine ingredients and freeze in a plastic bag or ice cream maker
 
