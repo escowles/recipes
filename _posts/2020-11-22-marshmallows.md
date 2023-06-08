@@ -7,7 +7,7 @@ category: dessert
 tags: candy marshmallow
 ---
 
-7 tsp. gelatin powder (3 packets of Knox gelation)  
+7 tsp. gelatin powder (3 packets of Knox gelatine)  
 1/2 cup water  
 * mix thoroughly in stand mixer bowl
 * set aside while making sugar syrup
@@ -40,3 +40,15 @@ sugar syrup
   mixture
 
 source: <https://www.foodnetwork.com/recipes/alton-brown/homemade-marshmallows-recipe-1953933>
+
+---
+
+6/8/23: Made this recipe to top smore pies, with the following modifications:
+
+* divided recipe by 2/3 to make slightly less marshmallow
+* used clear candi syrup instead of corn syrup
+
+The result was fine but a little too tough.
+
+For next time:
+* Just make candi syrup (2 cups sugar, 1/2 cup water, 1/8 tsp. cream of tartar) and don't heat above 220°F.
