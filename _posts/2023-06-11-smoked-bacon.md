@@ -12,10 +12,16 @@ tags: meat pork bacon
 2 tsp. thyme  
 1 Tbsp. peppercorns, cracked  
 1 bay leaf, crumbled  
-1 pork belly, skin removed  
+1 pork belly (4-5 lbs.), skin removed  
 * combine sugar and spices and rub all over pork belly
 * seal in a large ziplock bag and refrigerate for 7-10 days, turning every other day
 * smoke fat side up with hickory wood chips until internal temperature reaches at
-  least 150°F
+  least 150°F.
 
 source: America's Tesk Kitchen DIY cookbook, p. 180-183.
+
+---
+6/18/2023: smoked the pork belly for 2 hours, to about 167°F. it was flavorful with a little char
+around the edges, but still a little tough (simmered in ramen for about an hour before it was very
+tender). i have seen recommendations that going to 200°F would make it fall-apart tender, so i
+might try that next time.
