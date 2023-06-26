@@ -7,13 +7,16 @@ category: ingredients
 tags: mexican salsa tomato vegetarian
 ---
 
-2 new mexico chilies
+2 new mexico chilies  
+1 cup boiling water  
+* seed and chop new mexico chilies and cover in 1 cup boiling water
+* rest for 5 minutes then remove chilies, reserving liquid
+
 1 Tbsp. olive oil  
 1/2 white onion, diced  
 1 jalapeno or 2 hatch chilies, seeded and diced  
-* seed and chop new mexico chilies and cover in 1 cup boiling water. rest for 5
-  minutes then remove chilies, reserving liquid.
-* heat oil until shimmering, then saute vegetables 5 minutes
+rehydrated new mexico chilies  
+* heat oil until shimmering, then saute vegetables for 5 minutes
 
 3 cloves garlic, minced  
 1 tsp. oregano  
