@@ -2,33 +2,30 @@
 layout: post
 title: Hot Process Soap
 date: 2014-12-26 17:13:28 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2023-07-08 10:22:41 -0400
 category: other
 tags: soap teatree
 ---
-90g coconut oil (76°)  
-360g olive oil  
-171g water  
-62g lye  
-14g tea tree oil
-  
-
-Check exact recipe at http://soapcalc.net/calc/soapcalcwp.asp
-
-* Measure oils into crockpot and heat on low heat.
-* Measure water in heat-proof mixing bowl.
-* Wearing gloves and safety goggles in a well-ventilated area:  
-  * Measure lye in a separate container and slowly add to water.
-  * Stir carefully with heat-proof spoon.
-  * Lye mixture will be cloudy and heat to 200°F.
-  * Let mixture cool 10 minutes.
-* When oils are 120-130°F, slowly add lye mixture to oils in crockpot.
-* Rinse all lye tools and containers with water and neutralize with vinegar.
-* Mix lye mixture into oils and then blend with stick blender 4-5 minutes, until mixture is opaque and starting to thicken.
-* Cover and heat on low heat for 30-60 minutes, until thickened and bubbling over the entire surface.
-* Remove crock from heat, and add tea tree oil.
-* Spoon soap mixture into molds and cover with parchment paper.
-* Age for 24 hours and then remove from molds and cut.
+908g lard  
+114g coconut oil  
+114g olive oil  
+432g water  
+156g lye  
+38g essential oils (e.g., mix of sandalwood and tea tree)
+* if varying fats at all, double-check using [soapcalc](http://soapcalc.net/calc/soapcalcwp.asp)
+* measure fats into crockpot and heat on low heat until completely melted
+* measure water in heat-proof mixing bowl or pyrex pitcher
+* wearing gloves and safety goggles in a well-ventilated area:  
+  * measure lye in a separate container and slowly add to water
+  * stir carefully with wooden spoon until mixture clears
+* pour lye mixture into oils and mix well
+* rinse all lye tools and containers with water and neutralize with vinegar
+* blend with stick blender for 4-5 minutes, until mixture is opaque and starting to thicken,  and reaches "trace" (when the surface no longer immediately goes back to flat)
+* cover and heat on low heat for 30-60 minutes, stirring every 10 minutes, until thickened
+  and bubbling over the entire surface
+* remove crock from heat and add essential oils
+* spoon soap mixture into molds and cover with parchment paper
+* age for 24 hours and then remove from molds and cut
 
 Source: <http://wellnessmama.com/23840/slow-cooker-soap-recipe>
 
@@ -111,3 +108,6 @@ and 1kg fat).
 * 250g olive oil
 * 38g sandalwood oil
 yield: 1720g
+
+2023-07-08: summer batch, updating main recipe with current mixture (reducing coconut and
+olive oils because we have a water softener now and it's too slippery)
