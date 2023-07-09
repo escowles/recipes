@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "#41 summer cider"
+title: "#41 cherry cider"
 date: 2023-06-29 07:04:25 -0500
 last_modified_at: 2023-07-09 09:21:51 -0400
 category: other
-tags: alcohol cider drinks homebrew
+tags: alcohol cider drinks homebrew cherry
 ---
 
 **fermentables:**
@@ -19,14 +19,13 @@ tags: alcohol cider drinks homebrew
 
 **intermediate stats (before cherries):**
 
-OG: 1.050 (06/29/2023)  (estimate, didn't check gravity and tilt didn't work)
+OG: 1.050 (06/29/2023)  (estimate, didn't check gravity and tilt didn't work)  
 FG: 0.999 (07/09/2023)  
-ABV: 6.1%
+ABV: 6.1%  
 
-OG: 1.063 (estimate based on 4 lbs. of cherries adding 0.013)
-FG: ??
-ABV: ??
-
+OG: 1.063 (estimate based on 4 lbs. of cherries adding 0.013)  
+FG: ??  
+ABV: ??  
 
 **process:**
 
