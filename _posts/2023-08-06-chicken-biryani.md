@@ -2,7 +2,7 @@
 layout: post
 title: chicken biryani
 date: 2023-08-06 15:58:39 -0400
-last_modified_at: 2023-08-06 16:25:23 -0400
+last_modified_at: 2023-08-06 19:37:41 -0400
 category: main
 tags: meat chicken indian
 status: draft
@@ -61,3 +61,12 @@ brown (do not burn onions or it will leave a bitter taste)
 * rest covered for 15 minutes
 
 source: <https://www.indianhealthyrecipes.com/chicken-biryani-recipe/>
+
+---
+
+8/6/2023: cooked rice on lowest flame for 10 minutes, and there was still water
+above it. increased heat a tiny bit and cooked another 10 minutes, and it was still
+not cooked. cooked another 10 minutes and it seemed cooked, so i rested for 15
+minutes, but upon eating, it was a little too firm. the rice package recommended
+bringing to a boil and boiling until the water was no longer above the rice, so i
+might do that next time.
