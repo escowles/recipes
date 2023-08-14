@@ -2,10 +2,10 @@
 layout: post
 title: vegan green goddess salad dressing
 date: 2023-08-13 16:31:50 -0400
-last_modified_at: 2023-08-13 16:36:04 -0400
+last_modified_at: 2023-08-14 10:30:25 -0400
 category: ingredients
 tags: vegan salad sauce TomV
-status: draft
+status: confirmed
 ---
 
 2 lemons  
@@ -22,3 +22,8 @@ status: draft
 * blend until smooth
 
 source: <https://iamafoodblog.com/tiktok-green-goddess-salad/>
+
+---
+
+8/14/23: Kate mentioned this dressing to us as the only thing that makes her
+actually enjoy salad.
