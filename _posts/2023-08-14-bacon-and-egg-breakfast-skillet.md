@@ -5,7 +5,7 @@ date: 2023-08-14 10:22:40 -0400
 last_modified_at: 2023-08-14 10:30:14 -0400
 category: main
 tags: bacon breakfast potatoes pork meat
-status: draft
+status: deprecated
 ---
 
 2 Tbsp. olive oil  
@@ -27,3 +27,11 @@ salt and pepper to taste
 * serve immediately
 
 source: <https://cafedelites.com/cheesy-bacon-and-egg-hash/>
+
+---
+
+08/15/2023: followed these instructions pretty closely (including covering potatoes for first 10
+minutes) and they wound up tasty but not crispy. there was too much moisture for any real browning
+to occur, and there was a ton of gunk caked on the bottom of my dutch oven. next time, i would
+follow my usual [roasted potatoes]({{ site.baseurl }}{% post_url 2020-12-20-roasted-potatoes %})
+recipe, and add bacon and eggs for last 10-15 minutes.
