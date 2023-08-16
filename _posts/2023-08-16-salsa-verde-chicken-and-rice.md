@@ -24,7 +24,7 @@ status: draft
 1/2 tsp. pepper  
 1 cup long grain rice, rinsed and drained  
 1/2 head cauliflower, chopped  
-1 cup salsa verde  
+1 cup [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %})  
 1 1/2 cup chicken broth  
 * add remaining ingredients, mix well, and scrape up any browned bits
 * bring to a boil, then cover with a tight-fitting lid and reduce heat
