@@ -2,7 +2,7 @@
 layout: post
 title: chicken tortilla soup
 date: 2021-02-06 08:42:07 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2023-08-18 15:26:48 -0400
 category: main
 tags: chicken meat soup mexican crockpot
 ---
@@ -26,9 +26,10 @@ tags: chicken meat soup mexican crockpot
 * top soup with cheese and cover to let melt, 5 minutes more.
 
 1 tbsp extra-virgin olive oil  
-3 small corn tortillas, cut into strips  
+3 small corn or flour tortillas, cut into strips  
 * meanwhile, make tortilla crisps: Heat oil in a large skillet over medium heat, add tortilla strips and cook until crispy and golden, 3 minutes.
 * transfer to a paper towel-lined plate and season with salt.
+* oven method: as an alternative, toss tortilla strips with oil and spread on baking sheet. bake at 350°F for 10-12 minutes, until browned.
 
 sliced avocado, for serving  
 sour cream, for serving  
