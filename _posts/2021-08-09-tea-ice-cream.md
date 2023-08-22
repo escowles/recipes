@@ -2,7 +2,7 @@
 layout: post
 title: tea ice cream
 date: 2021-08-09 09:45:04 -0400
-last_modified_at: 2023-08-04 14:53:20 -0400
+last_modified_at: 2023-08-22 19:59:12 -0400
 category: dessert
 tags: cream icecream japanese tea
 ---
@@ -23,3 +23,11 @@ tags: cream icecream japanese tea
 * freeze in ice cream maker according to directions
 
 source: <https://cultureatz.com/japanese-green-tea-ice-cream-recipe/>
+
+---
+
+8/22/23: works with all the kinds of tea we've tried it with:
+* english breakfast (bags)
+* sencha (bags)
+* jasmine green tea (pearls) - green tea is more pronounced than the jasmine, so
+  might grind up an extra few pearls and throw them in next time
