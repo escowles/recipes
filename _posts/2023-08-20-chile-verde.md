@@ -2,12 +2,12 @@
 layout: post
 title: chile verde
 date: 2023-08-20 13:33:32 -0400
-last_modified_at: 2023-08-20 13:40:53 -0400
+last_modified_at: 2023-08-26 16:23:08 -0400
 category: main
 tags: meat pork mexican
 ---
 
-3 lbs. pork shoulder
+3 lbs. pork shoulder  
 salt and pepper  
 2 Tbsp. vegetable oil  
 1 onion, diced  
