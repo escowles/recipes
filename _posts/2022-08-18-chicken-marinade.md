@@ -2,8 +2,8 @@
 layout: post
 title: chicken marinade
 date: 2022-08-18 14:49:26 -0400
-last_modified_at: 
-category: main|dessert|sides|ingredients|other
+last_modified_at: 2023-08-31 08:29:25 -0400
+category: ingredients
 tags: chicken sauce marinade
 ---
 
