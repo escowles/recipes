@@ -31,3 +31,9 @@ tags: chocolate cookies
 * makes approx. 4 dozen cookies
 
 source: <https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/>
+
+---
+
+8/28/23: made these as bar cookies in a 9x13" glass dish, but they were still underbaked when the
+top was browned. so either covering with foil to prevent over-browning, or halving the recipe and
+using an 8x8" for a thinner bar would be better.
