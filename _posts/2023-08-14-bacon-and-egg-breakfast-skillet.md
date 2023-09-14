@@ -4,7 +4,7 @@ title: bacon and egg breakfast skillet
 date: 2023-08-14 10:22:40 -0400
 last_modified_at: 2023-08-14 10:30:14 -0400
 category: main
-tags: bacon breakfast potatoes pork meat
+tags: bacon breakfast potatoes pork meat bacon
 status: deprecated
 ---
 

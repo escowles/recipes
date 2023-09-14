@@ -4,7 +4,7 @@ title: Pannenkoeken
 date: 2017-04-22 11:56:54 -0500
 last_modified_at: 2022-06-19 10:11:18 -0400
 category: sides
-tags: bread breakfast dutch
+tags: bread breakfast dutch bacon
 ---
 250g (1½ cups) flour  
 1.25ml (¼ tsp.) salt  

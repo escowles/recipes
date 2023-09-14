@@ -4,7 +4,7 @@ title: Lard for Soap
 date: 2018-03-21 13:25:17 -0500
 last_modified_at: 2022-06-19 10:11:18 -0400
 category: other
-tags: soap
+tags: soap bacon
 status: deprecated
 ---
 1 jar (approx. 24 oz.) bacon drippings  

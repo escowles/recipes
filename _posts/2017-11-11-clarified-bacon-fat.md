@@ -4,7 +4,7 @@ title: Clarified Bacon Fat
 date: 2017-11-11 13:30:14 -0500
 last_modified_at: 2022-06-19 10:11:18 -0400
 category: other
-tags: soap
+tags: soap bacon
 ---
 
   * Melt bacon drippings with an equal amount of water.
