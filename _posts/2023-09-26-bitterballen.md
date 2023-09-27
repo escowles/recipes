@@ -2,7 +2,7 @@
 layout: post
 title: bitterballen
 date: 2023-09-26 12:48:09 -0400
-last_modified_at: 
+last_modified_at: 2023-09-27 17:35:53 -0400
 category: main
 tags: meat dutch beef
 status: draft
@@ -36,11 +36,13 @@ salt and pepper, to taste
 salt and pepper, to taste
 * melt butter in a saucepan, then stir in flour and whisk to work out any lumps
 * cook over low heat until the roux turns blonde, about 3 minutes
-* add reserved braising liquid and whisk to make smooth sauce
-* add shredded beef, allspice, and optional worcestershire sauce and cook until thickened, about
-  2 minutes
+* add 250ml (1 cup plus 1 tbsp.) of the reserved braising liquid and whisk to make
+  a smooth sauce
+* add shredded beef, allspice, and optional worcestershire sauce and cook until
+  thickened, about 2 minutes
 * taste and adjust seasoning
-* spread on a baking sheet to cool to room temperature, then cover and chill for at least 2 hours
+* spread on a baking sheet to cool to room temperature, then cover and chill for at
+  least 2 hours
 
 **meatballs:**
 
@@ -49,7 +51,7 @@ salt and pepper, to taste
 1 cup bread crumbs  
 * scoop a 1 oz. ball of filling and roll to smooth out
 * dredge in flour, then egg and breadcrumbs
-* fry at 350°F for 5-6 minutes until well browned, or bake at 350°F for 15 minutes, until internal
-  temperature reaches 165°F
+* fry at 350°F for 5-6 minutes until well browned, or bake at 350°F for 15 minutes,
+  until internal temperature reaches 165°F
 
 source: <https://braisedanddeglazed.com/bitterballen-dutch-secrets-exposed/>
