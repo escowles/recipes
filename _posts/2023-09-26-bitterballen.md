@@ -55,3 +55,10 @@ salt and pepper, to taste
   until internal temperature reaches 165°F
 
 source: <https://braisedanddeglazed.com/bitterballen-dutch-secrets-exposed/>
+
+---
+
+9/29/23: finally made these last night and they were good — but the breading and baking was a lot
+of hassle, and the final output wasn't really worth the effort. but i think the braised beef is a
+keeper. so next time i'll braise the beef, separate the liquid, make the roux, and then just return
+the beef and vegetables to the pot and thicken the sauce. then serve it over rice or potatoes.
