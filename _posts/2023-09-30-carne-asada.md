@@ -2,7 +2,7 @@
 layout: post
 title: carne asada
 date: 2023-09-30 11:55:26 -0400
-last_modified_at: 2023-09-30 12:03:51 -0400
+last_modified_at: 2023-10-08 19:05:06 -0400
 category: main
 tags: mexican meat beef
 ---
@@ -14,8 +14,8 @@ tags: mexican meat beef
 1 tbsp. worcestershire sauce  
 6 cloves garlic, minced  
 6 oz. dark beer  
+1 1/2 tbsp. kosher salt  
 1 tbsp. cilantro  
-1 tbsp. kosher salt  
 1 tsp. black pepper  
 1/2 tsp. oregano  
 1/2 tsp. smoked paprika  
@@ -23,7 +23,7 @@ tags: mexican meat beef
 1/8 tsp. cloves  
 * combine all ingredients in a large ziplock bag and whisk or shake to combine
 
-2 lbs. skirt or flank steak  
+1 1/2 - 2 lbs. skirt or flank steak (cut flank stead to allow flipping for even cooking)  
 4 green onions, trimmed and mashed  
 1/2 white onion, sliced  
 2 serrano chilies, halved  
@@ -39,3 +39,8 @@ source: Asada: The Art of Mexican-Style Grilling, p. 68.
 
 10/4/23: made this last weekend and it was fantastic. made a few small changes (reduced salt,
 using dry cilantro, either skirt or flank steak) to reflect what i actually wound up doing.
+
+10/8/23: made again with two changes: 1 tbsp. of salt and flank steak. it was good, but not
+quite as good. in particular, the flank steak was one large slab, so it was uneven (160°F in
+the middle but only 135°F at the edges). so next time i'll make two tweaks: use 1.5 tbsp. of
+salt, and if using flank steak, i'd cut it in half so i could rotate to cook more evenly.
