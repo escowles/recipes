@@ -2,9 +2,10 @@
 layout: post
 title: Spinach and Cheddar Souffle
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2023-10-14 18:26:51 -0400
 category: main
 tags: vegetarian egg cheese souffle french vegetable dairy barefootcontessa
+time: 60-70 minutes
 ---
 1300 Cal (4x 325)
 
@@ -40,8 +41,11 @@ tags: vegetarian egg cheese souffle french vegetable dairy barefootcontessa
 1 Tbsp. butter, melted  
 3 Tbsp. Parmesan cheese, grated  
 
-* Butter 6-8 cup souffle dish and sprinkle with Parmesan cheese.
-* Whisk 1/4 of the egg whites into the cheese sauce to lighten.  Fold in the rest until just combined.  Pour into souffle dish.
-* Bake at 375F for 30-35 minutes until puffed and brown.
+* Butter 6-8 cup souffle dish and sprinkle with Parmesan cheese. Alternatively,
+  make cheese sauce in a Dutch oven and build up the soufflé in the pan, sprinkle
+  Parmesan on top, and bake in the Dutch oven.
+* Whisk 1/4 of the egg whites into the cheese sauce to thin.
+* Fold in the rest until just combined and pour into souffle dish.
+* Bake at 375°F for 30-35 minutes until puffed and brown.
 
-Source: <http://www.foodnetwork.com/recipes/ina-garten/spinach-and-cheddar-souffle-recipe/>
+source: <http://www.foodnetwork.com/recipes/ina-garten/spinach-and-cheddar-souffle-recipe/>
