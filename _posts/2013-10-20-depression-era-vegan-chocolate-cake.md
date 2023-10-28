@@ -2,9 +2,9 @@
 layout: post
 title: Depression-Era, Vegan Chocolate Cake
 date: 2013-10-20 07:39:12 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2023-10-28 09:50:46 -0400
 category: dessert
-tags: chocolate lydia cake
+tags: chocolate lydia cake vegan
 ---
 2,080 Cal (8x 260)  
   
