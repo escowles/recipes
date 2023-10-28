@@ -2,7 +2,7 @@
 layout: post
 title: bee's knees
 date: 2022-03-18 12:29:18 -0400
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2023-10-28 07:52:00 -0400
 category: other
 tags: cocktails drinks alcohol syrup honey gin
 ---
@@ -15,8 +15,8 @@ tags: cocktails drinks alcohol syrup honey gin
 
 **bee's knees:**
 
-double jigger gin  
-single jigger honey syrup  
+double jigger (1.5 oz.) gin  
+single jigger (.75 oz.) honey syrup  
 juice from 1/2 lemon  
 * shake with ice then strain into chilled glass
 

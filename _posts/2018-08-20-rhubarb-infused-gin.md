@@ -2,12 +2,12 @@
 layout: post
 title: Rhubarb Infused Gin
 date: 2018-08-20 14:51:43 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2023-10-28 07:52:00 -0400
 category: other
 tags: alcohol cocktails gin rhubarb summer drinks
 ---
 Half bunch of rhubarb (5x 6" lengths), sliced  
-4.5 large jiggers of Hendricks gin  
+6-8 oz. Hendricks gin  
 * Slice rhubarb and add to a mason jar
 * Cover with gin
 * Refrigerate and shake occasionally for 4 days

@@ -2,14 +2,14 @@
 layout: post
 title: margaritas
 date: 2020-12-30 09:10:49 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2023-10-28 07:52:00 -0400
 category: other
 tags: drinks cocktails alcohol cointreau tequila mexican
 ---
 
-double jigger reposado tequila  
-single jigger cointreau  
-single jigger simple syrup  
+double jigger (1.5 oz.) reposado tequila  
+single jigger (.75 oz.) cointreau  
+single jigger (.75 oz.) simple syrup  
 juice from whole lime  
 * shake over ice and strain into salt-rimmed glass
 
