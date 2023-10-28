@@ -2,9 +2,9 @@
 layout: post
 title: tater tot casserole
 date: 2023-05-09 14:02:44 -0400
-last_modified_at: 
+last_modified_at: 2023-10-28 08:00:16 -0400
 category: main
-tags: eggs american bacon
+tags: egg american bacon
 ---
 
 1 tbsp. butter  

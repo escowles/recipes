@@ -2,9 +2,9 @@
 layout: post
 title: spanish tortilla
 date: 2022-09-27 13:20:29 -0400
-last_modified_at: 
+last_modified_at: 2023-10-28 08:00:16 -0400
 category: main
-tags: eggs potatoes spanish vegetarian
+tags: egg potatoes spanish vegetarian
 status: draft
 ---
 

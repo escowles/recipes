@@ -2,9 +2,9 @@
 layout: post
 title: Hong Kong Curry
 date: 2017-08-18 00:12:32 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2023-10-28 08:00:16 -0400
 category: main
-tags: chicken chinese mix meat asian
+tags: chicken chinese meat asian curry
 ---
 2 Tbsp. peanut or canola oil  
 1 lb. chicken, cubed  
