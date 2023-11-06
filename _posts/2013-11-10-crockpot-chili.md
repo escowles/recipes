@@ -2,27 +2,25 @@
 layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2023-11-06 16:58:30 -0500
 category: main
 tags: meat mexican crockpot beans beef
 ---
-1,560 Cal (6x 260)
-  
 1 lb. ground beef  
 1 onion, diced  
-2 poblano peppers, diced  
-2 cloves garlic, minced  
+1 poblano or bell pepper , diced  
+2 cloves garlic, minced (or 1 tsp. of garlic powder)  
 15 oz. tomatoes, diced  
 15 oz. refried beans  
-1 Tbsp. chili powder  
+1 tbsp. brown sugar  
+1 1/2 tsp. salt  
+1 tsp. chile powder (e.g. jalapeno or new mexico)  
 1/2 tsp. cumin  
-1/2 tsp. salt  
 1/4 tsp. black pepper  
   
-optional: 1-2 Tbsp. brown sugar, and/or harissa  
-
-* Brown beef, with onion and peppers and add to crockpot.
-* Add remaining ingredients to crockpot and cook on low for 8 hours, stirring occasionally.
+* brown beef, with onion and peppers and add to crockpot.
+* add remaining ingredients to crockpot and cook on low for 8 hours,
+  stirring occasionally.
 
 ---
 
@@ -55,3 +53,7 @@ days:
 * No tomato puree
 * Left optional brown sugar and harissa, though I typically don't do these based on
   feedback.
+
+2023-11-06: updated recipe again because i'm using chile powder (i.e. powdered
+chiles) instead of chili powder (i.e. spice blend) and chile powder is a lot
+hotter.
