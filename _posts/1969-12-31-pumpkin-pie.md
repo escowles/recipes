@@ -4,18 +4,19 @@ title: Pumpkin Pie (Pumpkin Puree)
 date: 1969-12-31 19:00:00 -0500
 last_modified_at: 2022-06-19 10:11:16 -0400
 category: dessert
-tags: pumpkin pie thanksgiving thanksgiving2020
+tags: pumpkin pie thanksgiving thanksgiving2020 traditional
 ---
 2400 Cal (12x 200)
   
 2 cups pumpkin puree (1 small pie pumpkin)  
-1 cup evaporated milk  
+1 cup evaporated milk or cream  
 2/3 cup sugar  
 3 eggs  
 1 tsp. cinnamon  
-1/2 tsp. ground cloves  
+1/2 tsp. cloves  
 1/2 tsp. allspice  
-1/4 tsp. ground ginger  
+1/4 tsp. nutmeg  
+1/4 tsp. ginger  
 1/4 tsp. salt  
 
 * Wearing a glove on your non-knife hand, cut pumpkin in half and remove seeds.
@@ -24,7 +25,8 @@ tags: pumpkin pie thanksgiving thanksgiving2020
 * Puree until smooth. Should make 3 cups.
 * Combine other ingredients and mix well.
 * Pour into pie crust.
-* Bake at 425F for 15 minutes, then reduce heat to 350F for 45 to 60 minutes, until a knife comes out clean.
+* Bake at 425F for 15 minutes, then reduce heat to 350F for 45 to 60 minutes, until a knife comes
+  out clean.
 
 Source: <http://www.pumpkinpatchesandmore.org/pumpkinpie.php>
 

@@ -8,11 +8,8 @@ tags: sauce thanksgiving berries fruit
 ---
 12 oz. cranberries (fresh or frozen)  
 1 cup sugar  
-lemon zest  
-2 Tbsp. water  
-
-  * Reserve 1/2 cup of cranberries.
-  * Heat remaining ingredients over low heat for 10 minutes.
-  * Increase heat to high, and cook until cranberries burst (about 10 minutes).
-  * Reduce heat to low, add reserved cranberries, and cool to room temperature.
-
+lemon or orange zest  
+2 tbsp. water  
+* heat all ingredients over low heat until sugar is dissolved, about 10 minutes.
+* increase heat to medium and cook until cranberries burst, about 10 minutes.
+* remove from heat and cool to room temperature.

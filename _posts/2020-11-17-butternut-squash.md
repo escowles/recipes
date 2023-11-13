@@ -7,7 +7,7 @@ category: sides
 tags: vegetable squash thanksgiving thanksgiving2020
 ---
 
-1 butternut squash
+1 butternut squash  
 2 Tbsp. olive oil  
 2 cloves garlic  
 salt and pepper  
