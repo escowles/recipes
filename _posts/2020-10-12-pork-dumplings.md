@@ -2,10 +2,25 @@
 layout: post
 title: Pork Dumplings
 date: 2020-10-12 14:07:58 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2023-11-18 16:36:24 -0500
 category: main
 tags: chinese meat pork appetizer asian
 ---
+
+**wrappers:**
+
+500g flour  
+260ml water  
+* mix until combined, then knead into a dough
+* rest for 15 minutes, then knead again until the dough is smooth
+* rest 60 minutes until the dough is soft
+* divide dough into 8 sections
+* take one section and keep the rest covered to prevent drying out
+* roll the section of dough into a rope and cut into 8 pieces
+* press each piece into the palm of your hand, then roll into a thin disk
+
+**filling:**
+
 1 lb. ground pork  
 3 cloves garlic, minced  
 1 egg, beaten  
@@ -37,4 +52,6 @@ tags: chinese meat pork appetizer asian
 
 * Mix together in a small bowl and serve as a dipping sauce
 
-Source: <https://www.allrecipes.com/recipe/228052/chinese-pork-dumplings/> and <https://www.allrecipes.com/recipe/82204/chinese-egg-dumplings/>
+Source: <https://www.allrecipes.com/recipe/228052/chinese-pork-dumplings/>,
+        <https://www.allrecipes.com/recipe/82204/chinese-egg-dumplings/>, and
+        <https://redhousespice.com/homemade-dumpling-wrappers/>
