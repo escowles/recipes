@@ -2,9 +2,10 @@
 layout: post
 title: Yeast Rolls
 date: 2016-11-20 13:37:20 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2023-11-18 09:11:50 -0500
 category: sides
 tags: bread thanksgiving rolls thanksgiving2020
+status: deprecated
 ---
 1 cup plus 2 Tbsp. water  
 1/3 cup oil  
