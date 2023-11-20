@@ -3,7 +3,7 @@ layout: post
 title: memphis dry rub
 date: 2020-12-27 18:39:52 -0500
 last_modified_at: 2022-06-19 10:11:20 -0400
-category: ingredients
+category: other
 tags: bbq sauce
 ---
 

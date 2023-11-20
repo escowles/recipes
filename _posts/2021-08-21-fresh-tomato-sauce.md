@@ -3,7 +3,7 @@ layout: post
 title: fresh tomato sauce
 date: 2021-08-21 07:04:38 -0400
 last_modified_at: 2022-06-19 10:11:20 -0400
-category: ingredients
+category: other
 tags: tomato sauce italian nytimes
 ---
 

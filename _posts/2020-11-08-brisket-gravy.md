@@ -3,7 +3,7 @@ layout: post
 title: brisket gravy
 date: 2020-11-08 18:11:17 -0500
 last_modified_at: 2022-06-19 10:11:19 -0400
-category: ingredients
+category: other
 tags: sauce gravy brisket southern
 ---
 

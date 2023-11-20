@@ -3,7 +3,7 @@ layout: post
 title: Big Al's KC Barbecue Sauce
 date: 2015-07-22 10:18:36 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
-category: ingredients
+category: other
 tags: bbq sauce southern
 ---
 

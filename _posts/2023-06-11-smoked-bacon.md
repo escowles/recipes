@@ -3,7 +3,7 @@ layout: post
 title: smoked bacon
 date: 2023-06-11 13:18:37 -0400
 last_modified_at: 2023-06-11 13:24:51 -0400
-category: ingredients
+category: other
 tags: meat pork bacon
 ---
 

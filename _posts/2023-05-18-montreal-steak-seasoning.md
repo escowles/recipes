@@ -3,7 +3,7 @@ layout: post
 title: montreal steak seasoning
 date: 2023-05-18 10:50:14 -0400
 last_modified_at: 
-category: ingredients
+category: other
 tags: spice
 ---
 

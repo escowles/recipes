@@ -3,7 +3,7 @@ layout: post
 title: Chili Paste / Harissa
 date: 2016-10-16 16:00:40 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
-category: ingredients
+category: other
 tags: middleeast sauce spice
 ---
 4 oz. dried chilies (or 8 oz. fresh)  

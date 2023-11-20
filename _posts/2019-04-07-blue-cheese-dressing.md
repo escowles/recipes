@@ -3,7 +3,7 @@ layout: post
 title: Blue Cheese Dressing
 date: 2019-04-07 19:58:42 -0500
 last_modified_at: 2022-06-19 10:11:19 -0400
-category: ingredients
+category: other
 tags: bluecheese saladdressing cheese dairy sourcream
 ---
 1/2 cup mayonnaise  

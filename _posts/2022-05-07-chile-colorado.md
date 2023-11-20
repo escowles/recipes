@@ -3,7 +3,7 @@ layout: post
 title: chile colorado
 date: 2022-05-07 18:29:23 -0400
 last_modified_at: 2022-05-07 18:34:32 -0400
-category: ingredients
+category: other
 tags: mexican sauce
 ---
 

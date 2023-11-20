@@ -3,7 +3,7 @@ layout: post
 title: Tahini Sauce
 date: 2017-10-31 17:37:02 -0500
 last_modified_at: 2022-06-19 10:11:18 -0400
-category: ingredients
+category: other
 tags: middleeast sauce tahini
 ---
 1/2 tsp. garlic powder  

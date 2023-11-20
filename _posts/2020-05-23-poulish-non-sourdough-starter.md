@@ -3,7 +3,7 @@ layout: post
 title: Poulish (Non-Sourdough Starter)
 date: 2020-05-23 10:48:02 -0500
 last_modified_at: 2022-06-19 10:11:19 -0400
-category: ingredients
+category: other
 tags: bread vegetarian
 ---
 1 cup flour  

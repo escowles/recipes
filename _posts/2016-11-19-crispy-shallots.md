@@ -3,7 +3,7 @@ layout: post
 title: Crispy Shallots
 date: 2016-11-19 14:27:42 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
-category: ingredients
+category: other
 tags: thanksgiving nytimes
 ---
 1 cup oil  

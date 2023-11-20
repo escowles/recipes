@@ -3,7 +3,7 @@ layout: post
 title: Maple Syrup Marinade
 date: 2016-09-26 11:40:32 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
-category: ingredients
+category: other
 tags: marinade meat
 ---
 2 Tbsp. maple syrup  

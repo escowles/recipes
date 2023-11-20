@@ -3,7 +3,7 @@ layout: post
 title: peppermint syrup
 date: 2020-12-20 18:41:58 -0500
 last_modified_at: 2022-06-19 10:11:20 -0400
-category: ingredients
+category: other
 tags: xmas drinks cocktails mint
 ---
 

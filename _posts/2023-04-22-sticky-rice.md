@@ -3,7 +3,7 @@ layout: post
 title: sticky rice
 date: 2023-04-22 16:52:05 -0400
 last_modified_at: 2023-04-22 16:58:57 -0400
-category: ingredients
+category: other
 tags: asian japanese rice
 ---
 

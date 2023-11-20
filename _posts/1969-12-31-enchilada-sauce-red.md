@@ -3,7 +3,7 @@ layout: post
 title: Enchilada Sauce (Red)
 date: 1969-12-31 19:00:00 -0500
 last_modified_at: 2022-06-19 10:11:15 -0400
-category: ingredients
+category: other
 tags: mexican sauce
 ---
 580 Cal (4x 145)

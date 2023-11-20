@@ -3,7 +3,7 @@ layout: post
 title: xmas goose stock
 date: 2020-12-27 09:40:39 -0500
 last_modified_at: 2022-06-19 10:11:20 -0400
-category: ingredients
+category: other
 tags: goose soup meat xmas
 ---
 

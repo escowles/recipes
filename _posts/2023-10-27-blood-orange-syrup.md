@@ -3,7 +3,7 @@ layout: post
 title: blood orange syrup
 date: 2023-10-27 07:47:40 -0400
 last_modified_at: 2023-10-27 07:51:09 -0400
-category: ingredients
+category: other
 tags: syrup cocktails drinks fruit orange
 ---
 

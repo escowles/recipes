@@ -3,7 +3,7 @@ layout: post
 title: WaPo Queso
 date: 2020-08-07 11:29:48 -0500
 last_modified_at: 2023-09-05 19:55:59 -0400
-category: ingredients
+category: other
 tags: cheese dairy dip mexican appetizer
 status: deprecated
 ---

@@ -3,7 +3,7 @@ layout: post
 title: vegan green goddess salad dressing
 date: 2023-08-13 16:31:50 -0400
 last_modified_at: 2023-08-14 10:30:25 -0400
-category: ingredients
+category: other
 tags: vegan salad sauce TomV
 status: confirmed
 ---

@@ -3,7 +3,7 @@ layout: post
 title: ranchero sauce
 date: 2023-01-22 11:16:30 -0500
 last_modified_at: 2023-01-29 09:38:56 -0500
-category: ingredients
+category: other
 tags: mexican salsa tomato vegetarian
 ---
 
