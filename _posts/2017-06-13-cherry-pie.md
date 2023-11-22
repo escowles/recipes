@@ -2,10 +2,12 @@
 layout: post
 title: Cherry Pie
 date: 2017-06-13 12:04:47 -0500
-last_modified_at: 2022-06-19 09:47:06 -0400
+last_modified_at: 2023-11-22 15:06:35 -0500
 category: dessert
 tags: cherry fruit pie
 ---
+**filling:**
+
 2 lbs. fresh Montmorency cherries (4 cups)  
 juice from 1/4 lime  
 1 cup sugar  
@@ -13,19 +15,28 @@ juice from 1/4 lime
 1/4 tsp. almond extract  
 1/8 tsp. cinnamon  
 * Rinse cherries to remove any stems or other detritus
-* Pit cherries by hand (push pit through skin with thumb) over a large mixing bowl, collecting juice and discarding pits
+* Pit cherries by hand (push pit through skin with thumb) over a large mixing bowl,
+  collecting juice and discarding pits
 * Heat cherries, cherry juice, and lime juice in a saucepan until simmering
 * In a small bowl, mix sugar and corn starch, breaking up lumps
 * Remove cherries from heat, add sugar mixture, and mix well
-* Return cherries heat and simmer while stirring until thickened
+* Return cherries to the heat and simmer while stirring until thickened
 * Remove from heat, mix in almond extract and cinnamon, and let cool
-* While filling is cooling, make two standard [pie crusts]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
-* Line a pie dish with the first crust, and chill while making the second crust
-* Fill pie, top with second crust (lattice or cutouts optional), cut crust to fit pie dish and crimp edges to seal
-* Chill pie for 30 minutes to help crust retain its shape
+
+**pie:**
+
+1 egg  
+2 tbsp. water  
+2 [pie crusts]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})  
+* Beat egg with water to make an egg wash
+* Line a pie dish with the first crust and brush with egg wash
+* Fill with cherry filling and top with second crust (lattice or cutouts optional)
+* Cut crust to fit pie dish, crimp edges to seal, and brush top crust with egg wash
 * If using a whole top crust, cut slits to vent steam
-* Top with with a crust protector and bake over a cookie sheet at 375°F for 35 minutes
-* Remove crust protector and bake an additional 15 minutes
+* Chill pie for 30 minutes to help crust retain its shape
+* Bake at 375°F for 20 minutes, then top with with a crust protector to prevent
+  edge from over-browning
+* Bake an additional 30 minutes, until filling is bubbling
 * Allow to cool completely before slicing
 
 Source: <http://www.foodnetwork.com/recipes/cherry-pie-recipe-1913275>
