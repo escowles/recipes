@@ -1,5 +1,8 @@
 ---
 title: dessert
-layout: category
-category: dessert
+layout: default
 ---
+
+<h1>{{ page.title }}</h1>
+{% assign posts = site.categories.dessert %}
+{%- include table.html -%}

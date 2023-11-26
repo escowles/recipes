@@ -5,8 +5,6 @@ layout: default
 # tags
 {% assign sorted_tags = site.tags | sort %}
 
-{% include deprecated.html %}
-
 <ul class="taglist">
 {% for tag in sorted_tags %}
   {% assign tag_name = tag | first %}
