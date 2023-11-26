@@ -1,8 +1,44 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-{% include search.html %}
-{% include deprecated.html %}
+<script>
+  var opts = { order: [[1, 'desc']], pageLength: 100 };
+  $(document).ready( function() { $('#example').DataTable(opts); } );
+</script>
+
+<table id="example" class="display">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Date</th>
+      <th>Category</th>
+      <th>Tags</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
+    {%- for post in site.posts -%}
+      <tr>
+        <td>
+          <a href="{{ post.url | relative_url }}">
+            {% if post.status == "deprecated" %}<s>{% endif %}
+            {% if post.status == "draft" %}<i>{% endif %}
+            {{ post.title | escape }}
+            {% if post.status == "draft" %}</i>{% endif %}
+            {% if post.status == "deprecated" %}</s>{% endif %}
+          </a>
+        </td>
+        <td><span class="home-meta">{{ post.date | date: date_format }}</span></td>
+        <td><span class="home-meta">{{ post.category }}</span></td>
+        <td><span class="home-meta">
+{% assign sorted_tags = post.tags | sort %}
+{% for tag in sorted_tags %}
+  #{{tag}}
+{% endfor %}
+        </span></td>
+      </tr>
+    {%- endfor -%}
+  </tbody>
+</table>
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>

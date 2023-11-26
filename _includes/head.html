@@ -7,49 +7,8 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
-
-  <script>
-    function jsearch() {
-      var q = document.getElementById("q").value.toLowerCase();
-      var items = document.getElementsByTagName("li");
-      for ( var i = 0; i < items.length; i++ ) {
-        var item = items[i];
-        var text = item.innerText.toLowerCase();
-        if ( q == "" || text.includes(q) ) {
-          item.style.display = "block";
-        } else {
-          item.style.display = "none";
-        }
-      }
-    }
-
-    function xser(event) {
-      if (event.key == 'Enter') {
-        document.activeElement.blur();
-        return false;
-      } else {
-        return true;
-      }
-    }
-
-    function showdep() {
-      var deprecated = document.getElementsByTagName("s");
-      for ( var i = 0; i < deprecated.length; i++ ) {
-        deprecated[i].style.display = "block";
-      }
-      document.getElementById("showbtn").disabled = true;
-      document.getElementById("hidebtn").disabled = false;
-    }
-    function hidedep() {
-      var deprecated = document.getElementsByTagName("s");
-      for ( var i = 0; i < deprecated.length; i++ ) {
-        deprecated[i].style.display = "none";
-      }
-      document.getElementById("showbtn").disabled = false;
-      document.getElementById("hidebtn").disabled = true;
-    }
-  </script>
+  <!-- datatables -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
 </head>
