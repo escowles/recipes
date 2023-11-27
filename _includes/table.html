@@ -1,12 +1,12 @@
 <script>
-  var opts = { order: [[1, 'desc']], pageLength: 100 };
+  var opts = { "order": [[1, 'desc']], "pageLength": 100, "responsive": true };
   $(document).ready( function() { $('#example').DataTable(opts); } );
 </script>
 
 <table id="example" class="display">
   <thead>
     <tr>
-      <th>Title</th>
+      <th data-priority="1">Title</th>
       <th>Date</th>
       <th>Category</th>
       <th>Tags</th>
