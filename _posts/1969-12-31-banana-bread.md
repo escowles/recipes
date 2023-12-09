@@ -2,32 +2,35 @@
 layout: post
 title: Banana Bread
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2023-12-09 07:07:58 -0500
 category: sides
 tags: bread fruit banana bettycrocker
 ---
-1 1/2 cups mashed ripe bananas (2 or 3 medium)  
+1 1/2 cups mashed ripe bananas (355ml, 2 or 3 medium, the riper the better (you can mash and freeze overripe bananas and thaw them as needed))  
 1 egg  
-1/2 cup milk (177ml)  
-* in a large bowl, mash banana, beat in egg, and mix in milk
+1/2 cup milk (120ml)  
+2 Tbsp. neutral vegetable oil (30ml)  
+* in a small bowl, mash banana, beat in egg, and mix in milk and oil
 
 2 1/2 cups flour (355g)  
-1 cup sugar (198g)  
+1 cup sugar (200g)  
 1 Tbsp. baking powder (14g)  
 1 tsp. salt (5g)  
-2 Tbsp. vegetable oil (45ml)  
-* combine dry ingredients in a separate bowl, mix, then add to wet ingredients
-* Pour into greased and floured bread pan(s).
-* Bake at 375°F for 55-65 minutes, until wooden pick comes out clean.
-* Makes 4 cups of batter.
+* combine dry ingredients in a large bowl, mix, then add wet ingredients
+* fold to combine until there is no more uncombined flour
+* pour into greased and floured bread pan(s)
+* bake at 375°F for 55-65 minutes, until wooden pick comes out clean
+* makes 4 cups of viscous batter
 
-Approx. baking times and calorie counts:
+Approx. baking times:
 * 4-cup loaf: 75+ minutes
 * 2-cup loaf: 55 minutes
 * 1 1/2-cup loaf: 50 minutes
 
-Source: Betty Crocker (1981 ed.)
+source: Betty Crocker (1981 ed.)
 
 ---
 
-2021-10-05: Updated banana and other measurements to what I've been doing recently.
+10/05/2021: Updated banana and other measurements to what I've been doing recently.
+
+12/09/2023: Fixed metric units and moved oil to wet ingredients where it belongs.
