@@ -1,5 +1,6 @@
 <script>
-  var opts = { "order": [[1, 'desc']], "pageLength": 100, "responsive": true };
+  var params = new URLSearchParams(window.location.search);
+  var opts = { "order": [[1, 'desc']], "pageLength": 100, "responsive": true, search: { search: params.get('q') } };
   $(document).ready( function() { $('#example').DataTable(opts); } );
 </script>
 
