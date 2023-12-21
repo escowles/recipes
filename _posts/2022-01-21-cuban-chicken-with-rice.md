@@ -2,7 +2,7 @@
 layout: post
 title: cuban chicken with rice
 date: 2022-01-21 18:47:40 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2023-12-21 09:47:58 -0500
 category: main
 tags: cuban latin meat chicken instantpot
 ---
@@ -48,4 +48,35 @@ juice from 1 lime
 * close lid and let olives and peas warm up for 3 minutes
 * top with lime juice and serve
 
-source: <https://www.feastingathome.com/instant-pot-arroz-con-pollo/?utm_source=pocket_mylist#tasty-recipes-25461-jump-target>
+source: <https://www.feastingathome.com/instant-pot-arroz-con-pollo/>
+
+---
+
+12/14/23: rice mix variant:
+
+1.5 lbs. chicken breast, cut into large chunks  
+juice from 1 lime  
+2 cloves garlic, minced  
+1 chipotle in adobo, chopped  
+1 tsp. salt  
+1 tsp. oregano  
+1/4 cup cooking sherry  
+* mix all ingredients in ziplock bag and marinate for a few hours
+
+2 tbsp. olive oil  
+1/2 onion, diced  
+2 cloves garlic  
+* saute until tender, about 5 minutes
+* add chicken with marinade and saute until browned, about 5 minutes
+
+2 cups boiling water  
+1 can diced tomatoes, drained  
+9 oz. package vigo yellow rice  
+* add water and tomatoes and bring to a boil
+* add tomatoes and rice mix and mix well
+* reduce heat and cover, simmering for 20-25 minutes until rice is tender and
+  has soaked up excess moisture
+
+**note:** i used 2 1/2 cups water and didn't drain the tomatoes, and it was too
+much moisture. the recipe as written above may be a little dry, so needs monitoring
+to make sure there's enough liquid for the rice
