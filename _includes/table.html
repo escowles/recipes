@@ -14,6 +14,7 @@
     </tr>
   </thead>
   <tbody>
+    {%- assign base_url = page.url | relative_url -%}
     {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
     {%- for post in posts -%}
       <tr>
@@ -27,12 +28,17 @@
           </a>
         </td>
         <td><span class="home-meta">{{ post.date | date: date_format }}</span></td>
-        <td><span class="home-meta">{{ post.category }}</span></td>
+        <td>
+          <span class="home-meta">
+            {% assign cat_url = post.category | prepend: "/" | relative_url %}
+            <a href="{{ cat_url }}">{{ post.category }}</a>
+          </span>
+        </td>
         <td>
           <span class="home-meta">
             {% assign sorted_tags = post.tags | sort %}
             {% for tag in sorted_tags %}
-              #{{tag}}
+              <a href="{{ base_url }}?q={{ tag }}">#{{tag}}</a>
             {% endfor %}
           </span>
         </td>

@@ -22,15 +22,15 @@ layout: default
       {%- endif -%}</p>
       {% comment %} changes start {% endcomment %}
       {%- if page.category -%}
-        {% assign page_cat = page.category | prepend: "/" %}
-        {% assign tag_url = "/tags" | relative_url %}
+        {% assign cat_url = page.category | prepend: "/" | relative_url %}
+        {% assign tag_url = "/" | relative_url %}
         
-        <b><a href="{{ page_cat | relative_url }}">{{ page.category }}</a></b>
+        <b><a href="{{ cat_url }}">{{ page.category }}</a></b>
         {%- if page.tags -%}
           {% assign sorted_tags = page.tags | sort %}
           |
           {% for tag in sorted_tags %}
-            <a href="{{ tag_url }}#{{ tag }}">{{ tag }}</a>
+            <a href="{{ tag_url }}?q={{ tag }}">{{ tag }}</a>
           {% endfor %}
         {%- endif -%}
       {%- endif -%}</p>
