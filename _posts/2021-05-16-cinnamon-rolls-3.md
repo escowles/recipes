@@ -2,7 +2,7 @@
 layout: post
 title: "cinnamon rolls #3"
 date: 2021-05-16 06:11:59 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-01-01 10:39:29 -0500
 category: dessert
 tags: bread breakfast cinnamon
 ---
@@ -33,7 +33,7 @@ tags: bread breakfast cinnamon
 * roll into a tight roll and slice into 9 or 12 rolls
 * put rolls in buttered pan, cover, and let rise for 30-60 minutes
 * optional: refrigerate overnight before rising, and warm up in a 130°F oven in the morning
-* bake at 350°F for 20-25 minutes, until lightly golden, then cool in pan for 15 minutes
+* bake at 350°F for 22-25 minutes, until lightly golden, then cool in pan for 15 minutes
 
 **icing:**
 
