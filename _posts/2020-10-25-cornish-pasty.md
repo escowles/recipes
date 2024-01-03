@@ -2,7 +2,7 @@
 layout: post
 title: Cornish Pasty
 date: 2020-10-25 11:42:04 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-01-02 19:40:38 -0500
 category: main
 tags: british meat pie beef
 ---
@@ -47,3 +47,22 @@ pats of butter (I did the flour and skipped the butter). So I could just follow 
 recipe next time, or add some chicken stock to make the filling more moist. I also
 think that adding more salt, and some herbs could go a long way to make the flavor
 richer.
+
+**01/02/2023**: tried some modifications to address the issues from 10/27/2020:
+* made 1.5x the dough
+* reduced onion and carrot to 6 oz.
+* used 90/10 ground beef, but forgot the butter again
+* used 2 tsp. salt, 3/4 tsp. black pepper, 1/4 tsp. white pepper, 1/4 tsp. nutmeg,
+  1/2 tsp. thyme, and 1/4 tsp. coriander
+* the dough was an even multiple of 3, so i made three large pasties, rolled out to
+  about 9-10", and used 1 1/3 cups filling
+* i shaped the filling into a log in the middle of the dough disc, and folded the
+  sides up like a taco, and sealed on top (squishing filling in to be able to close
+  the top, which let me get a lot more filling in)
+
+the resulting pasties were better, but still had some issues:
+* they were much too large, should make at least 4, and 6 would probably be best
+* they leaked juices, so adding another Tbsp. of flour would probably help, and 
+  the butter is definitely not needed (unless using super lowfat beef or lean steak)
+* the nutmeg was too much, and the salt level was a little low, so i would do one
+  tbsp. of salt, and no nutmeg
