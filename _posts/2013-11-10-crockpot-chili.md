@@ -2,7 +2,7 @@
 layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
-last_modified_at: 2023-11-06 16:58:30 -0500
+last_modified_at: 2024-01-06 17:23:20 -0500
 category: main
 tags: meat mexican crockpot beans beef
 ---
@@ -10,9 +10,9 @@ tags: meat mexican crockpot beans beef
 1 onion, diced  
 1 poblano or bell pepper , diced  
 2 cloves garlic, minced (or 1 tsp. of garlic powder)  
-15 oz. tomatoes, diced  
-15 oz. refried beans  
-1 tbsp. brown sugar  
+1 can (15 oz.) tomatoes, diced  
+1 can (15 oz.) refried beans  
+1 tbsp. brown sugar (optional)  
 1 1/2 tsp. salt  
 1 tsp. chile powder (e.g. jalapeno or new mexico)  
 1/2 tsp. cumin  
@@ -21,6 +21,13 @@ tags: meat mexican crockpot beans beef
 * brown beef, with onion and peppers and add to crockpot.
 * add remaining ingredients to crockpot and cook on low for 8 hours,
   stirring occasionally.
+
+**stovetop version:**
+
+* brown beef, with onion and peppers, then add remaining ingredients
+* add 1 cup of water and reduce heat to a simmer, loosely covered (may need to use
+  a smaller burner to get to a low simmer)
+* simmer for 60-90 minutes, stirring occasionally
 
 ---
 
