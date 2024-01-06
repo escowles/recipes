@@ -2,7 +2,7 @@
 layout: post
 title: devil's food cake
 date: 2024-01-06 18:33:28 -0500
-last_modified_at: 2024-01-06 18:47:04 -0500
+last_modified_at: 2024-01-06 18:50:21 -0500
 category: dessert
 tags: cake chocolate american bravetart
 status: draft
@@ -26,8 +26,8 @@ status: draft
 6 oz. flour  
 2 tsp. baking soda  
 * add remaining ingredients and mix well
-* divide into two greased, parchment-lined 8" cake dishes (about 23 oz. each)
-* bake at 350°F for 30 minutes, until firm and internal temperature is 210°F)
+* divide into two greased, parchment-lined 8" cake pans (about 23 oz. each)
+* bake at 350°F for 30 minutes, until firm and internal temperature is 210°F
 * cool completely before frosting
 
 **milk chocolate frosting:**
