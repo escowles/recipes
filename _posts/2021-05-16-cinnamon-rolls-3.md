@@ -2,9 +2,9 @@
 layout: post
 title: "cinnamon rolls #3"
 date: 2021-05-16 06:11:59 -0400
-last_modified_at: 2024-01-01 10:39:29 -0500
+last_modified_at: 2024-01-07 10:59:38 -0500
 category: dessert
-tags: bread breakfast cinnamon
+tags: bread breakfast cinnamon favorite
 ---
 
 **dough:**

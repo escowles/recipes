@@ -2,9 +2,9 @@
 layout: post
 title: french toast
 date: 2023-10-16 07:15:20 -0400
-last_modified_at: 2023-10-16 07:19:45 -0400
+last_modified_at: 2024-01-07 10:59:38 -0500
 category: sides
-tags: bread breakfast
+tags: bread breakfast favorite
 ---
 
 3 eggs  
@@ -25,4 +25,3 @@ source: adapted from Betty Crocker
 10/16/2023: noticed i didn't have this recipe despite making it frequently since the
 80s. one change i made was slightly adjusting the egg/milk/vanilla ratio to make it
 easy to scale to 4/8/12 slices as needed.
-to 
