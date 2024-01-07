@@ -2,9 +2,9 @@
 layout: post
 title: Chicken and Dumplings
 date: 2018-12-04 14:50:44 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-01-07 10:45:28 -0500
 category: main
-tags: chicken soup southern meat
+tags: chicken soup southern meat favorite
 ---
 1 tbsp. butter  
 1.5 lbs. chicken breast  

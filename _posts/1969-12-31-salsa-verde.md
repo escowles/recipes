@@ -2,9 +2,9 @@
 layout: post
 title: Salsa Verde
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2023-08-26 16:23:08 -0400
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: other
-tags: mexican sauce
+tags: mexican sauce favorite
 ---
 180 Cal (12x 15)
 

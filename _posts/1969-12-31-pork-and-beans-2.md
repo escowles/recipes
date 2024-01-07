@@ -2,9 +2,9 @@
 layout: post
 title: Pork and Beans
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: main
-tags: meat pork bacon southern stew beans
+tags: meat pork bacon southern stew beans favorite
 ---
 1940 Cal (4x 485)
   

@@ -2,9 +2,9 @@
 layout: post
 title: Corn Cakes with Black Bean Spread
 date: 2017-03-17 13:08:43 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-01-07 10:45:28 -0500
 category: main
-tags: latin mexican vegetarian corn beans cheese dairy
+tags: latin mexican vegetarian corn beans cheese dairy favorite
 ---
 1 cup masa  
 1/2 tsp. salt  

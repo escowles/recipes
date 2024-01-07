@@ -2,9 +2,9 @@
 layout: post
 title: tonkotsu ramen
 date: 2018-01-04 14:52:28 -0500
-last_modified_at: 2022-07-13 18:51:23 -0400
+last_modified_at: 2024-01-07 10:45:28 -0500
 category: main
-tags: japanese pork soup meat asian
+tags: japanese pork soup meat asian favorite
 ---
 1 tbsp. canola oil  
 leftover pork shoulder (~1 lb.), plus shoulder bone  

@@ -2,9 +2,9 @@
 layout: post
 title: Spinach and Cheddar Souffle
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2023-10-14 18:26:51 -0400
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: main
-tags: vegetarian egg cheese souffle french vegetable dairy barefootcontessa
+tags: vegetarian egg cheese souffle french vegetable dairy barefootcontessa favorite
 time: 60-70 minutes
 ---
 1300 Cal (4x 325)

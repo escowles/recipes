@@ -2,9 +2,9 @@
 layout: post
 title: Shepherd's Pie
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2023-02-09 18:14:58 -0500
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: main
-tags: beef british meat cooksillustrated
+tags: beef british meat cooksillustrated favorite
 time: 80 minutes
 ---
 1860 Cal (4x 465)

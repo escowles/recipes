@@ -2,9 +2,9 @@
 layout: post
 title: peanut butter cookies
 date: 2021-05-03 18:25:21 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-01-07 10:45:28 -0500
 category: dessert
-tags: peanutbutter cookies
+tags: peanutbutter cookies favorite
 ---
 
 1/2 cup (67g) butter, softened  

@@ -2,9 +2,9 @@
 layout: post
 title: Banana Bread
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2023-12-09 07:07:58 -0500
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: sides
-tags: bread fruit banana bettycrocker
+tags: bread fruit banana bettycrocker favorite
 ---
 1 1/2 cups mashed ripe bananas (355ml, 2 or 3 medium, the riper the better (you can mash and freeze overripe bananas and thaw them as needed))  
 1 egg  

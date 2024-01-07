@@ -2,9 +2,9 @@
 layout: post
 title: Chicken and Apricot Tagine
 date: 2016-10-16 15:56:05 -0500
-last_modified_at: 2023-10-30 19:41:43 -0400
+last_modified_at: 2024-01-07 10:45:28 -0500
 category: main
-tags: chicken middleeast moroccan fruit meat chickpeas nytimes
+tags: chicken middleeast moroccan fruit meat chickpeas nytimes favorite
 ---
 1 tbsp. olive oil  
 1 tbsp. cumin  

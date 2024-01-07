@@ -2,9 +2,9 @@
 layout: post
 title: Crockpot Carnitas (Roast Pork)
 date: 2014-09-02 07:51:22 -0500
-last_modified_at: 2023-02-12 18:24:46 -0500
+last_modified_at: 2024-01-07 10:45:28 -0500
 category: main
-tags: meat mexican pork crockpot
+tags: meat mexican pork crockpot favorite
 ---
 3-4 lbs. boneless pork shoulder  
 3 Tbsp. kosher salt  

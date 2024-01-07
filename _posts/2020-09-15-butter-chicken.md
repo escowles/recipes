@@ -2,9 +2,9 @@
 layout: post
 title: Butter Chicken
 date: 2020-09-15 11:04:52 -0500
-last_modified_at: 2023-09-22 20:18:54 -0400
+last_modified_at: 2024-01-07 10:45:28 -0500
 category: main
-tags: indian meat chicken asian flexitarian
+tags: indian meat chicken asian flexitarian favorite
 ---
 1.5 lbs. chicken breast  
 1/2 cup plain yogurt  

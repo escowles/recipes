@@ -2,9 +2,9 @@
 layout: post
 title: Fettucine Alfredo
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2023-12-21 18:10:22 -0500
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: main
-tags: sauce italian dairy cheese cooksillustrated
+tags: sauce italian dairy cheese cooksillustrated favorite
 ---
 1 lb. dry fettucine  
 * cook following directions on package, but 1 minute less than al dente time

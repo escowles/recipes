@@ -2,9 +2,9 @@
 layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
-last_modified_at: 2024-01-06 17:23:20 -0500
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: main
-tags: meat mexican crockpot beans beef
+tags: meat mexican crockpot beans beef favorite
 ---
 1 lb. ground beef  
 1 onion, diced  

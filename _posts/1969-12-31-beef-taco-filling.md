@@ -2,9 +2,9 @@
 layout: post
 title: Beef Taco Filling
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-01-07 10:45:27 -0500
 category: main
-tags: beef meat mexican
+tags: beef meat mexican favorite
 ---
 800 Cal (4x 200)
   
