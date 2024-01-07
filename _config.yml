@@ -31,6 +31,13 @@ plugins:
   - jekyll-feed
   - jekyll-last-modified-at
   - jekyll-sitemap
+header_pages:
+  - dessert.md
+  - main.md
+  - sides.md
+  - other.md
+  - favorites.md
+  - tags.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

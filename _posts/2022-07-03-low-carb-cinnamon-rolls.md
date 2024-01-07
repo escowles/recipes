@@ -55,6 +55,6 @@ source: <https://swervesweet.com/recipes/cinnamon-rolls>
 were not necessarily the fault of the recipe though:
 * the dough did not rise at all, maybe the yeast is off?
 * i added 4 Tbsp. of butter instead of 3 to the glaze, and it wound up like whipped
-  cream. should have adapted [cinnamon rolls #3 glaze]({{ site.baseurl }}{%
-    post_url 2021-05-16-cinnamon-rolls-3 %}) instead.
+  cream. should have adapted [cinnamon rolls glaze]({{ site.baseurl }}{%
+    post_url 2021-05-16-cinnamon-rolls %}) instead.
 * a little bit more salt might have improved the filling and glaze, too.

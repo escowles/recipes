@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cinnamon rolls #3"
+title: cinnamon rolls
 date: 2021-05-16 06:11:59 -0400
 last_modified_at: 2024-01-07 10:59:38 -0500
 category: dessert
@@ -35,6 +35,8 @@ tags: bread breakfast cinnamon favorite
 * optional: refrigerate overnight before rising, and warm up in a 130°F oven in the morning
 * bake at 350°F for 22-25 minutes, until lightly golden, then cool in pan for 15 minutes
 
+*note:* you can also use nutella instead of the cinnamon filling.
+
 **icing:**
 
 100g (3 1/2 oz.) cream cheese, softenened  
@@ -46,3 +48,8 @@ tags: bread breakfast cinnamon favorite
 * add salt and powdered sugar and mix until smooth
 
 source: based on [cranberry orange cinnamon rolls]({{ site.baseurl }}{% post_url 2020-12-10-cranberry-orange-cinnamon-rolls %})
+
+---
+
+01/07/2023: doing some cleanup and removing the "#3" from the title — these are the cinnamon rolls
+i make all the time and they should be just "cinnamon rolls".
