@@ -2,9 +2,9 @@
 layout: post
 title: salmon sous vide
 date: 2020-12-27 18:48:35 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-01-07 16:20:35 -0500
 category: main
-tags: asian meat fish salmon sous-vide
+tags: asian meat fish salmon sous-vide favorite
 ---
 
 1.5 lbs. salmon fillet  

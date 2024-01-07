@@ -2,9 +2,9 @@
 layout: post
 title: Enchilada Sauce (New Mexico)
 date: 2014-02-22 09:36:28 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2024-01-07 16:20:35 -0500
 category: other
-tags: mexican sauce
+tags: mexican sauce favorite
 ---
 2 cups, 372 Cal (4x 93)
   

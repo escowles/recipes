@@ -28,6 +28,7 @@
             {% if post.status == "deprecated" %}<s>{% endif %}
             {% if post.status == "draft" %}<i>{% endif %}
             {{ post.title | escape }}
+            {% if post.tags contains "favorite" %}&starf;{% endif %}
             {% if post.status == "draft" %}</i>{% endif %}
             {% if post.status == "deprecated" %}</s>{% endif %}
           </a>
