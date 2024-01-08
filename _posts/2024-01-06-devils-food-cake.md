@@ -28,6 +28,8 @@ status: draft
 * add remaining ingredients and mix well
 * divide into two greased, parchment-lined 8" cake pans (about 23 oz. each)
 * bake at 350°F for 30 minutes, until firm and internal temperature is 210°F
+* or fill cupcake liners with 1.75 oz. of batter and bake at 350°F for 15 minutes (makes 24-27
+  cupcakes)
 * cool completely before frosting
 
 **milk chocolate frosting:**
