@@ -44,3 +44,18 @@ status: draft
 * use to frost cakes immediately (1 cup between layers, rest over top and sides)
 
 source: [Bravetart](https://www.amazon.com/BraveTart-American-Desserts-Stella-Parks/dp/0393239861), p. 124-127
+
+---
+
+01/18/2024: the cake was perfect, but the frosting was trouble (over-chilling according to
+instructions made it split, so i had to melt it and re-mix) and didn't taste as good as i wanted
+(not sweet enough, not chocolatey enough). it also made way too much for cupcakes. next time:
+
+8 oz. cream  
+1 tbsp. sugar  
+8 oz. dark/72% chocolate, chopped  
+1/4 tsp. kosher salt  
+* warm cream and sugar over medium heat until steaming and the sugar is fully dissolved
+* pour cream over chocolate, whisk until smooth, then stir in salt
+* cool to room temperature
+* whisk in stand mixer until thick and silky, but do not overmix or it will split
