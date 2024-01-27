@@ -2,12 +2,12 @@
 layout: post
 title: creamy lemon asparagus pasta
 date: 2022-03-21 19:06:57 -0400
-last_modified_at: 2023-02-05 13:25:43 -0500
+last_modified_at: 2024-01-27 07:29:48 -0500
 category: main
 tags: pasta vegetarian italian rainbowplantlife
 ---
 
-12-16 oz. spaghetti, linguine, or fettucine  
+12-16 oz. spaghetti, linguine, or fettuccine  
 * boil following package directions for al dente (do not use more water than needed
   to make sure the pasta water is starchy enough)
 * drain and set aside while making the sauce, reserving 1 cup of liquid
