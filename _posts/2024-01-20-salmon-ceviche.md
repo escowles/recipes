@@ -2,7 +2,7 @@
 layout: post
 title: salmon ceviche
 date: 2024-01-20 16:53:06 -0500
-last_modified_at: 2024-01-20 17:09:07 -0500
+last_modified_at: 2024-01-28 10:22:48 -0500
 category: main
 tags: fish meat salmon mexican sous-vide
 status: draft
@@ -31,3 +31,10 @@ salt and lime juice, to taste
 * serve with tortilla chips or crackers
 
 source: <https://www.culinaryhill.com/salmon-ceviche/>
+
+---
+
+01/28/2023: made this last week and it was fine, but sous-videing the salmon made
+it more cooked in texture than raw. it was also pretty monolithic as a meal. i
+combined the leftovers with orzo to make a pasta salad that was well-received. next
+time i would plan on that, and just use canned salmon for convenience and cost.
