@@ -2,7 +2,7 @@
 layout: post
 title: peruvian roast chicken
 date: 2024-01-22 11:16:17 -0500
-last_modified_at: 2024-01-28 21:21:00 -0500
+last_modified_at: 2024-02-03 14:30:18 -0500
 category: main
 tags: meat chicken peruvian
 status: confirmed
@@ -29,21 +29,21 @@ juice from 2 limes
 
 **green sauce:**
 
-2 serranos, seeded and roughly chopped  
-1 cup fresh cilantro leaves  
-2 cloves garlic, roughly chopped  
-1/4 cup mayonnaise  
-1/4 cup sour cream  
-juice from 1/2 a lime  
-1/2 tsp. salt  
-1/8 tsp. black pepper  
-2 tbsp. olive oil  
-* puree all ingredients except olive oil
-* with blender running, slowly drizzle in olive oil
-* the sauce will be runny, but will thicken
+1/4 cup mayo  
+1 cup cilantro, large stems removed  
+1 serrano, seeded and chopped (seeds and ribs reserved)  
+1 clove garlic, chopped  
+1/2 oz. parmesan cheese  
+juice from 1/2 lime  
+1/4 tsp. salt  
+* blend in food processor to desired consistency
+* add serrano pith and ribs to increase heat, or olive oil to reduce heat, or
+  lime juice and salt to increase intensity
+* chill until chicken is ready
 
-source: <https://www.onceuponachef.com/recipes/peruvian-style-roast-chicken-with-green-sauce.html> 
-    and <https://cooking.nytimes.com/recipes/1018974-peruvian-roasted-chicken-with-spicy-cilantro-sauce>
+source: <https://www.onceuponachef.com/recipes/peruvian-style-roast-chicken-with-green-sauce.html>,
+    <https://cooking.nytimes.com/recipes/1018974-peruvian-roasted-chicken-with-spicy-cilantro-sauce>,
+    and <https://cookieandkate.com/aji-verde-recipe/>
 
 ---
 
