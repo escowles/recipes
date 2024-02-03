@@ -2,7 +2,7 @@
 layout: post
 title: peruvian roast chicken
 date: 2024-01-22 11:16:17 -0500
-last_modified_at: 2024-02-03 14:30:18 -0500
+last_modified_at: 2024-02-03 15:08:31 -0500
 category: main
 tags: meat chicken peruvian
 status: confirmed
@@ -30,13 +30,15 @@ juice from 2 limes
 **green sauce:**
 
 1/4 cup mayo  
-1 cup cilantro, large stems removed  
+1 cup cilantro (1.5 oz.), large stems removed  
 1 serrano, seeded and chopped (seeds and ribs reserved)  
 1 clove garlic, chopped  
-1/2 oz. parmesan cheese  
+4 tsp. (1/2 oz.) parmesan cheese  
 juice from 1/2 lime  
 1/4 tsp. salt  
-* blend in food processor to desired consistency
+1 tbsp. olive oil  
+* blend all ingredients except olive oil in food processor
+* while running, drizzle in olive oil  
 * add serrano pith and ribs to increase heat, or olive oil to reduce heat, or
   lime juice and salt to increase intensity
 * chill until chicken is ready
