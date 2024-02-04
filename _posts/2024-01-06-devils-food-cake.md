@@ -2,7 +2,7 @@
 layout: post
 title: devil's food cake
 date: 2024-01-06 18:33:28 -0500
-last_modified_at: 2024-01-06 18:50:21 -0500
+last_modified_at: 2024-02-04 12:01:53 -0500
 category: dessert
 tags: cake chocolate american bravetart
 status: draft
@@ -29,7 +29,7 @@ status: draft
 * divide into two greased, parchment-lined 8" cake pans (about 23 oz. each)
 * bake at 350°F for 30 minutes, until firm and internal temperature is 210°F
 * or fill cupcake liners with 1.75 oz. of batter and bake at 350°F for 15 minutes (makes 24-27
-  cupcakes)
+  cupcakes) - remove from pan to a cooling rack immediately
 * cool completely before frosting
 
 **milk chocolate frosting:**
@@ -59,3 +59,13 @@ instructions made it split, so i had to melt it and re-mix) and didn't taste as 
 * pour cream over chocolate, whisk until smooth, then stir in salt
 * cool to room temperature
 * whisk in stand mixer until thick and silky, but do not overmix or it will split
+
+02/04/2024: actually, i went ahead and found a couple of other frosting recipes that i think will
+work better:
+
+* [chocolate fudge frosting]({{ site.baseurl }}{% post_url 2024-02-04-chocolate-fudge-frosting %})
+* [hazelnut ganache]({{ site.baseurl }}{% post_url 2024-02-04-hazelnut-ganache %})
+
+and, the cake went well again, but i remembered that it wasn't perfect like i said above - some of
+the second batch of cupcakes fell in the center (they were perfectly domed coming out of the oven).
+i think that leaving the frosting sit while the first batch are baking makes it get overmixed.
