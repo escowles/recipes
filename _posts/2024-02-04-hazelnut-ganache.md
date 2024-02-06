@@ -2,10 +2,10 @@
 layout: post
 title: hazelnut ganache
 date: 2024-02-04 07:33:22 -0500
-last_modified_at: 2024-02-04 12:01:53 -0500
+last_modified_at: 2024-02-06 07:18:25 -0500
 category: dessert
 tags: chocolate ganache hazelnut frosting
-status: draft
+status: confirmed
 yield: frosting for about 18 cupcakes
 ---
 
@@ -25,3 +25,9 @@ yield: frosting for about 18 cupcakes
 * use immediately to pour over cakes, or let cool to room temperature to spread
 
 source: <https://howtocakeit.com/blogs/recipes/hazelnut-ganache>
+
+---
+
+02/06/2024: makes a very dark, bittersweet ganache. when used as a cupcake frosting, it
+highlights the sweetness of the cake. also makes a good truffle filling (though definitely with
+a milk chocolate or other sweet coating).

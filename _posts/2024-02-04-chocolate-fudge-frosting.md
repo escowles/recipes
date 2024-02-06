@@ -2,10 +2,10 @@
 layout: post
 title: chocolate fudge frosting
 date: 2024-02-04 07:41:12 -0500
-last_modified_at: 2024-02-04 12:01:53 -0500
+last_modified_at: 2024-02-06 07:18:25 -0500
 category: dessert
 tags: chocolate frosting
-status: draft
+status: confirmed
 yield: frosting for two dozen cupcakes
 ---
 
@@ -20,3 +20,7 @@ yield: frosting for two dozen cupcakes
 * add vanilla then mix for 5 minutes
 
 source: <https://amandascookin.com/chocolate-fudge-frosting/>
+
+---
+
+02/06/2024: this is a prefect chocolate frosting, that's not too sweet and not too fussy to make
