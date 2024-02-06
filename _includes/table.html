@@ -46,6 +46,13 @@
             {% for tag in sorted_tags %}
               <a href="{{ base_url }}?q={{ tag }}">#{{tag}}</a>
             {% endfor %}
+            {% if post.status == "draft" %}
+              <a href="{{ base_url }}?q=draft"><i>draft</i></a>
+            {% endif %}
+            {% if post.status == "deprecated" %}
+              <a href="{{ base_url }}?q=deprecated"><s>deprecated</s></a>
+            {% endif %}
+
           </span>
         </td>
       </tr>
