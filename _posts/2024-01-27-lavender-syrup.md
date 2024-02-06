@@ -4,7 +4,7 @@ title: lavender syrup
 date: 2024-01-27 11:19:25 -0500
 last_modified_at: 2024-01-27 11:30:39 -0500
 category: other
-tags: x y z
+tags: cocktails drinks syrup
 status: draft
 ---
 
