@@ -2,7 +2,7 @@
 layout: post
 title: chicken biryani
 date: 2023-08-06 15:58:39 -0400
-last_modified_at: 2023-08-06 19:37:41 -0400
+last_modified_at: 2024-02-12 19:37:54 -0500
 category: main
 tags: meat chicken indian
 status: draft
@@ -13,7 +13,7 @@ status: draft
 2 tsp. garam masala  
 2 tsp. garlic powder  
 2 tsp. ginger  
-1 tsp. chili powder  
+1/2 tsp. chili powder  
 1/2 tsp. coriander  
 1/2 tsp. salt  
 juice from 1/4 lime  
@@ -24,19 +24,21 @@ juice from 1/4 lime
 
 **biryani:**
 
-1 Tbsp. oil  
+2 Tbsp. oil  
 1 bay leaf  
-4 cardamom pods (1/2 tsp. ground)  
+4 cardamom pods (1/4 tsp. ground)  
 6 cloves (1/8 tsp. ground)  
 1" cinnamon (1/4 tsp. ground)  
-3/4 tsp. caraway seeds  
+1/2 tsp. caraway seeds  
 1/4 tsp. ground mace  
+1/2 tsp. cumin  
 1 onion, thinly sliced  
-* heat oil in large pot and add spices and onions, frying until onions are light
-  brown (do not burn onions or it will leave a bitter taste)
+3 cloves garlic, minced  
+* heat oil in large pot and add spices, onions, and garlic, frying until onions are
+  light brown (do not burn onions or it will leave a bitter taste)
 * add chicken and saute for 5 minutes
 * reduce heat to low, cover and cook until chicken is completely cooked (5 minutes)
-* remove lid and cook off any remaining moisture
+* remove lid and saute for 5 minutes to reduce moisture  
 
 1/4 cup plain yogurt  
 1 tsp. garam masala  
@@ -63,3 +65,7 @@ not cooked. cooked another 10 minutes and it seemed cooked, so i rested for 15
 minutes, but upon eating, it was a little too firm. the rice package recommended
 bringing to a boil and boiling until the water was no longer above the rice, so i
 might do that next time.
+
+2/12/2023: much closer with current mods, but overspiced and missing something at
+the same time. reducing chili powder, adding some garlic and cumin, and updating
+instructions a bit.
