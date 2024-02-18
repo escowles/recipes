@@ -2,7 +2,7 @@
 layout: post
 title: #42 total eclipse of the heart
 date: 2024-02-17 08:45:51 -0500
-last_modified_at: 2024-02-17 08:54:30 -0500
+last_modified_at: 2024-02-18 12:57:10 -0500
 category: other
 tags: alcohol ale beer homebrew scottish
 status: draft
@@ -35,6 +35,7 @@ see [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-al
 
 **stats:**
 
+* PB: 1.050 target
 * OG: 1.069 target
 * FG: 1.019 target
 * ABV: 6.5% target
