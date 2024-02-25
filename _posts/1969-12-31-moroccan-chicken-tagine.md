@@ -2,7 +2,7 @@
 layout: post
 title: Moroccan Chicken Tagine
 date: 1969-12-31 19:00:00 -0500
-last_modified_at: 2023-03-11 16:01:07 -0500
+last_modified_at: 2024-02-25 10:23:39 -0500
 category: main
 tags: chicken meat middleeast barefootcontessa
 status: deprecated
@@ -45,3 +45,9 @@ status: deprecated
 * Uncover chicken, remove skin, pour sauce over chicken and serve.
 
 Source: <https://www.foodnetwork.com/recipes/ina-garten/moroccan-chicken-tajine-recipe-2012524>
+
+---
+
+02/25/2024: i marked this deprecated some time ago, and have been using
+[this recipe]({{ site.baseurl }}{% post_url 2016-10-16-chicken-and-apricot-tagine %})
+(which is pretty similar) instead.
