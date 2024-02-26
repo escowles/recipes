@@ -2,7 +2,7 @@
 layout: post
 title: detroit style pizza
 date: 2024-02-24 12:15:31 -0500
-last_modified_at: 2024-02-26 11:26:30 -0500
+last_modified_at: 2024-02-26 11:28:34 -0500
 category: main
 tags: italian detroit pizza
 status: confirmed
@@ -18,7 +18,8 @@ status: confirmed
 * mix on low until a dough forms, about 3 minutes
 * cover and rest for 10 minutes
 * mix on medium-low until the dough is smooth, about 10 minutes
-* with lightly floured hands, shape dough into a ball, then cover and rest 90 minutes
+* turn out on a floured board and knead in flour until you can form a ball
+* cover and rest 90 minutes
 
 **sauce:**
 
