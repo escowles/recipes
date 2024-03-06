@@ -2,10 +2,10 @@
 layout: post
 title: szechuan chicken
 date: 2024-01-27 17:11:13 -0500
-last_modified_at: 2024-01-28 10:22:48 -0500
+last_modified_at: 2024-03-05 19:05:41 -0500
 category: main
 tags: chicken meat chinese
-status: confirmed
+status: deprecated
 ---
 
 **chicken:**
@@ -57,3 +57,6 @@ also, frying the chicken left a large patina on the pan. next time, i would use
 proper sichuan peppercorns and break up a few of the red chilies to increase the
 heat a bit, and i would try deglazing the pan with the broth and/or some wine
 before adding the chicken and the rest of the sauce ingredients to the pan.
+
+03/05/2024: deprecating in favor of [sichuan chicken with peanuts](
+{{ site.baseurl }}{% post_url 2023-04-22-sichuan-chicken-with-peanuts %})
