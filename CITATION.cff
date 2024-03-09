@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: recipes
+message: If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - orcid: 'https://orcid.org/0000-0001-7074-1152'
+    given-names: esmé
+    family-names: cowles
+  - given-names: wind
+    family-names: cowles
+    orcid: 'https://orcid.org/0000-0001-9489-0750'
+repository-code: 'https://github.com/escowles/recipes/'
+url: 'https://escowles.github.io/recipes/'
+abstract: recipes i cook from every day, gathered from the web, cookbooks, and family recipes
+keywords:
+  - recipes
+license: CC0-1.0
+date-released: '2020-11-04'
