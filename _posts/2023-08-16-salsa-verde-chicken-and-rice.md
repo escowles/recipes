@@ -2,7 +2,7 @@
 layout: post
 title: salsa verde chicken and rice
 date: 2023-08-16 15:58:09 -0400
-last_modified_at: 
+last_modified_at: 2024-03-10 13:56:56 -0400
 category: main
 tags: meat chicken mexican
 status: draft
@@ -19,15 +19,17 @@ status: draft
 * push onion and garlic to the side and add chicken
 * cook until browned (5-7 minutes)
 
-1 tsp. cumin  
-1 tsp. salt  
-1/2 tsp. pepper  
-1 cup long grain rice, rinsed and drained  
-1/2 head cauliflower, chopped  
-1 cup [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %})  
-1 1/2 cup chicken broth  
-* add remaining ingredients, mix well, and scrape up any browned bits
-* bring to a boil, then cover with a tight-fitting lid and reduce heat
+1 1/2 cups [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %})  
+1 cup chicken broth  
+8 oz. package of vigo yellow rice mix  
+* add salsa and broth and bring to a boil
+* add rice mix and stir until well combined
+* cover with a tight-fitting lid and reduce heat
 * cook for 20 minutes, until the rice has absorbed the liquid
 
 source: <https://lexiscleankitchen.com/one-pan-salsa-verde-chicken-rice/>
+
+---
+
+3/10/2024: updating to use rice mix instead of plain rice, because i've been 
+generally unhappy with how bland chicken & rice recipes have turned out.
