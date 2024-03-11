@@ -4,7 +4,7 @@ title: hazelnut ganache
 date: 2024-02-04 07:33:22 -0500
 last_modified_at: 2024-02-06 07:18:25 -0500
 category: dessert
-tags: chocolate ganache hazelnut frosting
+tags: chocolate ganache hazelnuts frosting
 status: confirmed
 yield: frosting for about 18 cupcakes
 ---
