@@ -23,7 +23,7 @@ status: draft
 
 1 tbsp. vegetable oil  
 1 onion, diced  
-3 cloves garlic, minced
+3 cloves garlic, minced  
 1 tbsp. oregano  
 1 tbsp. salt  
 1 tsp. chipotle powder  
@@ -39,6 +39,7 @@ status: draft
 * drain liquid and shred pork
 
 **baking:**
+
 1 cup [ranchero sauce]({{site.baseurl}}{% post_url 2023-01-22-ranchero-sauce %})
 * fill each muffin well with pork
 * top with a spoonful of ranchero sauce
