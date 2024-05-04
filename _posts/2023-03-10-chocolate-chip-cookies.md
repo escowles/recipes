@@ -9,14 +9,14 @@ tags: chocolate cookies favorite
 
 1 cup butter, softened  
 1 cup white sugar  
-1 cup brown sugar  
+1 cup (210g) brown sugar  
 * mix in stand mixer until blended
 
 2 tsp. vanilla extract  
 2 eggs  
 * add and mix until smooth
 
-3 cups flour  
+3 cups (415g) flour  
 1 tsp. baking soda  
 1/2 tsp. baking powder  
 1 tsp. salt  
