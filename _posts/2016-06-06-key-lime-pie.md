@@ -41,3 +41,6 @@ Source: <http://www.themeaningofpie.com/2010/06/key-lime-pie/>
   be better, and more like sour orange pie?
 
 2023-02-10: tweaked filling to be a little less sour and intense
+
+2024-05-05: another mini variant:
+* halve recipe and divide between four 6 oz. ramekins
