@@ -111,3 +111,6 @@ yield: 1720g
 
 2023-07-08: summer batch, updating main recipe with current mixture (reducing coconut and
 olive oils because we have a water softener now and it's too slippery)
+
+2024-05-05: with a water softener, soap feels very slippery. reduce superfat to 1% to see
+if that helps.
