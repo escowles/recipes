@@ -25,3 +25,6 @@ source: America's Tesk Kitchen DIY cookbook, p. 180-183.
 around the edges, but still a little tough (simmered in ramen for about an hour before it was very
 tender). i have seen recommendations that going to 200°F would make it fall-apart tender, so i
 might try that next time.
+
+5/23/2024: grind the peppercorns and bay leaf to make them more uniform, and wrap the pork belly
+like a brisket in order to protect the corners from drying out and getting tough.
