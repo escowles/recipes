@@ -4,7 +4,7 @@ title: detroit style pizza
 date: 2024-02-24 12:15:31 -0500
 last_modified_at: 2024-02-26 11:28:34 -0500
 category: main
-tags: italian detroit pizza
+tags: italian detroit pizza nytimes
 status: confirmed
 ---
 
