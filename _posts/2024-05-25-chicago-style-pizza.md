@@ -5,13 +5,13 @@ date: 2024-05-25 15:46:05 -0400
 last_modified_at: 
 category: main
 tags: chicago italian pizza nytimes
-status: draft
+status: confirmed
 ---
 
 **dough:**
 
 1 cup/240g milk  
-2 1/2 tbsp/38g butter  
+2 1/2 tbsp./38g butter  
 2 tbsp./25g sugar  
 1 tsp. kosher salt  
 2 1/4 tsp./7g yeast (1 envelope)  
@@ -32,11 +32,16 @@ olive oil, for greasing
 **pizza:**
 
 10 slices mozzarella  
-[philly tomato pie sauce]({{ site.baseurl }}{% post_url 2022-01-29-philly-tomato-pie %})  
+[philly tomato pie sauce]({{ site.baseurl }}{% post_url 2022-01-29-philly-tomato-pie %}) (half batch)  
 6 tbsp. pecorino romano or parmesan, grated  
 * layer cheese slices on crust, then top with other toppings as desired (italian
   sausage is traditional)
 * top with sauce and sprinkle with grated cheese
-* bake 25-30 minutes at 450°F, until the crust is golden brown
+* bake 25-30 minutes at 425°F on lower rack, until the crust is golden brown
 
 source: <https://cooking.nytimes.com/recipes/1025385-deep-dish-pizza>
+
+---
+
+5/27/2024: probably the best home-made pizzas i've tried, and handled the lack of
+cheese better than most since there was a lot of sauce.
