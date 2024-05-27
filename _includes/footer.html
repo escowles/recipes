@@ -42,8 +42,12 @@
           document.body.removeChild(elem);
         }
       </script>
-      this file: <input type="button" onClick="javascript:copytext('{{page.path}}')" value="{{page.path}}"/>
+
+      {% assign page_date = page.date | date: "%Y-%m-%d" %}
+      {% capture mdlink %}[{{page.title}}]({{ "{{" }} site.baseurl }}{{ "{%" }} post_url {{ page_date }}-{{ page.slug }} %}){% endcapture %}
+      this file: <input type="button" onClick="javascript:copytext('{{page.path}}')" value="{{page.path}}" title="copy file path"/>
       <a href="https://github.com/escowles/recipes/commits/main/{{page.path}}"><button>page history</button></a>
+      <input type="button" onClick="javascript:copytext('{{mdlink}}')" value="md link" title="copy markdown link"/>
     {% comment %} changes end {% endcomment %}
   </div>
 </footer>
