@@ -8,4 +8,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4.0"
 end
 
+gem "nokogiri", ">= 1.16.5"
+gem "rexml", ">= 3.2.7"
 gem "webrick", "~> 1.7"
