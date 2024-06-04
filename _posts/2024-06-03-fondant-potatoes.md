@@ -4,7 +4,7 @@ title: fondant potatoes
 date: 2024-06-03 11:29:10 -0400
 last_modified_at: 
 category: sides
-tags: french potatoes
+tags: french potatoes TomV
 status: confirmed
 ---
 
@@ -31,11 +31,12 @@ source: <https://www.seriouseats.com/fondant-potatoes-recipe-5217320>
 
 ---
 
-06/03/2024: these were fantastic, but i will do a couple of things slightly
-differently next time:
+06/03/2024: this was a recommendation from TomV, and just like he said, they were
+fantastic. next time, i will make a couple of small changes, though:
 * i cut the potatoes a little too thinly (1" instead of 1 1/2") and so couldn't fit
   all of the pieces in a 12" frying pan
 * the sauce did not thicken into a gravy, so next time i will probably try making a
-  flour or cornstarch mix and thickening it
+  flour or cornstarch mix and thickening it (rather than using gelatin like the
+  original recipe asks for)
 * i grabbed the pan handle with my bare hand without thinking about it being hot
   from the oven, so i will put a potholder on it or something to remind me
