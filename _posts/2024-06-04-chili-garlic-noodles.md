@@ -5,7 +5,7 @@ date: 2024-06-04 17:30:31 -0400
 last_modified_at: 
 category: main
 tags: noodles asian
-status: draft
+status: confirmed
 ---
 
 8 oz. rice noodles  
@@ -29,3 +29,9 @@ status: draft
 * add noodles, toss to coat, and adjust spiciness with additional hot sauce
 
 source: <https://eatwithclarity.com/spicy-chili-garlic-noodles/>
+
+---
+
+06/04/2024: this was great, but i used 12 oz. rice vermicelli and there was way too much pasta for
+the amount of sauce (had to add some soy sauce to get it coated). next time, i'd use chunkier pasta
+and limit to 8 oz. (or scale up the sauce recipe).
