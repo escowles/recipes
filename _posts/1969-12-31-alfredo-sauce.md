@@ -16,7 +16,7 @@ tags: sauce italian dairy cheese cooksillustrated favorite
 
 2 oz. parmesan cheese, grated  
 3/4 tsp. pepper  
-1/4 tsp. nutmeg
+1/4 tsp. nutmeg  
 1/4 tsp. garlic powder  
 1/4 tsp. chipotle powder  
 * add cheese, spices, and drained pasta
