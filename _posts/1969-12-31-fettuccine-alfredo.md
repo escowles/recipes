@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fettucine Alfredo
+title: Fettuccine Alfredo
 date: 1969-12-31 19:00:00 -0500
 last_modified_at: 2024-01-27 07:29:48 -0500
 category: main
