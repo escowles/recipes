@@ -5,11 +5,11 @@ date: 2024-06-18 10:59:32 -0400
 last_modified_at: 
 category: main
 tags: chicken meat sandwiches
-status: draft
+status: confirmed
 ---
 
 1 tbsp. olive oil  
-10 cloves garlic  
+8 cloves garlic  
 * heat oil in a large skillet and cook garlic 3-5 minutes, taking care not to burn
 * remove garlic to a small bowl
 
@@ -36,3 +36,9 @@ juice from 1/4 lemon
   a topping or on the side
 
 source: <https://cooking.nytimes.com/recipes/1025593-garlicky-chicken-sandwiches-with-red-cabbage-slaw>
+
+---
+
+06/18/2024: made these tonight and they were great — and the rest of the pan
+drippings were very savory and garlicky, so i'll probably use them for something
+else.
