@@ -5,6 +5,7 @@ date: 2017-06-13 12:04:47 -0500
 last_modified_at: 2024-01-07 16:20:35 -0500
 category: dessert
 tags: cherry fruit pie favorite
+status: confirmed
 ---
 **filling:**
 
@@ -12,16 +13,17 @@ tags: cherry fruit pie favorite
 juice from 1/4 lime  
 1 cup sugar  
 1/4 cup corn starch  
-1/4 tsp. almond extract  
 1/8 tsp. cinnamon  
+1/4 tsp. almond extract  
 * Rinse cherries to remove any stems or other detritus
 * Pit cherries by hand (push pit through skin with thumb) over a large mixing bowl,
   collecting juice and discarding pits
 * Heat cherries, cherry juice, and lime juice in a saucepan until simmering
-* In a small bowl, mix sugar and corn starch, breaking up lumps
-* Remove cherries from heat, add sugar mixture, and mix well
-* Return cherries to the heat and simmer while stirring until thickened
-* Remove from heat, mix in almond extract and cinnamon, and let cool
+* In a small bowl, mix sugar, corn starch, and cinnamon, breaking up lumps
+* Add sugar mixture to cherries and mix well
+* Continue cooking cherries while stirring until the sauce thickens and stops being
+  cloudy
+* Remove from heat, mix in almond extract, and let cool
 
 **pie:**
 
@@ -47,3 +49,6 @@ Source: <http://www.foodnetwork.com/recipes/cherry-pie-recipe-1913275>
 * Cut crust into 4" circles and line muffin wells.
 * Fill with cherry pie filling.
 * Bake at 425°F for 14-18 minutes, until crust edges are browned and filling is bubbling.
+
+2024-06-19: Halving about a cup of the cherries, which some recipes say will help
+the filling set more firmly.
