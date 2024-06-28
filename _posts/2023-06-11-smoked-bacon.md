@@ -4,19 +4,22 @@ title: smoked bacon
 date: 2023-06-11 13:18:37 -0400
 last_modified_at: 2023-06-11 13:24:51 -0400
 category: other
-tags: meat pork bacon
+tags: meat pork bacon favorite
 ---
 
+1 Tbsp. peppercorns  
+1 bay leaf, crumbled  
 1 cup brown sugar  
 1/2 cup kosher salt  
 2 tsp. thyme  
-1 Tbsp. peppercorns, cracked  
-1 bay leaf, crumbled  
 1 pork belly (4-5 lbs.), skin removed  
+* process peppercorns and bay leaf in food processor to break them down
 * combine sugar and spices and rub all over pork belly
 * seal in a large ziplock bag and refrigerate for 7-10 days, turning every other day
 * smoke fat side up with hickory wood chips until internal temperature reaches at
-  least 150°F.
+  least 190°F.
+* cover with foil and let cool
+* quarter pork belly and wrap each quarter and chill before slicing
 
 source: America's Tesk Kitchen DIY cookbook, p. 180-183.
 
