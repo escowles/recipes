@@ -5,7 +5,7 @@ date: 2024-02-17 08:45:51 -0500
 last_modified_at: 2024-02-18 12:57:10 -0500
 category: other
 tags: alcohol ale beer homebrew scottish
-status: draft
+status: favorite
 ---
 
 scottish ale brewed for Kate & Tom's wedding, around the total eclipse on 4/8/24
