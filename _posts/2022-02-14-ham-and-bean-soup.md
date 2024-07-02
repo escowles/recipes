@@ -31,4 +31,4 @@ source: <https://www.willcookforsmiles.com/instant-pot-ham-and-bean-soup/>
 ---
 
 6/29/24: haven't made this in a while, but always found it too salty or otherwise
-just not as good as [pork and beans]({{ site.baseurl }}{% post_url 1970-01-01-pork-and-beans-2 %})
+just not as good as [pork and beans]({{ site.baseurl }}{% post_url 1969-12-31-pork-and-beans-2 %})
