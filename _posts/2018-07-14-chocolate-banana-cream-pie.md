@@ -47,7 +47,7 @@ tags: banana chocolate pie fruit
 
 **Assembly:**
 
-* Blind bake chocolate pie crust or [plain pie crust]({{ site.baseurl }}{% post_url 1970-01-01-pie-crust %})
+* Blind bake chocolate pie crust or [plain pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
 * Fill with chocolate cream filling then top with banana slices.
 * Add cooled custard on top and top with more bananas.
 * Chill for 2 hours.
