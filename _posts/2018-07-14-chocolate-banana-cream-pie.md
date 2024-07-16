@@ -6,7 +6,7 @@ last_modified_at: 2022-07-16 09:11:09 -0400
 category: dessert
 tags: banana chocolate pie fruit
 ---
-Chocolate Pie Crust
+**Chocolate Pie Crust:**
   
 1¼ cup flour  
 ¼ tsp. salt  
@@ -23,7 +23,7 @@ Chocolate Pie Crust
  * Press crust into pan, trim edges, and poke holes in the bottom of the crust with a fork.
  * Bake for at 425°F for 10 minutes, then cool to room temperature.
 
-Chocolate Cream Filling
+**Chocolate Cream Filling:**
   
 1 cup heavy cream (divided)  
 5 oz. semi-sweet chocolate, chopped  
@@ -32,7 +32,7 @@ Chocolate Cream Filling
  * Beat remaining cream until soft peaks form, then fold into chocolate cream.
  * Pour into pie crust, then chill.
 
-Custard Filling
+**Custard Filling:**
   
 5 Tbsp. sugar  
 1½ Tbsp. cornstarch  
@@ -45,10 +45,13 @@ Custard Filling
  * Remove from heat, add remaining ingredients, and stir to combine.
  * Chill for 30 minutes.
 
-Assembly
- * Top chocolate cream layer with banana slices, the spoon cooled custard on top.
- * Top with [whipped cream]({{ site.baseurl }}{% post_url 2018-07-14-whipped-cream %}), then chill for 2 hours.
- * Before serving, top with sliced bananas and chopped chocolate.
+**Assembly:**
+
+* Blind bake chocolate pie crust or [plain pie crust]({{ site.baseurl }}{% post_url 1970-01-01-pie-crust %})
+* Fill with chocolate cream filling then top with banana slices.
+* Add cooled custard on top and top with more bananas.
+* Chill for 2 hours.
+* Before serving, top each clice with [whipped cream]({{ site.baseurl }}{% post_url 2018-07-14-whipped-cream %}), sliced bananas.
 
 Source: <https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/>
 
