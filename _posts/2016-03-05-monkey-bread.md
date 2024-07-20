@@ -45,3 +45,10 @@ tags: bread breakfast cinnamon
 * cool for 5 minutes then invert on serving dish
 
 adapted from: <http://sallysbakingaddiction.com/2014/06/30/homemade-monkey-bread-aka-cinnamon-roll-bites/>
+
+---
+
+07/20/2024: garlic bread variant:
+* make dough as normal
+* roll balls in butter and toss with 2 tbsp. of garlic powder
+* omit glaze, bake as normal, and serve from the pan
