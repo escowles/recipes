@@ -39,10 +39,9 @@ status: draft
 * attach brew dock by aligning, rotating counter-clockwise until it falls into place
   and then rotating back clockwise until it locks
 * turn pinter over and stand it on the brewing dock
-* add hopper if your kit contains one
 * leave vertical at room temperature for the recommended time (see [product pages](https://pinter.co.uk/collections/fresh-beer) for brewing times)
 
-**hopping:**
+**hopping (before conditioning, if your recipe includes a hopper):**
 
 * unscrew the hopping cap from the top of the pinter
 * remove the plastic cap from the hopper, but don't break the foil seal
