@@ -14,32 +14,30 @@ status: draft
 * turn carbonation dial to #5
 * empty purifier into the brewing chamber and fill to fill-to line with hot tap water
 * make sure cone is in place in cap and screw back on
-* push tap down into locked position and secure with tap retainer
 * turn pinter on its side and shake for 20 seconds
 * put brewing dock on top of pinter, turn counter-clockwise until it falls into
   place, then rotate back into place until it locks
 * turn over and sit the pinter up on the brewing dock for 10 seconds
 * turn the pinter counter-clockwise to release from the brewing dock and turn the
   carbonation dial to off
-* remove tap retainer and re-attach tap handle
-* unlock tap handle, pull to 90° forward to dispense purifier for 5 seconds
-* turn the carbonation dial to setting 5
-* remove the cap and pour out the remaining purifier (no rinse needed)
+* re-attach tap handle and pull forward to dispense purifier for 5 seconds
+* turn the carbonation dial to #5
+* remove the tap handle and cap and pour out the remaining purifier (no rinse needed)
 
 **brewing:**
 
-* set carbonation dial to recommended setting
-* fill brewing chamber with cold tap water to fill-to line
+* refrigerate hopper until it's time to add it
+* set carbonation dial to the [recommended
+  setting](https://pinter.co.uk/pages/carbonation-dial-settings)
+* fill brewing chamber with cold tap water to fill-to line (do not add fresh press
+  contents or it will foam and make it impossible to see water line)
 * pour the fresh press contents into the pinter
 * pour yeast into the pinter
-* refrigerate hopper until it's time to add it
 * replace the main cap
-* lock tap and secure with the tap retainer
 * turn the hopper on its side and shake for 30 seconds
-* attach brew dock by aligning, rotating counter-clockwise until it falls into place
-  and then rotating back clockwise until it locks
-* turn pinter over and stand it on the brewing dock
-* leave vertical at room temperature for the recommended time (see [product pages](https://pinter.co.uk/collections/fresh-beer) for brewing times)
+* attach brewing dock and turn pinter over and stand it on the brewing dock
+* leave vertical at room temperature for the recommended time (see
+  [product pages](https://pinter.co.uk/collections/fresh-beer) for brewing times)
 
 **hopping (before conditioning, if your recipe includes a hopper):**
 
@@ -53,20 +51,15 @@ status: draft
 
 * place the hopper in the sink and turn the pinter counter-clockwise to remove
   from the brewing dock
-* empty and thoroughly clean the brewing dock and clean the cap
-* remove the tap retainer from the tap and reinstall front plate and tap handle
-* place the pinter in the refrigerator to condition for the recommended time
-
-**tapping:**
-
-* unlock tap and pull forward 45° to dispense beer
-* pull the tap forward to 90° if the beer dispense becomes slow
-* return tap handle upright and push down to lock
+* empty and thoroughly clean the brewing dock
+* reinstall front plate and re-attach tap handle
+* place the pinter in the refrigerator to condition for the recommended time (see
+  [product pages](https://pinter.co.uk/collections/fresh-beer) for conditioning times)
 
 **cleaning:**
 
 * unscrew main cap and wash with warm, soapy water
-* pull tap handle forward 90°, remove handle, and unscrew to remove from pinter
+* remove tap handle and unscrew tap assembly to remove it from pinter
 * separate halves of tap assembly, clean all parts with warm water, and flush with
   warm water for 20 seconds
 * turn carbonation dial to open and remove the hopping cap
