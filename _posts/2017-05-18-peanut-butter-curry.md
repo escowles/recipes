@@ -4,7 +4,7 @@ title: Peanut Butter Curry
 date: 2017-05-18 21:18:18 -0500
 last_modified_at: 2024-01-07 10:45:28 -0500
 category: main
-tags: chicken curry peanutbutter thai meat asian favorite
+tags: chicken curry peanut thai meat asian favorite
 ---
 2 Tbsp. oil  
 1½ lbs. chicken breast, cubed  

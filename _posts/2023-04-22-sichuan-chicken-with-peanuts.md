@@ -4,7 +4,7 @@ title: sichuan chicken with peanuts
 date: 2023-04-22 16:39:36 -0400
 last_modified_at: 2024-03-05 19:05:41 -0500
 category: main
-tags: asian chinese meat chicken thewok
+tags: asian chinese meat chicken thewok peanut
 status: confirmed
 ---
 

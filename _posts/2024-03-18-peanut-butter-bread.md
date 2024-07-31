@@ -4,7 +4,7 @@ title: peanut butter bread
 date: 2024-03-18 12:45:50 -0400
 last_modified_at: 
 category: sides
-tags: bread peanutbutter
+tags: bread peanut
 status: draft
 ---
 

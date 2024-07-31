@@ -4,7 +4,7 @@ title: chocolate peanut butter cups
 date: 2023-10-29 09:12:36 -0400
 last_modified_at: 2023-10-29 09:20:25 -0400
 category: dessert
-tags: chocolate peanutbutter candy
+tags: chocolate peanut candy
 ---
 
 2 1/2 graham crackers  
