@@ -6,7 +6,6 @@ last_modified_at: 2024-02-06 07:18:25 -0500
 category: dessert
 tags: chocolate ganache hazelnuts frosting
 status: confirmed
-yield: frosting for about 18 cupcakes
 ---
 
 3.5 oz. (3/4 cup) hazelnuts  
@@ -23,6 +22,8 @@ yield: frosting for about 18 cupcakes
 * gently stir until combined and chocolate has melted into a silky smooth mixture
 * fold in hazelnuts
 * use immediately to pour over cakes, or let cool to room temperature to spread
+
+yield: frosting for about 18 cupcakes
 
 source: <https://howtocakeit.com/blogs/recipes/hazelnut-ganache>
 

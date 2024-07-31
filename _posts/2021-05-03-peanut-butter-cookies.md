@@ -21,8 +21,10 @@ tags: peanut cookies favorite
 3/4 tsp baking powder  
 1/4 tsp. salt  
 * mix together then slowly add to batter, mixing until incorporated
-* roll into 1" balls, then flatten with a fork in a criss-cross pattern
+* roll into 1" balls (26g), then flatten with a fork in a criss-cross pattern
 * bake at 350°F for 10 minutes
 * cool completely before removing from baking sheets
+
+yield: 30 cookies
 
 source: <https://preppykitchen.com/peanut-butter-cookies-recipe/>

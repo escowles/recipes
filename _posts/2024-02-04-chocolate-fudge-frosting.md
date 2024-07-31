@@ -6,7 +6,6 @@ last_modified_at: 2024-02-06 07:18:25 -0500
 category: dessert
 tags: chocolate frosting
 status: confirmed
-yield: frosting for two dozen cupcakes
 ---
 
 4 oz. butter (one stick)  
@@ -18,6 +17,8 @@ yield: frosting for two dozen cupcakes
 * transfer cocoa paste to a stand mixer
 * mix in powdered sugar and cream in alternating additions
 * add vanilla then mix for 5 minutes
+
+yield: frosting for two dozen cupcakes
 
 source: <https://amandascookin.com/chocolate-fudge-frosting/>
 
