@@ -7,7 +7,7 @@ category: dessert
 tags: peanutbutter cookies favorite
 ---
 
-1/2 cup (67g) butter, softened  
+1/2 cup (113g) butter, softened  
 1/2 cup (100g) brown sugar  
 1/2 cup (100g) sugar  
 * cream together in a stand mixer
@@ -25,4 +25,4 @@ tags: peanutbutter cookies favorite
 * bake at 350°F for 10 minutes
 * cool completely before removing from baking sheets
 
-source: <https://preppykitchen.com/peanut-butter-cookies-recipe/#wprm-recipe-container-15474>
+source: <https://preppykitchen.com/peanut-butter-cookies-recipe/>
