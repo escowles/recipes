@@ -5,7 +5,7 @@ date: 2024-05-04 19:16:49 -0400
 last_modified_at: 
 category: main
 tags: italian pasta pork
-status: draft
+status: deprecated
 ---
 
 6 oz. guanciale or pancetta, cut into 1/4-inch dice  
@@ -28,3 +28,7 @@ salt and pepper
 * add red pepper, season with salt and pepper, and top with remaining cheese
 
 source: <https://www.foodandwine.com/recipes/pasta-carbonara>
+
+---
+
+8/4/24: made this a couple of months ago and it didn't really work very well.

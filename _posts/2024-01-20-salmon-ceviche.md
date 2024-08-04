@@ -5,7 +5,7 @@ date: 2024-01-20 16:53:06 -0500
 last_modified_at: 2024-01-28 10:22:48 -0500
 category: main
 tags: fish meat salmon mexican sous-vide
-status: draft
+status: deprecated
 ---
 
 1 lb. salmon filet  

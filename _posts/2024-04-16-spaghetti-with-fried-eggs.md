@@ -5,7 +5,7 @@ date: 2024-04-16 14:26:25 -0400
 last_modified_at: 
 category: main
 tags: pasta eggs nytimes
-status: draft
+status: deprecated
 ---
 
 3/4 lb. thin spaghetti  
@@ -25,3 +25,10 @@ parmesan or romano cheese
 * season with pepper and cheese, to taste
 
 source: <https://cooking.nytimes.com/recipes/8357-spaghetti-with-fried-eggs>
+
+---
+
+8/4/24: made this a few months ago, and it wasn't great. the spaghetti was just a 
+wad, and the eggs didn't coat at all. as several commenters on the original pointed
+out, this is really just a meatless carbonara, so i went ahead and tried that
+instead.

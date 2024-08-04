@@ -5,7 +5,7 @@ date: 2023-09-04 14:56:22 -0400
 last_modified_at: 2023-09-04 15:05:12 -0400
 category: main
 tags: vegetarian corn beans
-status: draft
+status: deprecated
 ---
 
 1/2 cup masa harina  
@@ -33,3 +33,8 @@ status: draft
 * serve immediately with salsa and sour cream
 
 source: <https://www.food.com/recipe/black-bean-corn-and-cheddar-fritters-336333>
+
+---
+
+8/4/24: i made these several months ago, and they weren't great. i also got pretty
+sick that night, so i doubt i'll make them again.

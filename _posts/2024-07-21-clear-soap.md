@@ -5,7 +5,7 @@ date: 2024-07-21 08:18:28 -0400
 last_modified_at: 
 category: other
 tags: soap
-status: draft
+status: confirmed
 ---
 **simple syrup:**
 
@@ -41,3 +41,11 @@ status: draft
 
 source: <https://www.bearchele.com/soap/Tutorial.html> and
         <https://www.bearchele.com/soap/calculation.html>
+
+---
+
+8/4/24: made this a couple weeks ago and when i added the everclear, it didn't really
+blend, it just separated back out into liquid and lumps of soap. i even added a
+second dose of everclear (the rest of the bottle) and got the same effect. but when
+i added the simple syrup, it came together. next time i might try just using the
+simple syrup, but definitely wouldn't add the whole bottle of everclear.

@@ -5,7 +5,7 @@ date: 2024-06-30 09:18:55 -0400
 last_modified_at: 
 category: dessert
 tags: icecream ginger nytimes
-status: draft
+status: confirmed
 ---
 
 2 cups cream  
@@ -22,9 +22,11 @@ status: draft
 * return to the pot and cook over low heat to 170°F
 * strain through a fine metal strainer, then cover and cool to room temperature
 * chill at least 4 hours
-
-1/2 cup candied ginger, finely chopped  
-* process mixture in an ice cream maker, adding candied ginger for the last minute
-* freeze to firm up
+* process mixture in an ice cream maker, then freeze to firm up
 
 source: <https://cooking.nytimes.com/recipes/1019570-ginger-ice-cream>
+
+---
+
+8/4/24: the ice cream is good, but the ginger is too much and too hard. so i'm just
+removing it.

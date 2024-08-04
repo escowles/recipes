@@ -5,7 +5,7 @@ date: 2024-07-26 16:03:23 -0400
 last_modified_at: 
 category: main
 tags: nytimes chicken mean
-status: draft
+status: confirmed
 ---
 
 **chicken:**
@@ -37,3 +37,11 @@ status: draft
 juice from 1/2 lime  
 
 source: <https://cooking.nytimes.com/recipes/1025628-paprika-chicken-and-potatoes>
+
+---
+
+8/4/24: made this tonight, but didn't have any mayo so wound up adapting a baked
+chicken recipe instead for the chicken (which used olive oil). the potatoes wound up
+being a cross of french fries and roasted potatoes, and a little too oily. next time,
+i hope using the mayo recipe will avoid it being too oily. but i would also put the
+potatoes in 15 minutes early instead of 10, to get them a little crispier.
