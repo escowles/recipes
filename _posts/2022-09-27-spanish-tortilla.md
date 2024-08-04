@@ -5,7 +5,7 @@ date: 2022-09-27 13:20:29 -0400
 last_modified_at: 2023-10-28 08:00:16 -0400
 category: main
 tags: egg potatoes spanish vegetarian
-status: draft
+status: deprecated
 ---
 
 3/4 cup olive oil  
@@ -34,3 +34,7 @@ fresh herbs
 * juice lemon, chop herbs, and mix with mayo to serve with the spanish tortilla
 
 source: <https://www.washingtonpost.com/recipes/spanish-eggs-and-potatoes/16383/>
+
+---
+
+8/4/24: made this once a long time ago, and it was fine but not worth the effort.

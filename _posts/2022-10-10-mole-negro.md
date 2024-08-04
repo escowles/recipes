@@ -5,7 +5,7 @@ date: 2022-10-10 17:28:29 -0400
 last_modified_at: 2022-10-17 07:19:55 -0400
 category: main
 tags: mexican sauce ingredients
-status: draft
+status: confirmed
 ---
 
 78g chilhuacle negro chiles (about 10) or ancho chiles (about 4)  
@@ -79,3 +79,7 @@ source: <https://cooking.nytimes.com/recipes/1023509-mole-negro>
 * did not remove stems and seed from chiles (removed stems after rinsing)
 * 10 tortilla chips instead of toasted tortillas
 * 1/4 tsp. of cloves instead of star anise
+
+8/4/24: the sauce was great, but it was way too much. so it just sat around in the
+back of the fridge until i tossed it (which feels especially bad given how much
+work this is). so next time i would just halve the recipe.
