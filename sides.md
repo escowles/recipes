@@ -3,8 +3,8 @@ title: sides
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<p>side dishes, breads, and other things to accompany main dishes</p>
+<h1 class="section-header">{{ page.title }}</h1>
+<p class="section-subhead">side dishes, breads, and other things to accompany main dishes</p>
 
 {% assign posts = site.categories.sides %}
 {%- include table.html -%}
