@@ -5,7 +5,7 @@ date: 2024-08-10 06:06:26 -0400
 last_modified_at: 
 category: sides
 tags: bread breakfast japanese
-status: draft
+status: confirmed
 ---
 
 3 eggs, separated  
@@ -32,3 +32,10 @@ status: draft
 * serve immediately with whipped cream and fresh fruit
 
 source: <https://www.justonecookbook.com/souffle-pancake/>
+
+---
+
+8/11/24: made these yesterday and they were very good, but did not pile up as high
+as the recipe suggested. i could probably have whipped the egg whites a bit stiffer,
+but i think the next time i make these, i'll just make them with single layers of
+batter (and maybe put nutella or jam between two pancakes to make a stack).
