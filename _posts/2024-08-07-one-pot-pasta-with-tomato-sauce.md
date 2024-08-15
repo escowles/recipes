@@ -5,7 +5,7 @@ date: 2024-08-07 08:04:24 -0400
 last_modified_at: 
 category: main
 tags: italian pasta flexitarian
-status: draft
+status: confirmed
 ---
 
 24 oz. jar of pasta sauce (or make your own from tomato sauce/paste, onion, garlic, herbs, etc.)  
@@ -22,3 +22,9 @@ to add meat:
 * pre-cooked meatballs: add and simmer with pasta
 
 source: <https://www.thecookingfoodie.com/recipe/One-Pot-Pasta-with-Tomato-Sauce>
+
+---
+
+08/16/2024: used the whole 15 minutes with meatballs, and it was great (though a 
+little greasy). next time i think i'll use sausage, so i can remove some of the
+grease, instead of meatballs which release all of their grease into the sauce.
