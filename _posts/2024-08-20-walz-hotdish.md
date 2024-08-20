@@ -5,7 +5,7 @@ date: 2024-08-20 13:21:25 -0400
 last_modified_at: 
 category: main
 tags: american hotdish midwestern turkey pork meat bacon
-status: draft
+status: confirmed
 ---
 
 1 lb. ground turkey  
@@ -48,3 +48,12 @@ status: draft
 * bake at 375°F for 45 minutes, until golden brown
 
 source: <https://www.kare11.com/article/life/food/recipes/rep-tim-walzs-winning-hotdish-recipe/89-107523676>
+
+---
+
+08/20/2024: made a variant of this which was very good:
+* ground beef instead of turkey, and added cumin/chili powder/etc.
+* used a can each of black beans and diced tomatoes instead of green beans and mushrooms
+* scaled down cheese sauce to 3 tbsp. butter/flour, 1 5/8 cup milk, 1/4 cup heavy cream, and
+  1 1/2 cups cheddar, and 1/2 cup shredded mexican cheese blend
+* made a shallow 9x12" pan and a 6" pie dish without the cheese sauce
