@@ -21,3 +21,8 @@ juice from 1/2 lemon
 * shake with ice then strain into chilled glass
 
 source: <https://www.liquor.com/recipes/bees-knees/>
+
+---
+
+2024-08-30: lavendar variant:
+* substitute lavender simple syrupe for honey syrup
