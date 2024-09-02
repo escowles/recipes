@@ -5,7 +5,7 @@ date: 2024-09-01 10:35:59 -0400
 last_modified_at: 
 category: sides
 tags: beans mexican
-status: draft
+status: confirmed
 ---
 
 2 slices bacon, diced  
@@ -19,9 +19,10 @@ status: draft
 1/2 tsp. cumin  
 1/2 tsp. paprika  
 15 oz. can pinto beans  
+1 cup chicken stock  
 * saute bacon until cooked, about 5 minutes  
 * add tomato, onion, garlic, jalapeno, and spices and cook 5 minutes
 * add beans and bring to a boil for 15 minutes
-* to thicken, combine 2 tbsp. cornstarch with 1/4 cup water and add to the beans
+* add chicken stock as needed to maintain consistency
 
 source: <https://www.mylatinatable.com/mexican-charro-beans-recipe/#recipe>

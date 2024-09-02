@@ -8,7 +8,7 @@ tags: meat chicken indian
 status: confirmed
 ---
 
-**chicken:**
+**chicken marinade:**
 
 2 tsp. garam masala  
 2 tsp. garlic powder  
@@ -34,8 +34,8 @@ juice from 1/4 lime
 1/2 tsp. cumin  
 1 onion, thinly sliced  
 3 cloves garlic, minced  
-* heat oil in large pot and add spices, onions, and garlic, frying until onions are
-  light brown (do not burn onions or it will leave a bitter taste)
+* heat oil over medium-high heat in large pot and add all ingredients, frying until
+  the onions are light brown (do not burn onions or it will leave a bitter taste)
 * add chicken and saute for 5 minutes
 * reduce heat to low, cover and cook until chicken is completely cooked (5 minutes)
 * remove lid and saute for 5 minutes to reduce moisture  
@@ -47,7 +47,7 @@ juice from 1/4 lime
 * mix yogurt and spices into chicken then spread into a single layer
 * spread rice on top of chicken
 
-3 cups water  
+4 cups water  
 1/2 tsp. salt  
 * in a separate pot, bring water to a boil and add salt
 * pour 2 cups of water down the sides of the chicken
@@ -69,3 +69,13 @@ might do that next time.
 2/12/2023: much closer with current mods, but overspiced and missing something at
 the same time. reducing chili powder, adding some garlic and cumin, and updating
 instructions a bit.
+
+09/02/2024: made this again last night and it was good other than needing to add more
+water to get the rick to finish cooking (i've fixed the recipe). we also talked
+about the flavor profile needing something, and here are some things that might help:
+* using basmati rice instead of whatever rice i have on hand
+* adding some chicken stock instead of some of water
+* saffron
+* turmeric
+* anise
+* adding some eggplant, peas, chickpeas, or other veggies
