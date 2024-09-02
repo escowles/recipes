@@ -9,5 +9,5 @@ group :jekyll_plugins do
 end
 
 gem "nokogiri", ">= 1.16.5"
-gem "rexml", ">= 3.3.2"
+gem "rexml", ">= 3.3.6"
 gem "webrick", "~> 1.7"
