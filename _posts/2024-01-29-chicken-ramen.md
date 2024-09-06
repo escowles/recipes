@@ -4,7 +4,7 @@ title: chicken ramen
 date: 2024-01-29 12:56:19 -0500
 last_modified_at: 
 category: main
-tags: asian japanese meat chicken soup
+tags: asian japanese meat chicken soup favorite
 status: confirmed
 ---
 

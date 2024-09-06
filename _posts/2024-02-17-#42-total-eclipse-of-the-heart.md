@@ -4,8 +4,8 @@ title: #42 total eclipse of the heart
 date: 2024-02-17 08:45:51 -0500
 last_modified_at: 2024-02-18 12:57:10 -0500
 category: other
-tags: alcohol ale beer homebrew scottish
-status: favorite
+tags: alcohol ale beer homebrew scottish favorite
+status: confirmed
 ---
 
 scottish ale brewed for Kate & Tom's wedding, around the total eclipse on 4/8/24
