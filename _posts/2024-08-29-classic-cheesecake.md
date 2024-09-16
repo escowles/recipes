@@ -11,7 +11,7 @@ status: draft
 2 1/2 lb. cream cheese, room temperature  
 1 1/2 cups sugar  
 1/2 tsp. coarse salt  
-1 tsp. lemon zest
+1 tsp. lemon zest  
 1 tbsp. lemon juice  
 4 eggs  
 1 cup sour cream  
@@ -35,5 +35,5 @@ source: <https://www.marthastewart.com/313705/classic-cheesecake>
 ---
 
 mini cheesecake variant:
-* halve the recipe and divide between muffin tin wells
+* halve (or quarter?) the recipe and divide between muffin tin wells
 * bake at 350°F for 15 minutes

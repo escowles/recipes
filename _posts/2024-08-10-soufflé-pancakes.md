@@ -12,7 +12,7 @@ status: confirmed
 2 tbsp. milk  
 1/2 tsp. vanilla  
 40g flour  
-6g cornstarch
+6g cornstarch  
 3/4 tsp. baking powder  
 3 tbsp. sugar  
 1 tbsp. neutral oil  
