@@ -5,7 +5,7 @@ date: 2020-11-22 07:09:31 -0500
 last_modified_at: 2022-06-19 10:11:20 -0400
 category: main
 tags: pasta cheese dairy vegetarian southern
-status: draft
+status: deprecated
 ---
 
 1 lb. macaroni
@@ -39,3 +39,8 @@ cheese mixture: original recipe calls for 1/2 cup of Parmesan and Jack, 1 cup of
 no-bake version: after adding the macaroni, return to heat and cook until cheese is thoroughly melted, about 10 minutes.
 
 source: <https://www.washingtonpost.com/food/2020/11/13/patti-labelle-macaroni-and-cheese-recipe/>
+
+---
+
+9/23/2024: deprecating this recipe — i never made it and see that i made several adjustments because
+i don't want to use muenster and velveeta, so why bother?
