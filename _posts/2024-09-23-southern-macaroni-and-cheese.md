@@ -5,7 +5,7 @@ date: 2024-09-23 10:58:55 -0400
 last_modified_at: 
 category: main
 tags: pasta cheese southern nytimes
-status: draft
+status: confirmed
 ---
 
 1 lb. macaroni  
@@ -39,3 +39,8 @@ source: <https://cooking.nytimes.com/recipes/1020515-southern-macaroni-and-chees
 09/20/2024: some commenters added traditional spices (like nutmeg and cayenne) and noted that they
 had problems with the macaroni curdling the eggs. but i'm going to make it as written, and think
 the curdling would only happen if you don't rinse the pasta as directed.
+
+09/24/2024: this was great, and the broiled cheese on top was particularly good. but cooling
+everything down by rinsing the pasta meant that the cheese mixed with the macaroni didn't really
+melt. next time, i think i will mix the cold pasta with the eggs, milk, butter, and cheddar, and
+then heat it up until the cheese melts.

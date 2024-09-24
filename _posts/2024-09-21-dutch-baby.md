@@ -5,7 +5,7 @@ date: 2024-09-21 07:07:33 -0400
 last_modified_at: 
 category: sides
 tags: bread breakfast nytimes
-status: draft
+status: confirmed
 ---
 
 3 eggs  
@@ -25,3 +25,7 @@ status: draft
   etc.
 
 source: <https://cooking.nytimes.com/recipes/6648-dutch-baby>
+
+---
+
+09/24/2024: this did not puff up quite as much as i expected, but it was still great.
