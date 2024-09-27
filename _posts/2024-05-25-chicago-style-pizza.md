@@ -32,7 +32,7 @@ olive oil, for greasing
 **pizza:**
 
 10 slices mozzarella  
-[philly tomato pie sauce]({{ site.baseurl }}{% post_url 2022-01-29-philly-tomato-pie %}) (half batch)  
+[philly tomato pie sauce]({{ site.baseurl }}{% post_url 2024-09-27-philly-tomato-pie-sauce %})
 6 tbsp. pecorino romano or parmesan, grated  
 * layer cheese slices on crust, then top with other toppings as desired (italian
   sausage is traditional)

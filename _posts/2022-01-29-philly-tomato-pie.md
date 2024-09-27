@@ -19,30 +19,6 @@ tags: pizza philadelphia italian
 * let rest for 10 minutes, then mix on low for 10 minutes
 * cover and rest in fridge for 8-24 hours
 
-
-**sauce:**
-
-1/4 cup olive oil  
-1/4 cup butter  
-1 onion, sliced  
-8 cloves garlic, sliced  
-2 tsp. oregano  
-2 tsp. parsley  
-2 tsp. basil  
-1/2 tsp. red pepper flakes  
-* heat oil and butter in large pot, then add onion, garlic, and herbs
-* saute for a couple of minutes, breaking up the onion slices and mixing well
-* remove to a blender
-
-2 28 oz. cans whole peeled tomatoes  
-2 Tbsp. sugar  
-salt to taste, about 2-3 tsp.
-* puree the first can of tomatoes with the onions and garlic, then add to the pot
-* puree the second can of tomatoes, then add to the pot with the sugar
-* loosely cover and simmer for 45 minutes, until thickened
-* salt to taste and let cool while dough rises
-
-
 **proofing:**
 
 2 Tbsp. olive oil  
@@ -55,7 +31,7 @@ salt to taste, about 2-3 tsp.
 
 * 20-30 minutes before baking, put rack in upper middle position and heat oven to 450°F
 * press dough down in center to form 1" wide ridge around the edge
-* generously coat dough with sauce and top if desired
+* generously coat dough with a double batch of [sauce]({{ site.baseurl }}{% post_url 2024-09-27-philly-tomato-pie-sauce %}) and top if desired
 * bake 20 minutes, rotating halfway through, until crust is golden brown
 * remove from oven and cool 15 minutes before serving
 * sprinkle with romano cheese, slice, and serve
