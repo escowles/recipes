@@ -16,11 +16,12 @@ tags: bread breakfast cinnamon favorite
 1 tsp. salt  
 1 tsp. cinnamon  
 1/2 tsp. nutmeg  
-10g (1 tsp.) dry yeast  
+7g (2 tsp.) dry yeast  
 2 large eggs  
 
 * heat milk and butter until melted
-* add to mixer with remaining ingredients and mix until the dough is smooth and elastic (about 7 minutes).
+* add dry ingredients to stand mixer bowl and pour in milk mixture
+* add eggs while mixing, and mix 7 minutes, until the dough is smooth and elastic
 * cover and let rise until the dough has doubled, about 1 hour
 
 **filling:**
@@ -28,14 +29,18 @@ tags: bread breakfast cinnamon favorite
 55g (1/4 cup) butter, softened  
 150g (2/3 cup) brown sugar  
 4 tsp. cinnamon  
-* roll dough into large rectangle and spread with butter, leaving one edge dry
+* roll dough into large rectangle (about 18" wide) and spread with butter, leaving one edge dry
 * mix brown sugar and cinnamon and sprinkle over buttered dough
-* roll into a tight roll and slice into 9 or 12 rolls
+* roll into a tight roll and slice into nine 2" or twelve 1.5" rolls
 * put rolls in buttered pan, cover, and let rise for 30-60 minutes
 * optional: refrigerate overnight before rising, and warm up in a 130°F oven in the morning
 * bake at 350°F for 22-25 minutes, until lightly golden, then cool in pan for 15 minutes
 
-*note:* you can also use nutella instead of the cinnamon filling.
+filling variants:
+* use nutella instead of the cinnamon filling
+* peel, thinly slice, and chop two granny smith apples, and saute them in half of the butter for
+  10 minutes. butter the dough with the remaining butter, top with brown sugar, and then spread
+  the apple pieces on top before rolling
 
 **icing:**
 
