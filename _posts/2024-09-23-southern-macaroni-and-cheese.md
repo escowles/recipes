@@ -14,12 +14,14 @@ status: confirmed
 
 2 cups milk  
 2 eggs  
-1/2 cup melted butter  
-8 oz. cheddar, shredded  
+1/2 cup butter  
+12 oz. cheddar, shredded  
 1 1/2 tsp. salt  
 1/2 tsp. pepper  
-* mix milk and eggs, add cooked pasta
-* add remaining ingredients and mix well
+* beat eggs in a large saucepan or dutch oven
+* heat milk in a small saucepan and pour into eggs in a thin stream while whisking
+* add cooked pasta and remaining ingredients and mix well
+* cook over medium heat until cheese has melted
 
 6 oz. monterrey jack, shredded  
 * add half of macaroni to a 9x13" baking dish
@@ -27,7 +29,7 @@ status: confirmed
 * cover with foil and bake at 350°F for 30 minutes
 
 2 oz. monterrey jack, shredded  
-8 oz. cheddar, shredded  
+4 oz. cheddar, shredded  
 * remove macaroni from the oven, remove foil, and top with remaining cheese
 * broil 3-5 minutes, until cheese is browned in spots
 * remove from oven and rest 10-15 minutes
@@ -44,3 +46,5 @@ the curdling would only happen if you don't rinse the pasta as directed.
 everything down by rinsing the pasta meant that the cheese mixed with the macaroni didn't really
 melt. next time, i think i will mix the cold pasta with the eggs, milk, butter, and cheddar, and
 then heat it up until the cheese melts.
+
+09/30/2024: on second thought, tempering the eggs is probably the right way to do this
