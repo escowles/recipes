@@ -5,7 +5,7 @@ date: 2024-07-19 15:16:23 -0400
 last_modified_at: 
 category: other
 tags: beer homebrew technique
-status: draft
+status: confirmed
 ---
 
 **purification:**
