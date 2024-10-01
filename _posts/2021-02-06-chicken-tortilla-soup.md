@@ -4,7 +4,7 @@ title: chicken tortilla soup
 date: 2021-02-06 08:42:07 -0500
 last_modified_at: 2023-08-18 15:26:48 -0400
 category: main
-tags: chicken meat soup mexican crockpot
+tags: chicken meat soup mexican crockpot longish
 ---
 
 1 lb. boneless skinless chicken breasts  

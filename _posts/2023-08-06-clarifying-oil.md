@@ -4,7 +4,7 @@ title: clarifying oil
 date: 2023-08-06 12:48:15 -0400
 last_modified_at: 2023-08-06 16:25:23 -0400
 category: other
-tags: technique fried
+tags: technique fried longish
 ---
 
 1/2 cup water  

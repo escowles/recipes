@@ -4,7 +4,7 @@ title: panettone
 date: 2022-12-19 17:41:07 -0500
 last_modified_at: 2022-12-22 07:29:19 -0500
 category: dessert
-tags: italian bread xmas
+tags: italian bread xmas longish
 status: confirmed
 ---
 

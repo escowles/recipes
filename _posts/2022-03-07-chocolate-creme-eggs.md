@@ -4,7 +4,7 @@ title: chocolate creme eggs
 date: 2022-03-07 15:23:29 -0500
 last_modified_at: 2022-06-19 10:11:21 -0400
 category: dessert
-tags: chocolate candy easter
+tags: chocolate candy easter longish
 ---
 
 1/2 cup light corn syrup  

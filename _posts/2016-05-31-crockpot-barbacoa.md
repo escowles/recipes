@@ -4,7 +4,7 @@ title: crockpot barbacoa
 date: 2016-05-31 22:45:28 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
 category: main
-tags: meat mexican crockpot
+tags: meat mexican crockpot longish
 ---
 2½ lb. chuck roast, cut into 2" chunks  
 3 cloves garlic, minced  

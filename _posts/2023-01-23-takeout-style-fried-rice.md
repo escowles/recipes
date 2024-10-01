@@ -4,7 +4,7 @@ title: takeout style fried rice
 date: 2023-01-23 10:27:52 -0500
 last_modified_at: 2023-01-23 19:24:40 -0500
 category: main
-tags: asian chinese leftovers rice meat chicken flexitarian
+tags: asian chinese leftovers rice meat chicken flexitarian longish
 ---
 
 **dehydrated rice:**

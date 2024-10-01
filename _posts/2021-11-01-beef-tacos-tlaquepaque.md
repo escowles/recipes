@@ -4,7 +4,7 @@ title: beef tacos tlaquepaque
 date: 2021-11-01 16:26:16 -0400
 last_modified_at: 2022-06-19 10:11:21 -0400
 category: main
-tags: meat beef mexican crockpot
+tags: meat beef mexican crockpot longish
 ---
 
 **filling:**

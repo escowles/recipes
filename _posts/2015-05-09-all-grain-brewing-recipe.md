@@ -4,7 +4,7 @@ title: All-Grain Brewing Recipe
 date: 2015-05-09 15:59:29 -0500
 last_modified_at: 2022-06-19 10:11:17 -0400
 category: other
-tags: beer homebrew alcohol
+tags: beer homebrew alcohol longish
 ---
 ### Mash
 

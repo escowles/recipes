@@ -4,7 +4,7 @@ title: Moroccan Chicken Tagine
 date: 1969-12-31 19:00:00 -0500
 last_modified_at: 2024-02-25 10:23:39 -0500
 category: main
-tags: chicken meat middleeast barefootcontessa
+tags: chicken meat middleeast barefootcontessa longish
 status: deprecated
 ---
 1040 Cal (4x 260)

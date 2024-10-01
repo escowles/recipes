@@ -4,7 +4,7 @@ title: Cuban Roast Pork
 date: 2016-12-23 19:47:37 -0500
 last_modified_at: 2023-02-12 18:24:46 -0500
 category: main
-tags: cuban pork meat
+tags: cuban pork meat longish
 status: deprecated
 ---
 4 lb. pork shoulder roast  

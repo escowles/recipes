@@ -4,7 +4,7 @@ title: Tiramisu (Traditional)
 date: 2016-05-23 10:10:50 -0500
 last_modified_at: 2023-03-30 20:42:20 -0400
 category: dessert
-tags: italian vegetarian coffee
+tags: italian vegetarian coffee longish
 status: deprecated
 ---
 Mascarpone Cream

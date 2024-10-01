@@ -4,7 +4,7 @@ title: smoked turkey
 date: 2023-11-13 11:09:55 -0500
 last_modified_at: 
 category: main
-tags: meat turkey thanksgiving
+tags: meat turkey thanksgiving longish
 ---
 
 **brine:**

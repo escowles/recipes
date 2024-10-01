@@ -4,7 +4,7 @@ title: tandoori paste
 date: 2022-04-07 07:14:38 -0400
 last_modified_at: 2022-06-19 10:11:21 -0400
 category: other
-tags: indian spice marinade
+tags: indian spice marinade longish
 ---
 
 juice of one lemon  

@@ -4,7 +4,7 @@ title: chicago style pizza
 date: 2024-05-25 15:46:05 -0400
 last_modified_at: 
 category: main
-tags: chicago italian pizza nytimes
+tags: chicago italian pizza nytimes longish
 status: confirmed
 ---
 
