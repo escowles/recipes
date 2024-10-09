@@ -5,7 +5,7 @@ date: 2024-09-27 11:33:24 -0400
 last_modified_at: 
 category: main
 tags: asian chicken meat nytimes
-status: draft
+status: confirmed
 ---
 
 1 1/2 lb. boneless, skinless chicken thighs  
