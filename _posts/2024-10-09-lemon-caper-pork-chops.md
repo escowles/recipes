@@ -5,7 +5,7 @@ date: 2024-10-09 14:28:08 -0400
 last_modified_at: 
 category: main
 tags: american nytimes meat pork lemon
-status: draft
+status: deprecated
 ---
 
 4 pork chops  
@@ -38,3 +38,9 @@ salt and pepper, to taste
 * nestle chops in the sauce and cook until reaching 145°F
 
 source: <https://cooking.nytimes.com/recipes/1020583-pork-chops-in-lemon-caper-sauce>
+
+---
+
+10/09/2024: made these last night and they were fine. but this receipe is really just a standard
+piccata, and we already have a recipe for that: [chicken piccata](
+{{ site.baseurl }}{% post_url 2023-02-21-chicken-piccata %})
