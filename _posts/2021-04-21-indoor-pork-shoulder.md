@@ -4,7 +4,7 @@ title: indoor pork shoulder
 date: 2021-04-21 13:03:40 -0400
 last_modified_at: 2022-06-19 10:11:20 -0400
 category: main
-tags: meat pork bbq
+tags: meat pork bbq favorite
 ---
 
 4-6 lbs. pork shoulder  
@@ -15,3 +15,8 @@ tags: meat pork bbq
 * remove from oven, drain, and shred
 
 source: <https://www.thespruceeats.com/oven-roasted-pulled-pork-recipe-101653>
+
+---
+
+10/12/2024: i've made this a couple of times recently, and it's really a lot better
+than the crockpot. i've used the [Crockpot Carnitas]({{ site.baseurl }}{% post_url 2014-09-02-crockpot-carnitas %}) spice mixture and it's fantastic.
