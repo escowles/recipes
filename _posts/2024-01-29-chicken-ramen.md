@@ -21,7 +21,7 @@ status: confirmed
 1/2 tsp. red pepper flakes  
 6-8 cups chicken stock  
 4 tbsp. soy sauce  
-2 tbsp. cup mirin  
+2 tbsp. mirin  
 cooked chicken  
 4 eggs  
 * heat oil and saute garlic, ginger, onions, and red pepper flakes until vegetables soften
