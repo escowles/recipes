@@ -11,10 +11,10 @@ status: draft
 **dough:**
 
 10 oz. potatoes, peeled and cubed  
-1/2 stick, butter  
-6 tbsp. flour
-salt and pepper
-2 tbsp. breadcrumbs
+1/2 stick butter  
+6 tbsp. flour  
+salt and pepper  
+2 tbsp. breadcrumbs  
 * boil potatoes for 20 minutes
 * drain and mash
 * mix in butter and flour ingredients, kneading to make a dough
