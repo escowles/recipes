@@ -5,7 +5,7 @@ date: 2024-11-05 14:17:34 -0500
 last_modified_at: 
 category: dessert
 tags: chocolate pudding
-status: draft
+status: confirmed
 ---
 
 5 tbsp. cornstarch  
@@ -26,6 +26,11 @@ status: draft
   from forming
 * let cool then chill for 1 hour to set
 
-yield: six 6 oz. servings
+yield: eight 6 oz. servings
 
 source: <https://tastesbetterfromscratch.com/chocolate-pudding/>
+
+---
+
+11/06/2024: made this yesterday and it was good — but i divided into six ramekins and they were
+overfull. next time i would halve the recipe and divide into four servings.
