@@ -23,7 +23,7 @@ author: esmé cowles
 email: escowles@ticklefish.org
 description: recipes i cook from every day, gathered from the web, cookbooks, and family recipes.
 baseurl: "/recipes"
-url: "https://escowles.github.io"
+url: "https://escowles.tfsh.us"
 
 # Build settings
 theme: minima
