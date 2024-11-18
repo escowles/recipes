@@ -18,8 +18,8 @@ status: deprecated
 6 cups milk
 * add and mix while heating. bring to a simmer then reduce heat until thickened
 
-8 oz. velveeta cheese
-16 oz. cheddar
+8 oz. velveeta cheese  
+16 oz. cheddar  
 4 oz. romano, asiago, or parmesan
 * remove sauce from heat, add cheeses and mix until melted
 

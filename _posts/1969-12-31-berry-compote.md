@@ -7,8 +7,8 @@ category: other
 tags: sauce fruit
 ---
   
-2 cups berries
-½ cup sugar
+2 cups berries  
+1/2 cup sugar  
 2 tsp. lemon juice
 
 * Cook over medium heat until skins burst and thickened.

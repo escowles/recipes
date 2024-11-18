@@ -29,13 +29,13 @@ tags: indian chicken meat curry longish
 1/2 cup water
 * remove onion mixture to blender, add water and yogurt, and puree
 
-2 tbsp. olive oil
+2 tbsp. olive oil  
 4 tsp. curry powder  
 1 tsp. turmeric  
 1 tsp. garam masala  
 1 tsp. salt  
 1 tsp. pepper  
-1/2 tsp. coriander
+1/2 tsp. coriander  
 1/2 tsp. cinnamon  
 1/2 tsp. cumin  
 1/4 tsp. cardamom  

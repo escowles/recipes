@@ -8,11 +8,11 @@ tags: sauce gravy brisket southern
 ---
 
 2 Tbsp. butter  
-3-4 Tbsp. flour
-1 cup sous-vide brisket juices
-1 cup milk
-1/2 tsp. thyme, rosemary
-1/4 tsp. pepper, garlic powder, chipotle powder
+3-4 Tbsp. flour  
+1 cup sous-vide brisket juices  
+1 cup milk  
+1/2 tsp. thyme, rosemary  
+1/4 tsp. pepper, garlic powder, chipotle powder  
 1 Tbsp. sugar
 
 * make a roux, adding flour until all butter is dried up

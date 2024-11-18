@@ -8,7 +8,7 @@ tags: sauce fruit middleeast
 ---
 22 Cal
 
-1 lemon
+1 lemon  
 1 Tbsp. kosher salt
 
 * Cut lemon into sixths lengthwise, sprinkle with salt and place in non-metal dish.
