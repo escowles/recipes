@@ -5,6 +5,7 @@ date: 1969-12-31 19:00:00 -0500
 last_modified_at: 2024-01-07 10:45:27 -0500
 category: main
 tags: seafood fish asian favorite
+status: confirmed
 ---
 ### Sauce:
 
@@ -18,7 +19,7 @@ tags: seafood fish asian favorite
 
 ### Fish:
 
-1 Tbsp. canola oil
+1 Tbsp. canola oil  
 1 1/2 cups rice, steamed  
 3 cups bok choy, chopped  
 3 small tilapia fillets (approx. 1 lb.)  
