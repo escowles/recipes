@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Berry Compote
-date: 1969-12-31 19:00:00 -0500
+date: 2012-07-28 12:00:00 -0500
 last_modified_at: 2022-06-19 10:11:15 -0400
 category: other
 tags: sauce fruit

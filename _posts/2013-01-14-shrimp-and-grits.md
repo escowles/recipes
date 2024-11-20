@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shrimp & Grits
-date: 1969-12-31 19:00:00 -0500
+date: 2013-01-14 12:00:00 -0500
 last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: seafood tupelohoneycafe shrimp southern cheese dairy

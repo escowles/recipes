@@ -11,7 +11,7 @@ tags: british meat
 1 onion, finely chopped  
 * saute onion in oil until tender
 
-2 lbs. [cumberland sausgage meat]({{ site.baseurl }}{% post_url 1969-12-31-cumberland-sausage %})  
+2 lbs. [cumberland sausgage meat]({{ site.baseurl }}{% post_url 2013-01-27-cumberland-sausage %})  
 2 eggs  
 salt and pepper  
 * combine sauted onions and all ingredients and mix well

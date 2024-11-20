@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ratatouille
-date: 1969-12-31 19:00:00 -0500
+date: 2012-09-03 12:00:00 -0500
 last_modified_at: 2023-01-31 17:25:35 -0500
 category: main
 tags: vegetarian french vegetable

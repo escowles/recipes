@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snickerdoodles
-date: 1969-12-31 19:00:00 -0500
+date: 2012-12-22 12:00:00 -0500
 last_modified_at: 2024-01-07 16:20:35 -0500
 category: dessert
 tags: cookies cinnamon favorite
