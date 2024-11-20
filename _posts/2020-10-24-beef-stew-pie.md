@@ -6,7 +6,7 @@ last_modified_at: 2022-06-19 10:11:19 -0400
 category: main
 tags: beef gravy pie stew meat piesquared bacon
 ---
-3 batches of [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %}) dough  
+3 batches of [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %}) dough  
 
   * Split in two, roll out larger half and line quarter sheet pan.
   * Roll out other half and leave on parchment.

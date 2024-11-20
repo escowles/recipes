@@ -33,5 +33,5 @@ tags: cake
 source: <https://sugargeekshow.com/recipe/white-cake-recipe/>
 
 **note**:
-this works well in [trifle]({{ site.baseurl }}{% post_url 1969-12-31-berry-trifle %})
+this works well in [trifle]({{ site.baseurl }}{% post_url 2011-05-06-berry-trifle %})
 and you can use the spare egg yolks to make the custard.

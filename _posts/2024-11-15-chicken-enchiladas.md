@@ -27,7 +27,7 @@ status: confirmed
 1-2 cups salsa verde  
 * make enchiladas, filling tortillas with chicken, vegetables, and cheese, filling
   an 8x8" dish with 6-8 enchiladas
-* thin [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %}) with
+* thin [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %}) with
   reserved broth to make a thin sauce
 * cover enchiladas with sauce, making sure that no tortilla is dry
 * top with shredded cheese and bake at 350°F for 20 minutes

@@ -20,6 +20,6 @@ zest from 1 lime
   * 130°F for firm but still moist
 * cook in sous vide bath for 60 minutes
 * carefully remove salmon from bag (will be very fragile), pat dry with paper towels
-* serve over rice with [teriyaki sauce]({{ site.baseurl }}{% post_url 1969-12-31-teriyaki-sauce %})
+* serve over rice with [teriyaki sauce]({{ site.baseurl }}{% post_url 2011-08-23-teriyaki-sauce %})
 
 source: <https://www.seriouseats.com/recipes/2016/08/sous-vide-salmon-recipe.html>

@@ -6,7 +6,7 @@ last_modified_at: 2022-06-19 10:11:18 -0400
 category: main
 tags: egg british quiche vegetarian cheese bluecheese vegetable dairy
 ---
-[pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
+[pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 2 cups frozen broccoli  
 4 spring onions, chopped  
 6 oz. stilton, crumbled  

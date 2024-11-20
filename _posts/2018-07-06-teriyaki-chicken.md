@@ -30,4 +30,4 @@ Source: <https://cafedelites.com/teriyaki-chicken-recipe/>
 
 2020-04-30 13:24:22: NYT comment on traditional Teriyaki (at this recipe:
 <https://cooking.nytimes.com/recipes/1012984-chicken-teriyaki>), see
-[teriyaki sauce]({{ site.baseurl }}{% post_url 1969-12-31-teriyaki-sauce %})
+[teriyaki sauce]({{ site.baseurl }}{% post_url 2011-08-23-teriyaki-sauce %})

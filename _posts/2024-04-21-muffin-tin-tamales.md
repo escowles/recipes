@@ -42,7 +42,7 @@ status: confirmed
 **baking:**
 
 1 cup [ranchero sauce]({{site.baseurl}}{% post_url 2023-01-22-ranchero-sauce %}) and/or
-  [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %})
+  [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %})
 * mix pork and salsa to coat
 * fill each muffin well with pork filling
 * bake at 350°F for 15-20 minutes

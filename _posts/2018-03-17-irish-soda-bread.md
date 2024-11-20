@@ -26,4 +26,4 @@ Source: <https://www.godairyfree.org/recipes/brown-soda-bread>
 
 ---
 
-2021-05-30: Didn't really like this, use [beer bread]({{ site.baseurl }}{% post_url 1969-12-31-beer-bread-2 %}) instead.
+2021-05-30: Didn't really like this, use [beer bread]({{ site.baseurl }}{% post_url 2011-12-01-beer-bread %}) instead.
