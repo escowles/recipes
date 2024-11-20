@@ -26,7 +26,7 @@ tags: pumpkin pie thanksgiving thanksgiving2020 traditional favorite
 1/4 tsp. nutmeg  
 1/4 tsp. ginger  
 1/4 tsp. salt  
-1 [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})  
+1 [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 1 egg  
 2 Tbsp. water  
 * Combine all ingredients and mix well.

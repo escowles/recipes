@@ -30,7 +30,7 @@ salt and pepper, to taste
 * remove meat from the oven, pour in gelatin mixture, and stir
 * cover, return to oven, and bake 1 additional hour
 
-2 [pie crusts]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})  
+2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 egg  
 2 tbsp. water  
 * beat egg and water to make an egg wash

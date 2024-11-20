@@ -14,7 +14,7 @@ taco-sized corn tortillas
 * fry each tortilla 10-15 seconds per side and dry on paper towels
 
 refried beans, warmed  
-[taco meat]({{site.baseurl}}{% post_url 1969-12-31-beef-taco-filling %})  
+[taco meat]({{site.baseurl}}{% post_url 2011-08-01-beef-taco-filling %})  
 [enchilada sauce]({{site.baseurl}}{% post_url 2014-02-22-enchilada-sauce-new-mexico %})  
 shredded cheese  
 chopped tomatoes  

@@ -12,7 +12,7 @@ pulled pork:
 juice from 1 lime and 1 lemon  
 1 tsp. oregano  
 2 anaheim peppers, sliced  
-1 cup [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %})
+1 cup [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %})
 
   * Combine all ingredients in crockpot, and cook on low for 8 hours
 

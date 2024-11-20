@@ -33,7 +33,7 @@ status: draft
 * sprinkle with salt and cover with another paper towel
 
 **pie:**
-1 [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
+1 [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 * fill pie crust with alternating layers of tomato slices and sauce
 * press top layer of tomatoes into the pie
 * bake at 350°F for 35-45 minutes, until cheese begins to bubble and the crust

@@ -17,7 +17,7 @@ tags: egg pork quiche cheese meat french dairy bacon
 1/2 tsp. pepper  
 1/8 tsp. chipotle powder
 
-* Prepare standard [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %}), and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.
+* Prepare standard [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %}), and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.
 * Bake or fry bacon until crisp. Drain and chop coarsely.
 * Sprinkle bacon, cheese, onion, and any other vegetables in pie shell.
 * Beat eggs and mix in cream, milk, and spices. Pour into pie shell (should be 1/2" below rim).

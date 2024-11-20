@@ -21,7 +21,7 @@ status: confirmed
 * add to mixer bowl and stir to combine
 
 3 cups flour  
-2 tsp. [pumpkin pie spice]({{ site.baseurl }}{% post_url 1969-12-31-pumpkin-pie %})  
+2 tsp. [pumpkin pie spice]({{ site.baseurl }}{% post_url 2011-10-29-pumpkin-pie %})  
 1 tsp. salt  
 1/2 cup butter, softened  
 * combine flour, spice, and salt in a separate bowl and add to mixer bowl

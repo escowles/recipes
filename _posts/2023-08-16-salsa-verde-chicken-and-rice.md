@@ -21,7 +21,7 @@ status: confirmed
 * cook until browned (5-7 minutes)
 
 1/2 tsp. salt  
-1 1/2 cups [salsa verde]({{ site.baseurl }}{% post_url 1969-12-31-salsa-verde %})  
+1 1/2 cups [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %})  
 1 cup chicken broth  
 8 oz. package of vigo yellow rice mix  
 * add salt, salsa, and broth and bring to a boil

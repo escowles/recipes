@@ -29,7 +29,7 @@ juice from 1/4 lime
 
 1 egg  
 2 tbsp. water  
-2 [pie crusts]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})  
+2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 * Beat egg with water to make an egg wash
 * Line a pie dish with the first crust and brush with egg wash
 * Fill with cherry filling and top with second crust (lattice or cutouts optional)

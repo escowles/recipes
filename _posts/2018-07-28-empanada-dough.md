@@ -14,7 +14,7 @@ tags: crust bread mexican
 * Mix flour and salt, then blend in butter with pastry blender.
 * Mix in 1 egg and milk until soft dough forms, adding additional milk if needed.
 * Roll out into thin sheet and cut into circles.
-* Fill with [taco filling]({{ site.baseurl }}{% post_url 1969-12-31-beef-taco-filling %}) or other fillings, fold over and seal by crimping (brush inside edges with egg white to improve the seal).
+* Fill with [taco filling]({{ site.baseurl }}{% post_url 2011-08-01-beef-taco-filling %}) or other fillings, fold over and seal by crimping (brush inside edges with egg white to improve the seal).
 * Chill for 30 minutes.
 * Beat second egg to make an egg wash, brush over the top, and bake at 375°F for 8-12 minutes, until browned.
 * Turn over, brush the other side with egg wash, and continue baking 8-12 minutes, until golden brown.

@@ -8,7 +8,7 @@ tags: pie fruit lemon
 ---
 
 **crust**:
-* line pie dish with [pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
+* line pie dish with [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
   and blind bake at 375°F for 25-30 minutes
 * remove weights and bake until golden brown, about 10 minutes
 * remove from oven and let cool completely

@@ -11,7 +11,7 @@ tags: meat mexican pork
 6 soft-taco flour tortillas  
 2/3 cup refried beans  
 2/3 cup Mexican rice  
-7 oz. [pulled pork]({{ site.baseurl }}{% post_url 1969-12-31-pulled-pork %})  
+7 oz. [pulled pork]({{ site.baseurl }}{% post_url 2011-08-01-pulled-pork %})  
 1 cup [New Mexico enchilada sauce]({{ site.baseurl }}{% post_url 2014-02-22-enchilada-sauce-new-mexico %})
 
  * Coat bottom of 9" square pan with 1/4 cup sauce

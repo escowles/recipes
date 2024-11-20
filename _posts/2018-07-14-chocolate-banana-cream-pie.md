@@ -47,7 +47,7 @@ tags: banana chocolate pie fruit
 
 **Assembly:**
 
-* Blind bake chocolate pie crust or [plain pie crust]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})
+* Blind bake chocolate pie crust or [plain pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 * Fill with chocolate cream filling then top with banana slices.
 * Add cooled custard on top and top with more bananas.
 * Chill for 2 hours.
@@ -61,7 +61,7 @@ Source: <https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/>
 option (hard to work with dough, resulting in overthick crust, and the flavor's not
 great, either).  Would rather have an Oreo crust (see [Oreo Mini Cheesecakes]({{ site.baseurl }}{% post_url 2019-04-16-oreo-mini-cheesecakes %})).
 
-Also, we could do a traditional custard (like in [Berry Trifle]({{ site.baseurl }}{% post_url 1969-12-31-berry-trifle %})).
+Also, we could do a traditional custard (like in [Berry Trifle]({{ site.baseurl }}{% post_url 2011-05-06-berry-trifle %})).
 
 2021-07-16: Used the [oreo crust]({{ site.base_url}}{% post_url 2021-07-12-oreo-pie-crust %}), and
 chilled with just the chocolate, bananas, and custard filling. Topped each piece with whipped cream

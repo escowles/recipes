@@ -17,7 +17,7 @@ status: draft
 * melt butter in a large pot, add blueberries and cook for 2 minutes
 * add remaining ingredients and stir until dry ingredients are dissolved
 
-2 [pie crusts]({{ site.baseurl }}{% post_url 1969-12-31-pie-crust %})  
+2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 1 egg  
 2 tbsp. water  
 * line pie dish with one pie crust
