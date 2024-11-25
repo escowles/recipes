@@ -2,7 +2,7 @@
 layout: post
 title: smoked turkey
 date: 2023-11-13 11:09:55 -0500
-last_modified_at: 
+last_modified_at: 2024-11-25T19:51:50
 category: main
 tags: meat turkey thanksgiving longish
 ---
@@ -48,8 +48,8 @@ source: <https://www.dinneratthezoo.com/smoked-turkey-recipe/>
 
 ---
 
-11/25/2024: we did this last year and it was great. but this year and last year both, i put the
-roasting dish directly on the pizza stone, resulting in the turkey cooking in about 2 hours instead
-of the expected 5-6. this makes for a very hectic and early thanksgiving dinner. i added a baking
-rack as a spacer, but it was too late. i think that i do that at the beginning next year, it will
+11/25/2024: this turned out great this year and last. but both years, i put the roasting dish
+directly on the pizza stone, resulting in the turkey cooking in about 2 hours instead of the
+expected 5-6. this makes for a very hectic and early thanksgiving dinner. i added a baking rack
+as a spacer, but it was too late. i think that i do that at the beginning next year, it will
 successfully smoke the turkey instead of baking it.
