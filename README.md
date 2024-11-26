@@ -20,3 +20,13 @@ more standard explanation somewhere else. these are the recipes we cook from eve
 and we (well, mostly esmé) like them to be terse so more fits on my tablet screen and we
 don't have to scroll around and wade through verbiage to find the number you need to
 find in a hurry.
+
+# installing pre-commit hook
+to automatically update the `last_modified_at` header in recipes, install the pre-commit hook:
+
+```sh
+cp _etc/pre-commit.hook .git/hooks/pre-commit
+```
+
+this script will be executed right before commiting, to update the last_updated_at timestamp for
+modified files.
