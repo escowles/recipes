@@ -2,7 +2,7 @@
 layout: post
 title: takeout style fried rice
 date: 2023-01-23 10:27:52 -0500
-last_modified_at: 2023-01-23 19:24:40 -0500
+last_modified_at: 2024-12-01T17:21:06 -0500
 category: main
 tags: asian chinese leftovers rice meat chicken flexitarian longish
 ---
@@ -35,6 +35,14 @@ pinch salt
 * mix with baking soda and rest for 30-45 seconds
 * add remaining ingredients and rest for 15 minutes, up to overnight
 
+1 Tbsp. neutral oil  
+marinated chicken  
+* heat oil in wok until shimmering
+* stir fry chicken until almost done, 2-3 minutes
+* remove from wok and set aside
+* wipe out wok
+
+
 **sauce mixture:**
 
 1/2 tsp. sugar  
@@ -53,23 +61,13 @@ pinch salt
 * remove eggs from pan and set aside
 * wipe out wok
 
-**chicken (optional):**
-
-1 Tbsp. neutral oil  
-marinated chicken  
-* heat oil in wok until shimmering
-* stir fry chicken until almost done, 2-3 minutes
-* remove from wok and set aside
-* wipe out wok
-
-
 **fried rice:**
 
 1 Tbsp. neutral oil  
 1/2 onion, diced  
 5 baby carrots, halved lengthwise and sliced  
 2 cloves garlic, roughly chopped  
-2 cups dehydrated rice
+2 cups prepared rice  
 1 tsp. kosher salt  
 1/8 tsp. white pepper (5 grinds)  
 small handful bean sprouts  
