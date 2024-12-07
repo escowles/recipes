@@ -2,16 +2,16 @@
 layout: post
 title: spicy black bean soup
 date: 2024-12-06 15:12:00 -0500
-last_modified_at: 2024-12-06T15:18:03 -0500
+last_modified_at: 2024-12-07T08:58:50 -0500
 category: main
 tags: soup nytimes
-status: draft
+status: confirmed
 ---
 
 two 15 oz. cans black beans, including liquid  
-2 cups salsa verde  
-one 4 oz. can chopped green chiles  
-1 tbsp. cocoa powder  
+2 cups [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %})  
+one 4 oz. can chopped green chiles (optional, if salsa is too mild)  
+2 tsp. cocoa powder  
 1 tsp. cumin  
 1 tsp. garlic powder  
 salt, pepper, and cilantro, to taste  
