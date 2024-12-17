@@ -2,9 +2,9 @@
 layout: post
 title: roasted garlic
 date: 2023-11-13 15:22:49 -0500
-last_modified_at: 2023-11-13 15:26:00 -0500
-category: ingredients
-tags: garlic
+last_modified_at: 2024-12-17T08:34:26 -0500
+category: main
+tags: garlic ingredients
 ---
 
 one or more heads of garlic  
