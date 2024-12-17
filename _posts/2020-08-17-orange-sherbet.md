@@ -2,9 +2,9 @@
 layout: post
 title: Orange Sherbet
 date: 2020-08-17 10:52:07 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-17T12:50:45 -0500
 category: dessert
-tags: icecream orange fruit
+tags: icecream orange fruit spruceeats
 ---
 1/2 cup heavy cream  
 1/3 cup sugar  

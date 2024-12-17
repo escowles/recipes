@@ -2,9 +2,9 @@
 layout: post
 title: indoor pork shoulder
 date: 2021-04-21 13:03:40 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-17T12:50:45 -0500
 category: main
-tags: meat pork bbq favorite
+tags: meat pork bbq favorite spruceeats
 ---
 
 4-6 lbs. pork shoulder  

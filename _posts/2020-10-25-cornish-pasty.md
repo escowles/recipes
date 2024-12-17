@@ -2,9 +2,9 @@
 layout: post
 title: Cornish Pasty
 date: 2020-10-25 11:42:04 -0500
-last_modified_at: 2024-01-02 19:40:38 -0500
+last_modified_at: 2024-12-17T12:50:45 -0500
 category: main
-tags: british meat pie beef
+tags: british meat pie beef spruceeats
 ---
 1 cup flour  
 1/4 tsp. salt  

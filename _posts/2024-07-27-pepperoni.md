@@ -2,9 +2,9 @@
 layout: post
 title: pepperoni
 date: 2024-07-27 12:59:35 -0400
-last_modified_at: 
+last_modified_at: 2024-12-17T12:50:45 -0500
 category: main
-tags: ingredients italian sausage pork beef meat
+tags: ingredients italian sausage pork beef meat spruceeats
 status: draft
 ---
 

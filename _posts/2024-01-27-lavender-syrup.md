@@ -2,9 +2,9 @@
 layout: post
 title: lavender syrup
 date: 2024-01-27 11:19:25 -0500
-last_modified_at: 2024-01-27 11:30:39 -0500
+last_modified_at: 2024-12-17T12:50:45 -0500
 category: other
-tags: cocktails drinks syrup
+tags: cocktails drinks syrup spruceeats
 status: draft
 ---
 
