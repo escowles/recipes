@@ -2,8 +2,8 @@
 layout: post
 title: bok choy slaw
 date: 2024-06-13 09:01:35 -0400
-last_modified_at: 
-category: other
+last_modified_at: 2024-12-17T08:36:06 -0500
+category: sides
 tags: vegetable
 status: confirmed
 ---
