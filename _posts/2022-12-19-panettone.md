@@ -2,7 +2,7 @@
 layout: post
 title: panettone
 date: 2022-12-19 17:41:07 -0500
-last_modified_at: 2022-12-22 07:29:19 -0500
+last_modified_at: 2024-12-23T16:39:29 -0500
 category: dessert
 tags: italian bread xmas longish
 status: confirmed
@@ -39,8 +39,17 @@ zest from one clementine
 * shape dough into a ball and place in a straight-sided 2-quart pan lined with
   baking parchment (a 2-quart saucepan will do)
 * let dough rise 60 minutes, until it rises over the rim of the pan
-* bake at 400°F for 10 minutes, then reduce temperature to 375°F for another 10
-  minutes, then 350°F for 25-35 minutes, until a thermometer reads 190°F.
+* bake on lower rack at 400°F for 10 minutes, then reduce temperature to 375°F for
+  another 10 minutes, then 350°F for 25-35 minutes, until a thermometer reads 190°F.
 * tent with foil, if needed, to prevent excessive browning.
 
 source: <https://www.kingarthurbaking.com/recipes/overnight-panettone-recipe>
+
+---
+
+12/23/2024: made an all-orange variant this year:
+* replaced dried fruit with candied orange peel from [cranberry orange cinnamon rolls]({{ site.baseurl }}{% post_url 2020-12-10-cranberry-orange-cinnamon-rolls %})
+* did not have orange extract, so used zest from two oranges
+
+the candied orange was great, but it was a little too much zest (1 orange and having
+orange extract would be better)
