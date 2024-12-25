@@ -2,9 +2,9 @@
 layout: post
 title: mint oreo ice cream
 date: 2021-06-05 15:12:10 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: dessert
-tags: mint chocolate icecream
+tags: mint chocolate icecream epicurious
 ---
 
 1/2 cup sugar  

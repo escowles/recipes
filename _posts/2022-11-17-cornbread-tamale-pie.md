@@ -2,9 +2,9 @@
 layout: post
 title: cornbread tamale pie
 date: 2022-11-17 14:23:03 -0500
-last_modified_at: 
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: main
-tags: mexican meat beef
+tags: mexican meat beef nytimes
 ---
 
 1 lb. ground beef  

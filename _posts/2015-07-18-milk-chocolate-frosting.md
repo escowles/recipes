@@ -2,9 +2,9 @@
 layout: post
 title: Milk Chocolate Frosting
 date: 2015-07-18 15:36:58 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: dessert
-tags: chocolate frosting
+tags: chocolate frosting sallysbakingaddiction
 ---
 
 1 cup unsalted butter, softened  

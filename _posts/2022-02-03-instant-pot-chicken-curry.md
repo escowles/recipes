@@ -2,9 +2,9 @@
 layout: post
 title: instant pot chicken curry
 date: 2022-02-03 07:22:02 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: main
-tags: asian curry chicken meat
+tags: asian curry chicken meat nytimes
 ---
 
 1 lb. boneless skinless chicken breast, cubed  

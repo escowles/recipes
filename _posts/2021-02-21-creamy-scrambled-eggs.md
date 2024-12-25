@@ -2,9 +2,9 @@
 layout: post
 title: creamy scrambled eggs
 date: 2021-02-21 06:55:35 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: sides
-tags: breakfast egg foodlab
+tags: breakfast egg foodlab nytimes
 ---
 
 1 Tbsp. potato or corn starch  

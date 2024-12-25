@@ -2,9 +2,9 @@
 layout: post
 title: overnight french toast
 date: 2023-10-16 07:09:04 -0400
-last_modified_at: 2023-10-16 07:19:45 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: sides
-tags: breakfast bread longish
+tags: breakfast bread longish nytimes
 ---
 
 8-9 oz. enriched bread (challah, brioche, panettone, etc.)  

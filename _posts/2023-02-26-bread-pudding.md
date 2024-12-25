@@ -2,9 +2,9 @@
 layout: post
 title: bread pudding
 date: 2023-02-26 06:05:12 -0500
-last_modified_at: 2023-02-26 06:35:20 -0500
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: dessert
-tags: bread southern
+tags: bread southern nytimes
 ---
 
 2 cups milk  

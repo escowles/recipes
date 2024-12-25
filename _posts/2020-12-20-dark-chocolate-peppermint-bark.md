@@ -2,9 +2,9 @@
 layout: post
 title: dark chocolate peppermint bark
 date: 2020-12-20 18:36:38 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: dessert
-tags: chocolate candy mint xmas
+tags: chocolate candy mint xmas epicurious
 ---
 
 12 oz. dark chocolate (chips are chopped)  

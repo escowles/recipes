@@ -2,9 +2,9 @@
 layout: post
 title: frozen pimm's cup
 date: 2024-01-23 12:40:27 -0500
-last_modified_at: 2024-01-23 12:51:02 -0500
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: other
-tags: alcohol drinks frozen british gin cocktails
+tags: alcohol drinks frozen british gin cocktails nytimes
 status: draft
 ---
 

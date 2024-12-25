@@ -2,9 +2,9 @@
 layout: post
 title: mole negro
 date: 2022-10-10 17:28:29 -0400
-last_modified_at: 2022-10-17 07:19:55 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: main
-tags: mexican sauce ingredients
+tags: mexican sauce ingredients nytimes
 status: confirmed
 ---
 

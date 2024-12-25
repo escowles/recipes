@@ -2,9 +2,9 @@
 layout: post
 title: banana pudding
 date: 2023-01-29 13:47:33 -0500
-last_modified_at: 2023-01-29 13:53:48 -0500
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: dessert
-tags: banana fruit pudding
+tags: banana fruit pudding nytimes
 ---
 
 3/4 cup sugar  

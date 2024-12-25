@@ -2,9 +2,9 @@
 layout: post
 title: xmas goose stock
 date: 2020-12-27 09:40:39 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: other
-tags: goose soup meat xmas
+tags: goose soup meat xmas epicurious
 ---
 
 3 tbsp. goose fat  

@@ -2,9 +2,9 @@
 layout: post
 title: new mexican hot dish
 date: 2023-03-24 13:05:51 -0400
-last_modified_at: 2023-10-28 08:00:16 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: main
-tags: beef meat mexican
+tags: beef meat mexican nytimes
 status: draft
 ---
 

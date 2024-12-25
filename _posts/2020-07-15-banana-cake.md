@@ -2,9 +2,9 @@
 layout: post
 title: Banana Cake
 date: 2020-07-15 17:31:13 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: dessert
-tags: cake banana fruit
+tags: cake banana fruit sallysbakingaddiction
 ---
 3 cups flour  
 1 tsp. baking powder  

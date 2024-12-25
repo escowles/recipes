@@ -2,9 +2,9 @@
 layout: post
 title: chicken piccata
 date: 2023-02-21 08:41:33 -0500
-last_modified_at: 
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: main
-tags: chicken italian lemon
+tags: chicken italian lemon nytimes
 ---
 
 1 1/2 lbs. chicken breast, halved horizontally or pounded flat  

@@ -2,9 +2,9 @@
 layout: post
 title: steak and stout pie
 date: 2023-11-04 10:16:22 -0400
-last_modified_at: 2023-11-05 18:45:09 -0500
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: main
-tags: beef meat pie irish beer
+tags: beef meat pie irish beer nytimes
 ---
 
 2 tbsp. butter  

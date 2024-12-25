@@ -2,9 +2,9 @@
 layout: post
 title: garlic chicken standwiches
 date: 2024-06-18 10:59:32 -0400
-last_modified_at: 
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: main
-tags: chicken meat sandwiches
+tags: chicken meat sandwiches nytimes
 status: confirmed
 ---
 

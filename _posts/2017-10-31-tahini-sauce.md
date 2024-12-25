@@ -2,9 +2,9 @@
 layout: post
 title: Tahini Sauce
 date: 2017-10-31 17:37:02 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-12-25T12:47:05 -0500
 category: other
-tags: middleeast sauce tahini
+tags: middleeast sauce tahini epicurious
 ---
 1/2 tsp. garlic powder  
 1/4 tsp. salt  
