@@ -2,9 +2,9 @@
 layout: post
 title: chickpea vegetable bowl with peanut dressing
 date: 2024-09-26 11:21:04 -0400
-last_modified_at: 
+last_modified_at: 2024-12-25T11:00:34 -0500
 category: sides
-tags: sides salad vegetable vegan
+tags: sides salad vegetable vegan food52
 status: confirmed
 ---
 

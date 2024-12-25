@@ -2,9 +2,9 @@
 layout: post
 title: One-Pot Mac & Cheese
 date: 2017-10-21 17:22:40 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-12-25T11:00:34 -0500
 category: main
-tags: cheese pasta vegetarian southern dairy
+tags: cheese pasta vegetarian southern dairy food52
 status: deprecated
 ---
 1 lb. pasta  
