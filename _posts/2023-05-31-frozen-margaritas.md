@@ -2,9 +2,10 @@
 layout: post
 title: frozen margaritas
 date: 2023-05-31 19:09:21 -0400
-last_modified_at: 2023-07-08 08:14:39 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: other
 tags: cocktails tequila alcohol drinks frozen
+status: confirmed
 ---
 
 3 oz. tequila  

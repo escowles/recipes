@@ -2,9 +2,10 @@
 layout: post
 title: Brisket/Butt 2.0
 date: 2019-09-08 23:07:49 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: bbq beef brisket meat pork southern longish
+status: confirmed
 ---
 Brisket, approx. 4-5 lbs.  
 Lump charcoal

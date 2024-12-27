@@ -2,9 +2,10 @@
 layout: post
 title: Pastry Cream
 date: 2019-02-17 12:00:45 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: dairy ingredients
+status: confirmed
 ---
 3 egg yolks  
 5 Tbps. sugar  

@@ -2,9 +2,10 @@
 layout: post
 title: Green Bean Casserole
 date: 2016-11-19 14:12:30 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: sides
 tags: thanksgiving vegetable thanksgiving2020
+status: confirmed
 ---
 5 Tbsp. butter  
 3 Tbsp. flour  

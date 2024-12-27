@@ -2,9 +2,10 @@
 layout: post
 title: Maraschino Cherry Cheesecake
 date: 2020-09-26 21:14:10 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: cheesecake cherry fruit dairy creamcheese lydia anyonecanbake
+status: confirmed
 ---
 [graham cracker crust]({{ site.baseurl }}{% post_url 2016-06-06-key-lime-pie %})  
 2 (8 oz.) packages of cream cheese, softened  

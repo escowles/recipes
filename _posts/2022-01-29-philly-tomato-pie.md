@@ -2,9 +2,10 @@
 layout: post
 title: philly tomato pie
 date: 2022-01-29 19:28:00 -0500
-last_modified_at: 2023-01-07 14:30:56 -0500
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: pizza philadelphia italian longish
+status: confirmed
 ---
 
 **dough:**

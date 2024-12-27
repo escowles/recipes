@@ -2,9 +2,10 @@
 layout: post
 title: Quiche Lorraine
 date: 2011-10-13 12:00:00 -0500
-last_modified_at: 2022-06-27 18:15:21 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: egg pork quiche cheese meat french dairy bacon
+status: confirmed
 ---
 8 slices bacon  
 1 cup shredded Emmental, Gruyere, or Cheddar cheese (3 oz.)  

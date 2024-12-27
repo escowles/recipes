@@ -2,9 +2,10 @@
 layout: post
 title: Pomegranate Rosemary Punch
 date: 2017-06-05 12:49:25 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: other
 tags: cocktails drinks fruit gin alcohol
+status: confirmed
 ---
 8 oz. pomegranate juice  
 8 oz. orange juice  

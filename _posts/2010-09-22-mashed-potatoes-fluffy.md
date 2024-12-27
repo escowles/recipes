@@ -2,9 +2,10 @@
 layout: post
 title: Mashed Potatoes (Fluffy)
 date: 2010-09-22 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: sides
 tags:  potatoes
+status: confirmed
 ---
 850 Cal (4x 213)
 

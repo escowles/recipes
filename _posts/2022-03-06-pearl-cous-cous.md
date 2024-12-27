@@ -2,9 +2,10 @@
 layout: post
 title: pearl cous cous
 date: 2022-03-06 08:10:48 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: sides
 tags: couscous middleeast
+status: confirmed
 ---
 
 1 Tbsp. olive oil  

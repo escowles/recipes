@@ -2,9 +2,10 @@
 layout: post
 title: Chocolate Goodies
 date: 2014-11-19 10:24:17 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: dessert
 tags: chocolate cookies peanut
+status: confirmed
 ---
 1½ cups sugar  
 2 Tbsp. cocoa powder  

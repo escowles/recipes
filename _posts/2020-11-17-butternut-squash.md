@@ -2,9 +2,10 @@
 layout: post
 title: butternut squash
 date: 2020-11-17 16:30:03 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: sides
 tags: vegetable squash thanksgiving thanksgiving2020
+status: confirmed
 ---
 
 1 butternut squash  

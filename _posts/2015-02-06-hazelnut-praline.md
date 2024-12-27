@@ -2,9 +2,10 @@
 layout: post
 title: Hazelnut Praline
 date: 2015-02-06 13:35:18 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: dessert
 tags: ingredients candy hazelnuts
+status: confirmed
 ---
 1,087 Cal
   

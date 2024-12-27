@@ -2,9 +2,10 @@
 layout: post
 title: Baja Fish Tacos
 date: 2011-08-04 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: mexican seafood fried fish
+status: confirmed
 ---
 3400 Cal (12x 283)
 

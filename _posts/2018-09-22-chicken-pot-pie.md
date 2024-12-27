@@ -2,9 +2,10 @@
 layout: post
 title: Chicken Pot Pie
 date: 2018-09-22 14:06:54 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: chicken british pie meat
+status: confirmed
 ---
 2 cups chicken broth  
 1 lb. boneless skinless chicken thighs (about 4 thighs), quartered  

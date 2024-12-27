@@ -2,9 +2,10 @@
 layout: post
 title: Chicken stock
 date: 2014-11-04 13:51:45 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: other
 tags: chicken soup meat
+status: confirmed
 ---
 2 chicken carcasses (stripped)  
 1 gal. water  

@@ -2,9 +2,10 @@
 layout: post
 title: Wind's Chocolate Ginger Cookies
 date: 2012-12-22 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: dessert
 tags:  cookies chocolate
+status: confirmed
 ---
 2758 Cal (24x 115)
 

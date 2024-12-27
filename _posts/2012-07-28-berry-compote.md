@@ -2,9 +2,10 @@
 layout: post
 title: Berry Compote
 date: 2012-07-28 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: other
 tags: sauce fruit
+status: confirmed
 ---
   
 2 cups berries  

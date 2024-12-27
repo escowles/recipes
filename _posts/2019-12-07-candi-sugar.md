@@ -2,9 +2,10 @@
 layout: post
 title: Candi Sugar (Invert Sugar)
 date: 2019-12-07 15:36:11 -0500
-last_modified_at: 2023-06-06 10:35:15 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: other
 tags: candy sugar homebrew
+status: confirmed
 ---
 1 lb. (2 cups) sugar  
 1/2 cup water  

@@ -2,9 +2,10 @@
 layout: post
 title: Breakfast Sausage
 date: 2013-01-27 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: meat pork southern breakfast
+status: confirmed
 ---
 1200 Cal (8x 150)
   

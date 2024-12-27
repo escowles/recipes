@@ -2,9 +2,10 @@
 layout: post
 title: Easy Fudge
 date: 2020-08-20 14:44:18 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: chocolate
+status: confirmed
 ---
 1 bag chocoloate chips (12 oz.)  
 1 can sweetened condensed milk (14 oz.)  

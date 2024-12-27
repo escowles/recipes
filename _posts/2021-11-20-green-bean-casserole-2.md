@@ -2,9 +2,10 @@
 layout: post
 title: green bean casserole 2
 date: 2021-11-20 12:43:32 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: sides
 tags: thanksgiving vegetable
+status: confirmed
 ---
 
 1 can cream of whatever soup  

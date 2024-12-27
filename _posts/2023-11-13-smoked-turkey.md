@@ -2,9 +2,10 @@
 layout: post
 title: smoked turkey
 date: 2023-11-13 11:09:55 -0500
-last_modified_at: 2024-11-25T19:51:50
+last_modified_at: 2024-12-27T09:19:22 -0500
 category: main
 tags: meat turkey thanksgiving longish
+status: confirmed
 ---
 
 **defrosting:**

@@ -2,9 +2,10 @@
 layout: post
 title: Butternut Squash Soup
 date: 2011-10-06 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: soup squash vegetarian vegetable creamcheese dairy
+status: confirmed
 ---
 1200 Cal (5 x 240)
 

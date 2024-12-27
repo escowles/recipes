@@ -2,9 +2,10 @@
 layout: post
 title: Calvados Truffles
 date: 2011-03-13 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: dessert
 tags: chocolate candy alcohol longish
+status: confirmed
 ---
 2240 Cal (140 x 16)
   

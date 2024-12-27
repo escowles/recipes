@@ -2,9 +2,10 @@
 layout: post
 title: vanilla ice cream
 date: 2022-08-14 12:16:41 -0400
-last_modified_at: 2022-08-14 12:21:02 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: cream icecream basic
+status: confirmed
 ---
 
 4 egg yolks  

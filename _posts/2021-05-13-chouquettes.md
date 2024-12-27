@@ -2,9 +2,10 @@
 layout: post
 title: chouquettes
 date: 2021-05-13 19:58:00 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: cookies french frenchbaker
+status: confirmed
 ---
 
 125ml (4 oz.) water  

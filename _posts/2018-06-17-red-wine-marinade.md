@@ -2,9 +2,10 @@
 layout: post
 title: Red Wine Marinade
 date: 2018-06-17 12:51:08 -0500
-last_modified_at: 2024-12-17T12:50:45 -0500
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: other
 tags: marinade beef steak alcohol spruceeats
+status: confirmed
 ---
 1 cup red wine  
 3/4 cup olive oil  

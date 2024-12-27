@@ -2,9 +2,10 @@
 layout: post
 title: California Rolls
 date: 2011-11-09 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: seafood sushi japanese asian
+status: confirmed
 ---
 2000 Cal (4x 500)
 

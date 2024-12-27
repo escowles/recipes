@@ -2,9 +2,10 @@
 layout: post
 title: French Bread
 date: 2011-12-01 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: sides
 tags: bread french longish
+status: confirmed
 ---
 1850 Cal (12x 154)
 

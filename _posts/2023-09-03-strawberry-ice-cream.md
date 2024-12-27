@@ -2,9 +2,10 @@
 layout: post
 title: strawberry ice cream
 date: 2023-09-03 11:19:24 -0400
-last_modified_at: 2023-10-28 08:00:16 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: berries fruit cream icecream
+status: confirmed
 ---
 
 1 1/2 cups strawberries, cubed  

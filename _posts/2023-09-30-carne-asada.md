@@ -2,9 +2,10 @@
 layout: post
 title: carne asada
 date: 2023-09-30 11:55:26 -0400
-last_modified_at: 2023-10-08 19:05:06 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: mexican meat beef longish
+status: confirmed
 ---
 
 1/2 cup orange juice  

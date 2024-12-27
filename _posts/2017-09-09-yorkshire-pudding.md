@@ -2,9 +2,10 @@
 layout: post
 title: yorkshire pudding
 date: 2017-09-09 15:27:04 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: sides
 tags: bread british mini
+status: confirmed
 ---
 3 eggs  
   

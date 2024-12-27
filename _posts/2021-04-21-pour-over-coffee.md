@@ -2,9 +2,10 @@
 layout: post
 title: pour over coffee
 date: 2021-04-21 12:56:42 -0400
-last_modified_at: 2023-05-19 16:39:48 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: other
 tags: coffee drinks
+status: confirmed
 ---
 
 to make a full 6-cup chemex of coffee:

@@ -2,9 +2,10 @@
 layout: post
 title: Ladyfingers
 date: 2016-05-21 18:16:12 -0500
-last_modified_at: 2023-03-30 20:52:05 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: dessert
 tags:  ingredients cookies
+status: confirmed
 ---
 4 egg whites  
 2 Tbsp. sugar  

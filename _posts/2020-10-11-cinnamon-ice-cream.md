@@ -2,9 +2,10 @@
 layout: post
 title: Cinnamon Ice Cream
 date: 2020-10-11 23:10:10 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: cinnamon icecream custard
+status: confirmed
 ---
 2¼ cups cream  
 ¾ cup milk  

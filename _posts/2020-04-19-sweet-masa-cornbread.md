@@ -2,9 +2,10 @@
 layout: post
 title: Sweet Masa Cornbread
 date: 2020-04-19 16:27:52 -0500
-last_modified_at: 2024-12-07T08:58:50 -0500
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: sides
 tags: bread corn southern
+status: confirmed
 ---
 Calories: 8x 262 or 12x 175  
 

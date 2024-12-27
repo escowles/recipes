@@ -3,8 +3,9 @@ layout: post
 title: black bean burgers
 date: 2022-06-06 14:01:12 -0400
 category: main
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2024-12-27T09:19:21 -0500
 tags: beans vegetarian sallysbakingaddiction
+status: confirmed
 ---
 
 2 cans black beans, drained and dried  

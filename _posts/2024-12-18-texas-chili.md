@@ -2,10 +2,10 @@
 layout: post
 title: texas chili
 date: 2024-12-18 14:11:49 -0500
-last_modified_at: 2024-12-18T14:19:26 -0500
+last_modified_at: 2024-12-27T09:19:22 -0500
 category: main
 tags: meat southern
-status: draft
+status: confirmed
 ---
 
 **chile sauce:**

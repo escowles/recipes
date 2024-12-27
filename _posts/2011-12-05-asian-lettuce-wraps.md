@@ -2,9 +2,10 @@
 layout: post
 title: Asian Lettuce Wraps
 date: 2011-12-05 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: appetizer asian chicken meat
+status: confirmed
 ---
 1000 Cal (4x 250)
   

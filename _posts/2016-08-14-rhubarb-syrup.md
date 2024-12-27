@@ -2,9 +2,10 @@
 layout: post
 title: Rhubarb Syrup
 date: 2016-08-14 19:34:52 -0500
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: other
 tags: cocktails fruit rhubarb syrup drinks epicurious
+status: confirmed
 ---
 1 stalk rhubarb, sliced  
 1/2 cup sugar  

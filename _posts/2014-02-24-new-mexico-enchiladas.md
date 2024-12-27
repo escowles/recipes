@@ -2,9 +2,10 @@
 layout: post
 title: New Mexico Enchiladas
 date: 2014-02-24 07:35:32 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: meat mexican pork
+status: confirmed
 ---
 1,555 Cal (6x 259)
 

@@ -2,9 +2,10 @@
 layout: post
 title: Chocolate Syrup
 date: 2019-01-06 00:37:17 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: chocolate sauce syrup
+status: confirmed
 ---
 1/2 cup cocoa powder  
 3/4 cup water  

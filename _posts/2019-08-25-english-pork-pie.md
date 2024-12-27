@@ -2,9 +2,10 @@
 layout: post
 title: English Pork Pie
 date: 2019-08-25 11:23:00 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: british pie pork meat piesquared bacon longish
+status: confirmed
 ---
 2 lbs. ground pork  
 ½ lb. bacon, finely chopped  

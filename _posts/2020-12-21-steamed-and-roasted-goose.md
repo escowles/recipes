@@ -2,9 +2,10 @@
 layout: post
 title: steamed and roasted goose
 date: 2020-12-21 11:00:57 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: meat goose xmas longish
+status: confirmed
 ---
 
 **steaming:**

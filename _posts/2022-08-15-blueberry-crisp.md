@@ -2,9 +2,10 @@
 layout: post
 title: blueberry crisp
 date: 2022-08-15 13:54:35 -0400
-last_modified_at: 2022-08-15 18:57:25 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: fruit pie
+status: confirmed
 ---
 
 5 cups blueberries  

@@ -2,9 +2,10 @@
 layout: post
 title: Jambalaya
 date: 2011-03-13 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: cajun chicken meat pork seafood shrimp sausage
+status: confirmed
 ---
 2160 Cal (4 x 540)
 

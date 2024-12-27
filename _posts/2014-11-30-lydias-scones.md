@@ -2,9 +2,10 @@
 layout: post
 title: Lydia's Scones
 date: 2014-11-30 15:09:29 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: sides
 tags: bread breakfast british lydia
+status: confirmed
 ---
 2 1/2 cups flour  
 2 Tbsp. sugar  

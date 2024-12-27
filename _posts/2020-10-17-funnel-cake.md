@@ -2,9 +2,10 @@
 layout: post
 title: Funnel Cake
 date: 2020-10-17 11:22:27 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: bread fried
+status: confirmed
 ---
 1/2 cup milk  
 2 eggs  

@@ -2,9 +2,10 @@
 layout: post
 title: Mint Chip Ice Cream
 date: 2010-09-04 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: dessert
 tags: mint chocolate icecream
+status: confirmed
 ---
 2750 Cal
 

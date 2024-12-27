@@ -2,9 +2,10 @@
 layout: post
 title: crockpot chicken noodle soup
 date: 2023-07-20 12:49:44 -0400
-last_modified_at: 
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: soup meat chicken
+status: confirmed
 ---
 
 1/2 pound chicken, cubed  

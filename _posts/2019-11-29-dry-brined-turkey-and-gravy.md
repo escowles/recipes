@@ -2,9 +2,10 @@
 layout: post
 title: Dry-Brined Turkey and Gravy
 date: 2019-11-29 16:09:23 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: gravy traditional meat turkey thanksgiving thanksgiving2019 thanksgiving2020 nytimes longish
+status: confirmed
 ---
 Thanksgiving 2019:  
   

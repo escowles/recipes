@@ -2,9 +2,10 @@
 layout: post
 title: Kansas City Rub
 date: 2017-09-04 11:45:55 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: other
 tags: bbq sauce southern
+status: confirmed
 ---
 1/3 cup brown sugar  
 1/3 cup white sugar  

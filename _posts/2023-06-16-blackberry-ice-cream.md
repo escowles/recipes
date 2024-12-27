@@ -2,9 +2,10 @@
 layout: post
 title: blackberry ice cream
 date: 2023-06-16 07:23:19 -0400
-last_modified_at: 2023-10-28 08:00:16 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: fruit berries icecream cream
+status: confirmed
 ---
 
 1 lb. blackberries  

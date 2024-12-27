@@ -2,9 +2,10 @@
 layout: post
 title: blood orange syrup
 date: 2023-10-27 07:47:40 -0400
-last_modified_at: 2023-10-27 07:51:09 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: other
 tags: syrup cocktails drinks fruit orange
+status: confirmed
 ---
 
 1 1/2 cups sugar  

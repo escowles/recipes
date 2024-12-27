@@ -2,9 +2,10 @@
 layout: post
 title: simple syrup
 date: 2021-07-10 12:26:53 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: other
 tags: cocktails drinks syrup
+status: confirmed
 ---
 
 1 cup water  

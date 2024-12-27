@@ -2,9 +2,10 @@
 layout: post
 title: Irish Stew
 date: 2018-03-17 23:18:14 -0500
-last_modified_at: 2024-01-07 10:45:28 -0500
+last_modified_at: 2024-12-27T09:19:20 -0500
 category: main
 tags: beef irish stew meat steak nytimes favorite
+status: confirmed
 ---
 2 tbsp. vegetable oil  
 1 lb. beef stew meat, cubed  

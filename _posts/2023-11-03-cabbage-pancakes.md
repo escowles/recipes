@@ -2,9 +2,10 @@
 layout: post
 title: cabbage pancakes (okonomiyaki)
 date: 2023-11-03 08:03:37 -0400
-last_modified_at: 
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: main
 tags: cabbage vegetable vegetarian japanese asian fried
+status: confirmed
 ---
 
 2 eggs  

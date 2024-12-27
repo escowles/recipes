@@ -2,9 +2,10 @@
 layout: post
 title: salted caramel ice cream
 date: 2021-10-04 11:32:19 -0400
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: dessert
 tags: icecream caramel nytimes
+status: confirmed
 ---
 
 3/4 cup sugar  

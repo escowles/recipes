@@ -2,9 +2,10 @@
 layout: post
 title: cold brew coffee
 date: 2021-04-21 13:11:59 -0400
-last_modified_at: 2022-07-16 17:20:39 -0400
+last_modified_at: 2024-12-27T09:19:21 -0500
 category: other
 tags: coffee drinks longish
+status: confirmed
 ---
 
 100g coarse-ground coffee  
