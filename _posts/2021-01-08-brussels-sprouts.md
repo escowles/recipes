@@ -2,9 +2,10 @@
 layout: post
 title: brussels sprouts
 date: 2021-01-08 07:17:01 -0500
-last_modified_at: 2024-01-07 16:20:35 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: sides
 tags: vegetable barefootcontessa favorite
+status: confirmed
 ---
 1.5 lbs. brussels sprouts  
 3 Tbsp. olive oil  

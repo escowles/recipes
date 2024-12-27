@@ -2,9 +2,10 @@
 layout: post
 title: smoked bacon
 date: 2023-06-11 13:18:37 -0400
-last_modified_at: 2023-06-11 13:24:51 -0400
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: meat pork bacon favorite
+status: confirmed
 ---
 
 1 Tbsp. peppercorns  

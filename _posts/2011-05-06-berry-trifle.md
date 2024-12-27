@@ -2,9 +2,10 @@
 layout: post
 title: Berry Trifle
 date: 2011-05-06 12:00:00 -0500
-last_modified_at: 2024-01-07 16:20:35 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: dessert
 tags: fruit berries british favorite
+status: confirmed
 ---
 4200 Cal (12 x 350)
 

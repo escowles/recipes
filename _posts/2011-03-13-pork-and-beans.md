@@ -2,9 +2,10 @@
 layout: post
 title: Pork and Beans
 date: 2011-03-13 12:00:00 -0500
-last_modified_at: 2024-01-07 10:45:27 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: main
 tags: meat pork southern stew beans favorite crockpot longish
+status: confirmed
 ---
 1940 Cal (4x 485)
   

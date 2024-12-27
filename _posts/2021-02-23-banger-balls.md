@@ -2,9 +2,10 @@
 layout: post
 title: banger balls
 date: 2021-02-23 16:54:45 -0500
-last_modified_at: 2024-01-07 10:45:28 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: main
 tags: meat pork british foodlab favorite
+status: confirmed
 ---
 
 2 slices sandwich bread  

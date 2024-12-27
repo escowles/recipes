@@ -2,9 +2,10 @@
 layout: post
 title: frozen limoncello
 date: 2021-07-10 12:20:18 -0400
-last_modified_at: 2024-01-23 12:51:02 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: alcohol frozen drinks favorite limoncello cocktails
+status: confirmed
 ---
 
 shy 1/4 cup water  

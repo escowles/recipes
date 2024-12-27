@@ -2,9 +2,10 @@
 layout: post
 title: Creamy Chicken Soup
 date: 2011-10-28 12:00:00 -0500
-last_modified_at: 2024-01-07 16:20:35 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: main
 tags: soup chicken meat favorite
+status: confirmed
 ---
 1350 Cal (6x 225)
 

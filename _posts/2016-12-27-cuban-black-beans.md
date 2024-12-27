@@ -2,9 +2,10 @@
 layout: post
 title: Cuban Black Beans
 date: 2016-12-27 15:46:16 -0500
-last_modified_at: 2024-01-07 10:45:28 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: sides
 tags: cuban beans nytimes bacon favorite
+status: confirmed
 ---
 2 Tbsp. olive oil  
 1 onion, diced  

@@ -2,9 +2,10 @@
 layout: post
 title: Big Al's KC Barbecue Sauce
 date: 2015-07-22 10:18:36 -0500
-last_modified_at: 2024-01-07 10:45:28 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: bbq sauce southern favorite
+status: confirmed
 ---
 
 2 cups ketchup  

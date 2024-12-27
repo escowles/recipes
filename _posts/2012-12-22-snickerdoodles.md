@@ -2,9 +2,10 @@
 layout: post
 title: Snickerdoodles
 date: 2012-12-22 12:00:00 -0500
-last_modified_at: 2024-01-07 16:20:35 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: dessert
 tags: cookies cinnamon favorite
+status: confirmed
 ---
 4478 Cal (48x 90)
 

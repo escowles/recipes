@@ -2,9 +2,10 @@
 layout: post
 title: fall punch
 date: 2020-11-14 06:54:29 -0500
-last_modified_at: 2024-01-07 10:45:28 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: drinks apple orange cinnamon fall alcohol favorite
+status: confirmed
 ---
 
 24 oz. apple juice  

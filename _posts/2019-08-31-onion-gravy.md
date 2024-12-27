@@ -2,9 +2,10 @@
 layout: post
 title: Onion Gravy
 date: 2019-08-31 16:41:44 -0500
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: british gravy sauce favorite epicurious
+status: confirmed
 ---
 1 onion  
 1 Tbsp. vegetable oil  

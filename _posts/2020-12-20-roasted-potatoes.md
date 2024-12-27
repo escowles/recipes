@@ -2,9 +2,10 @@
 layout: post
 title: roasted potatoes
 date: 2020-12-20 07:05:12 -0500
-last_modified_at: 2024-01-07 10:45:28 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: sides
 tags: british potatoes favorite
+status: confirmed
 ---
 
 2 lb. roasting potatoes (pref. russet, but yukon or red will do)  

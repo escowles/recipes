@@ -2,9 +2,10 @@
 layout: post
 title: Teriyaki Sauce
 date: 2011-08-23 12:00:00 -0500
-last_modified_at: 2024-01-07 16:20:35 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: sauce asian japanese nytimes favorite
+status: confirmed
 ---
 
 1/2 cup soy sauce  

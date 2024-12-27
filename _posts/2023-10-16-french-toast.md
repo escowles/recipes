@@ -2,9 +2,10 @@
 layout: post
 title: french toast
 date: 2023-10-16 07:15:20 -0400
-last_modified_at: 2024-01-07 10:59:38 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: sides
 tags: bread breakfast favorite
+status: confirmed
 ---
 
 3 eggs  

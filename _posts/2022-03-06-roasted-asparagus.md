@@ -2,9 +2,10 @@
 layout: post
 title: roasted asparagus
 date: 2022-03-06 17:52:35 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: sides
 tags:  barefootcontessa vegetable favorite
+status: confirmed
 ---
 
 1 bunch asparagus  

@@ -2,9 +2,10 @@
 layout: post
 title: margaritas
 date: 2020-12-30 09:10:49 -0500
-last_modified_at: 2024-01-07 10:45:28 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: drinks cocktails alcohol cointreau tequila mexican favorite
+status: confirmed
 ---
 
 double jigger (1.5 oz.) reposado tequila  

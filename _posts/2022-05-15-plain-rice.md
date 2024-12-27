@@ -2,9 +2,10 @@
 layout: post
 title: plain rice
 date: 2022-05-15 17:31:18 -0400
-last_modified_at: 2024-01-07 16:20:35 -0500
+last_modified_at: 2024-12-27T09:24:21 -0500
 category: sides
 tags: asian rice favorite
+status: confirmed
 ---
 
 2 1/4 cups water  
