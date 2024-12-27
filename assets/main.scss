@@ -28,3 +28,14 @@
   padding: 4px;
   text-decoration: none;
 }
+
+.post-meta { margin-bottom: 0px; }
+
+@media print {
+  .site-header, .site-footer { display: none; }
+  .post-title { font-size: x-large; }
+  .page-content { background: #fff; }
+  @page { margin-top: 50px; }
+  p { page-break-inside:avoid; }
+  p.strong { age-break-after: avoid; }
+}
