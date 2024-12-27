@@ -2,7 +2,7 @@
 layout: post
 title: baked latkes
 date: 2024-12-25 10:46:20 -0500
-last_modified_at: 2024-12-26T09:19:00 -0500
+last_modified_at: 2024-12-27T15:17:01
 category: main
 tags: potato jewish vegetarian food52
 status: confirmed
@@ -16,8 +16,8 @@ status: confirmed
 * pour out the water from the bowl, but keep any potato starch
 * add the potatoes and onion to the bowl
 
-1 egg
-2 tbsp. breadcrumbs, matzo meal, or flour
+1 egg  
+2 tbsp. breadcrumbs, matzo meal, or flour  
 1 tsp. kosher salt  
 1/2 tsp. black pepper  
 * add to potato mixture and mix well
