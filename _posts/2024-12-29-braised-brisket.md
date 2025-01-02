@@ -2,10 +2,10 @@
 layout: post
 title: braised brisket
 date: 2024-12-29 07:59:34 -0500
-last_modified_at: 2024-12-29T08:22:42 -0500
+last_modified_at: 2025-01-02T07:04:52 -0500
 category: main
 tags: meat beef brisket latimes jewish longish
-status: draft
+status: confirmed
 ---
 
 brisket (5-6 lbs.)  
@@ -51,3 +51,16 @@ juice of 1 lemon
   consistency, then pour over brisket and serve
 
 source: <https://www.latimes.com/recipe/best-brisket-ever>
+
+---
+
+01/02/2025: i made this a few nights ago and it was a bit of a rigamarole, because
+i don't have a dish large enough for a whole brisket that can sear/boil on the
+stovetop and then go in the oven. so i wound up searing the brisket in a frying pan
+by rotating it and hanging it over the edge to get each half, then sauteeing the 
+veggies separately and combining it all in a 9x13" glass baking dish. all that said,
+it was very tender and flavorful. so i look forward to making changes to the veggies
+and spices to bend it more towards bbq. the other difference between this dish and
+when i have smoked briskets is that i had a whole usda choice brisket, which i don't
+see generally. so it might make sense to wait for jewish holidays when i can find
+better quality cuts to try to smoke brisket again.

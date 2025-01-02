@@ -2,10 +2,10 @@
 layout: post
 title: scallion pancakes
 date: 2024-12-31 09:03:41 -0500
-last_modified_at: 2024-12-31T09:40:19 -0500
+last_modified_at: 2025-01-02T07:04:52 -0500
 category: main
 tags: vegetarian chinese asian fried
-status: draft
+status: confirmed
 ---
 
 300g (2 1/2 cups) flour  
@@ -28,3 +28,10 @@ oil or fat for frying and brushing
 * transfer to cooling rack and sprinkle with salt
 
 source: Savory Baking, p. 67.
+
+---
+
+01/02/2025: i made these a couple of nights ago and they were tasty, served with
+chili crisp and leftover brisket. but they tough, i think because they were thicker
+than they were supposed to be, because of the thickness of the scallions. next time
+i'll try chopping them in the food processor to make sure they are thin enough.

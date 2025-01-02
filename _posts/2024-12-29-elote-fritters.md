@@ -2,10 +2,10 @@
 layout: post
 title: elote fritters
 date: 2024-12-29 16:59:57 -0500
-last_modified_at: 2024-12-29T17:07:32 -0500
+last_modified_at: 2025-01-02T07:04:52 -0500
 category: main
 tags: corn mexican vegetarian
-status: draft
+status: confirmed
 ---
 
 450g corn kernels (about 3 cups or 4 ears)  
@@ -30,3 +30,9 @@ status: draft
 * drain on a wire rack while making additional batches
 
 source: Savory Baking, p. 69.
+
+---
+
+01/02/2025: i made these a couple of nights ago, and they were good. i had gathered
+several other things as accoutrements (i made some brussels sprouts, and some other
+leftovers) — but these were substantial enough to be the main course.
