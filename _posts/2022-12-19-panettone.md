@@ -2,7 +2,7 @@
 layout: post
 title: panettone
 date: 2022-12-19 17:41:07 -0500
-last_modified_at: 2024-12-23T16:39:29 -0500
+last_modified_at: 2025-01-02T17:45:20 -0500
 category: dessert
 tags: italian bread xmas longish
 status: confirmed
@@ -33,7 +33,7 @@ starter
 
 100g dried apricots, chopped  
 100g dried cherries  
-66g dried pineapple, chopped  
+66g dried pineapple, chopped (or 100g [candied orange peel]({{ site.baseurl }}{% post_url 2020-12-10-cranberry-orange-cinnamon-rolls %}#candied-orange-peel))  
 zest from one clementine  
 * turn dough out onto floured board and knead in fruits and zest
 * shape dough into a ball and place in a straight-sided 2-quart pan lined with
