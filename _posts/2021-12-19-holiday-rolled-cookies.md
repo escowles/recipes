@@ -2,7 +2,7 @@
 layout: post
 title: holiday rolled cookies
 date: 2021-12-19 07:57:27 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-01-02T11:06:38 -0500
 category: dessert
 tags: xmas cookies
 status: confirmed
@@ -14,7 +14,7 @@ status: confirmed
 3/4 cup sugar  
 1/4 tsp. salt  
 1 cup (2 Tbsp.) butter, cut into 1 Tbsp. chunks and softened  
-2 Tbsp. cream cheese, softenened  
+2 Tbsp. cream cheese, softened  
 2 tsp. vanilla extract  
 * mix dry ingredients in stand mixer, then add butter 1 Tbsp. at a time
 * continue mixing until mixture is crumbly and wet, about 1-2 minutes
@@ -25,7 +25,7 @@ status: confirmed
 * cut with cookie cutters and place cookies 1 1/2" apart on cookie sheets
 * bake at 375°F for about 10 minutes, until cookies begin to brown at edges
   (5 minutes for convection oven)
-* let cookies cool on baking sheet for 3 mintues before transferring to cooling rack
+* let cookies cool on baking sheet for 3 minutes before transferring to cooling rack
 
 **glaze:**
 
