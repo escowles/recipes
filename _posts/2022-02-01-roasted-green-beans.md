@@ -2,9 +2,9 @@
 layout: post
 title: roasted green beans
 date: 2022-02-01 18:27:21 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-01-16T14:15:41
 category: sides
-tags: vegetable
+tags: vegetable vegetarian basic
 status: confirmed
 ---
 

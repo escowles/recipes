@@ -2,9 +2,9 @@
 layout: post
 title: drip coffee
 date: 2024-12-02 09:00:26 -0500
-last_modified_at: 2024-12-02T09:08:15 -0500
+last_modified_at: 2025-01-16T14:15:41
 category: other
-tags: drinks coffee american
+tags: drinks coffee american basic
 status: confirmed
 ---
 
