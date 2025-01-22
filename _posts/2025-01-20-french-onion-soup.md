@@ -2,10 +2,10 @@
 layout: post
 title: french onion soup
 date: 2025-01-20 14:50:39 -0500
-last_modified_at: 2025-01-20T14:57:27 -0500
+last_modified_at: 2025-01-21T19:50:47 -0500
 category: main
 tags: french soup nytimes
-status: draft
+status: confirmed
 ---
 
 3 tbsp. butter  

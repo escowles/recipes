@@ -2,10 +2,10 @@
 layout: post
 title: million dollar spaghetti
 date: 2025-01-21 10:50:59 -0500
-last_modified_at: 2025-01-21T11:59:26 -0500
+last_modified_at: 2025-01-21T19:50:47 -0500
 category: main
 tags: italian pasta meat pork beef nytimes
-status: draft
+status: confirmed
 ---
 
 1 lb. spaghetti  
