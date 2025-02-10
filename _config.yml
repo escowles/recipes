@@ -38,6 +38,7 @@ header_pages:
   - other.md
   - favorites.md
   - tags.md
+  - deprecated.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
