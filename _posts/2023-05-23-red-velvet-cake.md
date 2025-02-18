@@ -2,7 +2,7 @@
 layout: post
 title: red velvet cake
 date: 2023-05-23 11:26:11 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-02-18T17:01:12 -0500
 category: dessert
 tags: cake southern
 status: confirmed
@@ -47,3 +47,27 @@ easy to get too much. for the color, just adding a ridiculous amount of gel food
 probably what is needed. doing cupcakes would have the advantage of making it easy to have some
 with buttercream frosting and some with cream cheese frosting (since i like the cream cheese better
 but Irina doesn't).
+
+02/18/2025: trying an alternative recipe (https://www.southernliving.com/red-velvet-cake-with-cream-cheese-frosting-7108652):
+
+2 cups flour  
+1 tsp. baking soda  
+1/2 tsp. baking powder  
+2 1/2 tbsp. cocoa  
+1/2 tsp. salt  
+* combine in a large bowl and set aside
+
+1 1/4 cups buttermilk, room temperature  
+1 tbsp. white vinegar  
+* combine in a small bowl and set aside
+
+1/2 cup butter, softened  
+1 1/2 cups sugar  
+2 eggs, room temperature  
+1 tsp vanilla  
+1 tbsp. red food coloring  
+* cream butter and sugar, then blend in eggs one at a time
+* add remaining ingredients and mix well
+* while mixing on low, add flour and buttermilk mixtures
+* divide between two cake pans
+* bake at 350°F for 20-22 minutes, until a toothpick comes out clean
