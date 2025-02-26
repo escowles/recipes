@@ -2,7 +2,7 @@
 layout: post
 title: chicken korma
 date: 2025-02-24 15:53:12 -0500
-last_modified_at: 2025-02-24T21:20:49
+last_modified_at: 2025-02-25T19:54:35 -0500
 category: main
 tags: indian curry chicken meat nytimes
 status: draft
@@ -34,3 +34,10 @@ status: draft
 * turn off heat and stir in cream
 
 source: <https://cooking.nytimes.com/recipes/1026005-cashew-butter-chicken-korma>
+
+---
+
+2/25/25: i made this last night and it was pretty good, but not korma. i added some
+garam masala like a commenter mentioned, but i think there was also some coconut milk
+missing because it was way too thick, even with adding extra cream and some milk.
+next time i would add a can of coconut milk.

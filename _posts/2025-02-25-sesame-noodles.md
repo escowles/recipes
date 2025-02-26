@@ -2,7 +2,7 @@
 layout: post
 title: sesame noodles
 date: 2025-02-25 10:37:41 -0500
-last_modified_at: 2025-02-25T10:50:48 -0500
+last_modified_at: 2025-02-25T19:54:35 -0500
 category: main
 tags: pasta chinese vegan rainbowplantlife
 status: draft
@@ -41,3 +41,10 @@ salt, to taste
 * add remaining ingredients and toss again
 
 source: <https://rainbowplantlife.com/sesame-noodles/>
+
+---
+
+2/25/25: made this tonight and the sauce was fantastic, but the edamame don't go well
+with long noodles, esp. because i cut the onions and poblano into small pieces, too.
+i think this would be much better with penne or other short pasta, or even orzo or
+pearl cous cous.
