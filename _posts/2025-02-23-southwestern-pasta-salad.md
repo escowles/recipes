@@ -2,7 +2,7 @@
 layout: post
 title: southwestern pasta salad
 date: 2025-02-23 16:12:21 -0500
-last_modified_at: 2025-03-02T09:01:16 -0500
+last_modified_at: 2025-03-02T18:53:29
 category: main
 tags: pasta salad
 status: confirmed
@@ -23,7 +23,8 @@ status: confirmed
 1 tsp. cilantro  
 1/2 tsp. cumin  
 1/4 tsp. chipotle powder  
-salt and pepper, to taste
+1/2 tsp. salt  
+1/2 tsp. pepper  
 * mix in a small bowl, sprinkle over pasta, and mix well
 
 source: <https://www.fromachefskitchen.com/southwestern-orzo-salad/>
