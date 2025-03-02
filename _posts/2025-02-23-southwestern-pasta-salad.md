@@ -2,10 +2,10 @@
 layout: post
 title: southwestern pasta salad
 date: 2025-02-23 16:12:21 -0500
-last_modified_at: 2025-02-23T16:16:11 -0500
+last_modified_at: 2025-03-02T09:01:16 -0500
 category: main
 tags: pasta salad
-status: draft
+status: confirmed
 ---
 
 1 lb. orzo  
@@ -13,7 +13,7 @@ status: draft
 
 2 tbsp. olive oil  
 2 cups corn kernels, cooked  
-1/2 medium red onion, diced  
+1/4 medium red onion, diced  
 15 oz. can black beans, drained and rinsed  
 15 oz. can diced tomatoes, drained  
 3 cloves garlic, minced  
