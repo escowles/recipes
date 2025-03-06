@@ -2,7 +2,7 @@
 layout: post
 title: lemon petits fours
 date: 2025-03-01 14:06:18 -0500
-last_modified_at: 2025-03-02T00:42:21
+last_modified_at: 2025-03-06T15:14:13 -0500
 category: dessert
 tags: french lemon cake
 status: confirmed
@@ -28,6 +28,8 @@ status: confirmed
 * remove from pan and let cool completely
 
 ## glaze
+
+or use [poured fondant icing]({{ site.baseurl }}{% post_url 2025-03-06-poured-fondant-icing %})
 
 4 cups powdered sugar  
 1/2 cup milk  
