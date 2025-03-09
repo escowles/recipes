@@ -2,10 +2,10 @@
 layout: post
 title: instant pot chicken with caramelized lemon
 date: 2025-03-05 13:26:05 -0500
-last_modified_at: 2025-03-05T13:35:25 -0500
+last_modified_at: 2025-03-09T12:31:26 -0400
 category: main
 tags: meat chicken instantpot nytimes
-status: draft
+status: confirmed
 ---
 
 2 tbsp. olive oil  
@@ -19,7 +19,7 @@ status: draft
 * saute chicken for 5 minutes, then remove from pot and set aside
 
 1 lemon  
-* slice lemon and saute until softened and caramelized, about 2 minutes
+* slice lemon and saute until softened and caramelized, about 3 minutes per side
 * remove from pot and set aside
 
 2 tbsp. capers  
@@ -38,3 +38,8 @@ status: draft
   fully release pressure before serving
 
 source: <https://cooking.nytimes.com/recipes/1025436-one-pot-chicken-and-rice-with-caramelized-lemon>
+
+03/09/2025: i made this last night and it was great, even though i forgot the capers.
+it would definitely benefit from them, though. the one change i did made was
+increasing the time for the lemons, because they weren't caramelized and (like some
+commenters said) were too bitter.
