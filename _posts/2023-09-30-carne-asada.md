@@ -2,7 +2,7 @@
 layout: post
 title: carne asada
 date: 2023-09-30 11:55:26 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-03-24T07:28:24 -0400
 category: main
 tags: mexican meat beef longish
 status: confirmed
@@ -45,3 +45,11 @@ using dry cilantro, either skirt or flank steak) to reflect what i actually woun
 quite as good. in particular, the flank steak was one large slab, so it was uneven (160°F in
 the middle but only 135°F at the edges). so next time i'll make two tweaks: use 1.5 tbsp. of
 salt, and if using flank steak, i'd cut it in half so i could rotate to cook more evenly.
+
+3/24/25: made this recipe with flank steak, and it was pretty tough. some ideas for improvement:
+* i accidentally used orange drink instead of real oj, so that would probably help
+* longer marinating time (i did 4 hours, but could do overnight)
+* cutting the flank steak in half
+* cooking to 130°F instead of 140°F, and resting for 10 minutes (i've seen comments online that
+  flank steak gets tough around 140°F, and there was a lot of juices released which is a sign of
+  being overcooked)
