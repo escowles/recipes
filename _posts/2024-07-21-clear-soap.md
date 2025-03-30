@@ -2,19 +2,11 @@
 layout: post
 title: clear soap
 date: 2024-07-21 08:18:28 -0400
-last_modified_at: 
+last_modified_at: 2025-03-30T12:23:06 -0400
 category: other
 tags: soap
 status: confirmed
 ---
-**simple syrup:**
-
-150g water  
-300g sugar  
-* heat water until almost boiling
-* stir in sugar until it dissolves
-* remove from heat and let cool
-
 **fats:**
 
 500g lard  
@@ -32,12 +24,15 @@ status: confirmed
 
 **solvents and fragrance:**
 
-300g everclear (190 proof/95%)  
-450g simple syrup  
-24g fragrance  
-* add everclear and mix well, then cook for 30-45 minutes
-* add simple syrup and mix well, remove from heat and allow to cool to 140°F
-* add fragrance, mix well, and pour into molds
+350g everclear (190 proof/95%)  
+450g heavy simple syrup (150g water and 300g sugar)  
+24g fragrance (optional)  
+color (optional)  
+* add everclear and mix well (there will be lumps)
+* cover tightly and cook for 30-45 minutes
+* stir syrup into the soap and mix well
+* remove from heat and allow to cool to 140°F
+* stir in fragrance and color, then pour into molds
 
 source: <https://www.bearchele.com/soap/Tutorial.html> and
         <https://www.bearchele.com/soap/calculation.html>
