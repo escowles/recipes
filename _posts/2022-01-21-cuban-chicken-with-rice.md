@@ -2,9 +2,10 @@
 layout: post
 title: cuban chicken with rice
 date: 2022-01-21 18:47:40 -0500
-last_modified_at: 2023-12-21 09:47:58 -0500
+last_modified_at: 2025-04-05T19:41:08 -0400
 category: main
 tags: cuban latin meat chicken instantpot
+status: deprecated
 ---
 **instant-pot cuban chicken with rice (arroz con pollo)**
 

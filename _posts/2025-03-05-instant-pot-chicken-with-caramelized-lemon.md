@@ -2,10 +2,10 @@
 layout: post
 title: instant pot chicken with caramelized lemon
 date: 2025-03-05 13:26:05 -0500
-last_modified_at: 2025-03-09T12:31:26 -0400
+last_modified_at: 2025-04-05T19:41:08 -0400
 category: main
 tags: meat chicken instantpot nytimes
-status: confirmed
+status: deprecated
 ---
 
 2 tbsp. olive oil  

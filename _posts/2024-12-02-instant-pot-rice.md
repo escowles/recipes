@@ -2,10 +2,10 @@
 layout: post
 title: instant pot rice
 date: 2024-12-02 08:56:30 -0500
-last_modified_at: 2024-12-02T08:59:18 -0500
+last_modified_at: 2025-04-05T19:41:08 -0400
 category: sides
 tags: asian japanese rice
-status: confirmed
+status: deprecated
 ---
 
 1.5 cups of rice  
