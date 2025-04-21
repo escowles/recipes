@@ -30,3 +30,10 @@ status: draft
 * chill at least 12 hours before cooking
 
 source: <https://www.allrecipes.com/recipe/216319/homemade-sweet-italian-sausage-mild-or-hot/>
+
+---
+
+4/21/25: i made these a few weeks ago and didn't have fennel seed (or star anise which
+is the main substitute i saw recommended). they taste good, but apparently fennel is
+what makes italian sausage taste like italian sausage, so i bought some fennel seed
+for next time.
