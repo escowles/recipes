@@ -2,20 +2,26 @@
 layout: post
 title: Japanese Curry Roux
 date: 2018-11-17 19:57:19 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2025-04-22T09:17:39 -0400
 category: other
 tags: curry japanese sauce asian
+status: confirmed
 ---
-3 Tbsp. butter  
-3 Tbsp. flour  
-1 Tbsp. curry powder  
-1 Tbsp. garam masala  
-1/4 tsp. cayenne powder  
+6 tbsp. butter  
+6 tbsp. flour  
+* melt butter, stir in flour, and mix while heating until browned (10-15 minutes)
 
-  * Melt butter, stir in flour, and mix while heating until browned (10-15 minutes)
-  * Add spices, cook for 30 seconds, and then remove from heat
+1 tbsp. curry powder  
+1/2 tsp. garam masala  
+1/4 tsp. chipotle powder  
+1/4 tsp. garlic powder  
+1/4 tsp. coriander  
+* add spices, cook for 30 seconds, and then remove from heat
 
-Source: https://www.justonecookbook.com/how-to-make-curry-roux/  
+1 tbsp. soy sauce  
+* stir in soy sauce
+
+source: <https://www.justonecookbook.com/how-to-make-curry-roux/>
 
 ---
 
@@ -49,3 +55,6 @@ so, for next time:
 * 1/2 tsp. garam masala
 * 1/4 tsp. chipotle powder
 use chicken stock instead of water for the curry, and add 1 Tbsp. of sesame oil at the end
+
+04/22/2025: made this last night and it was very good — updating the recipe to match
+what it's evolved into.
