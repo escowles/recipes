@@ -2,7 +2,7 @@
 layout: post
 title: smoked bacon
 date: 2023-06-11 13:18:37 -0400
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-05-12T07:10:43 -0400
 category: other
 tags: meat pork bacon favorite
 status: confirmed
@@ -32,3 +32,6 @@ might try that next time.
 
 5/23/2024: grind the peppercorns and bay leaf to make them more uniform, and wrap the pork belly
 like a brisket in order to protect the corners from drying out and getting tough.
+
+5/4/2025: it was rainy, so i baked at 230 in the toaster oven, until it reached 170°F
+and it was good and crisped up nicely.
