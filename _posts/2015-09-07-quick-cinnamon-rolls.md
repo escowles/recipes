@@ -2,9 +2,9 @@
 layout: post
 title: Quick Cinnamon Rolls
 date: 2015-09-07 08:38:30 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: bread breakfast cinnamon
+tags: bread breakfast cinnamon quickbread
 status: deprecated
 ---
 Dough:  

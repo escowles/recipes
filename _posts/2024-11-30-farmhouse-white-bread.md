@@ -2,9 +2,9 @@
 layout: post
 title: farmhouse white bread
 date: 2024-11-30 07:51:28 -0500
-last_modified_at: 2024-11-30T13:01:11
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread yeast basic
+tags: bread yeast basic longish
 status: confirmed
 ---
 

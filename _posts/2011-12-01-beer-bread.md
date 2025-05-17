@@ -2,9 +2,9 @@
 layout: post
 title: Beer Bread
 date: 2011-12-01 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread beer favorite
+tags: bread beer favorite quickbread
 status: confirmed
 ---
 1950 Cal (8x 243)

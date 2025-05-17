@@ -2,9 +2,9 @@
 layout: post
 title: Brioche Doughnuts
 date: 2017-05-28 10:47:41 -0500
-last_modified_at: 2023-04-29 08:55:17 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread doughnuts fried breakfast longish
+tags: bread doughnuts fried breakfast longish yeast
 status: draft
 ---
 dough:  

@@ -2,9 +2,9 @@
 layout: post
 title: Star Bread
 date: 2020-12-22 19:00:00 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: main
-tags: bread food52
+tags: bread food52 yeast longish
 status: confirmed
 ---
 

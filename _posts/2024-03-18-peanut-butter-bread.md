@@ -2,9 +2,9 @@
 layout: post
 title: peanut butter bread
 date: 2024-03-18 12:45:50 -0400
-last_modified_at: 
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread peanut
+tags: bread peanut quickbread
 status: draft
 ---
 

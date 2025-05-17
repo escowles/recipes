@@ -2,9 +2,9 @@
 layout: post
 title: No-Knead Cloche Bread
 date: 2020-09-23 18:35:32 -0500
-last_modified_at: 2025-01-28T15:47:59 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread vegetarian nytimes
+tags: bread vegetarian nytimes yeast longish
 ---
 430g flour  
 2 tsp. salt  

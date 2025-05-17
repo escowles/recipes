@@ -2,9 +2,9 @@
 layout: post
 title: cranberry orange cinnamon rolls
 date: 2020-12-10 13:30:22 -0500
-last_modified_at: 2025-01-02T17:45:20 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: greatbritishbakeoff bread breakfast cinnamon
+tags: greatbritishbakeoff bread breakfast cinnamon yeast longish
 ---
 ### dough:
 

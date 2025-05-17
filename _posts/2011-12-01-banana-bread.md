@@ -2,9 +2,9 @@
 layout: post
 title: Banana Bread
 date: 2011-12-01 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread fruit banana bettycrocker favorite
+tags: bread fruit banana bettycrocker favorite quickbread
 status: confirmed
 ---
 1 1/2 cups (355ml) mashed ripe bananas (2 or 3 medium, the riper the better (you can mash and freeze overripe bananas and thaw them as needed))  

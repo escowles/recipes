@@ -2,9 +2,9 @@
 layout: post
 title: cinnamon rolls
 date: 2021-05-16 06:11:59 -0400
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: bread breakfast cinnamon favorite
+tags: bread breakfast cinnamon favorite yeast longish
 status: confirmed
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: "banana bread #2"
 date: 2021-03-16 14:19:50 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread banana fruit yousuckatcooking
+tags: bread banana fruit yousuckatcooking quickbread
 status: deprecated
 ---
 

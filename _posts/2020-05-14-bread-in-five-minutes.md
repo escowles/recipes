@@ -2,9 +2,9 @@
 layout: post
 title: Bread in Five Minutes
 date: 2020-05-14 17:38:10 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread vegetarian
+tags: bread vegetarian yeast longish
 ---
 1½ cups lukewarm water (¾ lb.)  
 1½ tsp. yeast  

@@ -2,9 +2,9 @@
 layout: post
 title: lemony chickpea soup
 date: 2024-06-16 11:54:16 -0400
-last_modified_at: 
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: main
-tags: vegan flexitarian chickpea vegetable rainbowplanlife soup
+tags: vegan flexitarian chickpea vegetable rainbowplanlife soup yeast
 status: confirmed
 ---
 

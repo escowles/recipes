@@ -2,9 +2,9 @@
 layout: post
 title: chocolate kings cake
 date: 2023-02-20 16:39:07 -0500
-last_modified_at: 
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: cake french mardigras
+tags: cake french mardigras yeast longish
 ---
 
 **dough:**

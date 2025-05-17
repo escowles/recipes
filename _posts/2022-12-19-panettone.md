@@ -2,9 +2,9 @@
 layout: post
 title: panettone
 date: 2022-12-19 17:41:07 -0500
-last_modified_at: 2025-01-02T17:45:20 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: italian bread xmas longish
+tags: italian bread xmas longish yeast
 status: confirmed
 ---
 

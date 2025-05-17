@@ -2,9 +2,9 @@
 layout: post
 title: Vegan Cinnamon Rolls
 date: 2017-11-04 13:54:54 -0500
-last_modified_at: 2023-10-28 09:50:46 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: bread breakfast cinnamon vegan
+tags: bread breakfast cinnamon vegan yeast longish
 ---
 1 cup almond milk  
 3 Tbsp. Earth Balance margarine  

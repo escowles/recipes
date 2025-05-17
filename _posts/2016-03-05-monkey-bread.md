@@ -2,9 +2,9 @@
 layout: post
 title: monkey bread
 date: 2016-03-05 06:54:01 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: bread breakfast cinnamon sallysbakingaddiction
+tags: bread breakfast cinnamon sallysbakingaddiction yeast longish
 status: confirmed
 ---
 2 1/4 tsp. yeast  

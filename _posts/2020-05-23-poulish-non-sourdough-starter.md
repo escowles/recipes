@@ -2,9 +2,9 @@
 layout: post
 title: Poulish (Non-Sourdough Starter)
 date: 2020-05-23 10:48:02 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: other
-tags: bread vegetarian longish
+tags: bread vegetarian longish yeast
 status: confirmed
 ---
 1 cup flour  

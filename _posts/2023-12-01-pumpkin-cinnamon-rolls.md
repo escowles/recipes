@@ -2,9 +2,9 @@
 layout: post
 title: pumpkin cinnamon rolls
 date: 2023-12-01 15:41:28 -0500
-last_modified_at: 2023-12-02 09:28:23 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: bread breakfast cinnamon pumpkin
+tags: bread breakfast cinnamon pumpkin yeast longish
 status: confirmed
 ---
 

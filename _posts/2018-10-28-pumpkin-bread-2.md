@@ -2,9 +2,9 @@
 layout: post
 title: Pumpkin Bread 2
 date: 2018-10-28 19:52:58 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread pumpkin
+tags: bread pumpkin quickbread
 ---
 1 cup pumpkin puree  
 6 Tbsp. butter, softened  

@@ -2,9 +2,9 @@
 layout: post
 title: dutch oven bread
 date: 2021-08-08 13:20:11 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread vegetarian
+tags: bread vegetarian yeast longish
 ---
 
 3¼ cups flour  

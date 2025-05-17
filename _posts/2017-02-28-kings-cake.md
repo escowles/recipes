@@ -2,9 +2,9 @@
 layout: post
 title: King's Cake
 date: 2017-02-28 13:51:51 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: dessert
-tags: cake french mardigras
+tags: cake french mardigras yeast longish
 ---
 1 cup milk (110°F)  
 1/2 cup sugar  

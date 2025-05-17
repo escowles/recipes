@@ -2,9 +2,9 @@
 layout: post
 title: Pizza Dough
 date: 2011-12-01 12:00:00 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: other
-tags: bread italian barefootcontessa pizza
+tags: bread italian barefootcontessa pizza yeast longish
 status: confirmed
 ---
 1500 Cal (4x 375)

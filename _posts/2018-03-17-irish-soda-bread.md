@@ -2,9 +2,9 @@
 layout: post
 title: Irish Soda Bread
 date: 2018-03-17 23:24:55 -0500
-last_modified_at: 2022-06-19 10:11:18 -0400
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
-tags: bread dairyfree irish
+tags: bread dairyfree irish quickbread
 status: deprecated
 ---
 1 cup almond milk  

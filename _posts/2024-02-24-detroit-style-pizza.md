@@ -2,9 +2,9 @@
 layout: post
 title: detroit style pizza
 date: 2024-02-24 12:15:31 -0500
-last_modified_at: 2024-02-26 11:28:34 -0500
+last_modified_at: 2025-05-17T07:08:36 -0400
 category: main
-tags: italian detroit pizza nytimes
+tags: italian detroit pizza nytimes yeast longish
 status: confirmed
 ---
 
