@@ -2,7 +2,7 @@
 layout: post
 title: bitterballen
 date: 2023-09-26 12:48:09 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-06-16T20:25:37 -0400
 category: main
 tags: meat dutch beef longish
 status: confirmed
@@ -54,6 +54,15 @@ salt and pepper, to taste
 * fry at 350°F for 5-6 minutes until well browned, or bake at 350°F for 15 minutes,
   until internal temperature reaches 165°F
 
+**buns:**
+
+* instead of chilling and making meatballs, make a batch of dough for [pull-apart
+  yeast rolls]({{ site.baseurl }}{% post_url 2024-09-14-pull-apart-yeast-rolls %})
+* flatten each dough ball out into a taco-sized disc, fill with 1/4 cup of beef
+  filling, then fold and pinch under to seal
+* bake as normal (though the buns will be larger than the rolls, so 9 will fit in a
+  9x9" pan instead of 16
+
 source: <https://braisedanddeglazed.com/bitterballen-dutch-secrets-exposed/>
 
 ---
@@ -62,3 +71,6 @@ source: <https://braisedanddeglazed.com/bitterballen-dutch-secrets-exposed/>
 of hassle, and the final output wasn't really worth the effort. but i think the braised beef is a
 keeper. so next time i'll braise the beef, separate the liquid, make the roux, and then just return
 the beef and vegetables to the pot and thicken the sauce. then serve it over rice or potatoes.
+
+6/16/26: made bitterbuns instead of bitterballs tonight, and they were fantastic.
+added the directions above.
