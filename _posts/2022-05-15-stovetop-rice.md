@@ -1,10 +1,10 @@
 ---
 layout: post
-title: plain rice
+title: stovetop rice
 date: 2022-05-15 17:31:18 -0400
 last_modified_at: 2024-12-27T09:24:21 -0500
 category: sides
-tags: asian rice favorite
+tags: asian rice
 status: confirmed
 ---
 
