@@ -2,10 +2,10 @@
 layout: post
 title: sheet pan malai chicken and potatoes
 date: 2025-06-30 15:11:54 -0400
-last_modified_at: 
+last_modified_at: 2025-07-02T19:16:41 -0400
 category: main
 tags: nytimes meat chicken indian
-status: draft
+status: confirmed
 ---
 
 **chicken:**
@@ -14,7 +14,7 @@ status: draft
 1/3 cup fresh cilantro (or 2 tbsp. dry)  
 5 cloves garlic, peeled and sliced  
 1 1/2" fresh ginger, peeled and sliced  
-1-2 serrano chilies  
+1-2 serrano chilies (2 is quite spicy)  
 1 tbsp. ghee or olive oil  
 1 1/2 tsp. salt  
 1 1/2 tsp. garam masala  
@@ -40,3 +40,8 @@ status: draft
 * serve immediately
 
 source: <https://cooking.nytimes.com/recipes/1026512-sheet-pan-malai-chicken-and-potatoes>
+
+---
+
+07/02/2025: skipped the lemon juice/cream and it was great. though with two serranos, it was very
+spicy, so i'll probably do one next time.
