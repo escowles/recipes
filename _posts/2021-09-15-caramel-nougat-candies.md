@@ -2,7 +2,7 @@
 layout: post
 title: caramel nougat candies
 date: 2021-09-15 09:36:37 -0400
-last_modified_at: 2024-12-17T12:50:45 -0500
+last_modified_at: 2025-07-15T08:58:33 -0400
 category: dessert
 tags: candy caramel peanut longish spruceeats
 ---
@@ -61,3 +61,15 @@ sources:
 * <https://bakealish.com/original-caramels/>
 * <https://jamiegeller.com/recipes/soft-and-chewy-nougat/>
 * <https://www.thespruceeats.com/snackers-candy-bars-521255>
+
+---
+
+10/28/2023: some notes:
+1. you can't just mix caramel ingredients and expect it to work (need to caramelize the
+   sugar before adding dairy, etc. (you just get a grainy mess)
+2. 6 oz. of chocolate was enough to fill 12 small bars and 6 muffin papers very thinly.
+3. a half batch of caramel was a good amount to fill 12 small bars (enough left over to
+   make one extra bar of just caramel.
+4. caramel needs to be cooked higher (265°F?) to firm up, and this is actually dependent
+   on the humidity in the room (dryer is better).
+5. a 50/50 mix of milk and dark chocolate is a very good mix for covering the bars.

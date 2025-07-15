@@ -2,7 +2,7 @@
 layout: post
 title: panettone
 date: 2022-12-19 17:41:07 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-07-15T08:58:33 -0400
 category: dessert
 tags: italian bread xmas longish yeast
 status: confirmed
@@ -53,3 +53,6 @@ source: <https://www.kingarthurbaking.com/recipes/overnight-panettone-recipe>
 
 the candied orange was great, but it was a little too much zest (1 orange and having
 orange extract would be better)
+
+07/15/2025: i made myself a note that the dry cherries were too tough, maybe simmering
+them would be better to soften them up?
