@@ -2,7 +2,7 @@
 layout: post
 title: detroit style pizza
 date: 2024-02-24 12:15:31 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-07-21T07:22:34 -0400
 category: main
 tags: italian detroit pizza nytimes yeast longish
 status: confirmed
@@ -42,7 +42,8 @@ status: confirmed
 8 oz. pepperoni, sliced  
 other toppings as desired  
 24 oz. mozzarella and cheddar cheese, cubed  
-* grease 16" square pan with oil and stretch dough (it will not reach sides)
+* grease 16" square pan (or three quarter sheet pans) with oil and stretch dough
+  (it will not reach sides)
 * cover with plastic wrap and rest 30 minutes, then stretch dough to sides
 * cover with plastic wrap and rest 45 minutes
 * remove plastic wrap and compact dough to remove air bubbles
@@ -57,3 +58,5 @@ source: <https://cooking.nytimes.com/recipes/1024845-detroit-style-pizza>
 2/26/2024: made this last night and it was probably the best pizza i've made at
 home. i adjusted the size a bit and reduced the heat because it did set off the
 smoke alarm when i took it out of the oven.
+
+7/21/2025: one third of a batch of dough fit a quarter sheet pan perfectly.
