@@ -2,7 +2,7 @@
 layout: post
 title: chile relleno casserole
 date: 2023-12-28 09:11:25 -0800
-last_modified_at: 2024-01-04 19:23:54 -0500
+last_modified_at: 2025-07-27T07:45:28 -0400
 category: main
 tags: mexican beef meat cheese
 status: draft
@@ -13,27 +13,31 @@ status: draft
 1 lb. ground beef (90/10)  
 1/2 onion, diced  
 2 tsp. cumin  
+1 tsp. garlic powder  
+1 tsp. chile powder  
 3/4 tsp. salt  
 3/4 tsp. pepper  
-* brown beef and onions and remove from pan with slotted spoon
+* brown beef and onions 
 * add spices and mix well
+* remove from pan with slotted spoon to drain grease
 
 **batter:**
 
-1/4 cup flour  
+2 tbsp. flour  
 1/4 tsp. salt  
-1 1/2 cups milk  
-4 eggs, beaten  
-* mix flour and salt, then beat in milk and eggs, breaking up any lumps
+2 eggs, beaten  
+3/4 cups milk  
+* mix flour and salt, then beat in eggs and half the milk, breaking up any lumps
+* stir in remaining milk to thin the batter out
 
 **casserole:**
 
 6 poblano peppers  
 2 cups cheddar cheese  
 * broil poblanos until blistered, then transfer to bowl and cover for 10 minutes
-* remove skins, seeds, and cut so they lay flat
-* grease a baking dish and line with poblanos, and chop the leftovers
-* top poblanos with beef mixture, cheese, and any remaining poblanos
+* remove skins, seeds, and chop
+* mix poblanos, beef mixture, and cheese
+* grease a baking dish and line with beef/poblano mixture
 * pour batter over the casserole and bake at 375°F for 45 minutes
 
 source: <https://www.washingtonpost.com/recipes/chile-relleno-casserole/>
