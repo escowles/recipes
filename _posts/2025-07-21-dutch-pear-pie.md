@@ -2,10 +2,10 @@
 layout: post
 title: dutch pear pie
 date: 2025-07-21 09:57:31 -0400
-last_modified_at: 
+last_modified_at: 2025-07-29T08:46:38 -0400
 category: dessert
 tags: dutch pear pie fruit
-status: draft
+status: confirmed
 ---
 **crust:**
 
@@ -45,3 +45,7 @@ use standard [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 * remove to a cooling rack and allow to cool completely before slicing
 
 source: <https://bakerbettie.com/dutch-pear-pie/>
+
+---
+
+07/29/25: made these last week for euro pi day (22/7) and they were a hit.
