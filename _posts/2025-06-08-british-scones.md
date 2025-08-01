@@ -2,7 +2,7 @@
 layout: post
 title: british scones
 date: 2025-06-08 06:35:17 -0400
-last_modified_at: 2025-06-08T06:42:30 -0400
+last_modified_at: 2025-08-01T11:55:28 -0400
 category: sides
 tags: british bread
 status: draft
@@ -23,7 +23,7 @@ status: draft
 * roll out the dough to a thickness of 2.5cm (1") and cut to desired shape
 * rest the scones for another 20 minutes
 * gently egg wash the top of the scones
-* bake at 180C for 10-12 minutes until golden brown
+* bake at 180°C/350°F for 10-12 minutes until golden brown
 * cool before serving with jam and clotted cream
 
 source: <https://www.instagram.com/p/CAYSjYcHO7E/>

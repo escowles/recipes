@@ -2,10 +2,10 @@
 layout: post
 title: chile relleno casserole
 date: 2023-12-28 09:11:25 -0800
-last_modified_at: 2025-07-27T07:45:28 -0400
+last_modified_at: 2025-08-01T11:55:28 -0400
 category: main
 tags: mexican beef meat cheese
-status: draft
+status: deprecated
 ---
 
 **beef mixture:**
@@ -55,3 +55,8 @@ next time:
 * dice all the peppers and mix them and the cheese into the meat
 * taste the filling and make sure it has enough salt and spice
 * go easy on the batter to keep them meatier
+
+08/01/2025: made these this week, as mini casseroles in 6" pie dishes (a half batch
+made 4). they were just ok. and given that they are mostly taco meat and cheese, i
+was really hoping for better. i think i'm going to try straight-up chile relleno
+recipes instead.
