@@ -2,14 +2,14 @@
 layout: post
 title: Irish Stew (old)
 date: 2014-03-16 14:50:40 -0500
-last_modified_at: 2022-11-08 17:42:16 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: irish soup stew meat
 status: deprecated
 ---
 1,600 Cal (4x 400)  
 
-### Marinade
+## Marinade
 
 1½ lb. lamb shoulder  
 1 bottle Irish stout  
@@ -20,7 +20,7 @@ salt &amp; pepper
 
 * Cube lamb and marinate in remaining ingredients.
 
-### Stew
+## Stew
 
 1 Tbsp. olive oil  
 1 lb. potatoes  

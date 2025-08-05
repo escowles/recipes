@@ -2,7 +2,7 @@
 layout: post
 title: Spinach and Cheddar Souffle
 date: 2011-11-28 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: vegetarian egg cheese souffle french vegetable dairy barefootcontessa favorite
 status: confirmed
@@ -10,7 +10,7 @@ time: 60-70 minutes
 ---
 1300 Cal (4x 325)
 
-### Cheese Sauce:
+## Cheese Sauce:
 
 3 Tbsp. butter  
 3 Tbsp. flour  
@@ -28,7 +28,7 @@ time: 60-70 minutes
 * Cook over low heat, whisking constantly, for 1 minute until smooth and thick.
 * Whisk in egg yolks, one at a time.  Stir in cheese and spinach.
 
-### Egg Whites:
+## Egg Whites:
 
 5 egg whites, room temperature  
 1/8 tsp. cream of tartar  
@@ -37,7 +37,7 @@ time: 60-70 minutes
 * Combine all ingredients in mixer with whisk attachment.
 * Beat on low for 1 minute, medium for 1 minute, then high until firm and glossy.
 
-### Souffle:
+## Souffle:
 
 1 Tbsp. butter, melted  
 3 Tbsp. Parmesan cheese, grated  

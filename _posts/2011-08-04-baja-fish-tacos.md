@@ -2,14 +2,14 @@
 layout: post
 title: Baja Fish Tacos
 date: 2011-08-04 12:00:00 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: mexican seafood fried fish
 status: confirmed
 ---
 3400 Cal (12x 283)
 
-### Sauce:
+## Sauce:
 1/2 cup mayonnaise  
 1 Tbsp. lime juice  
 1 tsp. cilantro, chopped  
@@ -18,7 +18,7 @@ status: confirmed
 
 * Combine all ingredients and mix until smooth.
 
-### Beer-Battered Cod Fillets (or substitute frozen):
+## Beer-Battered Cod Fillets (or substitute frozen):
 
 12 cod fillets  
 1 1/2 cup flour  
@@ -32,7 +32,7 @@ status: confirmed
 * Dredge cod fillets in flour
 * Coat with batter and fry in oil until browned.
 
-### Assembly:
+## Assembly:
 
 12 corn tortillas  
 2 cups cabbage, chopped  

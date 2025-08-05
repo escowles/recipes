@@ -2,7 +2,7 @@
 layout: post
 title: Shepherd's Pie
 date: 2011-11-25 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: beef british meat cooksillustrated favorite
 status: confirmed
@@ -10,7 +10,7 @@ time: 80 minutes
 ---
 1860 Cal (4x 465)
   
-### Filling:
+## Filling:
 
 1 Tbsp. butter  
 1/2 onion, finely chopped  
@@ -32,7 +32,7 @@ time: 80 minutes
 * Add broth, beer, soy sauce, and thyme. Simmer until thickened but still saucy, about 5 min.
 * Remove from heat, add peas/corn, season with salt and pepper, and add to baking dish.
 
-### Topping:
+## Topping:
 
 1½-2 lb. potatoes  
 1½ Tbsp. butter  

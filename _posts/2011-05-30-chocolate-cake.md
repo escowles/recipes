@@ -2,13 +2,13 @@
 layout: post
 title: Chocolate Cake
 date: 2011-05-30 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: dessert
 tags: chocolate cake barefootcontessa
 ---
 6720 Cal (24x 280)
 
-### Cake:
+## Cake:
 
 1 3/4 cups flour, plus more for pans  
 2 cups sugar  
@@ -29,7 +29,7 @@ tags: chocolate cake barefootcontessa
 * Cool in the pans for 30 minutes, then turn them out onto a cooling rack and cool completely.
 * Frost first layer, flat side up.  Top with second layer on top, rounded side up, and frost top and sides of the cake.
 
-### Frosting:
+## Frosting:
 6 oz. semisweet chocolate  
 1/2 lb. unsalted butter, at room temperature  
 1 extra-large egg yolk, at room temperature  

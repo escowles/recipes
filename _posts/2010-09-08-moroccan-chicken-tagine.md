@@ -2,14 +2,14 @@
 layout: post
 title: Moroccan Chicken Tagine
 date: 2010-09-08 12:00:00 -0500
-last_modified_at: 2024-02-25 10:23:39 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: chicken meat middleeast barefootcontessa longish
 status: deprecated
 ---
 1040 Cal (4x 260)
  
-### Marinade:
+## Marinade:
 
 3 cloves chopped garlic  
 1/2 tsp. ground cumin  
@@ -26,7 +26,7 @@ status: deprecated
 * Rinse preserved lemon wedges and remove the pulp. Reserve the peel.
 * Add lemon pulp and chicken. Mix, cover and marinate overnight, up to 24 hours.
 
-### Tagine:
+## Tagine:
 
 3/4 cup water  
 1/4 bunch cilantro  

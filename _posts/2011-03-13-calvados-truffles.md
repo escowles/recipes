@@ -2,14 +2,14 @@
 layout: post
 title: Calvados Truffles
 date: 2011-03-13 12:00:00 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: dessert
 tags: chocolate candy alcohol longish
 status: confirmed
 ---
 2240 Cal (140 x 16)
   
-### Filling:
+## Filling:
 
 3/8 cup heavy cream  
 1 1/2 cup chocolate chips (6 oz.)  
@@ -22,7 +22,7 @@ status: confirmed
 * Add brandy and vanilla. Mix thoroughly and let cool.
 * Chill overnight.
 
-### Truffles:
+## Truffles:
 
 8 oz. semi-sweet chocolate, finely chopped
 

@@ -2,14 +2,14 @@
 layout: post
 title: Asian Lettuce Wraps
 date: 2011-12-05 12:00:00 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: appetizer asian chicken meat
 status: confirmed
 ---
 1000 Cal (4x 250)
   
-### Filling:
+## Filling:
 
 1 Tbsp. grape seed oil  
 1 tsp. minced garlic  
@@ -20,7 +20,7 @@ status: confirmed
  * Heat oil over medium heat. Add garlic and ginger.
  * Add chicken and soy sauce. Stir fry until cooked through, approx. 5 minutes.
 
-### Sauce:
+## Sauce:
 
 1/3 cup soy sauce  
 1/3 cup water  
@@ -31,7 +31,7 @@ status: confirmed
 
  * Mix all ingredients.
 
-### Assembly:
+## Assembly:
 
 1 bell pepper  
 4 green onions  

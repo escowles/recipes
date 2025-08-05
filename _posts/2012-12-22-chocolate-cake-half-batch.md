@@ -2,13 +2,13 @@
 layout: post
 title: Chocolate Cake (Half Batch)
 date: 2012-12-22 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: dessert
 tags: chocolate cake barefootcontessa
 ---
 3360 Cal (12x 280)
 
-### Cake:
+## Cake:
 
 7/8 cup flour, plus more for pans  
 1 cup sugar  
@@ -29,7 +29,7 @@ tags: chocolate cake barefootcontessa
 * Cool in the pans for 30 minutes, then turn them out onto a cooling rack and cool completely.
 * Frost first layer, flat side up.  Top with second layer on top, rounded side up, and frost top and sides of the cake.
 
-### Frosting:
+## Frosting:
 
 3 oz. semisweet chocolate (1/2 cup chocolate chips)  
 1/4 lb. unsalted butter, at room temperature (1 stick)  

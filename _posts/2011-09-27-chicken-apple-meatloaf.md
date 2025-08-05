@@ -2,7 +2,7 @@
 layout: post
 title: Chicken Apple Meatloaf
 date: 2011-09-27 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: chicken meat southern apple tupelohoneycafe fruit
 ---
@@ -25,7 +25,7 @@ tags: chicken meat southern apple tupelohoneycafe fruit
  * Top with Worcestershire sauce and bake at 350F for 1 hour, until temperature reaches 160F.
  * Slice and serve with Tarragon Tomato Gravy
 
-### Tarragon Tomato Gravy
+## Tarragon Tomato Gravy
 
 1 cup red wine  
 2 beef bouillon cubes  

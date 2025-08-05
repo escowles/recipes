@@ -2,14 +2,14 @@
 layout: post
 title: Berry Trifle
 date: 2011-05-06 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: dessert
 tags: fruit berries british favorite
 status: confirmed
 ---
 4200 Cal (12 x 350)
 
-### Custard:
+## Custard:
 20 oz. heavy cream  
 6 egg yolks  
 6 Tbsp. sugar  
@@ -22,7 +22,7 @@ status: confirmed
 * Place plastic wrap on the surface of the custard to prevent a skin forming, if not
   immediately making the trifle. For best results, chill overnight to thicken.
 
-### Trifle:
+## Trifle:
 
 pound cake or [white cake]({{ site.baseurl }}{% post_url 2020-07-04-white-cake %})
 or [petit four cake]({{ site.baseurl }}{% post_url 2023-04-29-petit-fours %})  

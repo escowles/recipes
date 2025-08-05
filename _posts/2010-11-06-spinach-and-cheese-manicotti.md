@@ -2,13 +2,13 @@
 layout: post
 title: Spinach and Cheese Manicotti
 date: 2010-11-06 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: vegetarian pasta italian cheese vegetable dairy
 ---
 2400 Cal (6x 400)
 
-### Sauce:
+## Sauce:
 12-14 Roma tomatoes  
 1 Tbsp. olive oil  
 2 cloves garlic  
@@ -21,7 +21,7 @@ to taste salt and pepper
 * In a separate pan, heat oil and saute garlic and onion, stirring frequently.
 * Add remaining ingredients, lower heat and simmer for 20 minutes.
 
-### Filling:
+## Filling:
 
 15 oz. ricotta cheese, low-moisture or drained  
 10 oz. frozen spinach, thawed and dried  
@@ -35,7 +35,7 @@ to taste salt and pepper
 
 * Mix ricotta, spinach, onion and egg in large bowl.  Add remaining ingredients.
 
-### Cannelloni:
+## Cannelloni:
 
 10-12 manicotti
 

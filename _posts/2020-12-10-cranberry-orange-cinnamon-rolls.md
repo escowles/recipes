@@ -2,11 +2,11 @@
 layout: post
 title: cranberry orange cinnamon rolls
 date: 2020-12-10 13:30:22 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: dessert
 tags: greatbritishbakeoff bread breakfast cinnamon yeast longish
 ---
-### dough:
+## dough:
 
 200ml milk  
 50g butter  
@@ -23,7 +23,7 @@ zest from one orange
 * add to mixer with remaining ingredients and mix until the dough is smooth and elastic (about 7 minutes).
 * cover and let rise until the dough has doubled, about 1 hour
 
-### candied orange peel:
+## candied orange peel:
 
 2 oranges, quartered  
 300g sugar  
@@ -34,7 +34,7 @@ zest from one orange
 * bring to the boil and boil for 5 minutes
 * drain through a sieve, reserving syrup and peel separately
 
-### filling:
+## filling:
 
 150g cranberries, chopped  
 3 Tbsp. brandy  
@@ -45,7 +45,7 @@ candied orange peel, diced
 * heat cranberries and brandy over low heat for 5 minutes, then let cool
 * combine cranberries, orange peel, and spices
 
-### assembly:
+## assembly:
 
 50g butter, softened  
 100g powdered sugar  

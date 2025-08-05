@@ -2,14 +2,14 @@
 layout: post
 title: Jambalaya
 date: 2011-03-13 12:00:00 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: cajun chicken meat pork seafood shrimp sausage
 status: confirmed
 ---
 2160 Cal (4 x 540)
 
-### Meat:
+## Meat:
 
 12 oz. medium shrimp, peeled, deveined  
 1 lb. chicken, cubed  
@@ -26,7 +26,7 @@ status: confirmed
 * Cube chicken and sausage.
 * Combine meats and spices, mix well, and set aside.
 
-### Soup:
+## Soup:
 
 2 Tbsp. olive oil  
 ¼ white onion, diced  

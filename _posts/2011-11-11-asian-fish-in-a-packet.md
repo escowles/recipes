@@ -2,12 +2,12 @@
 layout: post
 title: Asian Fish In A Packet
 date: 2011-11-11 12:00:00 -0500
-last_modified_at: 2024-01-07 10:45:27 -0500
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: seafood fish asian favorite
 status: confirmed
 ---
-### Sauce:
+## Sauce:
 
 2 tsp. ginger  
 3 cloves garlic, minced (or 1/4 tsp. garlic powder)  
@@ -17,7 +17,7 @@ status: confirmed
 
 * Combine all ingredients and stir.
 
-### Fish:
+## Fish:
 
 1 Tbsp. canola oil  
 1 1/2 cups rice, steamed  

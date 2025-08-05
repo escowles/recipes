@@ -2,14 +2,14 @@
 layout: post
 title: Challah Cinnamon Rolls
 date: 2011-12-01 12:00:00 -0500
-last_modified_at: 2022-06-19 10:11:15 -0400
+last_modified_at: 2025-08-05T13:14:08 -0400
 category: dessert
 tags: bread breakfast cinnamon
 status: deprecated
 ---
 2200 Cal (12x 183)
 
-### Cinnamon Rolls:
+## Cinnamon Rolls:
 2 Tbsp. butter  
 2 Tbsp. sugar  
 2 Tbsp. brown sugar  
@@ -21,7 +21,7 @@ status: deprecated
 * Roll into tube and cut into 1" circles.  Place in greased round pan.
 * Bake at 350F for 30-35 min., until golden brown.
 
-### Icing:
+## Icing:
 
 1/2 cup powdered sugar  
 1/4 tsp. vanilla  
