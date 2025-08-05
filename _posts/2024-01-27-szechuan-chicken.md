@@ -2,13 +2,13 @@
 layout: post
 title: szechuan chicken
 date: 2024-01-27 17:11:13 -0500
-last_modified_at: 2024-03-05 19:05:41 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: chicken meat chinese
 status: deprecated
 ---
 
-**chicken:**
+## chicken:
 
 1 lb. boneless chicken breasts, cubed  
 1 tbsp. shaoxing wine or sherry  
@@ -23,7 +23,7 @@ salt and pepper to taste
 * heat oil in wok or dutch oven, and stir fry chicken in batches
 * remove chicken and cover
 
-**stir fry:**
+## stir fry:
 
 1/2 onion, diced  
 1 poblano, diced  
@@ -36,7 +36,7 @@ salt and pepper to taste
 * add garlic and ginger and cook an additional 30 seconds
 * add chicken to the pan and cook while making the sauce
 
-**sauce:**
+## sauce:
 
 3 tbsp. soy sauce  
 1 1/2 tbsp. hoisin sauce  

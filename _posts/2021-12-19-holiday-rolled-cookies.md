@@ -2,13 +2,13 @@
 layout: post
 title: holiday rolled cookies
 date: 2021-12-19 07:57:27 -0500
-last_modified_at: 2025-01-02T11:06:38 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: xmas cookies
 status: confirmed
 ---
 
-**cookies:**
+## cookies:
 
 2 1/2 cups flour  
 3/4 cup sugar  
@@ -27,7 +27,7 @@ status: confirmed
   (5 minutes for convection oven)
 * let cookies cool on baking sheet for 3 minutes before transferring to cooling rack
 
-**glaze:**
+## glaze:
 
 1 Tbsp. cream cheese, softened  
 3 Tbsp. milk  

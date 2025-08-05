@@ -2,13 +2,13 @@
 layout: post
 title: pumpkin cinnamon rolls
 date: 2023-12-01 15:41:28 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: bread breakfast cinnamon pumpkin yeast longish
 status: confirmed
 ---
 
-**dough:**
+## dough:
 
 1/4 cup milk, warmed to 110°F  
 1 tsp. sugar  
@@ -32,7 +32,7 @@ status: confirmed
   or chill overnight
 
 
-**filling**:
+## filling:
 
 1/4 cup butter, softened  
 2 tsp. cinnamon  
@@ -48,7 +48,7 @@ status: confirmed
 * place rolls in a greased 9" x 9" baking dish, cover, and let rise for 45 minutes
 * bake at 350°F for 22 minutes, until lightly browned
 
-**glaze:**
+## glaze:
 
 3 tbsp. butter, softened  
 4 oz. cream cheese, softened  

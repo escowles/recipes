@@ -2,13 +2,13 @@
 layout: post
 title: detroit style pizza
 date: 2024-02-24 12:15:31 -0500
-last_modified_at: 2025-07-21T07:22:34 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: italian detroit pizza nytimes yeast longish
 status: confirmed
 ---
 
-**dough:**
+## dough:
 
 450g flour  
 1 1/2 tbsp. kosher salt  
@@ -21,7 +21,7 @@ status: confirmed
 * turn out on a floured board and knead in flour until you can form a ball
 * cover and rest 90 minutes
 
-**sauce:**
+## sauce:
 
 2 tbsp. olive oil  
 1/2 onion, sliced  
@@ -36,7 +36,7 @@ status: confirmed
 * remove to a blender and add tomatoes
 * return to pot and simmer for 30 minutes to thicken
 
-**toppings:**
+## toppings:
 
 1 tbsp. olive oil  
 8 oz. pepperoni, sliced  

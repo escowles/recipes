@@ -2,12 +2,12 @@
 layout: post
 title: kegging beer
 date: 2021-09-04 15:51:19 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: other
 tags: alcohol beer homebrew longish
 ---
 
-**filling the keg:**
+## filling the keg:
 
 * fill the keg with a sanitizing solution, attach to beer and co2 lines, pressurize
   with co2, then push a gallon of sanitizing solution through the beer line.
@@ -18,7 +18,7 @@ tags: alcohol beer homebrew longish
   optional: agitate occasionally to increase carbonation rate.
 * depressurize keg, then repressurize to desired carbonation level (~10 psi) and test  carbonation, adjusting pressure to desired level.
 
-**emptying the keg:**
+## emptying the keg:
 
 * when the keg is empty, depressurize it and disconnect from beer and co2 lines.
 * empty any tails and rinse well to remove any yeast or other sediment.

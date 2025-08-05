@@ -2,13 +2,13 @@
 layout: post
 title: Pork Dumplings
 date: 2020-10-12 14:07:58 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: main
 tags: chinese meat pork appetizer asian
 status: confirmed
 ---
 
-**wrappers:**
+## wrappers:
 
 500g flour  
 260ml water  
@@ -20,7 +20,7 @@ status: confirmed
 * roll the section of dough into a rope and cut into 8 pieces
 * press each piece into the palm of your hand, then roll into a thin disk
 
-**filling:**
+## filling:
 
 1 lb. ground pork  
 3 cloves garlic, minced  

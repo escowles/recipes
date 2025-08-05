@@ -2,12 +2,12 @@
 layout: post
 title: petit fours
 date: 2023-04-29 13:39:13 -0400
-last_modified_at: 2023-05-14 18:49:23 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: cake french
 status: confirmed
 ---
-**cake:**
+## cake:
 
 1/3 cup butter  
 2 oz. cream cheese  
@@ -37,7 +37,7 @@ alternate baking:
 * to make three thin 9" round cake layers, make a double batch and divide between three cake pans,
   bake at 350°F for 15-20 minutes.
 
-**icing:**
+## icing:
 
 7 1/2 Tbsp. butter  
 3/4 tbsp. cream  

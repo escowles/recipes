@@ -2,13 +2,13 @@
 layout: post
 title: bitterballen
 date: 2023-09-26 12:48:09 -0400
-last_modified_at: 2025-06-16T20:25:37 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: meat dutch beef longish
 status: confirmed
 ---
 
-**braised beef:**
+## braised beef:
 
 1 Tbsp. olive oil  
 1 - 1.5 lbs. chuck roast, cut into 1-2" cubes  
@@ -27,7 +27,7 @@ salt and pepper, to taste
 * cover and transfer to a 350°F oven for 2 hours
 * let cool, then separate and shred beef and reserve liquid
 
-**bitterballen mix:**
+## bitterballen mix:
 
 2 tbsp. butter  
 2 tbsp. flour  
@@ -44,7 +44,7 @@ salt and pepper, to taste
 * spread on a baking sheet to cool to room temperature, then cover and chill for at
   least 2 hours
 
-**meatballs:**
+## meatballs:
 
 1 cup flour  
 2 eggs, beaten  
@@ -54,7 +54,7 @@ salt and pepper, to taste
 * fry at 350°F for 5-6 minutes until well browned, or bake at 350°F for 15 minutes,
   until internal temperature reaches 165°F
 
-**buns:**
+## buns:
 
 * instead of chilling and making meatballs, make a batch of dough for [pull-apart
   yeast rolls]({{ site.baseurl }}{% post_url 2024-09-14-pull-apart-yeast-rolls %})

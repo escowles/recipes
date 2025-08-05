@@ -2,13 +2,13 @@
 layout: post
 title: "Cinnamon Rolls #2"
 date: 2019-02-02 22:52:32 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: dessert
 tags: bread breakfast cinnamon creamcheese dairy yeast longish
 status: deprecated
 ---
 
-**Dough:**
+## Dough:
 
 ¾ cup warm milk (110 degrees F)  
 2¼ tsp. active yeast  
@@ -23,7 +23,7 @@ status: deprecated
 * Remove dough to oiled bowl, cover, and let rise 1-2 hours, until doubled in size.
 * Roll out dough into a 9x13" rectangle.
 
-**Filling:**
+## Filling:
 
 ¼ cup unsalted butter, softened  
 2/3 cup brown sugar  
@@ -36,7 +36,7 @@ status: deprecated
 * Bake at 350°F for 20-25 minutes, until slightly golden brown.
 * Let cool for 5 minutes before frosting.
 
-**Cream Cheese Frosting:**
+## Cream Cheese Frosting:
 
 4 oz. cream cheese, softened  
 3 Tbsp. unsalted butter, softened  

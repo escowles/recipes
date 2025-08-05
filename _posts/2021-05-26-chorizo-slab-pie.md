@@ -2,12 +2,12 @@
 layout: post
 title: chorizo slab pie
 date: 2021-05-26 15:27:04 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: potatoes mexican meat pie piesquared
 ---
 
-**hash brown crust:**
+## hash brown crust:
 
 1 medium onion  
 4 medium russet potatoes  
@@ -23,7 +23,7 @@ tags: potatoes mexican meat pie piesquared
 * brush 9x13 pan with 1 Tbsp. of oil, press mixture into pan, then brush top with remaining oil
 * bake at 425°F for 45 minutes, until toasted and browned at the edges
 
-**filling:**
+## filling:
 
 2 poblanos  
 1 lb. chorizo  
@@ -37,7 +37,7 @@ tags: potatoes mexican meat pie piesquared
   boiled off, about 20 minutes
 * cool filling then spread over crust
 
-**topping:**
+## topping:
 
 8 scallions, sliced  
 4 oz. shredded cheese  

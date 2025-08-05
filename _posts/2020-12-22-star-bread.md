@@ -2,13 +2,13 @@
 layout: post
 title: Star Bread
 date: 2020-12-22 19:00:00 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: main
 tags: bread food52 yeast longish
 status: confirmed
 ---
 
-**For the dough**
+## For the dough
 
 3/4 cup 3 tablespoons lukewarm whole milk  
 240 grams all-purpose flour  
@@ -18,7 +18,7 @@ status: confirmed
 1 teaspoon salt  
 1/4 cup potato or almond flour  
 
-**For the filling**
+## For the filling
 
 1 egg, beaten  
 1 tablespoons dried rosemary, crushed  

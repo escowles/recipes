@@ -2,12 +2,12 @@
 layout: post
 title: caramel nougat candies
 date: 2021-09-15 09:36:37 -0400
-last_modified_at: 2025-07-15T08:58:33 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: candy caramel peanut longish spruceeats
 ---
 
-**nougat:**
+## nougat:
 
 1 cup lightly-salted cocktail peanuts  
 3/4 cup sugar  
@@ -29,7 +29,7 @@ tags: candy caramel peanut longish spruceeats
 * let cool at room temperature until firm, 2-3 hours
 
 
-**caramel:**
+## caramel:
 
 250g sugar  
 85ml cream  
@@ -44,7 +44,7 @@ tags: candy caramel peanut longish spruceeats
 * let cool at room temperature until firm, 2-3 hours
 
 
-**assembly:**
+## assembly:
 
 8 oz. semi-sweet chocolate chips  
 8 oz. milk chocolate chips

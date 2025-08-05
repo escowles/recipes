@@ -2,7 +2,7 @@
 layout: post
 title: Empanada Slab Pie
 date: 2019-08-17 23:09:33 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: main
 tags: beef cuban pie meat creamcheese dairy piesquared
 status: confirmed
@@ -14,7 +14,7 @@ filling: double batch of [Empanada filling]({{ site.baseurl }}{% post_url 2021-0
   potato (not two potatoes) and adding some Worcestershire sauce instead of just doubling the
   soy sauce, etc.
 
-**assembly:**
+## assembly:
 
 1 egg yolk  
 1 tsp. cold water  

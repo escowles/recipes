@@ -2,13 +2,13 @@
 layout: post
 title: baked ziti
 date: 2024-03-14 13:06:25 -0400
-last_modified_at: 
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: pasta italian nytimes meat pork sausage squash
 status: confirmed
 ---
 
-**sauce:**
+## sauce:
 
 1 1/2 lbs. italian sausage, removed from casings  
 * crumble and brown sausage, then remove from the pan to drain
@@ -32,14 +32,14 @@ crumbled sausage
 1/3 cup romano or parmesan, grated  
 * add to sauce and mix well
 
-**ziti:**
+## ziti:
 
 1 lb. ziti noodles  
 * boil according to package directions, one minute less than al dente
 * drain and return to the pot
 * stir into sauce
 
-**assembly:**
+## assembly:
 
 8 oz. mozzarella, shredded
 * layer half of the ziti in a baking dish, top with half the mozzarella

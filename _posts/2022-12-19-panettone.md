@@ -2,13 +2,13 @@
 layout: post
 title: panettone
 date: 2022-12-19 17:41:07 -0500
-last_modified_at: 2025-07-15T08:58:33 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: italian bread xmas longish yeast
 status: confirmed
 ---
 
-**starter:**
+## starter:
 
 85g flour  
 1/8 tsp. instant yeast  
@@ -16,7 +16,7 @@ status: confirmed
 * combine ingredients in a medium mixing bowl, cover, and rest overnight (8-12 hours)
 
 
-**dough:**
+## dough:
 
 starter  
 269g flour  

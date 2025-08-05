@@ -2,36 +2,36 @@
 layout: post
 title: "#22 portland common double mild"
 date: 2015-05-09
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: other
 tags: drinks alcohol homebrew ale english porter mild beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
-**grain bill:**
+## grain bill:
 * 1.3 lb. mild malt
 * 1.2 lb. pale ale malt
 * 5 oz. crystal 60L
 * 5 oz. chocolate malt
 
-**90 minute kettle additions:**
+## 90 minute kettle additions:
 * 1/4 oz. willamette hope pellets
 
-**15 minute kettle additions:**
+## 15 minute kettle additions:
 * 1/4 oz. willamette hope pellets
 
-**5 minute kettle additions:**
+## 5 minute kettle additions:
 * 1/4 oz. willamette hope pellets
 
-**yeast:**
+## yeast:
 * WLP002 English Ale Yeast
 
-**stats:**
+## stats:
 * OG: 1.071
 * FG: 1.021
 * ABV: 6.0%
 
-**label text:**
+## label text:
 ```
 <> a beer:Mild, beer:Porter,
    dc:title "Portland Common Double Mild",

@@ -2,13 +2,13 @@
 layout: post
 title: texas chili
 date: 2024-12-18 14:11:49 -0500
-last_modified_at: 2024-12-27T09:19:22 -0500
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: meat southern
 status: confirmed
 ---
 
-**chile sauce:**
+## chile sauce:
 
 4 dried guajillo chiles  
 4 dried ancho chiles  
@@ -28,7 +28,7 @@ status: confirmed
 2 tsp. cumin  
 * add to chiles and transfer to a blender and puree until smooth
 
-**chili:**
+## chili:
 
 2 tbsp. canola oil  
 3 lb. chuck roast, cubed  

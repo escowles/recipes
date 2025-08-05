@@ -2,13 +2,13 @@
 layout: post
 title: lemony chickpea soup
 date: 2024-06-16 11:54:16 -0400
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: vegan flexitarian chickpea vegetable rainbowplanlife soup yeast
 status: confirmed
 ---
 
-**chickpea puree:**
+## chickpea puree:
 
 15 oz. can chickpeas, drained and rinsed  
 1/2 milk or plant-based milk  
@@ -20,7 +20,7 @@ pepper to taste
 * blend in food processor until smooth
 * adjust salt as needed
 
-**soup:**
+## soup:
 
 1/4 cup olive oil  
 12 baby carrots, thinly sliced  

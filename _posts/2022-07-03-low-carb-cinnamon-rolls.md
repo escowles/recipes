@@ -2,12 +2,12 @@
 layout: post
 title: low carb cinnamon rolls
 date: 2022-07-03 06:42:06 -0400
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: breakfast lowcarb bread cinnamon yeast longish
 status: deprecated
 ---
-**dough:**
+## dough:
 
 1 1/4 cup milk  
 1/4 cup vegetable oil  
@@ -26,7 +26,7 @@ status: deprecated
 * add remaining ingredients and mix thoroughly.
 * make cinnamon rolls immediately or refrigerate overnight for the morning.
 
-**filling:**
+## filling:
 
 4 Tbsp. butter  
 1/2 cup brown sugar substitute  
@@ -37,7 +37,7 @@ status: deprecated
 * put rolls in greased 9x12" pan and bake at 400°F for 17-20 minutes, until golden 
   brown on top.
 
-**glaze:**
+## glaze:
 
 4 oz. cream cheese  
 3 Tbsp. butter  

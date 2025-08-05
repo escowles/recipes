@@ -2,13 +2,13 @@
 layout: post
 title: cardamom dutch baby with peaches
 date: 2025-08-05 12:32:35 -0400
-last_modified_at: 2025-08-05T12:45:06 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: sides
 tags: bread breakfast nytimes
 status: confirmed
 ---
 
-**dutch baby:**
+## dutch baby:
 
 2 eggs  
 2/3 cup flour  
@@ -20,7 +20,7 @@ status: confirmed
 * remove skillet/pan from the oven and melt the butter in it
 * pour in batter and bake for 16 minutes
 
-**peaches:**
+## peaches:
 
 2 tbsp. butter  
 2 tbsp. brown sugar  

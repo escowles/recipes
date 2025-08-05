@@ -2,19 +2,19 @@
 layout: post
 title: chimichangas
 date: 2021-03-22 06:41:42 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: mexican texmex meat beef
 ---
 
-**crema:**
+## crema:
 
 1 cup sour cream  
 juice from one lime  
 pinch salt  
 * combine ingredients
 
-** flour paste:**
+## flour paste:
 
 2 Tbsp. water  
 1 Tbsp. flour  

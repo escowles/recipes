@@ -2,13 +2,13 @@
 layout: post
 title: muffin tin tamales
 date: 2024-04-21 06:51:18 -0400
-last_modified_at: 
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: pork mexican meat
 status: confirmed
 ---
 
-**base:**
+## base:
 
 2/3 cup lard  
 2 cups masa harina  
@@ -20,7 +20,7 @@ status: confirmed
 * add stock as needed to make a spongy dough
 * divide into 12 balls and press into greased muffin wells to make cups
 
-**filling:**
+## filling:
 
 1 tbsp. vegetable oil  
 1 onion, diced  
@@ -39,7 +39,7 @@ status: confirmed
 * cover the pot, transfer to 250°F oven, and bake until pork is very tender, about 3 hours
 * drain liquid and shred pork
 
-**baking:**
+## baking:
 
 1 cup [ranchero sauce]({{site.baseurl}}{% post_url 2023-01-22-ranchero-sauce %}) and/or
   [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %})

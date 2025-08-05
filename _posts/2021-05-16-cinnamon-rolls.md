@@ -2,13 +2,13 @@
 layout: post
 title: cinnamon rolls
 date: 2021-05-16 06:11:59 -0400
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: bread breakfast cinnamon favorite yeast longish
 status: confirmed
 ---
 
-**dough:**
+## dough:
 
 200ml (6 3/4 oz.) milk  
 50g (3 1/2 Tbsp.) butter  
@@ -25,7 +25,7 @@ status: confirmed
 * add eggs while mixing, and mix 7 minutes, until the dough is smooth and elastic
 * cover and let rise until the dough has doubled, about 1 hour
 
-**filling:**
+## filling:
 
 55g (1/4 cup) butter, softened  
 150g (2/3 cup) brown sugar  
@@ -43,7 +43,7 @@ filling variants:
   10 minutes. butter the dough with the remaining butter, top with brown sugar, and then spread
   the apple pieces on top before rolling
 
-**icing:**
+## icing:
 
 100g (3 1/2 oz.) cream cheese, softenened  
 1 Tbsp. simple syrup or milk  

@@ -2,12 +2,12 @@
 layout: post
 title: hazelnut toffee bark
 date: 2022-01-07 15:44:58 -0500
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: candy chocolate hazelnuts
 ---
 
-**toffee:**
+## toffee:
 
 1 cup butter  
 1 cup sugar  

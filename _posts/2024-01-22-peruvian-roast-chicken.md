@@ -2,13 +2,13 @@
 layout: post
 title: peruvian roast chicken
 date: 2024-01-22 11:16:17 -0500
-last_modified_at: 2024-02-03 15:08:31 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: meat chicken peruvian longish
 status: confirmed
 ---
 
-**chicken:**
+## chicken:
 
 3 tbsp. olive oil  
 juice from 2 limes  
@@ -27,7 +27,7 @@ juice from 2 limes
   5 minutes after thighs to finish baking at the same time without over-cooking breasts)
 * loosely cover with foil and rest 5 minutes before serving
 
-**green sauce:**
+## green sauce:
 
 1/4 cup mayo  
 1 cup cilantro (1.5 oz.), large stems removed  

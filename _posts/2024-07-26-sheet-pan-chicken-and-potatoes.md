@@ -2,20 +2,20 @@
 layout: post
 title: sheet pan chicken and potatoes
 date: 2024-07-26 16:03:23 -0400
-last_modified_at: 2024-12-15T07:43:33 -0500
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: nytimes chicken meat
 status: confirmed
 ---
 
-**chicken:**
+## chicken:
 
 1/4 cup mayonnaise  
 1 1/2 tsp. smoked paprika  
 1 1/2 lbs. boneless, skinless chicken thighs, cut into 2-inch pieces  
 * mix mayo and paprika, then toss with chicken to coat
 
-**potatoes:**
+## potatoes:
 
 2 tbsp. olive oil  
 1 1/2 pounds baby potatoes, cut lengthwise into 1/8"-thick slices  
@@ -30,7 +30,7 @@ status: confirmed
   160°F.
 * rest 5 minutes and garnish with parsley
 
-**paprika mayo dipping sauce:**
+## paprika mayo dipping sauce:
 
 1/4 cup mayonnaise  
 1 1/2 tsp. paprika  

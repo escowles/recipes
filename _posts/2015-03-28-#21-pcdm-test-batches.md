@@ -2,7 +2,7 @@
 layout: post
 title: "#21 pcdm test batches"
 date: 2015-03-28
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: other
 tags: drinks alcohol homebrew ale mild porter variations beer
 ---
@@ -21,10 +21,10 @@ Made four batches comparing different options:
 * variant #21e: mix porter (10 oz. pale ale, 3/4 oz. crystal, 3/4 oz. chocolate)
 * variant #21f: chocolate porter (10 oz. pale ale, 1/2 oz. crystal, 1 oz. chocolate)
 
-**yeast:**
+## yeast:
 * WLP002 English Ale Yeast
 
-**stats:**
+## stats:
 * mild base (w/ 1/5 oz. willamette hop pellets):
   * OG: 1.074
   * FG: 1.024

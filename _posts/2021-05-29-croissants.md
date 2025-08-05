@@ -2,7 +2,7 @@
 layout: post
 title: croissants
 date: 2021-05-29 12:54:07 -0400
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: sides
 tags: bread french frenchbaker longish yeast
 status: confirmed
@@ -29,13 +29,13 @@ status: confirmed
 * roll out to 20x65cm (8x25") rectangle, then fold in thirds
 * wrap and chill for one hour
 
-**second turn:**
+## second turn:
 
 * roll out dough to a 20x90cm (8x35") rectangle, then fold in quarters so the ends
   meet in the middle, then fold in half
 * wrap and chill for two hours
 
-**croissants:**
+## croissants:
 
 * roll out dough to 20x60cm (8x24") and fluff with your hands to relax the dough
 * cut dough into alternating triangles, with 10cm (4") bases

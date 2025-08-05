@@ -2,7 +2,7 @@
 layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: main
 tags: meat mexican crockpot beans beef favorite longish
 status: confirmed
@@ -23,7 +23,7 @@ status: confirmed
 * add remaining ingredients to crockpot and cook on low for 8 hours,
   stirring occasionally.
 
-**stovetop version:**
+## stovetop version:
 
 * brown beef, with onion and peppers, then add remaining ingredients
 * add 1 cup of water and reduce heat to a simmer, loosely covered (may need to use

@@ -2,30 +2,30 @@
 layout: post
 title: "#08 westmalle dubbel"
 date: 2011-10-16
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: other
 tags: drinks alcohol homebrew ale belgian abbey dubbel beer
 ---
 See  [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
-**grain bill:**
+## grain bill:
 * 11 1/2 lbs. Belgian Pilsner malt
 * 8 oz. Cara Munich malt
 * 5 oz. Belgian Biscuit malt
 * 21/2 oz. British Chocolate malt
 
-**90 minute kettle additions:**
+## 90 minute kettle additions:
 * 12 oz. Dark Candi Sugar Syrup
 * 4 oz. Malto Dextrin
 * 1 1/4 oz. Styrian Goldings hop pellets
 
-**15 minute kettle additions:**
+## 15 minute kettle additions:
 * 1 tsp. Irish Moss
 
-**yeast:**
+## yeast:
 * 1 vial Belgian Abbey Ale yeast (WLP530)
 
-**stats:**
+## stats:
 * OG: 1.068
 * FG: 1.006
 * ABV: 8.0%

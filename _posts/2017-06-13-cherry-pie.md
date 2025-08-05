@@ -2,12 +2,12 @@
 layout: post
 title: Cherry Pie
 date: 2017-06-13 12:04:47 -0500
-last_modified_at: 2024-01-07 16:20:35 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: dessert
 tags: cherry fruit pie favorite
 status: confirmed
 ---
-**filling:**
+## filling:
 
 2 lbs. fresh Montmorency cherries (4 cups)  
 juice from 1/4 lime  
@@ -25,7 +25,7 @@ juice from 1/4 lime
   cloudy
 * Remove from heat, mix in almond extract, and let cool
 
-**pie:**
+## pie:
 
 1 egg  
 2 tbsp. water  

@@ -2,13 +2,13 @@
 layout: post
 title: pinter instructions
 date: 2024-07-19 15:16:23 -0400
-last_modified_at: 
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: other
 tags: beer homebrew technique
 status: confirmed
 ---
 
-**purification:**
+## purification:
 
 * remove tap handle and faceplate, and unscrew the cap to open the brewing chamber
 * turn carbonation dial to #5
@@ -24,7 +24,7 @@ status: confirmed
 * turn the carbonation dial to #5
 * remove the tap handle and cap and pour out the remaining purifier (no rinse needed)
 
-**brewing:**
+## brewing:
 
 * refrigerate hopper until it's time to add it
 * set carbonation dial to the [recommended
@@ -39,7 +39,7 @@ status: confirmed
 * leave vertical at room temperature for the recommended time (see
   [product pages](https://pinter.co.uk/collections/fresh-beer) for brewing times)
 
-**hopping (before conditioning, if your recipe includes a hopper):**
+## hopping (before conditioning, if your recipe includes a hopper):
 
 * unscrew the hopping cap from the top of the pinter
 * remove the plastic cap from the hopper, but don't break the foil seal
@@ -47,7 +47,7 @@ status: confirmed
 * allow all of the hop oil to drain into the pinter, then remove it and replace the
   hopping cap
 
-**conditioning:**
+## conditioning:
 
 * place the hopper in the sink and turn the pinter counter-clockwise to remove
   from the brewing dock
@@ -56,7 +56,7 @@ status: confirmed
 * place the pinter in the refrigerator to condition for the recommended time (see
   [product pages](https://pinter.co.uk/collections/fresh-beer) for conditioning times)
 
-**cleaning:**
+## cleaning:
 
 * unscrew main cap and wash with warm, soapy water
 * remove tap handle and unscrew tap assembly to remove it from pinter
@@ -67,7 +67,7 @@ status: confirmed
   through the carbonation dial and hopping inlet for 20 seconds
 * rinse the pinter thoroughly and air-dry (do not reassemble until completely dry)
 
-**resources:**
+## resources:
 
 * [carbonation dial settings](https://pinter.co.uk/pages/carbonation-dial-settings)
 * [product pages](https://pinter.co.uk/collections/fresh-beer) (contain minimum and

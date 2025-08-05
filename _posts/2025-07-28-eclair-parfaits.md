@@ -2,17 +2,17 @@
 layout: post
 title: eclair parfaits
 date: 2025-07-28 08:47:36 -0400
-last_modified_at: 2025-07-28T09:02:10 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: dessert
 tags: french chocolate custard nytimes
 status: draft
 ---
 
-**base:**
+## base:
 
 half batch of [graham cracker crust]({{ site.baseurl }}{% post_url 2023-05-30-graham-cracker-crust %})
 
-**crème légère:**
+## crème légère:
 
 2 tbsp. corn starch  
 1/4 cup sugar  
@@ -31,14 +31,14 @@ half batch of [graham cracker crust]({{ site.baseurl }}{% post_url 2023-05-30-gr
 1.5 tbsp. powdered sugar  
 * whip cream and sugar until stiff, then fold into chilled custard
 
-**ganache:**
+## ganache:
 
 1/2 cup cream  
 4 oz. semi-sweet chocolate  
 * heat cream until steaming
 * pour into chocolate and rest 5 minutes, then stir until glossy
 
-**assembly:**
+## assembly:
 
 * in small glasses or ramekins, alternate layers of graham cracker crust and créme
   légère

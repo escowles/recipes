@@ -2,12 +2,12 @@
 layout: post
 title: chocolate kings cake
 date: 2023-02-20 16:39:07 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: cake french mardigras yeast longish
 ---
 
-**dough:**
+## dough:
 
 1/2 cup milk  
 2 Tbsp. butter  
@@ -32,7 +32,7 @@ tags: cake french mardigras yeast longish
 * oil bowl and add dough, turning to coat
 * cover with damp towel and rise until doubled, about 2 hours
 
-**filling**:
+## filling:
 
 9 oz. chocolate chips  
 2 Tbsp. butter  
@@ -44,7 +44,7 @@ tags: cake french mardigras yeast longish
 * cover and rise 45 minutes
 * bake at 325°F for 30 minutes, until golden brown
 
-**glaze:**
+## glaze:
 
 1 cup powdered sugar  
 2 Tbsp. milk  

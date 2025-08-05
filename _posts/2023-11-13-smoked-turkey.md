@@ -2,18 +2,18 @@
 layout: post
 title: smoked turkey
 date: 2023-11-13 11:09:55 -0500
-last_modified_at: 2024-12-27T09:19:22 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: meat turkey thanksgiving longish
 status: confirmed
 ---
 
-**defrosting:**
+## defrosting:
 
 * place in warmest part of the fridge for several days to fully defrost (lower section where we
   normally keep meat, drinks, etc. is too cold).
 
-**brine:**
+## brine:
 
 2 cups apple cider  
 2 gallons cold water  
@@ -28,7 +28,7 @@ status: confirmed
 * combine all ingredients in large pot and bring to a simmer until salt and sugar dissolve
 * cool to room temperature and use to brine turkey 18-24 hours
 
-**smoke:**
+## smoke:
 
 10-12 lb. turkey  
 1 onion, quartered  

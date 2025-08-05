@@ -2,13 +2,13 @@
 layout: post
 title: chicago style pizza
 date: 2024-05-25 15:46:05 -0400
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: chicago italian pizza nytimes longish yeast
 status: confirmed
 ---
 
-**dough:**
+## dough:
 
 1 cup/240g milk  
 2 1/2 tbsp./38g butter  
@@ -29,7 +29,7 @@ olive oil, for greasing
 * flatten the dough balls and gently stretch to fill the pans and goes 1" up sides
 * if dough pulls back, wait a few minutes until it has relaxed
 
-**pizza:**
+## pizza:
 
 10 slices mozzarella  
 [philly tomato pie sauce]({{ site.baseurl }}{% post_url 2024-09-27-philly-tomato-pie-sauce %})  

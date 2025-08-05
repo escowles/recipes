@@ -2,12 +2,12 @@
 layout: post
 title: marshmallow birds
 date: 2022-03-19 14:19:54 -0400
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: candy easter marthastewart marshmallow
 ---
 
-**colored sugar:**
+## colored sugar:
 
 1 cup sugar  
 4 drops food coloring  
@@ -15,7 +15,7 @@ tags: candy easter marthastewart marshmallow
 * spread on baking sheet and bake on lowest setting for 10 minutes stirring
   every few minutes
 
-**marshmallow base:**
+## marshmallow base:
 
 1/3 cup cold water  
 7g (1 packet) powdered gelatin  
@@ -31,7 +31,7 @@ tags: candy easter marthastewart marshmallow
 * increase mixer speed to medium-high and mix until thick and shiny, about 10 minutes
 * add vanilla and mix for 20 seconds
 
-**assembly:**
+## assembly:
 
 black gel food coloring  
 

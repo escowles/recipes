@@ -2,13 +2,13 @@
 layout: post
 title: steamed and roasted goose
 date: 2020-12-21 11:00:57 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: main
 tags: meat goose xmas longish
 status: confirmed
 ---
 
-**steaming:**
+## steaming:
 
 goose with neck and giblets reserved  
 salt and pepper  
@@ -25,7 +25,7 @@ salt and pepper
 * remove goose from pan and refrigerate overnight uncovered, until the skin is very dry
 * strain drippings and reserve for sauce
 
-**roasting:**
+## roasting:
 
 1 1/2 Tbsp. honey  
 1 tsp. hot sauce  
@@ -36,7 +36,7 @@ salt and pepper
 * flip goose and continue roasting and basting, until thigh temperature reaches 170°F.
 * remove goose, tent with foil, and rest 20 minutes
 
-**sauce:**
+## sauce:
 
 reserved drippings from steaming  
 pan drippings from roasting  

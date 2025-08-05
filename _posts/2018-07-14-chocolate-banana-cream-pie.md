@@ -2,12 +2,12 @@
 layout: post
 title: Chocolate Banana Cream Pie
 date: 2018-07-14 00:14:46 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: dessert
 tags: banana chocolate pie fruit
 status: confirmed
 ---
-**Chocolate Pie Crust:**
+## Chocolate Pie Crust:
   
 1¼ cup flour  
 ¼ tsp. salt  
@@ -24,7 +24,7 @@ status: confirmed
  * Press crust into pan, trim edges, and poke holes in the bottom of the crust with a fork.
  * Bake for at 425°F for 10 minutes, then cool to room temperature.
 
-**Chocolate Cream Filling:**
+## Chocolate Cream Filling:
   
 1 cup heavy cream (divided)  
 5 oz. semi-sweet chocolate, chopped  
@@ -33,7 +33,7 @@ status: confirmed
  * Beat remaining cream until soft peaks form, then fold into chocolate cream.
  * Pour into pie crust, then chill.
 
-**Custard Filling:**
+## Custard Filling:
   
 5 Tbsp. sugar  
 1½ Tbsp. cornstarch  
@@ -46,7 +46,7 @@ status: confirmed
  * Remove from heat, add remaining ingredients, and stir to combine.
  * Chill for 30 minutes.
 
-**Assembly:**
+## Assembly:
 
 * Blind bake chocolate pie crust or [plain pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 * Fill with chocolate cream filling then top with banana slices.

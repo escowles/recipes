@@ -2,7 +2,7 @@
 layout: post
 title: cabbage pancakes (okonomiyaki)
 date: 2023-11-03 08:03:37 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: cabbage vegetable vegetarian japanese asian fried
 status: confirmed
@@ -29,7 +29,7 @@ status: confirmed
 * drop 1/2 cup of batter at a time and flatten to make a pancake
 * fry on each side until browned (3-5 minutes per side)
 
-**sauce:**
+## sauce:
 
 1/4 cup sour cream  
 1 tbsp. soy sauce  

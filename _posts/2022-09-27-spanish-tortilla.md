@@ -2,7 +2,7 @@
 layout: post
 title: spanish tortilla
 date: 2022-09-27 13:20:29 -0400
-last_modified_at: 2023-10-28 08:00:16 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: egg potatoes spanish vegetarian
 status: deprecated
@@ -26,7 +26,7 @@ status: deprecated
 * transfer to oven and broil for 3 minutes, until puffed and browned
 
 
-**herbed mayo:**
+## herbed mayo:
 
 1/4 cup mayo  
 1/4 lemon  

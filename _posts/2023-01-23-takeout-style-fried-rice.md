@@ -2,13 +2,13 @@
 layout: post
 title: takeout style fried rice
 date: 2023-01-23 10:27:52 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: asian chinese leftovers rice meat chicken flexitarian longish
 status: confirmed
 ---
 
-**dehydrated rice:**
+## dehydrated rice:
 
 1 cup rice  
 1 1/2 cups water  
@@ -22,7 +22,7 @@ pinch salt
 * loosely cover, cool to room temperature, then refrigerate overnight
 
 
-**chicken marinade (optional):**
+## chicken marinade (optional):
 
 1 lb. chicken breast  
 1/2 tsp. baking soda  
@@ -44,14 +44,14 @@ marinated chicken
 * wipe out wok
 
 
-**sauce mixture:**
+## sauce mixture:
 
 1/2 tsp. sugar  
 1 Tbsp. light soy sauce  
 * mix together and set aside
 
 
-**eggs:**
+## eggs:
 
 1 Tbsp. neutral oil  
 2 eggs  
@@ -62,7 +62,7 @@ marinated chicken
 * remove eggs from pan and set aside
 * wipe out wok
 
-**fried rice:**
+## fried rice:
 
 1 Tbsp. neutral oil  
 1/2 onion, diced  

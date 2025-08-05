@@ -2,14 +2,14 @@
 layout: post
 title: Chicken with Forty Cloves of Garlic
 date: 2010-11-14 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: main
 tags: chicken french meat barefootcontessa cognac wine favorite
 status: confirmed
 ---
 2500 Cal (6x 417)
   
-**chicken:**
+## chicken:
 
 3 heads garlic (about 40 cloves)  
 1 Tbsp. butter  
@@ -29,7 +29,7 @@ status: confirmed
 * Simmer for 30 min. until chicken is tender.
 * Remove chicken from pot and cover to keep warm.
 
-**sauce:**
+## sauce:
 
 2 Tbsp. flour  
 1 Tbsp. cognac  

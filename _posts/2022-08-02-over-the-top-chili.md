@@ -2,19 +2,19 @@
 layout: post
 title: over the top chili
 date: 2022-08-02 07:20:47 -0400
-last_modified_at: 2022-08-02 07:39:24 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: beans beef meat mexican
 status: draft
 ---
-**meatball:**
+## meatball:
 
 2 lbs. ground beef 80/20  
 1 tbsp. Worcestershire sauce  
 1 tbsp. Montreal Steak Seasoning  
 * mix well and shape into a giant meatball, slightly flattened
 
-**chili base:**
+## chili base:
 
 1 tbsp. oil  
 1 onion diced  
@@ -34,7 +34,7 @@ status: draft
 * add chili powder, cumin, and chipotle powder and stir for 1 minute
 * add remaining ingredients and bring to a simmer
 
-**smoking:**
+## smoking:
 
 * heat smoker to 225°F
 * put meatball above dutch oven (on a higher grill or just on a grill plate on

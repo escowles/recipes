@@ -2,16 +2,16 @@
 layout: post
 title: dutch pear pie
 date: 2025-07-21 09:57:31 -0400
-last_modified_at: 2025-07-29T08:46:38 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: dessert
 tags: dutch pear pie fruit
 status: confirmed
 ---
-**crust:**
+## crust:
 
 use standard [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 
-**filling:**
+## filling:
 
 2 lbs. (900g) sliced pears  
 2 tbsp. lemon juice  
@@ -27,7 +27,7 @@ use standard [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 * mix remaining ingredients and toss with pear slices
 * pour filling into a crust-lined pie dish
 
-**topping:**
+## topping:
 
 1/2 cup (100g) brown sugar  
 1/2 cup (100g) sugar  

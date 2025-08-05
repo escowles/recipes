@@ -1,4 +1,4 @@
----
+
 layout: post
 title: lemon meringue pie
 date: 2021-07-04 08:06:47 -0400
@@ -8,13 +8,13 @@ tags: pie fruit lemon
 status: confirmed
 ---
 
-**crust**:
+## crust:
 * line pie dish with [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
   and blind bake at 375°F for 25-30 minutes
 * remove weights and bake until golden brown, about 10 minutes
 * remove from oven and let cool completely
 
-**filling**:
+## filling:
 
 1 1/2 cups water  
 1 cup sugar  
@@ -30,7 +30,7 @@ status: confirmed
 * whisk in lemon zest and juice, return to a simmer then remove from heat
 * add butter and mix to combine
 
-**meringue**:
+## meringue:
 
 4 egg whites  
 1/2 tsp. vanilla  
@@ -42,7 +42,7 @@ status: confirmed
 * increase speed to medium for 1 minute until billowy
 * mix sugar and cornstarch, and gradually add to eggs and whip until glossy, about 2-3 minutes
 
-**assembly**:
+## assembly:
 * pour hot filling into pre-baked pie crust
 * spoon meringue around the edges of the pie, making sure the meringue is sealed to
   the edges

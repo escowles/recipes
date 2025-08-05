@@ -2,13 +2,13 @@
 layout: post
 title: "#35 black is beautiful"
 date: 2021-01-01 08:09:35 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: other
 tags: alcohol beer homebrew stout
 ---
 See [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
-**grain bill:**
+## grain bill:
 * 10 lbs. pale malt 2-row
 * 2 lbs. flaked oats
 * 1 lbs. chocolate malt 350L
@@ -18,23 +18,23 @@ See [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-al
 * 8 oz. chocolate rye 250L
 * 4 oz. black patent 500L
 
-**60 minute kettle additions:**
+## 60 minute kettle additions:
 * 1 oz. columbus hop pellets
 
-**20 minute kettle additions:**
+## 20 minute kettle additions:
 * 1 oz. cascade hop pellets
 * 1 lb. corn sugar (dextrose)
 
-**15 minute kettle additions:**
+## 15 minute kettle additions:
 * 1 tsp. irish moss
 
-**10 minute kettle additions:**
+## 10 minute kettle additions:
 * 2 oz. cascade hop pellets
 
-**yeast:**
+## yeast:
 * WLP001 California Ale Yeast
 
-**stats:**
+## stats:
 * OG: 1.081
 * FG: 1.018
 * ABV: 8.7%

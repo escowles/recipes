@@ -2,13 +2,13 @@
 layout: post
 title: kung pao chicken
 date: 2025-07-27 19:21:38 -0400
-last_modified_at: 2025-07-27T19:35:44 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: chicken meat chinese asian sichuan peanut
 status: draft
 ---
 
-**chicken:**
+## chicken:
 
 1 lb. chicken thighs (or breast)  
 1 tsp. cornstarch  
@@ -18,7 +18,7 @@ status: draft
 * add cornstarch and water and stir until liquid is dissolved
 * add sesame oil, stir, and set aside
 
-**sauce:**
+## sauce:
 
 1 tbsp. soy sauce  
 1 1/2 tsp. rice vinegar  
@@ -28,16 +28,16 @@ status: draft
 1 tbsp. water  
 * mix all ingredients and set aside
 
-**peanuts:**
+## peanuts:
 
 1/3 cup peanuts (or cashews)  
 * toast over low heat until they start to brown, the set aside
 
-**zucchini:**
+## zucchini:
 
 1 [roasted zucchini]({{ site.baseurl }}{% post_url 2025-07-27-roasted-zucchini %})
 
-**stir-fry:**
+## stir-fry:
 
 1 tbsp. neutral cooking oil  
 6 dried chillies, deseeded (1-2 sliced into 1/4" pieces)  

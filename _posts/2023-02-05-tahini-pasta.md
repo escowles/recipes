@@ -2,7 +2,7 @@
 layout: post
 title: tahini pasta
 date: 2023-02-05 13:02:18 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: pasta vegan vegetarian rainbowplantlife
 status: confirmed
@@ -17,7 +17,7 @@ status: confirmed
 * reserve 1 cup of pasta water when draining
 
 
-**sauce:**
+## sauce:
 
 1 lemon  
 1/3 cup tahini  
@@ -32,14 +32,14 @@ generous amount of pepper
 * slowly add water while whisking until smooth but pourable
 
 
-**topping:**
+## topping:
 
 1 cup fresh basil leaves  
 lemon zest  
 1/4 tsp. salt  
 * sliver basil leaves and toss with zest and salt
 
-**main dish:**
+## main dish:
 
 2 1/2 Tbsp. olive oil  
 1/4 tsp. salt  

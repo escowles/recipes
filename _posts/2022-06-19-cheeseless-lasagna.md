@@ -2,12 +2,12 @@
 layout: post
 title: cheeseless lasagna
 date: 2022-06-19 07:39:26 -0400
-last_modified_at: 2022-06-19 07:47:49 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: pasta dairyfree italian meat pasta pork
 ---
 
-**sauce:**
+## sauce:
 
 2 Tbsp. olive oil  
 1/2 onion, minced  
@@ -19,7 +19,7 @@ tags: pasta dairyfree italian meat pasta pork
 * saute veggies and herbs in oil for 5 minutes
 * add pasta sauce and simmer for 1 hour
 
-**assembly:**
+## assembly:
 
 9 sheets no-bake lasanga noodles  
 1 - 1.5 lbs. italian sausage  

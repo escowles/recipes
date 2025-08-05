@@ -2,13 +2,13 @@
 layout: post
 title: chile relleno casserole
 date: 2023-12-28 09:11:25 -0800
-last_modified_at: 2025-08-01T11:55:28 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: mexican beef meat cheese
 status: deprecated
 ---
 
-**beef mixture:**
+## beef mixture:
 
 1 lb. ground beef (90/10)  
 1/2 onion, diced  
@@ -21,7 +21,7 @@ status: deprecated
 * add spices and mix well
 * remove from pan with slotted spoon to drain grease
 
-**batter:**
+## batter:
 
 2 tbsp. flour  
 1/4 tsp. salt  
@@ -30,7 +30,7 @@ status: deprecated
 * mix flour and salt, then beat in eggs and half the milk, breaking up any lumps
 * stir in remaining milk to thin the batter out
 
-**casserole:**
+## casserole:
 
 6 poblano peppers  
 2 cups cheddar cheese  

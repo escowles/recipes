@@ -2,13 +2,13 @@
 layout: post
 title: chicken biryani
 date: 2023-08-06 15:58:39 -0400
-last_modified_at: 2024-02-12 19:37:54 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: meat chicken indian
 status: confirmed
 ---
 
-**chicken marinade:**
+## chicken marinade:
 
 2 tsp. garam masala  
 2 tsp. garlic powder  
@@ -22,7 +22,7 @@ juice from 1/2 lime
 * mix spices, then add all ingredients to bowl and mix well
 * cover and refrigerate for 1 hour
 
-**biryani:**
+## biryani:
 
 2 Tbsp. oil  
 1 onion, thinly sliced  

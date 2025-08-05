@@ -2,11 +2,11 @@
 layout: post
 title: "#16 cyser experiment #2"
 date: 2013-08-12
-last_modified_at: 2022-06-19 10:11:16 -0400
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: other
 tags: drinks alcohol homebrew cider honey cyser variations
 ---
-**fermentables:**
+## fermentables:
 * 3 gallons apple juice (mott's 100% apple juice with vitamin C)
 * additives:
   * variant #16a: none (OG=1.059)
@@ -14,13 +14,13 @@ tags: drinks alcohol homebrew cider honey cyser variations
   * variant #16c: 1/2 lb. everglades honey (OG=1.087)
   * variant #16d: 1/2 lb. honey from Uncle John (OG=1.087)
 
-**yeast:**
+## yeast:
 * WLP530 Abbey Ale yeast
 
-**stats:**
+## stats:
 * OG: 1.059 - 1.087
 * FG: ~1.0
 * ABV: ~10-11%
 
-**process:**
+## process:
 * same as [#12 cider four ways]({{ site.baseurl }}{% post_url 2012-12-23-#12-cider-four-ways %})

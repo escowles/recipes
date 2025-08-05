@@ -2,12 +2,12 @@
 layout: post
 title: Pumpkin Pie (Pumpkin Puree)
 date: 2011-10-29 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: dessert
 tags: pumpkin pie thanksgiving thanksgiving2020 traditional favorite
 status: confirmed
 ---
-**pumpkin puree:**
+## pumpkin puree:
   
 1 small pie pumpkin  
 * Wearing a glove on your non-knife hand, cut pumpkin in half and remove seeds.
@@ -15,7 +15,7 @@ status: confirmed
 * Let cool, and pour off any liquid.
 * Puree until smooth. Should make 3 cups.
 
-**pumpkin pie:**
+## pumpkin pie:
 
 2 cups pumpkin puree (from above, or 15 oz. can)  
 1 cup evaporated milk or cream  

@@ -2,13 +2,13 @@
 layout: post
 title: philly tomato pie
 date: 2022-01-29 19:28:00 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: pizza philadelphia italian longish yeast
 status: confirmed
 ---
 
-**dough:**
+## dough:
 
 500g flour  
 10g salt (2 1/4 tsp.)  
@@ -20,7 +20,7 @@ status: confirmed
 * let rest for 10 minutes, then mix on low for 10 minutes
 * cover and rest in fridge for 8-24 hours
 
-**proofing:**
+## proofing:
 
 2 Tbsp. olive oil  
 * two hours before baking, coat 16" square pan or half sheet pan in oil
@@ -28,7 +28,7 @@ status: confirmed
 * cover with plastic wrap and rise for 1 hour
 * stretch dough to fit pan, pushing into edges and corner, cover and rise for 1 hour
 
-**baking:**
+## baking:
 
 * 20-30 minutes before baking, put rack in upper middle position and heat oven to 450°F
 * press dough down in center to form 1" wide ridge around the edge

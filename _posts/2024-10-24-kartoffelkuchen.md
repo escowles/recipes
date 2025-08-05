@@ -2,13 +2,13 @@
 layout: post
 title: kartoffelkuchen
 date: 2024-10-24 10:27:23 -0400
-last_modified_at: 
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: german potatoes meat pork ham
 status: confirmed
 ---
 
-**dough:**
+## dough:
 
 16 oz. potatoes, peeled and cubed  
 1/2 stick butter  
@@ -20,7 +20,7 @@ salt and pepper
 * mix in flour, kneading to make a dough
 * butter a 8x8" pan, coat with breadcrumbs, then press dough into the pan to form a crust
 
-**topping:**
+## topping:
 
 2 tbsp. butter  
 1/2 onion, diced  

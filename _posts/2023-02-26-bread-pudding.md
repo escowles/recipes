@@ -2,7 +2,7 @@
 layout: post
 title: bread pudding
 date: 2023-02-26 06:05:12 -0500
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: bread southern nytimes
 ---
@@ -25,7 +25,7 @@ tags: bread southern nytimes
 * bake at 350°F for 30 minutes, until custard is set and bread is browned
 * serve with berries and [créme anglaise]({{site.baseurl}}{% post_url 2023-02-26-creme-anglaise %})
 
-**reheating:**
+## reheating:
 
 * bake covered at 350°F for 15 minutes, uncovering for last 2 minutes for a crispy
   top

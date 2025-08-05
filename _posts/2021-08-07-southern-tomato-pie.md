@@ -2,13 +2,13 @@
 layout: post
 title: southern tomato pie
 date: 2021-08-07 11:59:51 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: vegetarian tomato pie
 status: draft
 ---
 
-**sauce:**
+## sauce:
 
 1 tbsp. butter  
 1 tbsp. flour  
@@ -25,14 +25,14 @@ status: draft
 1/8 tsp. black pepper  
 * add to bechamel sauce when cooled, and mix well
 
-**tomatoes:**
+## tomatoes:
 
 6 large tomatoes  
 1 Tbsp. salt  
 * slice tomatoes and lay in a single layer on paper towels
 * sprinkle with salt and cover with another paper towel
 
-**pie:**
+## pie:
 1 [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 * fill pie crust with alternating layers of tomato slices and sauce
 * press top layer of tomatoes into the pie

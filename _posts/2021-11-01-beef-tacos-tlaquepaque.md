@@ -2,12 +2,12 @@
 layout: post
 title: beef tacos tlaquepaque
 date: 2021-11-01 16:26:16 -0400
-last_modified_at: 2022-06-19 10:11:21 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: meat beef mexican crockpot longish
 ---
 
-**filling:**
+## filling:
 
 2 lb. chuck roast  
 4 cups water  
@@ -20,7 +20,7 @@ salt
 * add all ingredients to crockpot and cook on low for 8 hours
 * remove and shred beef, set aside 3 cups for tacos and refrigerate the rest
 
-**sauce:**
+## sauce:
 
 1/2 pound tomatillos  
 1 clove garlic  
@@ -35,7 +35,7 @@ salt and pepper
 * remove solids and 1/2 cup of cooking water to a blender and puree until smooth
 * add remaining ingredients, mix well, and set aside
 
-**tacos:**
+## tacos:
 
 2 Tbsp. vegetable oil  
 9 corn tortillas  

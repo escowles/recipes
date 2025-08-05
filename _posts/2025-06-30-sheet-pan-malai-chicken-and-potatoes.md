@@ -2,13 +2,13 @@
 layout: post
 title: sheet pan malai chicken and potatoes
 date: 2025-06-30 15:11:54 -0400
-last_modified_at: 2025-07-02T19:16:41 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: main
 tags: nytimes meat chicken indian
 status: confirmed
 ---
 
-**chicken:**
+## chicken:
 
 1/4 cup plain yogurt  
 1/3 cup fresh cilantro (or 2 tbsp. dry)  
@@ -23,7 +23,7 @@ status: confirmed
 * add chicken and rub marinade into the chicken and rest at least 15 minutes, preferably
   overnight in the refrigerator
 
-**vegetables:**
+## vegetables:
 
 1 1/2" lbs. potatoes, cubed  
 1 onion, quartered  

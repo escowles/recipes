@@ -2,12 +2,12 @@
 layout: post
 title: bottling beer
 date: 2021-09-04 16:00:18 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: other
 tags: alcohol beer homebrew
 ---
 
-**clean bottles:**
+## clean bottles:
 
 * soak bottles in warm water, removing labels and rinsing out the worst of any 
   remnants.
@@ -16,7 +16,7 @@ tags: alcohol beer homebrew
 * sanitize bottles in a star-san solution and let air dry.
 * sanitize bottle caps, tubing, racking cane, bottling tip, and bottling bucket.
 
-**prepare beer:**
+## prepare beer:
 
 * boil bottling sugar in 2 cups of water for 5 minutes.
 * add sugar to bottling bucket, then siphon beer from the fermentor to the bottling
@@ -24,7 +24,7 @@ tags: alcohol beer homebrew
 * take a small sample of beer before it goes into the bottling bucket to check the
   final gravity.
 
-**filling bottles:**
+## filling bottles:
 
 * attach bottling tip and siphon beer into bottles.
 * cap each bottle with a bottle cap and seal with capper.

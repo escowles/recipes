@@ -2,19 +2,19 @@
 layout: post
 title: clear soap
 date: 2024-07-21 08:18:28 -0400
-last_modified_at: 2025-03-30T12:23:06 -0400
+last_modified_at: 2025-08-05T13:12:11 -0400
 category: other
 tags: soap
 status: confirmed
 ---
-**fats:**
+## fats:
 
 500g lard  
 125g olive oil  
 125g coconut oil  
 * heat in crockpot until melted
 
-**lye solution:**
+## lye solution:
 
 160g water  
 110g lye  
@@ -22,7 +22,7 @@ status: confirmed
 * pour into fats and mix with stick blender until thoroughly blended and thickened
 * cook on low for 30-45 minutes, until it becomes a gel
 
-**solvents and fragrance:**
+## solvents and fragrance:
 
 350g everclear (190 proof/95%)  
 450g heavy simple syrup (150g water and 300g sugar)  

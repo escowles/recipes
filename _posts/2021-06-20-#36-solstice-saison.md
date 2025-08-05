@@ -2,38 +2,38 @@
 layout: post
 title: "#36 solstice saison"
 date: 2021-06-20 08:00:00 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: other
 tags: alcohol beer homebrew belgian saison
 ---
 See [all grain brewing instructions]({{ site.baseurl }}{% post_url 2015-05-09-all-grain-brewing-recipe %})
 
-**grain bill:**
+## grain bill:
 
 * 4.5 lbs. belgian pilsner malt
 * 2.75 lbs. vienna
 * 0.75 lbs. torrified wheat
 * 5 oz. dextrose
 
-**60 minute kettle additions:**
+## 60 minute kettle additions:
 
 1 oz. kent goldings hop pellets
 
-**10 minute kettle additions:**
+## 10 minute kettle additions:
 
 0.25 oz. styrian goldings hop pellets  
 0.25 oz. saaz hop pellets
 
-**10 minute kettle additions:**
+## 10 minute kettle additions:
 
 0.25 oz. styrian goldings hop pellets  
 0.25 oz. saaz hop pellets
 
-**yeast:**
+## yeast:
 
 wyeast french saison yeast (3711)
 
-**stats:**
+## stats:
 * OG: 1.049
 * FG: 1.002
 * ABV: 5.6%

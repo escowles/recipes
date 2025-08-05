@@ -2,7 +2,7 @@
 layout: post
 title: blueberry crisp
 date: 2022-08-15 13:54:35 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: fruit pie
 status: confirmed
@@ -24,7 +24,7 @@ status: confirmed
 * bake at 375°F for 35-40 minutes, until top is browned and filling is bubbling
 * rest for 10 minutes before serving, or cool to room temperature
 
-**mini version:**
+## mini version:
 * divide between eight 6 oz. ramekins and reduce baking time to 25 minutes
 
 source: <https://www.spendwithpennies.com/quick-easy-blueberry-crisp/>

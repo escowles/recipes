@@ -2,13 +2,13 @@
 layout: post
 title: Chicken and Dumplings
 date: 2018-12-04 14:50:44 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: main
 tags: chicken soup southern meat favorite crockpot
 status: confirmed
 ---
 
-**chicken:**
+## chicken:
 
 1 tbsp. butter  
 1.5 lbs. chicken breast  
@@ -26,7 +26,7 @@ thyme, rosemary, salt, and pepper, to taste
 * remove chicken, let cool, and shred
 
 
-**dumplings:**
+## dumplings:
 
 1 1/2 cups flour  
 3/4 tsp. salt  
@@ -42,7 +42,7 @@ thyme, rosemary, salt, and pepper, to taste
 * rest 5 minutes before serving
 
 
-**crockpot version:**
+## crockpot version:
 
 * brown chicken and vegetables then transfer to crockpot for 8 hours on low
 * remove chicken, shred, and return to the crockpot

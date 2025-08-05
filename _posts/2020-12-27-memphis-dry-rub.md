@@ -2,7 +2,7 @@
 layout: post
 title: memphis dry rub
 date: 2020-12-27 18:39:52 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2025-08-05T13:12:09 -0400
 category: other
 tags: bbq sauce
 ---
@@ -18,7 +18,7 @@ tags: bbq sauce
 * Mix all ingredients and store in airtight container.
 * Rub on both sides of ribs and let sit.
 
-**Mop Sauce:**
+## Mop Sauce:
 
 2 cups white vinegar  
 1/2 cup water  

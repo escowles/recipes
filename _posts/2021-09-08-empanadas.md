@@ -2,13 +2,13 @@
 layout: post
 title: empanadas
 date: 2021-09-08 07:11:46 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: meat crust latin beef nytimes
 status: confirmed
 ---
 
-**dough:**
+## dough:
 
 2 1/4 cups flour  
 1 1/2 tsp. salt  
@@ -25,7 +25,7 @@ status: confirmed
 * remove to a floured surface and knead until smooth
 * shape into a log, wrap in plastic wrap, and chill while making filling
 
-**filling:**
+## filling:
 
 1 Tbsp. vegetable oil  
 1 Tbsp. tomato paste  
@@ -51,7 +51,7 @@ status: confirmed
 * add oyster, soy, and stock, then simmer until the mixture is wet but not soupy
 * remove from skillet to a cookie sheet to cool while rolling out dough
 
-**assembly:**
+## assembly:
 
 1 Tbsp. shortening  
 1 egg  

@@ -2,20 +2,20 @@
 layout: post
 title: creamy lemon asparagus pasta
 date: 2022-03-21 19:06:57 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: main
 tags: pasta vegetarian italian rainbowplantlife
 status: confirmed
 ---
 
-**pasta:**
+## pasta:
 
 12-16 oz. spaghetti, linguine, or fettuccine  
 * boil following package directions for al dente (do not use more water than needed
   to make sure the pasta water is starchy enough)
 * drain and set aside while making the sauce, reserving 1 cup of liquid
 
-**lemon sauce:**
+## lemon sauce:
 
 juice from 2 lemons (about 6 Tbsp.)  
 1/4 cup olive oil  
@@ -24,7 +24,7 @@ juice from 2 lemons (about 6 Tbsp.)
 1/2 tsp. pepper  
 * shake in a jar or whisk until emulsified
 
-**asparagus:**
+## asparagus:
 
 1-2 Tbsp. olive oil  
 2 shallots, sliced  
@@ -39,7 +39,7 @@ zest from one lemon
 * add and cook for 3-5 minutes, until asparagus begins to soften
 * remove from heat until pasta is ready
 
-**creamy lemon asparagus pasta:**
+## creamy lemon asparagus pasta:
 
 asparaus mixture  
 pasta  

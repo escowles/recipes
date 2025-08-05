@@ -2,19 +2,19 @@
 layout: post
 title: mini doughnuts
 date: 2023-04-29 08:39:09 -0400
-last_modified_at: 2023-04-29 08:53:30 -0400
+last_modified_at: 2025-08-05T13:12:10 -0400
 category: dessert
 tags: bread breakfast doughnuts fried
 ---
 
-**glaze:**
+## glaze:
 
 1 1/2 cups powdered sugar  
 3 1/2 tbsp. milk  
 2 tsp. vanilla  
 * mix milk and vanilla into powdered sugar and stir until smooth
 
-**dough:**
+## dough:
 
 1 egg  
 1 cup milk  
