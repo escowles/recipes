@@ -4,15 +4,18 @@ title: peach ice cream
 date: 2025-08-05 11:54:18 -0400
 last_modified_at: 2025-08-05T12:06:54 -0400
 category: dessert
-tags: icecream peach fruit
-status: draft
+tags: icecream peach fruit favorite
+status: confirmed
 ---
 
-2 peaches  
+3 peaches  
 1/2 cup sugar  
 1/2 tsp. lemon juice  
 * peel and slice peaches, then toss with sugar and lemon juice
-* rest for 30 minutes, then mash through a colander to separate juices from pulp
+* rest for 30 minutes, then pulse in blender or food processor to mash the peaches
+  into fine pieces (they will be hard when they freeze, so it's important they are
+  not too large)
+* strain to separate juices from peach chunks
 
 4 egg yolks  
 1/2 cup sugar  
@@ -26,6 +29,6 @@ status: draft
 
 1 tsp. vanilla  
 * remove custard from heat and stir in vanilla and peach juices, and chill for 2 hours
-* freeze in ice cream maker, adding peach pulp for last 30 seconds
+* freeze in ice cream maker, adding peach chunks for last 30 seconds
 
 source: <https://houseofnasheats.com/old-fashioned-fresh-peach-ice-cream/>
