@@ -2,10 +2,10 @@
 layout: post
 title: roasted zucchini
 date: 2025-07-27 19:26:07 -0400
-last_modified_at: 2025-07-27T19:35:44 -0400
+last_modified_at: 2025-08-29T10:31:18 -0400
 category: sides
 tags: vegetable basics
-status: draft
+status: confirmed
 ---
 
 1 zucchini  
