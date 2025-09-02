@@ -2,12 +2,13 @@
 layout: post
 title: tomato lentil soup
 date: 2025-08-29 11:00:49 -0400
-last_modified_at: 2025-08-29T11:42:26 -0400
+last_modified_at: 2025-09-02T14:09:44 -0400
 category: main
 tags: soup nytimes crockpot
 status: draft
 ---
 
+5 cups water  
 1 lb. tomatoes, chopped  
 1 1/2 cups red lentils, rinsed  
 4 cloves garlic, chopped  
