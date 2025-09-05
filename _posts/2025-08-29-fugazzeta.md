@@ -4,8 +4,8 @@ title: fugazzeta
 date: 2025-08-29 10:40:43 -0400
 last_modified_at: 2025-08-29T11:42:26 -0400
 category: main
-tags: kingarthur pizza cheese italian
-status: draft
+tags: kingarthur pizza cheese italian longish
+status: confirmed
 ---
 
 ## dough
@@ -57,3 +57,12 @@ soaked onion from above
 * rest for 15 minutes before slicing
 
 source: <https://www.kingarthurbaking.com/recipes/fugazzeta-recipe>
+
+---
+
+9/4/2025: made this last night and it was great. though i had to wait longer and
+ultimately put the dough in a slow toaster oven to get it to rise (i think  my milk
+was cooler than it should have been). but i think next time i'll make a couple of
+changes:
+* less onion
+* add some tomato sauce and maybe some pepperoni or sausage to the filling

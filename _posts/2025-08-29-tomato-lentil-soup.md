@@ -4,8 +4,8 @@ title: tomato lentil soup
 date: 2025-08-29 11:00:49 -0400
 last_modified_at: 2025-09-02T14:09:44 -0400
 category: main
-tags: soup nytimes crockpot
-status: draft
+tags: soup nytimes crockpot longish
+status: confirmed
 ---
 
 5 cups water  
