@@ -2,29 +2,38 @@
 layout: post
 title: Prosecco Pasta
 date: 2016-04-22 16:14:34 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2025-09-09T08:49:53 -0400
 category: main
-tags: meat pasta pork cheese dairy
-status: draft
+tags: meat pasta pork cheese dairy italian
+status: confirmed
 ---
 8 oz. tagliatelle or fettuccine  
-salt, olive oil  
+salt
 
-  * Boil tagliatelle in water, with pinch of salt and dash of olive oil
+  * Boil tagliatelle in water, with pinch of salt
+  * Drain and reserve 1/2 cup pasta water
 
 2 packages cubed pancetta  
-4 red chillies, minced  
+3 red chillies (fresnos or jalapeños), chopped  
 8 cloves garlic, minced  
 8 oz. prosecco or dry white wine  
 5 oz. parmesan cheese, grated  
-lemon zest  
+zest from one lemon  
 black pepper  
 
-  * In a frying pan, heat pancetta on low heat until translucent
-  * Add chillies and garlic and sauté in pancetta fat for 3 minutes
+  * Sauté pancetta on low heat until a good amount of fat has rendered out
+  * Add chillies and garlic and sauté for 3 minutes
   * Add prosecco and simmer until reduced, about 15 minutes
-  * Add pasta to sauce and toss to coat
+  * Add cooked pasta to sauce and toss to coat
   * Add parmesan and lemon zest, toss until cheese is melted
+  * Add reserved pasta water to help emulsify the sauce
   * Top with black pepper and serve
 
-Summarized from https://eatingwithmyfingers.com/2015/11/27/prosecco-pasta/  
+source: <https://eatingwithmyfingers.com/2015/11/27/prosecco-pasta/> (now offline, but
+[available in the wayback machine](https://web.archive.org/web/20200603190511/https://eatingwithmyfingers.com/2015/11/27/prosecco-pasta/))
+
+---
+
+9/9/2025: made this last night, after this recipe languished in draft for almost a 
+decade. it was great (as expected!) and i was happy to make it as one of the very
+last things before we start our kitchen renovation (next week).
