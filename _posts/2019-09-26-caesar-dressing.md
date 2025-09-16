@@ -2,9 +2,9 @@
 layout: post
 title: Caesar Dressing
 date: 2019-09-26 10:41:12 -0500
-last_modified_at: 2024-12-26T09:19:00 -0500
+last_modified_at: 2025-09-16T09:53:15 -0400
 category: other
-tags: saladdressing sauce cheese dairy
+tags: saladdressing sauce cheese dairy kitchn
 status: confirmed
 ---
 
