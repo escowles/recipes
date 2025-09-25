@@ -20,7 +20,7 @@ salt and pepper
 * rest for 10 minutes to let the vegetables cool enough to handle
 * scoop flesh from squash into a blender with remaining vegetables
 
-1/2 cup cream  
+1/2 cup cream or coconut milk  
 1 cup vegetable or chicken stock  
 1 tsp. thyme  
 other spices to taste (e.g. chipotle/garlic/cumin/coriander for a smokier and spicier soup)  
