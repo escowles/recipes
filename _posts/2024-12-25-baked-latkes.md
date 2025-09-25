@@ -41,3 +41,6 @@ source: <https://food52.com/recipes/86641-best-baked-latkes-recipe>
 12/26/2024: made these last night and they were great, but overdone even at the 
 lower end of the time ranges. reducing heat to 400 and updating directions a bit
 for shorter bake times.
+
+09/25/2025: made these in the toaster oven, and they were very tough and not
+particularly crispy. will try these again once we have a full-sized oven again.
