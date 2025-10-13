@@ -5,7 +5,7 @@ date: 2025-09-16 09:42:56 -0400
 last_modified_at: 2025-09-16T09:53:15 -0400
 category: main
 tags: cheese dairy pasta southern vegetarian microwave kitchn
-status: draft
+status: confirmed
 ---
 
 4 oz. pasta  
