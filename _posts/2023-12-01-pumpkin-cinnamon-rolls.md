@@ -46,7 +46,8 @@ status: confirmed
   edge uncovered
 * tightly roll into a long tube and cut into 9 rolls (1 1/2" to 2")
 * place rolls in a greased 9" x 9" baking dish, cover, and let rise for 45 minutes
-* bake at 350°F for 22 minutes, until lightly browned
+* bake at 350°F for about 22 minutes, until lightly browned and internal temperature
+  reaches 190°F (glass baking dishes may take 10-15 minutes longer).
 
 ## glaze:
 
@@ -64,3 +65,8 @@ status: confirmed
 * pour over rolls and serve
 
 source: <https://www.acozykitchen.com/pumpkin-cinnamon-rolls>
+
+---
+
+10/03/25: made these this weekend and they were great — but they took 45 minutes to
+get up to temperature because they were in an 8x8" pyrex dish.
