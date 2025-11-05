@@ -2,60 +2,49 @@
 layout: post
 title: kung pao chicken
 date: 2025-07-27 19:21:38 -0400
-last_modified_at: 2025-08-05T13:12:11 -0400
+last_modified_at: 2025-11-04T19:35:37 -0500
 category: main
-tags: chicken meat chinese asian sichuan peanut
-status: draft
+tags: chicken meat chinese asian sichuan peanut nytimes
+status: confirmed
 ---
 
-## chicken:
+**chicken:**
 
-1 lb. chicken thighs (or breast)  
-1 tsp. cornstarch  
-1 tbsp. water  
-1 tsp. sesame oil  
-* cube chicken
-* add cornstarch and water and stir until liquid is dissolved
-* add sesame oil, stir, and set aside
-
-## sauce:
-
+1 lb. chicken, cubed  
 1 tbsp. soy sauce  
-1 1/2 tsp. rice vinegar  
-1 tsp. rice wine  
+1 tsp. cornstarch  
+1/4 tsp. salt  
+1/4 tsp. black or sichuan pepper  
+* mix in a small bowl and set aside
+
+**sauce:**
+
+2 tbsp. soy sauce  
+1 tbsp. black or balsamic vinegar  
+1 tbsp. rice wine  
 2 tsp. sugar  
-2 tsp. cornstarch  
-1 tbsp. water  
-* mix all ingredients and set aside
+1 tsp. cornstarch  
+2 cloves of garlic, minced  
+1 tsp. ground ginger  
+* stir in small bowl and set aside
 
-## peanuts:
+3 tbsp. neutral oil  
+1/2 tsp. red pepper flakes (or 1/4 cup small dried chilies)  
+* combine oil and chilies over medium heat in wok or large pot
+* cook until sizzling and browned, about 15 seconds, then push to side of pan
+* add chicken, spread out to a single layer, and cook for 3-5 minutes, until browned
+  on the bottom
 
-1/3 cup peanuts (or cashews)  
-* toast over low heat until they start to brown, the set aside
+1/2 cup peanuts  
+4 scallions, sliced  
+* flip chicken, add peanuts and scallions, and cook for 2 minutes
+* add sauce and stir until sauce thickens
 
-## zucchini:
-
-1 [roasted zucchini]({{ site.baseurl }}{% post_url 2025-07-27-roasted-zucchini %})
-
-## stir-fry:
-
-1 tbsp. neutral cooking oil  
-6 dried chillies, deseeded (1-2 sliced into 1/4" pieces)  
-1/2 tsp. sichuan peppercorns  
-6 scallions, chopped  
-3 cloves garlic, sliced  
-8 slices ginger (or 1 tsp. powdered)  
-* heat oil in wok and stir fry chilies and peppercorns until fragrant
-* add chicken and stir-fry 30 seconds
-* add remaining ingredients and stir fry
-* add sauce and cook until thickened
-* remove from heat and add peanuts and zucchini
-* serve over white rice
-
-source: <https://redhousespice.com/kung-pao-chicken/>
+source: <https://cooking.nytimes.com/recipes/1023351-easy-kung-pao-chicken>
 
 ---
 
-7/27/25: made this tonight and liked it (but i decreased the chilies and peppercorns
-and increased the soy sauce a bit). ultimately, i think i like this more than
-[sichuan chicken with peanuts]({{ site.baseurl }}{% post_url 2023-04-22-sichuan-chicken-with-peanuts %}).
+11/04/2025: trying yet another kung pao recipe — finally like this one enough to
+call it kung pao and confirm it. much simpler than most, based on a very simple
+nytimes recipe, with a few additions from the comments (adding peanuts, scallions,
+rice wine, garlic, and ginger).
