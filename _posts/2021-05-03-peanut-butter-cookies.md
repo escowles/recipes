@@ -2,7 +2,7 @@
 layout: post
 title: peanut butter cookies
 date: 2021-05-03 18:25:21 -0400
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2025-11-14T07:46:58 -0500
 category: dessert
 tags: peanut cookies favorite
 status: confirmed
@@ -29,3 +29,8 @@ status: confirmed
 yield: 30 cookies
 
 source: <https://preppykitchen.com/peanut-butter-cookies-recipe/>
+
+---
+
+11/13/2025: substituted tahini for half of the peanut butter, and the change was very,
+very subtle.
