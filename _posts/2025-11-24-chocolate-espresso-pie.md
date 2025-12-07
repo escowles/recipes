@@ -2,10 +2,10 @@
 layout: post
 title: chocolate espresso pie
 date: 2025-11-24 12:03:18 -0500
-last_modified_at: 
+last_modified_at: 2025-12-07T18:32:51 -0500
 category: dessert
 tags: chocolate pie nytimes
-status: draft
+status: confirmed
 ---
 
 **crust:**
@@ -80,3 +80,11 @@ status: draft
 * sprinkle graham cracker crumbs on top and serve
 
 source: <https://cooking.nytimes.com/recipes/1027376-chocolate-espresso-pie>
+
+---
+
+12/07/2025: made this for thanksgiving and it was a huge hit. i used an oreo crust,
+which did not hold together very well, so i would make it individual parfaits next
+time. also, the two puddings made more than would fit in a standard 9" pie, so i
+wound up using all of the chocolate and half the coffee pudding. so i would keep the
+same ratio and halve the coffee pudding recipe.
