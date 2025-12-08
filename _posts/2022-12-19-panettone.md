@@ -56,3 +56,7 @@ orange extract would be better)
 
 07/15/2025: i made myself a note that the dry cherries were too tough, maybe simmering
 them would be better to soften them up?
+
+12/08/2025: notes for this year's batch:
+* do apricots, cherries, and candied orange peel
+* soak apricots and cherries in bourbon for 20 minutes to soften them
