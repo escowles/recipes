@@ -35,5 +35,3 @@ dash Worcestershire sauce
   * Season to taste.
 
 Source: <https://www.momontimeout.com/homemade-pasta-sauce-recipe/>
-  
-&nbsp;  

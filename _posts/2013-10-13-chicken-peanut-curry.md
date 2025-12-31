@@ -20,5 +20,3 @@ curry powder to taste
 
   * Heat oil in wok and stir fry chicken, onion and pepper.
   * Add remaining ingredients and simmer until chicken is thoroughly cooked and tender.
-
-&nbsp;  
