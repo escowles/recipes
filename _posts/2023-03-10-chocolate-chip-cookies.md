@@ -6,6 +6,7 @@ last_modified_at: 2024-12-27T09:24:21 -0500
 category: dessert
 tags: chocolate cookies favorite
 status: confirmed
+photo: /recipes/images/2023-03-10-chocolate-chip-cookies.jpg
 ---
 
 1 cup butter, softened  

@@ -6,6 +6,7 @@ last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
 tags: vegetarian french vegetable vegan favorite
 status: confirmed
+photo: /recipes/images/2012-09-03-ratatouille.jpg
 ---
 
 1 tbsp. olive oil  

@@ -6,6 +6,7 @@ last_modified_at: 2024-12-27T09:24:21 -0500
 category: other
 tags: drinks apple orange cinnamon fall alcohol favorite
 status: confirmed
+photo: /recipes/images/2020-11-14-fall-punch.jpg
 ---
 
 24 oz. apple juice  

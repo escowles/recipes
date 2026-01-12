@@ -5,6 +5,7 @@ date: 2021-08-08 13:20:11 -0400
 last_modified_at: 2026-01-12T06:13:39 -0500
 category: sides
 tags: bread vegetarian yeast longish vegan
+photo: /recipes/images/2021-08-08-dutch-oven-bread.jpg
 ---
 
 3¼ cups flour  

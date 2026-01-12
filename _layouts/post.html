@@ -49,6 +49,12 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.photo %}
+    <div class="photo" itemprop="articlePhoto">
+      <img alt="photo of this recipe" src="{{page.photo}}"/>
+    </div>
+  {% endif %}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

@@ -6,6 +6,7 @@ last_modified_at: 2025-08-05T13:12:09 -0400
 category: dessert
 tags: cherry fruit pie favorite
 status: confirmed
+photo: /recipes/images/2017-06-13-cherry-pie.jpg
 ---
 ## filling:
 
