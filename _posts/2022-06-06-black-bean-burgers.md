@@ -3,7 +3,7 @@ layout: post
 title: black bean burgers
 date: 2022-06-06 14:01:12 -0400
 category: main
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 tags: beans vegetarian sallysbakingaddiction
 status: confirmed
 ---
@@ -22,7 +22,7 @@ status: confirmed
 1/2 tsp. garlic powder  
 1/4 tsp. paprika  
 1/2 cup bread crumbs  
-1/2 cup sharp cheddar cheese (or other sharp cheese like feta, parmesan, etc.)
+1/2 cup sharp cheddar cheese (or other sharp cheese like feta, parmesan, etc.)  
 2 eggs  
 1 Tbsp. worcestershire sauce  
 2 Tbsp. ketchup or bbq sauce  

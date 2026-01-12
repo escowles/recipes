@@ -2,7 +2,7 @@
 layout: post
 title: bombay frittata
 date: 2021-11-19 12:04:55 -0500
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
 tags: egg frittata indian vegetarian nytimes
 ---
@@ -17,7 +17,7 @@ tags: egg frittata indian vegetarian nytimes
 1/2 tsp. coriander  
 1/2 tsp. salt  
 1/2 tsp. black pepper  
-1/4 tsp. red pepper flakes
+1/4 tsp. red pepper flakes  
 2 Tbsp. ghee or butter  
 1/4 cup crumbled paneer or feta
 * mix all ingredients except ghee and paneer in a large bowl

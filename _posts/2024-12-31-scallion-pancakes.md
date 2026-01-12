@@ -2,9 +2,9 @@
 layout: post
 title: scallion pancakes
 date: 2024-12-31 09:03:41 -0500
-last_modified_at: 2025-01-02T07:04:52 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: vegetarian chinese asian fried
+tags: vegetarian chinese asian fried vegan
 status: confirmed
 ---
 

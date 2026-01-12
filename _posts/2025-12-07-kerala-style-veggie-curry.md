@@ -2,9 +2,9 @@
 layout: post
 title: kerala-style veggie curry
 date: 2025-12-07 18:31:23 -0500
-last_modified_at: 2025-12-07T18:32:51 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: indian curry vegetarian nytimes
+tags: indian curry vegetarian nytimes vegan
 status: confirmed
 ---
 

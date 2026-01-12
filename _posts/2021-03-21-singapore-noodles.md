@@ -2,9 +2,9 @@
 layout: post
 title: singapore noodles
 date: 2021-03-21 08:22:03 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: asian vegetarian
+tags: asian vegetarian vegan
 status: confirmed
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: roasted asparagus
 date: 2022-03-06 17:52:35 -0500
-last_modified_at: 2025-01-16T14:15:41
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: sides
-tags:  barefootcontessa vegetable favorite vegetarian basic
+tags:  barefootcontessa vegetable favorite vegetarian basic vegan
 status: confirmed
 ---
 

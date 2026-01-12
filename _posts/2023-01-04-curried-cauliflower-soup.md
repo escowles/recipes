@@ -2,9 +2,9 @@
 layout: post
 title: curried cauliflower soup
 date: 2023-01-04 14:33:42 -0500
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: soup vegetarian nytimes
+tags: soup vegetarian nytimes vegan
 ---
 
 1 Tbsp. canola oil  

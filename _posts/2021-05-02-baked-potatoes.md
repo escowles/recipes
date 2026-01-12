@@ -2,9 +2,9 @@
 layout: post
 title: baked potatoes
 date: 2021-05-02 10:41:31 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: potatoes vegetarian
+tags: potatoes vegetarian vegan
 status: confirmed
 ---
 

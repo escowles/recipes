@@ -2,9 +2,9 @@
 layout: post
 title: roasted cauliflower
 date: 2021-04-14 14:47:23 -0400
-last_modified_at: 2025-01-16T14:15:40
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: sides
-tags: vegetable nytimes favorite basic vegetarian
+tags: vegetable nytimes favorite basic vegetarian vegan
 status: confirmed
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: roasted broccoli
 date: 2025-01-16 08:58:29 -0500
-last_modified_at: 2025-01-16T14:15:41
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: sides
-tags: vegetable vegetarian basic
+tags: vegetable vegetarian basic vegan
 status: confirmed
 ---
 

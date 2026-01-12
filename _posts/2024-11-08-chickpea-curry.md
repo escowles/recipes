@@ -2,9 +2,9 @@
 layout: post
 title: chickpea curry
 date: 2024-11-08 11:09:35 -0500
-last_modified_at: 
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: asian indian curry vegetarian vegan rainbowplantlife
+tags: asian indian curry vegetarian vegan rainbowplantlife vegan
 status: confirmed
 ---
 

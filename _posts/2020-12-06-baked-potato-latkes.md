@@ -2,9 +2,9 @@
 layout: post
 title: baked potato latkes
 date: 2020-12-06 07:34:46 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: potatoes jewish vegetarian fried nytimes
+tags: potatoes jewish vegetarian fried nytimes vegan
 status: draft
 ---
 

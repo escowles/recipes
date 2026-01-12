@@ -2,9 +2,9 @@
 layout: post
 title: Ratatouille
 date: 2012-09-03 12:00:00 -0500
-last_modified_at: 2026-01-11T12:20:00 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: main
-tags: vegetarian french vegetable
+tags: vegetarian french vegetable vegan favorite
 status: confirmed
 ---
 
@@ -19,11 +19,11 @@ status: confirmed
 salt and pepper, to taste  
 * add and mix well, then line the bottom of a shallow casserole dish
 
-1 eggplant  
-4 squash (summer and/or zucchini)  
-2 roma tomatoes  
+1 eggplant (preferably Japanese because it's more tubular)  
+3-4 squash (summer and/or zucchini, again preferably tubular shaped ones)  
+2-3 roma tomatoes  
 * slice very thinly (halving eggplant or squash pieces that are too large, to make
-  the pieces as uniform as possible
+  the pieces as uniform as possible)
 
 2 tbsp. olive oil  
 1 tsp. thyme  

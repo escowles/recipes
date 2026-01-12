@@ -2,9 +2,9 @@
 layout: post
 title: Sourdough Discard Biscuits
 date: 2020-05-23 12:46:40 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: sides
-tags: bread vegetarian
+tags: bread vegetarian vegan
 ---
 1 cup flour  
 3/4 tsp. salt  

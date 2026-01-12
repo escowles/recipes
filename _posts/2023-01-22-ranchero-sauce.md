@@ -2,9 +2,9 @@
 layout: post
 title: ranchero sauce
 date: 2023-01-22 11:16:30 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2026-01-12T06:13:39 -0500
 category: other
-tags: mexican salsa tomato vegetarian favorite
+tags: mexican salsa tomato vegetarian favorite vegan
 status: confirmed
 ---
 
