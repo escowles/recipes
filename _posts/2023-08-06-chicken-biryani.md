@@ -2,7 +2,7 @@
 layout: post
 title: chicken biryani
 date: 2023-08-06 15:58:39 -0400
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-01-30T11:16:41 -0500
 category: main
 tags: meat chicken indian
 status: confirmed
@@ -13,7 +13,7 @@ status: confirmed
 2 tsp. garam masala  
 2 tsp. garlic powder  
 2 tsp. ginger  
-1/2 tsp. chili powder  
+1/4 tsp. chile powder  
 1/2 tsp. coriander  
 1/2 tsp. salt  
 juice from 1/2 lime  
@@ -40,21 +40,19 @@ juice from 1/2 lime
 * reduce heat to low, cover and cook until chicken is completely cooked (5 minutes)
 * remove lid and saute for 5 minutes to reduce moisture  
 
-1 cup peas and/or other vegetables  
+1 cup vegetables  
 1/4 cup plain yogurt  
 1 tsp. garam masala  
-1/4 tsp. chili powder  
-2 cups basmati rice  
-* mix vegetables, yogurt, and spices into chicken then spread into a single layer
+1/4 tsp. chile powder  
+1 cup basmati rice  
+* mix vegetables, yogurt, and spices into chicken then transfer to rice cooker bowl
 * spread rice on top of chicken
 
-2 cups water  
-2 cups chicken stock  
-1/2 tsp. salt  
-* in a separate pot, bring water and stock to a boil and add salt
-* pour 2 cups of water down the sides of the chicken
-* pour remaining water over the top of the rice, avoiding disturbing the rice
-* cover and cook on low heat until rice is done (about 17 minutes)
+3/4 cup water  
+1 cup chicken stock  
+* if not already warm, heat water and chicken stock
+* pour over rice very gently to avoid disturbing the rice
+* close rice cooker and cook as normal
 * rest covered for 15 minutes
 
 source: <https://www.indianhealthyrecipes.com/chicken-biryani-recipe/>
@@ -90,3 +88,9 @@ dish, so i've updated the recipe to reflect that and the changes i made last nig
 * added some peas and broccoli
 * adding coriander
 * increasing lime juice
+
+01/30/2025: updating with slightly reduced liquid and using a rice cooker as
+suggested by some other recipes i looked at. made it this way and it was the best
+i've ever made — though it was too much for the rice cooker, so i reduced the rice
+and liquid to fit next time
+more rice and liquid, which overflowed)
