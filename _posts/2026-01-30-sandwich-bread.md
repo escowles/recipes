@@ -2,10 +2,11 @@
 layout: post
 title: sandwich bread
 date: 2026-01-30 19:27:47 -0500
-last_modified_at: 2026-01-30T19:30:16 -0500
+last_modified_at: 2026-01-30T19:51:22 -0500
 category: sides
 tags: bread kingarthur
 status: confirmed
+photo: /recipes/images/2026-01-30-sandwich-bread.jpg
 ---
 
 **base:**
