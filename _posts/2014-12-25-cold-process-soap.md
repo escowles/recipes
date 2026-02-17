@@ -2,7 +2,7 @@
 layout: post
 title: Cold Process Soap
 date: 2014-12-25 09:58:51 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: other
 tags: soap
 ---
@@ -10,7 +10,7 @@ tags: soap
 62g lye  
 90g coconut oil (76°)  
 360g olive oil  
-14g tea tree oil
+14g tea tree oil  
 
 lye water:
 

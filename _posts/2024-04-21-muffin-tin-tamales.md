@@ -2,7 +2,7 @@
 layout: post
 title: muffin tin tamales
 date: 2024-04-21 06:51:18 -0400
-last_modified_at: 2025-08-05T13:12:11 -0400
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: pork mexican meat
 status: confirmed
@@ -42,7 +42,7 @@ status: confirmed
 ## baking:
 
 1 cup [ranchero sauce]({{site.baseurl}}{% post_url 2023-01-22-ranchero-sauce %}) and/or
-  [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %})
+  [salsa verde]({{ site.baseurl }}{% post_url 2011-07-23-salsa-verde %})  
 * mix pork and salsa to coat
 * fill each muffin well with pork filling
 * bake at 350°F for 15-20 minutes

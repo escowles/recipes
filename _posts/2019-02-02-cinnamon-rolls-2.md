@@ -2,7 +2,7 @@
 layout: post
 title: "Cinnamon Rolls #2"
 date: 2019-02-02 22:52:32 -0500
-last_modified_at: 2025-08-05T13:12:09 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: dessert
 tags: bread breakfast cinnamon creamcheese dairy yeast longish
 status: deprecated
@@ -16,7 +16,7 @@ status: deprecated
 1 egg plus 1 egg yolk, at room temperature  
 ¼ cup unsalted butter, melted  
 3 cups bread flour  
-¾ tsp. salt
+¾ tsp. salt  
 * Add warm milk to mixer bowl and sprinkle yeast on top.
 * Wait until yeast bubbles, about 5 minutes.
 * Add remaining ingredients, and mix with dough hook on medium speed 8-10 minutes, until dough forms a solid ball and is slightly sticky.
@@ -27,7 +27,7 @@ status: deprecated
 
 ¼ cup unsalted butter, softened  
 2/3 cup brown sugar  
-1½ Tbsp. cinnamon
+1½ Tbsp. cinnamon  
 * Spread butter over dough, leaving 1/4" of dough unbuttered on one short side.
 * Mix brown sugar and cinnamon, and sprinkle over butter, then rub in.
 * Roll dough tightly into a tube, ending with the unbuttered edge, and sealing dough.
@@ -41,7 +41,7 @@ status: deprecated
 4 oz. cream cheese, softened  
 3 Tbsp. unsalted butter, softened  
 ¾ cup powdered sugar  
-½ teaspoon vanilla
+½ teaspoon vanilla  
 * Mix all ingredients until smooth and fluffy, then spread over cinnamon rolls.
 
 source: <https://www.ambitiouskitchen.com/best-cinnamon-rolls/>

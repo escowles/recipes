@@ -2,7 +2,7 @@
 layout: post
 title: million dollar spaghetti
 date: 2025-01-21 10:50:59 -0500
-last_modified_at: 2025-01-21T19:50:47 -0500
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: italian pasta meat pork beef nytimes
 status: confirmed
@@ -21,7 +21,7 @@ status: confirmed
 4 cloves garlic  
 2 tsp. italian seasoning  
 16 oz. marinara sauce  
-1/4 cup water
+1/4 cup water  
 * break up sausage and beef and cook undisturbed for 4 minutes
 * stir in onion and garlic and cook until meat is browned, another 4 minutes
 * stir in remaining ingredients, bring to a boil, reduce heat to a simmer for 5 minutes, then turn

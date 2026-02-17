@@ -2,7 +2,7 @@
 layout: post
 title: braised brisket
 date: 2024-12-29 07:59:34 -0500
-last_modified_at: 2025-01-02T07:04:52 -0500
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: meat beef brisket latimes jewish longish
 status: confirmed
@@ -24,7 +24,7 @@ brisket (5-6 lbs.)
 2 onions, chopped  
 16 baby carrots, chopped  
 4 celery stalks, chopped  
-3 cloves garlic, crushed
+3 cloves garlic, crushed  
 * remove brisket and set aside
 * add onions, carrots, and celery to the pan and cook for 2 minutes
 * add garlic and continue cooking until softened, about 5-6 minutes

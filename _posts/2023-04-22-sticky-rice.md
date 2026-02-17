@@ -2,13 +2,13 @@
 layout: post
 title: sticky rice
 date: 2023-04-22 16:52:05 -0400
-last_modified_at: 2023-04-22 16:58:57 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: sides
 tags: asian japanese rice
 ---
 
 1 cup rice  
-1.25 cups water
+1.25 cups water  
 * rinse rice in cold water three times, until it runs clear
 * add rice and water to pan and soak for 30 minutes
 * bring to a boil uncovered

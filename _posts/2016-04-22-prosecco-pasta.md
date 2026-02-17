@@ -2,13 +2,13 @@
 layout: post
 title: Prosecco Pasta
 date: 2016-04-22 16:14:34 -0500
-last_modified_at: 2025-09-09T08:49:53 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: meat pasta pork cheese dairy italian
 status: confirmed
 ---
 8 oz. tagliatelle or fettuccine  
-salt
+salt  
 
   * Boil tagliatelle in water, with pinch of salt
   * Drain and reserve 1/2 cup pasta water

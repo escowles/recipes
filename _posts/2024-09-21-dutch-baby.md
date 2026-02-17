@@ -2,7 +2,7 @@
 layout: post
 title: dutch baby
 date: 2024-09-21 07:07:33 -0400
-last_modified_at: 
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: sides
 tags: bread breakfast nytimes
 status: confirmed
@@ -15,7 +15,7 @@ status: confirmed
 1/4 tsp. nutmeg  
 * whisk into a thin batter
 
-4 tbsp. butter
+4 tbsp. butter  
 * heat a large heavy-bottomed pan at 425°F for 5 minutes
 * add butter and let it melt
 * add batter to the pan and return to the oven for 20 minutes, until the pancake is

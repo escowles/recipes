@@ -2,7 +2,7 @@
 layout: post
 title: chocolate peanut butter truffles
 date: 2020-12-03 12:41:19 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: dessert
 tags: chocolate peanut candy
 ---
@@ -15,7 +15,7 @@ tags: chocolate peanut candy
 * scoop 1 Tbsp. of dough and roll to make a ball
 * chill balls for 15 minutes
 
-8 oz. chocolate, chips or finely chopped
+8 oz. chocolate, chips or finely chopped  
 * heat 6 oz. of chocolate over low heat until melted and shiny
 * remove from heat, add remaining chocolate, and stir until smooth
 * dip or smother each ball until coated

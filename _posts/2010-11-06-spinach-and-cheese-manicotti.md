@@ -2,7 +2,7 @@
 layout: post
 title: Spinach and Cheese Manicotti
 date: 2010-11-06 12:00:00 -0500
-last_modified_at: 2025-08-05T13:14:08 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: vegetarian pasta italian cheese vegetable dairy
 ---
@@ -37,7 +37,7 @@ to taste salt and pepper
 
 ## Cannelloni:
 
-10-12 manicotti
+10-12 manicotti  
 
 * Cook manicotti according to instructions on box, drain carefully to avoid splitting.
 * Coat bottom of baking dish with small amount of sauce to prevent sticking.

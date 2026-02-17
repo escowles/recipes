@@ -2,7 +2,7 @@
 layout: post
 title: baked ziti
 date: 2024-03-14 13:06:25 -0400
-last_modified_at: 2025-08-05T13:12:11 -0400
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: pasta italian nytimes meat pork sausage squash
 status: confirmed
@@ -41,7 +41,7 @@ crumbled sausage
 
 ## assembly:
 
-8 oz. mozzarella, shredded
+8 oz. mozzarella, shredded  
 * layer half of the ziti in a baking dish, top with half the mozzarella
 * spoon remaining ziti mixture on top then top with remaining mozzarella
 * bake at 425°F for 15 to 20 minutes, until browned

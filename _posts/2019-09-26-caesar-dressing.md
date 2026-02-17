@@ -2,7 +2,7 @@
 layout: post
 title: Caesar Dressing
 date: 2019-09-26 10:41:12 -0500
-last_modified_at: 2025-09-16T09:53:15 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: other
 tags: saladdressing sauce cheese dairy kitchn
 status: confirmed
@@ -24,7 +24,7 @@ juice from 1 lemon
 * slowly drizzle in oils while food processor is running
 
 1 oz. parmesan, finely grated  
-1/2 tsp. pepper
+1/2 tsp. pepper  
 * add to food processor and pulse to blend
 
 source: <https://www.thekitchn.com/how-to-make-the-best-caesar-dressing-233883>

@@ -2,7 +2,7 @@
 layout: post
 title: instant pot chicken curry
 date: 2022-02-03 07:22:02 -0500
-last_modified_at: 2025-04-05T19:41:08 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: asian curry chicken meat nytimes
 status: deprecated
@@ -19,7 +19,7 @@ juice from one lime
 * heat oil in instant pot on saute
 * saute chicken until browned, then remove and set aside
 
-1 onion, diced    
+1 onion, diced  
 2 cloves garlic, minced  
 1 tsp. cardamom  
 4 cloves  
@@ -35,7 +35,7 @@ juice from one lime
 
 1 cup chicken stock  
 1 can coconut milk  
-1 cup water
+1 cup water  
 * add chicken stock and scrape any brown bits from bottom of the pot
 * add coconut milk and stir, then return chicken with juices
 * add trivet to pot, then add prepared rice and water to a bowl on top

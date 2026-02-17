@@ -2,7 +2,7 @@
 layout: post
 title: southern tomato pie
 date: 2021-08-07 11:59:51 -0400
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: vegetarian tomato pie
 status: draft
@@ -12,14 +12,14 @@ status: draft
 
 1 tbsp. butter  
 1 tbsp. flour  
-5/8 cup (150ml) milk
+5/8 cup (150ml) milk  
 * melt butter in a small pan, then stir in flour until completely combined
 * add milk slowly while whisking and breaking up any lumps
 * cook on low heat until bubbling and thickened
 * remove from heat and let cool
 
 8 oz. shredded cheddar cheese  
-1/4 cup fresh basil, chopped
+1/4 cup fresh basil, chopped  
 1/4 tsp. garlic powder  
 1/4 tsp. salt  
 1/8 tsp. black pepper  

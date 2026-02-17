@@ -2,7 +2,7 @@
 layout: post
 title: Quiche Lorraine
 date: 2011-10-13 12:00:00 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: egg pork quiche cheese meat french dairy bacon
 status: confirmed
@@ -16,7 +16,7 @@ status: confirmed
 2/3 cup milk  
 3/4 tsp. salt  
 1/2 tsp. pepper  
-1/8 tsp. chipotle powder
+1/8 tsp. chipotle powder  
 
 * Prepare standard [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %}), and line pie dish. Line with baking parchment, fill with rocks or beans, and bake at 350°F for 30 minutes.
 * Bake or fry bacon until crisp. Drain and chop coarsely.

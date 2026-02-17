@@ -2,7 +2,7 @@
 layout: post
 title: cheeseless lasagna
 date: 2022-06-19 07:39:26 -0400
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: pasta dairyfree italian meat pasta pork
 ---
@@ -15,7 +15,7 @@ tags: pasta dairyfree italian meat pasta pork
 1 tsp. thyme  
 1/2 tsp. rosemary  
 1/4 tsp. red pepper flakes  
-2 jars pasta sauce (24 oz. each)
+2 jars pasta sauce (24 oz. each)  
 * saute veggies and herbs in oil for 5 minutes
 * add pasta sauce and simmer for 1 hour
 

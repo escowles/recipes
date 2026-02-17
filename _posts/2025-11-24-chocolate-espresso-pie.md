@@ -2,7 +2,7 @@
 layout: post
 title: chocolate espresso pie
 date: 2025-11-24 12:03:18 -0500
-last_modified_at: 2025-12-07T18:32:51 -0500
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: dessert
 tags: chocolate pie nytimes
 status: confirmed
@@ -48,7 +48,7 @@ status: confirmed
 
 3 tbsp. instant espresso powder  
 2 tbsp. sugar  
-2 tbsp. cornstarch
+2 tbsp. cornstarch  
 1/2 tsp. kosher salt  
 1 1/2 cups milk  
 * mix dry ingredients until no lumps remain, then whisk in milk

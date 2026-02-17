@@ -2,7 +2,7 @@
 layout: post
 title: memphis dry rub
 date: 2020-12-27 18:39:52 -0500
-last_modified_at: 2025-08-05T13:12:09 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: other
 tags: bbq sauce
 ---
@@ -13,7 +13,7 @@ tags: bbq sauce
 1 1/2 tsp. salt  
 1 tsp. garlic salt  
 1 tsp. cumin  
-1/4 tsp. cayenne pepper
+1/4 tsp. cayenne pepper  
 
 * Mix all ingredients and store in airtight container.
 * Rub on both sides of ribs and let sit.
@@ -22,7 +22,7 @@ tags: bbq sauce
 
 2 cups white vinegar  
 1/2 cup water  
-1 tsp. salt
+1 tsp. salt  
 
 * Mix all ingredients and store in airtight container.
 * Rub on both sides of ribs and let sit.

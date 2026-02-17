@@ -2,7 +2,7 @@
 layout: post
 title: creamy lemon asparagus pasta
 date: 2022-03-21 19:06:57 -0400
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: pasta vegetarian italian rainbowplantlife
 status: confirmed
@@ -53,7 +53,7 @@ lemon sauce
 3/4 cup fresh basil leaves, sliced  
 1 Tbsp. capers, drained  
 zest from one lemon  
-salt and pepper, to taste
+salt and pepper, to taste  
 * add, toss to combine, and cook for 1 minute
 * season with salt and pepper and serve warm
 

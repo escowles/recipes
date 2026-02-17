@@ -2,13 +2,13 @@
 layout: post
 title:  ropa vieja
 date:   2020-11-04 20:46:32 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: cuban beef meat
 ---
 
 2 Tbsp. canola oil  
-1.5 lbs. thick-cut chuck roast, in 1″ cubes
+1.5 lbs. thick-cut chuck roast, in 1″ cubes  
 
 * Heat oil in a Dutch oven over medium heat
 * Brown meat on all sides and remove to a plate
@@ -23,7 +23,7 @@ tags: cuban beef meat
 1/8 tsp. cloves  
 2 tsp. salt  
 1/2 tsp. pepper  
-1/2 cup dry white wine
+1/2 cup dry white wine  
 
 * Add onion and peppers to the pot and cook over medium heat for 15-20 minutes until very tender
 * Add the garlic and spices and cook for another minute
@@ -31,20 +31,20 @@ tags: cuban beef meat
 
 1 cup chicken broth  
 15 oz. can crushed tomatoes  
-6 oz. tomato paste
+6 oz. tomato paste  
 
 * Add to the pan and simmer for 5 minutes
 
 6 baby carrots, cut in half  
 1 stalk celery, cut in half  
-2 bay leaves
+2 bay leaves  
 
 * Add to the pot along with the meat
 * Bring to a boil, then cover and simmer for 3-4 hours or until the meat is fork tender and shreds easily
 
 6 green olives, rinsed and minced  
 1/4 cup roasted red peppers, diced  
-1 Tbsp. capers, rinsed and drained
+1 Tbsp. capers, rinsed and drained  
 
 * Discard the celery and bay leaves
 * Remove the meat to a plate, shred it, then return to the pot

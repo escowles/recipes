@@ -2,7 +2,7 @@
 layout: post
 title: bitterballen
 date: 2023-09-26 12:48:09 -0400
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: meat dutch beef longish
 status: confirmed
@@ -33,7 +33,7 @@ salt and pepper, to taste
 2 tbsp. flour  
 1 tsp. allspice  
 1 tsp. worcestershire sauce  
-salt and pepper, to taste
+salt and pepper, to taste  
 * melt butter in a saucepan, then stir in flour and whisk to work out any lumps
 * cook over low heat until the roux turns blonde, about 3 minutes
 * add 250ml (1 cup plus 1 tbsp.) of the reserved braising liquid and whisk to make

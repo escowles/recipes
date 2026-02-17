@@ -2,7 +2,7 @@
 layout: post
 title: Calvados Truffles
 date: 2011-03-13 12:00:00 -0500
-last_modified_at: 2025-08-05T13:14:08 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: dessert
 tags: chocolate candy alcohol longish
 status: confirmed
@@ -24,7 +24,7 @@ status: confirmed
 
 ## Truffles:
 
-8 oz. semi-sweet chocolate, finely chopped
+8 oz. semi-sweet chocolate, finely chopped  
 
 * Microwave 6 oz. of chocolate 20 sec. at a time, stirring between each heating, until smooth and shiny. Add remaining chocolate and stir until smooth.
 * Scoop 1" balls of filling and coat with tempered chocolate.

@@ -2,13 +2,13 @@
 layout: post
 title: Brisket/Butt 2.0
 date: 2019-09-08 23:07:49 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: bbq beef brisket meat pork southern longish
 status: confirmed
 ---
 Brisket, approx. 4-5 lbs.  
-Lump charcoal
+Lump charcoal  
 * Marinate brisket/butt overnight, see [brisket marinade]({{ site.baseurl }}{% post_url 2015-08-22-brisket-marinade %}), [mojo marinade]({{ site.baseurl }}{% post_url 2013-05-05-mojo-chicken %}), or just rubbed with salt. Rinse off salt and coat with [Kansas City rub]({{ site.baseurl }}{% post_url 2017-09-04-kansas-city-rub %}).
 * Fill egg with charcoal, light with firestarter, close lid with chimney uncovered to promote chimney effect, and wait until fire is well started, about 10 minutes.
 * Cover chimney with adjustable vent lid, and close down bottom and top airflow to regulate temperature, adjusting to about 250°F.  For most stable temperature, make a change and wait a few minutes to see the full effect.

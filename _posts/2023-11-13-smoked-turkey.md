@@ -2,7 +2,7 @@
 layout: post
 title: smoked turkey
 date: 2023-11-13 11:09:55 -0500
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: meat turkey thanksgiving longish
 status: confirmed
@@ -24,7 +24,7 @@ status: confirmed
 2 oranges, sliced  
 2 lemons, sliced  
 5 sprigs rosemary  
-3 bay leaves
+3 bay leaves  
 * combine all ingredients in large pot and bring to a simmer until salt and sugar dissolve
 * cool to room temperature and use to brine turkey 18-24 hours
 

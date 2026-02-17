@@ -2,7 +2,7 @@
 layout: post
 title: yellow rice
 date: 2022-09-25 08:01:11 -0400
-last_modified_at: 2025-11-01T09:09:29 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: sides
 tags: cuban
 status: confirmed
@@ -17,7 +17,7 @@ status: confirmed
 * melt butter and stir in rice and spices
 * optional: spread on a cookie sheet and bake at 400°F for 10 minutes, stirring once
 
-1 1/2 cups chicken stock
+1 1/2 cups chicken stock  
 * add to rice in rice cooker and rest 30 minutes
 * cook in rice cooker and rest 15 minutes after finishing before opening and serving
 

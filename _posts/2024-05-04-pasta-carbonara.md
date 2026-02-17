@@ -2,7 +2,7 @@
 layout: post
 title: pasta carbonara
 date: 2024-05-04 19:16:49 -0400
-last_modified_at: 
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: italian pasta pork
 status: deprecated
@@ -11,7 +11,7 @@ status: deprecated
 6 oz. guanciale or pancetta, cut into 1/4-inch dice  
 * cook in a small pan until fat is rendered, about 15 minutes
 
-1 lb. pasta (rigatoni is traditional, but rotini, cavatappi, etc. are fine)
+1 lb. pasta (rigatoni is traditional, but rotini, cavatappi, etc. are fine)  
 * cook pasta to al dente, according to package directions then drain, reserving
   1 cup of pasta water
 
@@ -24,7 +24,7 @@ status: deprecated
 
 3/4 tsp. crushed red pepper  
 salt and pepper  
-1 oz. grated Pecorino Romano cheese
+1 oz. grated Pecorino Romano cheese  
 * add red pepper, season with salt and pepper, and top with remaining cheese
 
 source: <https://www.foodandwine.com/recipes/pasta-carbonara>

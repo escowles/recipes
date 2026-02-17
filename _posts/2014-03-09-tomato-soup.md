@@ -2,7 +2,7 @@
 layout: post
 title: Tomato Soup
 date: 2014-03-09 11:26:56 -0500
-last_modified_at: 2024-12-27T09:19:20 -0500
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: italian soup tomato vegetarian barefootcontessa
 status: confirmed
@@ -10,22 +10,25 @@ status: confirmed
 664 Cal (4x 166)
   
 2 Tbsp. olive oil  
-1 red onion  
-2 carrots  
+1 red onion, sliced  
+2 carrots, sliced  
+* heat oil in a large pot and saute onion and carrots 10 minutes
+
 2 cloves garlic  
+1 Tbsp. tomato paste  
+* add to pot and saute 1 minute
+
 2½ lbs. tomatoes  
 1 tsp. sugar  
-1 Tbsp. tomato paste  
 3 Tbsp. basil leaves  
 2 cups chicken stock  
 2 tsp. salt  
 1¼ tsp. pepper  
-½ cup cream  
+* add to pot, bring to a boil, then reduce heat and simmer 30-40 minutes, until
+  tomatoes are very tender
+* purée in blender (or using immersion blender)
 
-* Saute onion and carrots 10 minutes.
-* Add garlic and saute 1 minute.
-* Add tomatoes, sugar, tomato paste, basil, stock, salt and pepper.
-* Bring to a boil, then simmer uncovered 30-40 minutes until tomatoes are very tender.
-* Purée in food processor (or using immersion blender), and add cream.
+½ cup cream (optional)  
+* stir into soup to make a creamy soup
 
 Source: <http://www.foodnetwork.com/recipes/ina-garten/cream-of-fresh-tomato-soup-recipe.html>

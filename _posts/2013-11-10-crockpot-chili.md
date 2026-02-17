@@ -2,7 +2,7 @@
 layout: post
 title: Crockpot Chili
 date: 2013-11-10 10:10:52 -0500
-last_modified_at: 2025-08-05T13:12:09 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: meat mexican crockpot beans beef favorite longish
 status: confirmed
@@ -46,7 +46,7 @@ status: confirmed
 1/2 tsp. oregano  
 1/2 tsp. pepper  
 1/2 tsp. cumin  
-1/2 head kale, chopped
+1/2 head kale, chopped  
 
 * Put everything in crockpot and stir.
 * Cook on high for 90 minutes.

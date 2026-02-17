@@ -2,7 +2,7 @@
 layout: post
 title: beef tacos tlaquepaque
 date: 2021-11-01 16:26:16 -0400
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: meat beef mexican crockpot longish
 ---
@@ -16,7 +16,7 @@ tags: meat beef mexican crockpot longish
 2 bay leaves  
 1 tsp. marjoram  
 1 tsp. thyme  
-salt
+salt  
 * add all ingredients to crockpot and cook on low for 8 hours
 * remove and shred beef, set aside 3 cups for tacos and refrigerate the rest
 

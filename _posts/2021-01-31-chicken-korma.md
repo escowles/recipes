@@ -2,7 +2,7 @@
 layout: post
 title: chicken korma
 date: 2021-01-31 14:48:06 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: indian chicken meat curry longish
 ---
@@ -26,7 +26,7 @@ tags: indian chicken meat curry longish
 * add almonds and garlic, and cook one minute
 
 1.5 cups yogurt  
-1/2 cup water
+1/2 cup water  
 * remove onion mixture to blender, add water and yogurt, and puree
 
 2 tbsp. olive oil  

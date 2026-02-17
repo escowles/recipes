@@ -2,7 +2,7 @@
 layout: post
 title: potato soup
 date: 2024-11-05 14:21:33 -0500
-last_modified_at: 
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: soup potato
 status: confirmed
@@ -28,7 +28,7 @@ status: confirmed
 1/2 cup cream  
 1/2 tsp. tarragon  
 1/2 tsp. cilantro  
-salt and pepper to taste
+salt and pepper to taste  
 * melt butter in a separate pan and mix in flour to make a roux
 * add cream and herbs, bring to a simmer, stirring constantly until thickened, about 5 minutes
 * add to potatoes and stir to combine

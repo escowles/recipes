@@ -2,7 +2,7 @@
 layout: post
 title: curried cauliflower soup
 date: 2023-01-04 14:33:42 -0500
-last_modified_at: 2026-01-12T06:13:39 -0500
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: soup vegetarian nytimes vegan
 ---
@@ -14,7 +14,7 @@ tags: soup vegetarian nytimes vegan
 2 cloves garlic, chopped  
 2 tsp. ginger, grated  
 2 tsp. curry powder  
-2 tsp. ground cumin
+2 tsp. ground cumin  
 * add and cook while stirring for 30 seconds
 
 1 head cauliflower, roughly chopped  

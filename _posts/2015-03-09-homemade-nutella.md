@@ -2,7 +2,7 @@
 layout: post
 title: Homemade Nutella
 date: 2015-03-09 18:52:00 -0500
-last_modified_at: 2022-06-19 10:11:17 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: dessert
 tags: chocolate
 ---
@@ -12,7 +12,7 @@ tags: chocolate
 3 Tbsp. powdered sugar  
 1 Tbsp. cocoa powder  
 1/2 tsp. vanilla extract  
-3/4 tsp. salt, to taste
+3/4 tsp. salt, to taste  
 
 * Melt chocolate in double boiler or microwave and set aside to cool.
 * Bake hazelnuts at 350°F for 12 minutes, until the skins blister.

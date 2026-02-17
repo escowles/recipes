@@ -2,7 +2,7 @@
 layout: post
 title: baked latkes
 date: 2024-12-25 10:46:20 -0500
-last_modified_at: 2024-12-27T15:17:01
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: potato jewish vegetarian food52
 status: confirmed
@@ -22,7 +22,7 @@ status: confirmed
 1/2 tsp. black pepper  
 * add to potato mixture and mix well
 
-1/2 cup neutral oil
+1/2 cup neutral oil  
 * heat oven to 400°F and add oil to a baking sheet for 10 minutes
 * carefully remove from oven and drop 1/4 cups of batter into the sheet pan,
   slightly flattening each latke

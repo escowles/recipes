@@ -2,7 +2,7 @@
 layout: post
 title: Pumpkin Bread 2
 date: 2018-10-28 19:52:58 -0500
-last_modified_at: 2025-05-17T07:08:36 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: sides
 tags: bread pumpkin quickbread
 ---
@@ -19,7 +19,7 @@ tags: bread pumpkin quickbread
 ½ tsp. cinnamon  
 ½ tsp. nutmeg  
 ½ tsp. cloves  
-1½ tsp. baking powder
+1½ tsp. baking powder  
 * Mix and add to wet ingredients.
 * Pour into greased and floured bread pan.
 * Bake at 325°F for 60-75 minutes, until toothpick comes out clean.

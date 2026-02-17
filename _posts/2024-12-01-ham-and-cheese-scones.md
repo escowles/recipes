@@ -2,7 +2,7 @@
 layout: post
 title: ham and cheese scones
 date: 2024-12-01 09:26:42 -0500
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: sides
 tags: bread scones american sallysbakingaddiction
 status: confirmed
@@ -16,7 +16,7 @@ status: confirmed
 1/4 tsp. black pepper  
 1/2 cup cold butter, thinly sliced  
 3 tbsp. fresh chives or scallion greens, thinly sliced  
-3.5 oz. cheddar, shredded
+3.5 oz. cheddar, shredded  
 * mix together dry ingredients
 * blend in butter with pastry blender
 * fold in chives/scallions and cheddar

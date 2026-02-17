@@ -2,13 +2,13 @@
 layout: post
 title: labelle mac and cheese
 date: 2020-11-22 07:09:31 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: pasta cheese dairy vegetarian southern
 status: deprecated
 ---
 
-1 lb. macaroni
+1 lb. macaroni  
 * prepare according to the directions on the box, reducing boil time by 1 minute.
 * drain and set aside while making the sauce
 

@@ -2,7 +2,7 @@
 layout: post
 title: Hot Process Soap
 date: 2014-12-26 17:13:28 -0500
-last_modified_at: 2023-07-08 10:22:41 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: other
 tags: soap teatree
 ---
@@ -11,7 +11,7 @@ tags: soap teatree
 114g olive oil  
 432g water  
 156g lye  
-38g essential oils (e.g., mix of sandalwood and tea tree)
+38g essential oils (e.g., mix of sandalwood and tea tree)  
 * if varying fats at all, double-check using [soapcalc](http://soapcalc.net/calc/soapcalcwp.asp)
 * measure fats into crockpot and heat on low heat until completely melted
 * measure water in heat-proof mixing bowl or pyrex pitcher

@@ -2,7 +2,7 @@
 layout: post
 title: mini omelets
 date: 2021-02-14 09:30:11 -0500
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: egg mini breakfast
 ---
@@ -10,7 +10,7 @@ tags: egg mini breakfast
 5 eggs  
 6 egg whites  
 1/2 cup cream  
-salt, pepper, and chipotle powder
+salt, pepper, and chipotle powder  
 
 * beat eggs, whites, and cream until eggs are broken down
 * whisk in salt, pepper, and chipotle, and set aside

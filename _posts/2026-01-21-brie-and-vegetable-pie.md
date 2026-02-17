@@ -2,7 +2,7 @@
 layout: post
 title: brie and vegetable pie
 date: 2026-01-21 06:43:48 -0500
-last_modified_at: 2026-01-21T06:49:18 -0500
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: main
 tags: nytimes vegetarian pie cheese dairy
 status: confirmed
@@ -45,7 +45,7 @@ salt and pepper, to taste
 
 **assembly:**
 
-2 sheets of puff pastry or [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
+2 sheets of puff pastry or [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 1 egg, beaten  
 1 whole round brie or camembert (7")  
 * line baking sheet with parchment paper and center one pie crust (rolled to 10")

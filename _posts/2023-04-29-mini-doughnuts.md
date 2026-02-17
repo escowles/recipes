@@ -2,7 +2,7 @@
 layout: post
 title: mini doughnuts
 date: 2023-04-29 08:39:09 -0400
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: dessert
 tags: bread breakfast doughnuts fried
 ---
@@ -29,7 +29,7 @@ tags: bread breakfast doughnuts fried
 * stir in egg/milk and mix until a dough forms
 * melt butter and stir into dough
 
-5 cups vegetable oil
+5 cups vegetable oil  
 * heat oil to 350°F in deep pot (should have 2" clearance)
 * drop tablespoons of dough into the oil and fry for 2 minutes while turning to
   ensure even browning

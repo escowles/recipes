@@ -2,7 +2,7 @@
 layout: post
 title: dill pickle chips
 date: 2025-06-29 14:41:46 -0400
-last_modified_at: 2025-06-29T14:45:57 -0400
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: sides
 tags: pickle cucumber
 status: confirmed
@@ -17,7 +17,7 @@ status: confirmed
 1 tbsp. dill seed  
 1 tsp. kosher salt  
 1 tsp. sugar  
-several sprigs of fresh dill
+several sprigs of fresh dill  
 * combine all ingredients in a sauce pan
 * bring to a boil, then remove from heat and cool to room temperature
 * add cucumber slices to sterilized jars, pour pickling brine over them until covered

@@ -2,14 +2,14 @@
 layout: post
 title: blueberry pie
 date: 2024-04-12 10:35:33 -0400
-last_modified_at: 
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: dessert
 tags: fruit pie
 status: draft
 ---
 
 1 tbsp. butter  
-4 cups fresh blueberries
+4 cups fresh blueberries  
 3/4 cup sugar  
 3 tbsp. cornstarch  
 1/2 tsp. cinnamon  

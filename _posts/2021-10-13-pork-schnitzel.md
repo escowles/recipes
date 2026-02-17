@@ -2,12 +2,12 @@
 layout: post
 title: baked pork schnitzel
 date: 2021-10-13 14:11:45 -0400
-last_modified_at: 2024-12-25T12:47:05 -0500
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: pork nytimes
 ---
 
-pork chops
+pork chops  
 salt and pepper  
 1/3 cup flour  
 2 eggs  

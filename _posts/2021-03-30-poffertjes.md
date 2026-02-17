@@ -2,7 +2,7 @@
 layout: post
 title: poffertjes
 date: 2021-03-30 07:36:11 -0400
-last_modified_at: 2022-06-19 10:11:20 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: sides
 tags: bread breakfast dutch
 ---
@@ -16,8 +16,8 @@ tags: bread breakfast dutch
 1/4 tsp salt  
 * mix in blender until frothy
 
-2 Tbsp butter, melted
-icing/confectioner's sugar, for garnish
+2 Tbsp butter, melted  
+icing/confectioner's sugar, for garnish  
 * heat pan in oven at 425°F
 * remove from oven, brush with butter, and fill with batter
 * fill muffin wells 1/2 way with batter and bake for 15-18 minutes, until puffy

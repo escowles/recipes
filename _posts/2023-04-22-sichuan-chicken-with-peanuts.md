@@ -2,7 +2,7 @@
 layout: post
 title: sichuan chicken with peanuts
 date: 2023-04-22 16:39:36 -0400
-last_modified_at: 2024-03-05 19:05:41 -0500
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: asian chinese meat chicken thewok peanut
 status: confirmed
@@ -39,7 +39,7 @@ status: confirmed
 1" ginger, peeled and shredded (or 1 tsp. of ground ginger)  
 6 scallions, sliced in 1/2" pieces  
 1/4 cup roasted peanuts  
-1/4 cup chicken stock
+1/4 cup chicken stock  
 * wipe out wok, then add oil and heat until shimmering
 * add garlic and ginger and stir fry for 10 seconds
 * add scallions and peanuts and stir fry for 30 seconds longer

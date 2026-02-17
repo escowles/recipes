@@ -2,7 +2,7 @@
 layout: post
 title: Guacamole
 date: 2010-11-11 12:00:00 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: sides
 tags: mexican sauce dip appetizer favorite
 status: confirmed
@@ -12,7 +12,7 @@ status: confirmed
 3 avocados  
 1 clove garlic, minced  
 1/2 tsp. salt  
-1/2 tsp. cumin
+1/2 tsp. cumin  
 * Halve and pit avocados, then scoop out flesh
 * Mash with spices until desired consistency (smooth or slightly chunky)
 

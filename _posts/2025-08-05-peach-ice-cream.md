@@ -2,7 +2,7 @@
 layout: post
 title: peach ice cream
 date: 2025-08-05 11:54:18 -0400
-last_modified_at: 2025-08-05T12:06:54 -0400
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: dessert
 tags: icecream peach fruit favorite
 status: confirmed
@@ -23,7 +23,7 @@ status: confirmed
 * whisk in a heatproof bowl
 
 1 1/4 cup cream  
-1 cup milk
+1 cup milk  
 * heat until steaming, then pour into yolk mixture in a thin stream while whisking
 * return milk/yolk mixture to the pot and heat to 170°F
 

@@ -36,7 +36,7 @@ status: confirmed
 1/2 tsp. vanilla  
 1/4 tsp. cream of tartar  
 1/2 cup sugar  
-1 Tbsp. cornstarch
+1 Tbsp. cornstarch  
 * in stand mixer, mix egg whites, vanilla, and cream of tartar on medium-low until
   foamy, about 1 minute
 * increase speed to medium for 1 minute until billowy

@@ -2,7 +2,7 @@
 layout: post
 title: dutch pear pie
 date: 2025-07-21 09:57:31 -0400
-last_modified_at: 2025-08-05T13:12:11 -0400
+last_modified_at: 2026-02-17T16:26:49 -0500
 category: dessert
 tags: dutch pear pie fruit
 status: confirmed
@@ -32,7 +32,7 @@ use standard [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 1/2 cup (100g) brown sugar  
 1/2 cup (100g) sugar  
 5/8 cup (75g) flour  
-1 1/2 tsp. cinnamon
+1 1/2 tsp. cinnamon  
 1/8 tsp. salt  
 1/2 cup (50g) oats  
 1/2 stick (56g) butter  

@@ -2,7 +2,7 @@
 layout: post
 title: cuban chicken with rice
 date: 2022-01-21 18:47:40 -0500
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: cuban latin meat chicken instantpot
 status: deprecated
@@ -13,7 +13,7 @@ status: deprecated
 1 tsp. salt  
 1/2 tsp. pepper  
 1 tsp. paprika  
-2 Tbsp. olive oil
+2 Tbsp. olive oil  
 * toss chicken with spices
 * heat oil in instant pot on saute and brown chicken on both sides
 * remove chicken and set aside
@@ -34,7 +34,7 @@ status: deprecated
 1/2 tsp. annatto powder  
 1/2 tsp. red pepper flakes  
 14 1/2 oz. can diced tomatoes  
-1 cup white rice
+1 cup white rice  
 * add stock and wine to pot and bring to a simmer, scraping up any brown bits
 * add spices and tomatoes (including juices) and stir
 * rinse rice and sprinkle over vegetables and liquids

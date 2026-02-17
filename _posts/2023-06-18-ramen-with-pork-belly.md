@@ -2,7 +2,7 @@
 layout: post
 title: ramen with pork belly
 date: 2023-06-18 17:12:13 -0400
-last_modified_at: 2023-06-18 17:17:20 -0400
+last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: asian japanese meat pork soup
 status: confirmed
@@ -14,7 +14,7 @@ status: confirmed
 1" fresh ginger, peeled and sliced  
 2 poblano peppers, diced  
 1 quart chicken stock  
-1.5 quarts water
+1.5 quarts water  
 1/4 cup mirin  
 2 Tbsp. soy sauce  
 4 eggs  
