@@ -2,7 +2,7 @@
 layout: post
 title: lamb biryani
 date: 2026-03-24 12:41:51 -0400
-last_modified_at: 2026-03-24T12:46:39 -0400
+last_modified_at: 2026-03-24T12:59:37 -0400
 category: main
 tags: meat lamb indian nytimes
 status: confirmed
@@ -13,8 +13,8 @@ status: confirmed
 1 1/2 serrano chilies, sliced  
 4 cloves garlic, sliced  
 2" ginger, sliced  
-1/2 large onion  
-1 tomato  
+1/2 large onion, quartered  
+1 tomato, quartered  
 1/2 cup plain yogurt  
 2 tsp. cilantro  
 1 1/2 tsp. coriander  
@@ -24,7 +24,7 @@ status: confirmed
 1 1/2 lb. lamb shoulder  
 * process chilies, garlic, and ginger in food processor
 * add onion and tomato, and purée until smooth
-* combine remaining ingredients, toss to coat lamb, cover, and chill at least 4 hours,
+* add remaining ingredients, toss to coat lamb, cover, and chill at least 4 hours,
   preferably overnight
 
 
@@ -64,8 +64,10 @@ status: confirmed
 
 1 1/2 cups basmati rice  
 1 cup cilantro leaves  
+1 cup water  
 * in rice cooker bowl, make three layers consisting of the meat mixture, cilantro
   leaves, rice, fried onions, and saffron milk
+* pour water over the rice carefully to avoid disturbing the layers
 * cook as normal then rest for 10 minutes after the rice cooker has finished
 * when serving, dig all the way to the bottom to get all layers
 
