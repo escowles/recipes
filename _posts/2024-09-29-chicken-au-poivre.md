@@ -5,7 +5,7 @@ date: 2024-09-29 08:12:35 -0400
 last_modified_at: 
 category: main
 tags: french chicken meat nytimes
-status: confirmed
+status: deprecated
 ---
 
 1 tbsp. black peppercorns  
@@ -45,3 +45,5 @@ source: <https://cooking.nytimes.com/recipes/1025895-chicken-au-poivre>
   so i made a flour paste to thicken it
 * crushing the peppercorns was a pain (and not entirely succesful because a few got through), so i
   will just grind out 1 tbsp. of pepper next time
+
+03/30/2026: deprecating in favor of [chicken au poivre]({{ site.baseurl }}{% post_url 2026-03-12-chicken-au-poivre %})
