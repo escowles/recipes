@@ -2,7 +2,7 @@
 layout: post
 title: pinter instructions
 date: 2024-07-19 15:16:23 -0400
-last_modified_at: 2025-08-05T13:12:11 -0400
+last_modified_at: 2026-06-08T07:34:04 -0400
 category: other
 tags: beer homebrew technique
 status: confirmed
@@ -24,7 +24,7 @@ status: confirmed
 * turn the carbonation dial to #5
 * remove the tap handle and cap and pour out the remaining purifier (no rinse needed)
 
-## brewing:
+## extract brewing:
 
 * refrigerate hopper until it's time to add it
 * set carbonation dial to the [recommended
@@ -46,6 +46,16 @@ status: confirmed
 * screw the hopper into the pinter until its flush
 * allow all of the hop oil to drain into the pinter, then remove it and replace the
   hopping cap
+
+## all-grain brewing:
+
+* refrigerate hopper until ready to fill and set carbonation dial to the [recommended
+  setting](https://pinter.co.uk/pages/carbonation-dial-settings)
+* pour chilled wort to the fill-to line
+* sprinkle yeast into the pinter
+* replace the main cap
+* attach brewing dock and turn pinter over and stand it on the brewing dock for
+  7 days (more for higher-gravity beers)
 
 ## conditioning:
 
