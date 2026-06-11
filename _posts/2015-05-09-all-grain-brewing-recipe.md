@@ -12,7 +12,7 @@ status: confirmed
 * Heat 1 quart of water per pound of grain to 180°F and add to mash tun/cooler.
 * Let stand 10 minutes, check temperature until it falls to 170°F.
 * Add grain slowly and mix well, cover and let stand for 10 minutes.
-*Check temperature, which should be between 149°F and 156°F.
+* Check temperature, which should be between 149°F and 156°F.
 * Replace lid and let stand for 1 hour or as directed by recipe.
 * Heat enough sparge water for boil size to 200°F in kettle.
 * Remove a sample of wort to a white saucer, and a drop of iodine.  
