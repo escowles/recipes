@@ -2,27 +2,11 @@
 layout: post
 title: Chocolate Banana Cream Pie
 date: 2018-07-14 00:14:46 -0500
-last_modified_at: 2025-08-05T13:12:09 -0400
+last_modified_at: 2026-07-13T12:47:57 -0400
 category: dessert
 tags: banana chocolate pie fruit
 status: confirmed
 ---
-## Chocolate Pie Crust:
-  
-1¼ cup flour  
-¼ tsp. salt  
-¼ tsp. baking powder  
-2 Tbsp. cocoa powder  
-1 Tbsp. sugar  
-8 Tbsp. cold butter, cubed  
-4-5 Tbsp. cold water  
- * Preheat oven to 425 degrees.
- * Add dry ingredients to food processor, and pulse to combine.
- * Add butter and pulse until the texture is a coarse meal.
- * Slowly add water, pulsing after each addition, until the dough clumps together and forms a ball.
- * Roll crust out on a floured surface, to fit a 9" pie pan.
- * Press crust into pan, trim edges, and poke holes in the bottom of the crust with a fork.
- * Bake for at 425°F for 10 minutes, then cool to room temperature.
 
 ## Chocolate Cream Filling:
   
@@ -48,11 +32,29 @@ status: confirmed
 
 ## Assembly:
 
-* Blind bake chocolate pie crust or [plain pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
+* Blind bake an [oreo pie crust]({{ site.baseurl }}{% post_url 2021-07-12-oreo-pie-crust %}) or chocolate pie crust (see below) or [plain pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
 * Fill with chocolate cream filling then top with banana slices.
 * Add cooled custard on top and top with more bananas.
 * Chill for 2 hours.
 * Before serving, top each clice with [whipped cream]({{ site.baseurl }}{% post_url 2018-07-14-whipped-cream %}), sliced bananas.
+
+
+## Chocolate Pie Crust:
+  
+1¼ cup flour  
+¼ tsp. salt  
+¼ tsp. baking powder  
+2 Tbsp. cocoa powder  
+1 Tbsp. sugar  
+8 Tbsp. cold butter, cubed  
+4-5 Tbsp. cold water  
+ * Preheat oven to 425 degrees.
+ * Add dry ingredients to food processor, and pulse to combine.
+ * Add butter and pulse until the texture is a coarse meal.
+ * Slowly add water, pulsing after each addition, until the dough clumps together and forms a ball.
+ * Roll crust out on a floured surface, to fit a 9" pie pan.
+ * Press crust into pan, trim edges, and poke holes in the bottom of the crust with a fork.
+ * Bake for at 425°F for 10 minutes, then cool to room temperature.
 
 Source: <https://houseofyumm.com/chocolate-banana-cream-pie/print/9023/>
 
@@ -64,7 +66,7 @@ great, either).  Would rather have an Oreo crust (see [Oreo Mini Cheesecakes]({{
 
 Also, we could do a traditional custard (like in [Berry Trifle]({{ site.baseurl }}{% post_url 2011-05-06-berry-trifle %})).
 
-2021-07-16: Used the [oreo crust]({{ site.base_url}}{% post_url 2021-07-12-oreo-pie-crust %}), and
+2021-07-16: Used the [oreo pie crust]({{ site.baseurl }}{% post_url 2021-07-12-oreo-pie-crust %}), and
 chilled with just the chocolate, bananas, and custard filling. Topped each piece with whipped cream
 and dusted with oreo crumbs. This is definitely better than the chocolate crust and topping the
 whole pie before cutting.
