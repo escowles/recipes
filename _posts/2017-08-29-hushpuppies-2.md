@@ -5,6 +5,7 @@ date: 2017-08-29 18:06:04 -0500
 last_modified_at: 2022-06-19 10:11:18 -0400
 category: sides
 tags: bread southern appetizer fried
+status: deprecated
 ---
 2 cups cornmeal  
 ½ cup flour  
@@ -22,3 +23,8 @@ oil for frying
 * Dry on paper towels and eat warm.
 
 Source: <https://www.tasteofhome.com/recipes/best-hush-puppies>
+
+---
+
+08/11/2026: i'm not sure if i ever made this version or not, but i'm deprecating in favor of
+updated [hushpuppies]({{ site.baseurl }}{% post_url 2016-08-30-hushpuppies %})
