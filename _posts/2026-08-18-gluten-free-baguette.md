@@ -2,9 +2,9 @@
 layout: post
 title: gluten-free baguette
 date: 2026-08-18 13:26:23 -0400
-last_modified_at: 
+last_modified_at: 2026-08-18T19:26:43 -0400
 category: sides
-tags: bread gf
+tags: bread gf french longish yeast
 status: confirmed
 ---
 
