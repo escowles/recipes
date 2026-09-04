@@ -15,7 +15,7 @@ status: confirmed
 
 2 lbs. ground pork  
 1/2 cup bread crumbs from above  
-1/2 cup cold water  
+1/2 cup cold water (if filling sausage casings)  
 1 Tbsp. salt  
 1 1/2 tsp. white pepper  
 1 tsp. fresh sage  
@@ -24,13 +24,16 @@ status: confirmed
 1/2 tsp. mace  
 1/2 tsp. nutmeg  
 * combine all ingredients and mix well
-* shape into 30g balls and chill for 2 hours
+* use to fill sausage casings, or shape into 30g balls and chill for 2 hours
 * bake at 350°F for 30 minutes
 
 source: <https://www.daringgourmet.com/homemade-british-bangers/> and food lab p. 504
 
 ---
 
-2021-02-28: original recipe was good, but a ton of work to grind the pork and a little spicier than
-it should be (particularly the mace but also the pepper). texture was very soft, which would be
-great for filling casings, but too soft to be easily workable.
+2021-02-28: original recipe was good, but a ton of work to grind the pork and a little
+spicier than it should be (particularly the mace but also the pepper). texture was very
+soft, which would be great for filling casings, but too soft to be easily workable.
+
+09/04/2026: spices are correct now, and water is only needed for texture when filling
+sausage casings.
