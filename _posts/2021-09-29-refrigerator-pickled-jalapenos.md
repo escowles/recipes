@@ -2,19 +2,18 @@
 layout: post
 title: refrigerator pickled jalapenos
 date: 2021-09-29 07:19:23 -0400
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2026-09-07T07:44:47 -0400
 category: other
 tags: pickles
 status: confirmed
 ---
 
-4 medium jalapeños (about 8 ounces total)  
+6 oz. jalapeños (about 8-10)  
 1/2 cup white vinegar  
 1/2 cup water  
-1 tsp. to 1 tbsp. salt  
-1 tsp. to 1 tbsp. sugar (optional)  
-* slice jalapenos and fill 16-20 oz. jar
-* add vinegar and water, topping up with vinegar to cover the jalapenos
+2 tsp. kosher salt  
+* slice jalapenos and fill 16 oz. jar
+* add vinegar and water, topping up with vinegar to cover the jalapeños
 * add salt and sugar
 * tighten lid and shake to thoroughly mix salt and sugar into liquid
 * refrigerate 8 hours, and keep refrigerated
@@ -36,3 +35,5 @@ source: <https://www.washingtonpost.com/food/2021/09/28/pickled-jalapeno-recipe/
 * 1/2 tsp. coriander seeds
 * 1/2 tsp. black mustard seeds
 * 1/4 tsp. chipotle pepper powder
+
+09/07/2026: updating recipe with this year's weight/count, reducing salt/sugar ranges
