@@ -7,8 +7,6 @@ category: main
 tags: meat pork southern breakfast
 status: confirmed
 ---
-1200 Cal (8x 150)
-  
 1 tsp. sage  
 1 tsp. rosemary  
 1/2 tsp. thyme  

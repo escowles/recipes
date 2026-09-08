@@ -7,8 +7,6 @@ category: main
 tags: mexican seafood fried fish
 status: confirmed
 ---
-3400 Cal (12x 283)
-
 ## Sauce:
 1/2 cup mayonnaise  
 1 Tbsp. lime juice  

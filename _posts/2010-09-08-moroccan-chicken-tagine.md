@@ -7,8 +7,6 @@ category: main
 tags: chicken meat middleeast barefootcontessa longish
 status: deprecated
 ---
-1040 Cal (4x 260)
- 
 ## Marinade:
 
 3 cloves chopped garlic  

@@ -7,8 +7,6 @@ category: main
 tags: crab seafood maryland
 status: deprecated
 ---
-1800 Cal (10x 180)
-
 1 lb. crabmeat   
 4 crushed crackers (1/3 cup)  
 3 green onions, finely chopped   

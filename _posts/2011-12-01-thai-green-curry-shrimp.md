@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: seafood shrimp thai asian
 ---
-1500 Cal (4x 375)
-
 15 oz. coconut milk  
 1 tsp. green curry paste  
 1/4 cup fresh basil, coarsely chopped  

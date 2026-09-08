@@ -8,8 +8,6 @@ tags: vegetarian egg cheese souffle french vegetable dairy barefootcontessa favo
 status: confirmed
 time: 60-70 minutes
 ---
-1300 Cal (4x 325)
-
 ## Cheese Sauce:
 
 3 Tbsp. butter  

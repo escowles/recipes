@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: dessert
 tags:  frosting
 ---
-3600 Cal (24x 150)
-
 1/2 cup shortening  
 1/2 cup butter, softened  
 1 tsp. clear vanilla extract  

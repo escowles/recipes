@@ -7,8 +7,6 @@ category: other
 tags: mexican sauce favorite
 status: confirmed
 ---
-180 Cal (12x 15)
-
 1 lb. tomatillos (about 10 small, don't use the large ones which are bitter)  
 2 jalapenos (or adjust for milder/spicier, e.g., 1 jalapeno and 1 chipotle for
   smokier salsa, or 1 serrano and 1 jalapeno for spicier salsa)  

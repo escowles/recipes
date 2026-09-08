@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: chicken meat mexican
 ---
-840 Cal (4x 210)
-  
 1 lb. chicken breast halves  
 2 cups chicken broth  
 1/4 white onion, chopped  

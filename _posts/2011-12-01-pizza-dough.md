@@ -7,8 +7,6 @@ category: other
 tags: bread italian barefootcontessa pizza yeast longish
 status: confirmed
 ---
-1500 Cal (4x 375)
-
 1 2/3  cups warm water (100-110F)  
 1 1/4  tsp. dry yeast  
 2 tsp. honey  

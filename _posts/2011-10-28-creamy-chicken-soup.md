@@ -7,8 +7,6 @@ category: main
 tags: soup chicken meat favorite
 status: confirmed
 ---
-1350 Cal (6x 225)
-
 2 Tbsp. butter  
 1 1/3 lb. boneless, skinless chicken breasts, cubed  
 1 onion, chopped  

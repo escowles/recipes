@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: seafood salmon
 ---
-920 Cal (4x 230)
-
 1 lb. salmon  
 1 Tbsp. olive oil  
 2 cloves garlic, finely chopped  

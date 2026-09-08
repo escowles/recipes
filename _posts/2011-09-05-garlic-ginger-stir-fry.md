@@ -7,8 +7,6 @@ category: main
 tags: asian chicken meat
 status: confirmed
 ---
-1200 Cal (4x 300)
-  
 2 Tbsp. peanut oil  
 2 cloves garlic, minced  
 1 tsp ginger, grated/ground  

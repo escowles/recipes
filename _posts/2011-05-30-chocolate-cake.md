@@ -6,8 +6,6 @@ last_modified_at: 2025-08-05T13:14:08 -0400
 category: dessert
 tags: chocolate cake barefootcontessa
 ---
-6720 Cal (24x 280)
-
 ## Cake:
 
 1 3/4 cups flour, plus more for pans  

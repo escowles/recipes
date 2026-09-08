@@ -7,8 +7,6 @@ category: dessert
 tags: chocolate candy alcohol longish
 status: confirmed
 ---
-2240 Cal (140 x 16)
-  
 ## Filling:
 
 3/8 cup heavy cream  

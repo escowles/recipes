@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: dessert
 tags:  frosting chocolate
 ---
-2148 Cal (12x 179)
-
 2 3/4 cups powdered sugar  
 6 Tbsp. cocoa powder  
 6 Tbsp. butter  

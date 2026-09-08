@@ -7,8 +7,6 @@ category: main
 tags: chicken indian meat curry asian peanut
 status: deprecated
 ---
-1,440 Cal (4x 360)  
-  
 1 Tbsp. peanut oil  
 1 lb. boneless skinless chicken, cubed  
 1 onion, diced  

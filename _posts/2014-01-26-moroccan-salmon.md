@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: salmon seafood middleeast
 ---
-840 Cal (4x 210)  
-
 ½ cup plain yogurt  
 1 lemon  
 1 Tbsp. olive oil  

@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: main
 tags: bacon egg frittata cheese dairy
 ---
-1600 Cal (8x 200)
-
 6 oz. bacon (6 slices)  
 3 Tbsp. vegetable oil  
 1/2 lb. potatoes  

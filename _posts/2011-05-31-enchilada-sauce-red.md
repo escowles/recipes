@@ -7,8 +7,6 @@ category: other
 tags: mexican sauce
 status: confirmed
 ---
-580 Cal (4x 145)
-
 10 Roma tomatoes  
 1/4 onion  
 3 cloves garlic  

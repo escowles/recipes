@@ -7,7 +7,7 @@ category: main
 tags: seafood tupelohoneycafe shrimp southern cheese dairy
 status: confirmed
 ---
-## Shrimp (620 Cal, 4x 155):
+## Shrimp
 
 1 tbsp. olive oil  
 1 lb. shrimp (28 cal/oz.)  
@@ -17,7 +17,7 @@ status: confirmed
 * Heat oil and saute shrimp for 4 minutes.
 * Add garlic and bell pepper and saute until shrimp are pink
 
-## Grits (1,140 Cal, 4x 285):
+## Grits
 
 3 cups water  
 ¾ tsp. salt  

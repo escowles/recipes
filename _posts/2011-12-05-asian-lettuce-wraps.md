@@ -7,8 +7,6 @@ category: main
 tags: appetizer asian chicken meat
 status: confirmed
 ---
-1000 Cal (4x 250)
-  
 ## Filling:
 
 1 Tbsp. grape seed oil  

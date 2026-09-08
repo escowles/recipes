@@ -7,8 +7,6 @@ category: main
 tags: italian soup tomato vegetarian barefootcontessa
 status: confirmed
 ---
-664 Cal (4x 166)
-  
 2 Tbsp. olive oil  
 1 red onion, sliced  
 2 carrots, sliced  

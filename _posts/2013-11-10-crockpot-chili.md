@@ -52,8 +52,6 @@ status: confirmed
 * Cook on high for 90 minutes.
 * Stir and reduce heat to low.
 
-1,360 Cal (4x 340)
-
 2020-06-17 17:20:36: Updated the recipe to reflect what I'm typically doing these
 days:
 * Refried beans instead of pinto beans

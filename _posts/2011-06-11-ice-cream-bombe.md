@@ -7,8 +7,6 @@ category: dessert
 tags: icecream barefootcontessa
 status: confirmed
 ---
-2200 Cal (12x 180)
-
 3 pints orange sorbet  
 1 1/2 pints vanilla ice cream  
 

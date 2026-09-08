@@ -6,8 +6,6 @@ last_modified_at: 2025-08-05T13:14:08 -0400
 category: main
 tags: chicken meat southern apple tupelohoneycafe fruit
 ---
-1665 Cal (8x 208)
-  
 1 Tbsp. canola oil  
 1 cup celery, finely chopped (4 stalks)  
 1 cup red onion, finely chopped (1/2 large onion)  

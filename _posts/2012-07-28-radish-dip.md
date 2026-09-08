@@ -7,8 +7,6 @@ category: other
 tags: sauce dairy dip appetizer creamcheese
 status: confirmed
 ---
-800 Cal (8x 100)
-
 2 cloves garlic  
 3 radishes  
 8 oz. cream cheese  

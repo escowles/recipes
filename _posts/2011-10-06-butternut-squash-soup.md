@@ -7,8 +7,6 @@ category: main
 tags: soup squash vegetarian vegetable creamcheese dairy
 status: confirmed
 ---
-1200 Cal (5 x 240)
-
 2 Tbsp. butter  
 1/2 red onion, chopped  
 2 stalks celery, chopped  

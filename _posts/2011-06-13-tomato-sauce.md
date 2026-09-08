@@ -7,8 +7,6 @@ category: other
 tags: sauce tomato italian
 status: deprecated
 ---
-330 Cal (4x 83)
-
 2 lb. tomatoes  
 1 Tbsp. olive oil  
 1 onion, chopped  

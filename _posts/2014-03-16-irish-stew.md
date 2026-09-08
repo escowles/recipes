@@ -7,8 +7,6 @@ category: main
 tags: irish soup stew meat
 status: deprecated
 ---
-1,600 Cal (4x 400)  
-
 ## Marinade
 
 1½ lb. lamb shoulder  

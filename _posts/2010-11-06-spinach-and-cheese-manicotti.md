@@ -6,8 +6,6 @@ last_modified_at: 2026-02-17T16:26:48 -0500
 category: main
 tags: vegetarian pasta italian cheese vegetable dairy
 ---
-2400 Cal (6x 400)
-
 ## Sauce:
 12-14 Roma tomatoes  
 1 Tbsp. olive oil  

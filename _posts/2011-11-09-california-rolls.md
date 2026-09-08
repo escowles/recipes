@@ -7,8 +7,6 @@ category: main
 tags: seafood sushi japanese asian
 status: confirmed
 ---
-2000 Cal (4x 500)
-
 2 cups sushi rice, prepared  
 2 1/2 cups water  
 1/4 cup rice vinegar  

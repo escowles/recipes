@@ -7,8 +7,6 @@ category: main
 tags: british meat pork
 status: confirmed
 ---
-1240 Cal (8x 155)
-  
 1/4 cup bread crumbs  
 2 tsp. sage  
 1 tsp. salt  

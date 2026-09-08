@@ -7,8 +7,6 @@ category: sides
 tags:  potatoes cheese thanksgiving thanksgiving2020 dairy
 status: confirmed
 ---
-1200 Cal (4x 300)
-
 2 lbs. potatoes, cubed  
 1 Tbsp. butter  
 1/4 cup milk  

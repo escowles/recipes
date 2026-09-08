@@ -7,8 +7,6 @@ category: sides
 tags: bread corn southern
 status: confirmed
 ---
-Calories: 8x 262 or 12x 175  
-
 1 cup all-purpose flour  
 1 cup masa harina  
 2/3 cup white sugar  

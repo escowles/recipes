@@ -7,8 +7,6 @@ category: main
 tags: meat pork southern stew beans favorite crockpot longish
 status: confirmed
 ---
-1940 Cal (4x 485)
-  
 1 1/4 cups dry beans (or 2 cans of canned beans)  
 * for dry beans: boil in 6 cups of water for 5 minutes, cover and soak for 1 hour, then rinse and return to
   pot with 6 cups of fresh water and simmer for 2 hours

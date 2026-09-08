@@ -7,8 +7,6 @@ category: sides
 tags: bread beer favorite quickbread
 status: confirmed
 ---
-1950 Cal (8x 243)
-
 3 1/2 cups flour  
 3 Tbsp. sugar  
 1 Tbsp. baking powder  

@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: sides
 tags: bread breakfast
 ---
-800 Cal (12x 67)
-
 1/2 cup flour  
 1/2 cup quick cooking oats  
 1 Tbsp. sugar  

@@ -7,8 +7,6 @@ category: sides
 tags:  potatoes
 status: confirmed
 ---
-850 Cal (4x 213)
-
 1 1/2 lbs. potatoes, peeled and cubed  
 2 Tbsp. butter  
 2 Tbsp. milk  

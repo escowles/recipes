@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: dessert
 tags:  chocolate
 ---
-600 Cal (1x 600)
-
 1 1/2 tbsp. butter  
 1/4 cup sugar  
 3 tbsp. flour  

@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:17 -0400
 category: main
 tags: chicken curry indian meat asian
 ---
-1680 Cal (4x 420)
-  
 Madras Curry Paste:  
   
 1 Tbsp. coriander  

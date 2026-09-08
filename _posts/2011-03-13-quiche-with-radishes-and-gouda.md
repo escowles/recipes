@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: egg quiche french cheese vegetarian dairy
 ---
-2200 Cal (8x 275)
-
 1 tsp. butter  
 1/2 cup onion, finely chopped  
 1/4 cup radishes, finely chopped  

@@ -6,12 +6,10 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: main
 tags: beef chicken meat mexican pork cheese dairy
 ---
-1300 Cal (8x 287)
-  
 8 small tortillas (soft-taco-sized)  
-1 lb. ground beef, pulled chicken or pork (+25 Cal for pork)  
+1 lb. ground beef, pulled chicken or pork  
 4 oz. cheddar or jack cheese, shredded  
-2 cups salsa verde (+50 Cal for red enchilada sauce)  
+2 cups salsa verde  
 
 * Line bottom of 9x9 baking dish with 1/2 cup salsa verde.
 * Divide meat into equal portions. Line each tortilla with one portion of meat and top with cheese. Roll tightly and place in pan.

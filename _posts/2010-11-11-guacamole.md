@@ -7,8 +7,6 @@ category: sides
 tags: mexican sauce dip appetizer favorite
 status: confirmed
 ---
-1050 Cal (16x 66)
-  
 3 avocados  
 1 clove garlic, minced  
 1/2 tsp. salt  

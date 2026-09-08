@@ -7,8 +7,6 @@ category: other
 tags: mexican sauce favorite
 status: confirmed
 ---
-2 cups, 372 Cal (4x 93)
-  
 4-6 New Mexico chiles, seeded and chopped  
 1/2 tsp. cumin  
 * toast in a dry pot until fragrant, about 30 seconds

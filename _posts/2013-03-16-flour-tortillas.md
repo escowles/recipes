@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: other
 tags: bread mexican
 ---
-1750 Cal (10x 175)
-  
 2½ cups flour  
 1 tsp. salt  
 ½ tsp baking powder  

@@ -7,8 +7,6 @@ category: main
 tags: chicken french meat barefootcontessa cognac wine favorite
 status: confirmed
 ---
-2500 Cal (6x 417)
-  
 ## chicken:
 
 3 heads garlic (about 40 cloves)  

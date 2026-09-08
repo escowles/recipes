@@ -7,8 +7,6 @@ category: main
 tags: asian chicken chinese meat fruit
 status: deprecated
 ---
-1300 Cal (4x 325)  
-  
 1 lb. chicken breast, cubed  
 1 egg white  
 1 tsp. salt  

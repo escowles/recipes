@@ -6,8 +6,6 @@ last_modified_at: 2025-05-17T07:08:36 -0400
 category: sides
 tags: bread breakfast pumpkin quickbread
 ---
-2375 Cal (18x 132)
-
 1 1/2 cups pumpkin puree  
 1/2 cup vegetable oil  
 3 eggs  

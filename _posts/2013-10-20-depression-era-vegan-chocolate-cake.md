@@ -7,8 +7,6 @@ category: dessert
 tags: chocolate lydia cake vegan food52
 status: confirmed
 ---
-2,080 Cal (8x 260)  
-  
 1 1/2 cups flour  
 1/3 cup cocoa  
 1 tsp. baking soda  

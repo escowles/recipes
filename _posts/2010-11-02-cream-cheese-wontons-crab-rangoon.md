@@ -7,8 +7,6 @@ category: sides
 tags: appetizer dairy asian crab seafood creamcheese fried
 status: confirmed
 ---
-3100 Cal (24x 130)
-
 6 oz cream cheese  
 2 green onions, chopped  
 1/2 tsp. soy sauce  

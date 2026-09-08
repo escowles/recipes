@@ -7,8 +7,6 @@ category: main
 tags: meat mexican pork
 status: confirmed
 ---
-1,555 Cal (6x 259)
-
 6 soft-taco flour tortillas  
 2/3 cup refried beans  
 2/3 cup Mexican rice  

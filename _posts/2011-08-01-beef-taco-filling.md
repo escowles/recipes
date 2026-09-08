@@ -7,8 +7,6 @@ category: main
 tags: beef meat mexican favorite ingredients
 status: confirmed
 ---
-800 Cal (4x 200)
-  
 1 lb. ground beef  
 1/4 white onion  
 1/2 jalapeno pepper (or 1 tsp. chile powder)  

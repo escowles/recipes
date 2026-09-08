@@ -7,8 +7,6 @@ category: dessert
 tags: chocolate candy hazelnuts
 status: confirmed
 ---
-Cal 1,520 (190 x 8)
-  
 Filling:
   
 4 oz. [hazelnut praline]({{ site.baseurl }}{% post_url 2015-02-06-hazelnut-praline %})

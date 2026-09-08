@@ -7,8 +7,6 @@ category: dessert
 tags: pie cherry fruit
 status: deprecated
 ---
-2160 Cal (8x 270), w/crust: 3500 Cal (8x 437)
-
 4 cups canned sour cherries, drained reserving juice  
 3 cups fresh bing cherries, pitted and halved  
 1 cup red wine (Yellowtail Cabernet Sauvignon)  

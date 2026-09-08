@@ -7,8 +7,6 @@ category: other
 tags: meat pork sauce southern sausage
 status: confirmed
 ---
-1900 Cal (6x 315)
-  
 1 lb. sausage  
 1/4 cup flour  
 2 cups milk  

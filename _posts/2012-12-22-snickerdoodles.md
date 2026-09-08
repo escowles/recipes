@@ -7,8 +7,6 @@ category: dessert
 tags: cookies cinnamon favorite
 status: confirmed
 ---
-4478 Cal (48x 90)
-
 1 1/2 cups sugar  
 1 cup butter, softened  
 2 eggs  

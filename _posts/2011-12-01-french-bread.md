@@ -7,8 +7,6 @@ category: sides
 tags: bread french longish yeast
 status: confirmed
 ---
-1850 Cal (12x 154)
-
 4 cups flour  
 2 cups lukewarm water  
 1 pkg yeast  
@@ -20,7 +18,7 @@ pinch sugar
 * Turn out onto baking parchment or floured baking sheet, punch down, and let rise for 30 minutes.  Roll out and fold several times and place on floured baking sheet.  Let rise 1-2 hours.  Before it has doubled, brush with butter (or egg whites for extra crispy bread) and make diagonal slits with a knife.
 * Place some water in a dish in the bottom of the oven to make it humid, and bake for 15 minutes at 465F, then 390F for an additional 15 minutes.  Remove to rack to cool.
 
-## Bread Machine, Then Bake (1600 Cal)
+## Bread Machine, Then Bake
 
 1 1/4 cups water  
 3 1/2 cups flour  

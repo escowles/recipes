@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: dessert
 tags: bread cinnamon berries tupelohoneycafe fruit southern creamcheese dairy
 ---
-2100 Cal (8x 263)
-
 3 eggs  
 3/4 cup heavy cream  
 1/4 cup milk  

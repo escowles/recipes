@@ -7,8 +7,6 @@ category: sides
 tags: bread thanksgiving pumpkin quickbread
 status: deprecated
 ---
-2,520 Cal (12x 210)
-
 1 cup pumpkin puree  
 ½ cup olive oil  
 2 eggs  

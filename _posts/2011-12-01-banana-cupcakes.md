@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: dessert
 tags: cupcakes cake banana fruit
 ---
-3273 Cal (18x 182)
-
 1/2 cup shortening  
 1 1/2 cups sugar  
 2 eggs  

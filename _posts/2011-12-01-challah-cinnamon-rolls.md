@@ -7,8 +7,6 @@ category: dessert
 tags: bread breakfast cinnamon
 status: deprecated
 ---
-2200 Cal (12x 183)
-
 ## Cinnamon Rolls:
 2 Tbsp. butter  
 2 Tbsp. sugar  

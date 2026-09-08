@@ -9,8 +9,6 @@ status: confirmed
 time: 80 minutes
 photo: /recipes/images/2011-11-25-shepherds-pie.jpg
 ---
-1860 Cal (4x 465)
-  
 ## Filling:
 
 1 Tbsp. butter  

@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: sides
 tags:  middleeast couscous
 ---
-1975 Cal (6x 330)
-
 4 Tbsp. butter  
 3/4 cup chopped shallots  
 3 cups chicken stock  

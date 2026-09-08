@@ -7,8 +7,6 @@ category: main
 tags: chicken meat traditional
 status: confirmed
 ---
-1,520 Cal (4x 380)
-  
 1 Tbsp. salt  
 2 tsp. thyme  
 1 tsp. pepper  

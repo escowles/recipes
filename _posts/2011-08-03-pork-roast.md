@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: meat pork traditional crockpot longish
 ---
-2575 Cal (6x 430)
-  
 4 potatoes, quartered  
 4 carrots, peeled and thickly sliced  
 1 onion, quartered  

@@ -7,8 +7,6 @@ category: dessert
 tags:  cookies chocolate
 status: confirmed
 ---
-2758 Cal (24x 115)
-
 1 cup sugar  
 6 Tbsp. butter, melted  
 2 eggs  

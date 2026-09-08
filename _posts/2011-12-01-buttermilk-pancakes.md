@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:15 -0400
 category: sides
 tags: bread breakfast
 ---
-787 Cal (12x 65)
-
 1 egg  
 1 cup buttermilk  
 2 Tbsp. milk  

@@ -7,8 +7,6 @@ category: dessert
 tags: fruit berries british favorite
 status: confirmed
 ---
-4200 Cal (12 x 350)
-
 ## Custard:
 20 oz. heavy cream  
 6 egg yolks  

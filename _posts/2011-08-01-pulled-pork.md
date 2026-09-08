@@ -7,8 +7,6 @@ category: main
 tags: meat mexican pork
 status: deprecated
 ---
-2100 Cal (8x 263)
-  
 6-8 cups water  
 1 onion, peeled and quartered  
 6 cloves garlic, peeled and sliced  

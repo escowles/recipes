@@ -6,8 +6,6 @@ last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
 tags: egg quiche french cheese vegetable vegetarian dairy
 ---
-2400 Cal (8x 300)
-
 4 oz. spinach, chopped  
 1 Tbsp. butter  
 3/4 cup milk  
