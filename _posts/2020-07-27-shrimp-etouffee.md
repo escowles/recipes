@@ -1,34 +1,38 @@
 ---
 layout: post
-title: Shrimp Etouffe
+title: shrimp étouffée
 date: 2020-07-27 22:24:56 -0500
 last_modified_at: 2022-06-19 10:11:19 -0400
 category: main
 tags: cajun seafood shrimp
 ---
-2 lbs. shrimp, peeled  
-1/4 cup vegetable oil  
-Heaping 1/4 cup flour  
+1/4 cup neutral oil  
+1/4 cup flour  
+* make a roux with the oil and flour, and cook until very brown, about 10 minutes
+
 1/2 large onion, chopped  
 1 bell or poblano pepper, chopped  
 1 jalapeno pepper, chopped  
 1 celery stalk, chopped  
 4 cloves garlic, chopped  
+* add vegetables, stir well, and cook 4 minutes
+
 1 pint chicken or seafood stock  
-1 Tbsp Cajun seasoning  
-1/2 teaspoon celery seed  
-1 Tbsp sweet paprika  
+* add stock slowly, stirring to incorporate, until sauce is the consistency of syrup
+
+1 tbsp. Cajun seasoning (or 1/2 tsp. oregano, thyme, and garlic powder, and 1/4 tsp.
+  onion powder, cayenne, and black pepper)  
+1 tbsp. sweet paprika  
 1 tsp. salt  
+1/2 tsp. celery seed  
+2 lbs. shrimp, peeled  
+* add spices and shrimp, and cook at lowest heat for 10 minutes
+
 3 green onions, chopped  
-Hot sauce (Crystal or Tabasco) to taste  
+hot sauce (Crystal or Tabasco), to taste  
+* add green onions and hot sauce, then serve over rice
 
-  * Make roux with the oil and flour, and cook until very brown, about 10 minutes
-  * Add vegetables, stir well, and cook 4 minutes
-  * Add stock slowly, stirring to incorporate, until sauce is the consistency of syrup
-  * Add spices and shrimp, and cook at lowest heat for 10 minutes
-  * Add green onions and hot sauce, then serve over rice
-
-Source: <https://www.simplyrecipes.com/recipes/shrimp_etouffee/>
+source: <https://www.simplyrecipes.com/recipes/shrimp_etouffee/>
 
 ---
 
