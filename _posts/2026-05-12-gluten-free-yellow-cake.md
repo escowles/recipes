@@ -1,8 +1,8 @@
 ---
 layout: post
-title: gluten free yellow cake
+title: gluten-free yellow cake
 date: 2026-05-12 13:16:27 -0400
-last_modified_at: 
+last_modified_at: 2026-09-20T15:38:07 -0400
 category: dessert
 tags: cake kingarthur gf
 status: confirmed
