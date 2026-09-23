@@ -1,0 +1,4 @@
+---
+title: sides
+layout: cookbook
+---

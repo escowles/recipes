@@ -1,0 +1,27 @@
+<html>
+<head>
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <h1>{{ page.title }}</h1>
+
+  {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
+  {%- assign posts = site.posts | where: "category", page.title | sort: "title" -%}
+  {% for post in posts %}
+    <h2>{{ post.title }}</h2>
+    <p>
+      created: {{ post.date | date: date_format }}
+      | modified: {{ post.last_modified_at | date: date_format }}
+      {% if post.time %} | {{ post.time }}{% endif %}
+    {%- if post.tags -%}
+      {% assign sorted_tags = post.tags | sort %}
+      <br/>
+      {% for tag in sorted_tags %}
+        {{ tag }}
+      {% endfor %}
+    {%- endif -%}
+    </p>
+    <p>{{ post.content }}</p>
+  {% endfor %}
+</body>
+</html>

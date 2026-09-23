@@ -1,0 +1,4 @@
+---
+title: other
+layout: cookbook
+---
