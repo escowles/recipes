@@ -2,12 +2,12 @@
 layout: post
 title: Sweet Masa Cornbread
 date: 2020-04-19 16:27:52 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2026-10-03T19:38:09 -0400
 category: sides
 tags: bread corn southern
 status: confirmed
 ---
-1 cup all-purpose flour  
+1 cup all-purpose flour (or GF flour)  
 1 cup masa harina  
 2/3 cup white sugar  
 1 tsp. salt  
@@ -23,4 +23,9 @@ status: confirmed
   * Bake 20-25 minutes at 400°F, until a toothpick comes out clean.
   * To make muffins, divide into muffin wells and reduce baking time to 18-20.
 
-Source: <https://www.allrecipes.com/recipe/17891/golden-sweet-cornbread> and <https://thepioneerwoman.com/food-and-friends/masa-harina-cornbread/>
+Source: <https://www.allrecipes.com/recipe/17891/golden-sweet-cornbread> and
+        <https://thepioneerwoman.com/food-and-friends/masa-harina-cornbread/>
+
+---
+
+10/03/26: made with Bob's Red Mill 1-for-1 GF flour and they were great
