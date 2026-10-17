@@ -2,9 +2,9 @@
 layout: post
 title: peruvian roast chicken
 date: 2024-01-22 11:16:17 -0500
-last_modified_at: 2025-08-05T13:12:10 -0400
+last_modified_at: 2026-10-17T09:44:24 -0400
 category: main
-tags: meat chicken peruvian longish
+tags: meat chicken peruvian longish cookieandkate
 status: confirmed
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: vegetarian chili
 date: 2023-02-24 09:46:15 -0500
-last_modified_at: 
+last_modified_at: 2026-10-17T09:44:24 -0400
 category: main
-tags: beans vegetarian mexican
+tags: beans vegetarian mexican cookieandkate
 ---
 
 2 tbsp. olive oil  
