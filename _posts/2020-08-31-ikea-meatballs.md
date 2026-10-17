@@ -2,7 +2,7 @@
 layout: post
 title: Ikea Meatballs
 date: 2020-08-31 10:46:40 -0500
-last_modified_at: 2022-06-19 10:11:19 -0400
+last_modified_at: 2026-10-17T09:57:42 -0400
 category: main
 tags: beef meat pork swedish
 ---
@@ -11,9 +11,10 @@ tags: beef meat pork swedish
 1 onion, finely chopped  
 1 clove garlic, minced  
 4 oz. bread crumbs  
+1 tsp. salt  
+1/2 tsp. pepper  
 1 egg  
 5 Tbsp. milk  
-salt and pepper  
 
   * Mix beef and pork by hand, working out any lumps.
   * Mix in onion, garlic, bread crumbs, and egg, and work in until smooth.
