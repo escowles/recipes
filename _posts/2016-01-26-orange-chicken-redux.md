@@ -1,37 +1,38 @@
 ---
 layout: post
-title: Orange Chicken Redux
+title: orange chicken redux
 date: 2016-01-26 16:52:50 -0500
-last_modified_at: 2024-12-27T09:24:21 -0500
+last_modified_at: 2026-11-10T16:17:25 -0500
 category: main
 tags: chicken chinese orange fruit meat asian favorite
 status: confirmed
 ---
-Sauce
+
+## sauce
   
-2 Tbsp. cornstarch  
-2 Tbsp. water  
+2 tbsp. cornstarch  
+2 tbsp. water  
+* mix in a small bowl and set aside
+
 1/2 cup chicken broth  
 1/4 cup orange juice  
-orange zest  
-2 Tbsp. sugar  
-2 Tbsp. rice wine vinegar or sherry  
-2 Tbsp. soy sauce  
+zest from one orange  
+2 tbsp. sugar  
+2 tbsp. rice wine vinegar or sherry  
+2 tbsp. soy sauce  
 1 clove garlic, minced  
 1/4 tsp. ginger  
 1/4 tsp. red pepper flakes  
+* add ingredients to sauce pan and bring to a boil
+* add cornstarch mixture and simmer until thickened
 
-* Dissolve cornstarch in water and set aside.
-* Add remaining ingredients to sauce pan and bring to a boil.
-* Add cornstarch mixture and simmer until thickened.
 
-Chicken
+## chicken
   
 1 lb. chicken, cubed  
 2 eggs, beaten  
 1 cup cornstarch  
 1 cup vegetable oil  
-
-* Dip chicken cubes in eggs, and then in cornstarch
-* Fry coated chicken in oil and drain on paper-towel-lined plate.
-* Top with sauce and diced scallions and serve over steamed rice.
+* dip chicken cubes in eggs, and then in cornstarch
+* fry chicken in oil and drain on paper-towel-lined plate
+* top with sauce and diced scallions and serve over steamed rice
