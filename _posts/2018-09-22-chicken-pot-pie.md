@@ -32,7 +32,7 @@ status: confirmed
 * slowly add stock and milk, mixing continuously to form a gravy
 * add peas immediately before filling pie crust(s)
 
-2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})
+2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 1 egg  
 1 tbsp. water  
 * line one 9" pie dish or four 6" pie dishes with the first crust
