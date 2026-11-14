@@ -2,7 +2,7 @@
 layout: post
 title: Chicken Pot Pie
 date: 2018-09-22 14:06:54 -0500
-last_modified_at: 2024-12-27T09:19:21 -0500
+last_modified_at: 2026-11-14T07:43:47 -0500
 category: main
 tags: chicken british pie meat
 status: confirmed
@@ -13,7 +13,7 @@ status: confirmed
 * add chicken, return to a boil, then reduce heat and simmer for 5 minutes
 * remove chicken to a plate to cool for 15 minutes, reserving broth for gravy
 
-2 Tbsp. butter  
+2 tbsp. butter  
 1/2 onion, diced  
 12 baby carrots, sliced  
 1 tsp. salt  
@@ -23,13 +23,14 @@ status: confirmed
 1/4 tsp. sage  
 1/4 tsp. parsley  
 1/4 tsp. coriander  
-2 Tbsp. flour  
+2 tbsp. flour  
 1 cup reserved chicken broth  
 1/2 cup milk  
 1/4 cup frozen peas  
 * melt butter and saute vegetables and herbs until softened, about 10 minutes  
 * add flour and stir to form a thick roux
-* slowly add stock and milk, mixing continuously to form a gravy
+* add shredded chicken then slowly add stock and milk, mixing continuously to form a
+  gravy
 * add peas immediately before filling pie crust(s)
 
 2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
