@@ -4,7 +4,7 @@ title: Spinach Cheddar Quiche
 date: 2010-11-02 12:00:00 -0500
 last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
-tags: egg quiche french cheese vegetable vegetarian dairy
+tags: egg quiche french cheese vegetable vegetarian dairy pie
 ---
 4 oz. spinach, chopped  
 1 Tbsp. butter  

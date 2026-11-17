@@ -4,7 +4,7 @@ title: Quiche with Radishes and Gouda
 date: 2011-03-13 12:00:00 -0500
 last_modified_at: 2022-06-19 10:11:16 -0400
 category: main
-tags: egg quiche french cheese vegetarian dairy
+tags: egg quiche french cheese vegetarian dairy pie
 ---
 1 tsp. butter  
 1/2 cup onion, finely chopped  
