@@ -10,12 +10,14 @@ status: draft
 
 1 stick butter  
 1/2 onion, chopped  
+* melt butter in pan and sauté onions until translucent, about 5 minutes
+
 1/2 cup flour  
+* add flour and cook until browned, about 5 minutes
+
 salt and pepper, to taste  
 4-5 cups chicken stock  
-* melt butter in pan and sauté onions until translucent, about 5 minutes
 * season with salt and pepper
-* add flour and cook until browned, about 5 minutes
 * slowly add stock while stirring to make a gravy, adding additional liquid to
   adjust consistency
 * cool, cover, and chill

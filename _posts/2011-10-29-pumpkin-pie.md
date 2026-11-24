@@ -7,7 +7,7 @@ category: dessert
 tags: pumpkin pie thanksgiving thanksgiving2020 traditional favorite
 status: confirmed
 ---
-## pumpkin puree:
+## pumpkin purée
   
 1 small pie pumpkin  
 * Wearing a glove on your non-knife hand, cut pumpkin in half and remove seeds.
@@ -15,9 +15,9 @@ status: confirmed
 * Let cool, and pour off any liquid.
 * Puree until smooth. Should make 3 cups.
 
-## pumpkin pie:
+## pumpkin filling
 
-2 cups pumpkin puree (from above, or 15 oz. can)  
+2 cups pumpkin purée (from above, or 15 oz. can)  
 1 cup evaporated milk or cream  
 2/3 cup sugar  
 3 eggs  
@@ -27,11 +27,17 @@ status: confirmed
 1/4 tsp. nutmeg  
 1/4 tsp. ginger  
 1/4 tsp. salt  
-1 [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
+* Combine all ingredients and mix well.
+
+## egg wash
+
 1 egg  
 2 Tbsp. water  
-* Combine all ingredients and mix well.
 * Beat egg with water to make an egg wash.
+
+## assembly
+
+1 [pie crust]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 * Line a pie dish with the pie crust, brush with egg wash, and fill with pumpkin
   filling
 * Bake at 425°F for 15 minutes, then reduce heat to 350°F for 45 to 60 minutes, until

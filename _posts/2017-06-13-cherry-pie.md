@@ -8,38 +8,43 @@ tags: cherry fruit pie favorite
 status: confirmed
 photo: /recipes/images/2017-06-13-cherry-pie.jpg
 ---
-## filling:
+## filling
 
 2 lbs. fresh Montmorency cherries (4 cups)  
 juice from 1/4 lime  
-1 cup sugar  
-1/4 cup corn starch  
-1/8 tsp. cinnamon  
-1/4 tsp. almond extract  
 * Rinse cherries to remove any stems or other detritus
 * Pit cherries by hand (push pit through skin with thumb) over a large mixing bowl,
   collecting juice and discarding pits
 * Heat cherries, cherry juice, and lime juice in a saucepan until simmering
+
+1 cup sugar  
+1/4 cup corn starch  
+1/8 tsp. cinnamon  
 * In a small bowl, mix sugar, corn starch, and cinnamon, breaking up lumps
 * Add sugar mixture to cherries and mix well
 * Continue cooking cherries while stirring until the sauce thickens and stops being
   cloudy
+
+1/4 tsp. almond extract  
 * Remove from heat, mix in almond extract, and let cool
 
-## pie:
+## egg wash
 
 1 egg  
 2 tbsp. water  
-2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 * Beat egg with water to make an egg wash
+
+## assembly
+
+2 [pie crusts]({{ site.baseurl }}{% post_url 2010-11-04-pie-crust %})  
 * Line a pie dish with the first crust and brush with egg wash
 * Fill with cherry filling and top with second crust (lattice or cutouts optional)
 * Cut crust to fit pie dish, crimp edges to seal, and brush top crust with egg wash
 * If using a whole top crust, cut slits to vent steam
 * Chill pie for 30 minutes to help crust retain its shape
-* Bake at 375°F for 20 minutes, then top with with a crust protector to prevent
-  edge from over-browning
-* Bake an additional 30 minutes, until filling is bubbling
+* Bake at 375°F until filling is bubbling, about 50 minutes.
+* Top with with a crust protector to prevent edge from over-browning (don't use a
+  crust protector at the beginning of the bake or it will stick to the egg wash)
 * Allow to cool completely before slicing
 
 Source: <http://www.foodnetwork.com/recipes/cherry-pie-recipe-1913275>
