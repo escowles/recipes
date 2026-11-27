@@ -2,7 +2,7 @@
 layout: post
 title: Pumpkin Pie (Pumpkin Puree)
 date: 2011-10-29 12:00:00 -0500
-last_modified_at: 2025-08-05T13:12:09 -0400
+last_modified_at: 2026-11-27T06:43:44 -0500
 category: dessert
 tags: pumpkin pie thanksgiving thanksgiving2020 traditional favorite
 status: confirmed
@@ -27,7 +27,8 @@ status: confirmed
 1/4 tsp. nutmeg  
 1/4 tsp. ginger  
 1/4 tsp. salt  
-* Combine all ingredients and mix well.
+* Combine all ingredients and mix well (don't use blender or it will leave a weird froth).
+* Makes enough filling for a 9" deep-dish pie.
 
 ## egg wash
 

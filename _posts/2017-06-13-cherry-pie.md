@@ -2,7 +2,7 @@
 layout: post
 title: Cherry Pie
 date: 2017-06-13 12:04:47 -0500
-last_modified_at: 2025-08-05T13:12:09 -0400
+last_modified_at: 2026-11-27T06:43:44 -0500
 category: dessert
 tags: cherry fruit pie favorite
 status: confirmed
@@ -13,6 +13,8 @@ photo: /recipes/images/2017-06-13-cherry-pie.jpg
 2 lbs. fresh Montmorency cherries (4 cups)  
 juice from 1/4 lime  
 * Rinse cherries to remove any stems or other detritus
+* Use immediately or freeze in ziplock bags for making pies in the fall. Frozen cherries should be
+  thawed overnight in the refrigerator and measured by weight.
 * Pit cherries by hand (push pit through skin with thumb) over a large mixing bowl,
   collecting juice and discarding pits
 * Heat cherries, cherry juice, and lime juice in a saucepan until simmering
